@@ -1,6 +1,6 @@
 # open-journalism
 
-## Accounts
+## Those news org on github.
 
 A list of github accounts of various news organizations.
 
@@ -24,7 +24,7 @@ A list of github accounts of various news organizations.
 * [Vox Media](https://github.com/voxmedia)
 * [Github's journalism showcases] (https://github.com/showcases/open-journalism)
 
-##Tools
+## Tools to save time.
 
 * [Google table convert](https://github.com/jsvine/google-table-converter): covert google spreadsheets into responsive HTML.
 * [ai2html](https://github.com/cedricsam/ai2html): converts ai into an HTML page.
