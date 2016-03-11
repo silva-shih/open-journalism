@@ -28,6 +28,6 @@ A list of github accounts of various news organizations.
 
 * [Google table convert](https://github.com/jsvine/google-table-converter):
 covert google spreadsheets into responsive HTML.
-* [Reveal js](https://github.com/hakimel/reveal.js):creating slides using HTML.
+* [Reveal js](https://github.com/hakimel/reveal.js):create slides using HTML.
 
 
