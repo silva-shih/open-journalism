@@ -1,6 +1,6 @@
 # open-journalism
 
-## Those news org on github.
+## 
 
 A list of github accounts of various news organizations.
 
