@@ -30,5 +30,6 @@ A list of github accounts of various news organizations.
 * [ai2html](https://github.com/cedricsam/ai2html): converts ai into an HTML page.
 * [Reveal js](https://github.com/hakimel/reveal.js): create slides using HTML.
 * [srvlr](https://github.com/kavanagh/srvlr): tiny HTTP server.
+* [SVG crowbar](https://github.com/NYTimes/svg-crowbar): getting you graphic off the page and into illustrator. 
 
 
