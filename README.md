@@ -23,9 +23,10 @@ A list of github accounts of various news organizations.
 * [Wall Street Journal](https://github.com/WSJ)
 * [Vox Media](https://github.com/voxmedia)
 * [Github's journalism showcases] (https://github.com/showcases/open-journalism)
-* 
+
+
 ## 
-*[WaPo developer blog] (https://developer-blog-wp.ext.nile.works/)
+* [WaPo developer blog] (https://developer-blog-wp.ext.nile.works/)
 
 ## Tools to save time.
 
