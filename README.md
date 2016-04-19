@@ -25,7 +25,7 @@ A list of github accounts of various news organizations.
 * [Github's journalism showcases] (https://github.com/showcases/open-journalism)
 
 
-## 
+## Inside the head
 * [WaPo developer blog] (https://developer-blog-wp.ext.nile.works/)
 
 ## Tools to save time.
