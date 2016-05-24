@@ -25,6 +25,7 @@ A list of github accounts of various news organizations.
 * [Github's journalism showcases] (https://github.com/showcases/open-journalism)
 
 
+
 ## Inside the head
 * [WaPo developer blog] (https://developer-blog-wp.ext.nile.works/)
 
@@ -36,5 +37,5 @@ A list of github accounts of various news organizations.
 * [srvlr](https://github.com/kavanagh/srvlr): tiny HTTP server.
 * [SVG crowbar](https://github.com/NYTimes/svg-crowbar): getting you graphic off the page and into illustrator. 
 * [PDF table extractor](http://ronnywang.github.io/pdf-table-extractor/):PDF table extractor
-* [Jieba Chinese text segmentatio] (https://github.com/fxsjy/jieba): break chinese text.
+* [Jieba Chinese text segmentatio] (https://github.com/fxsjy/jieba): break chinese text. [node.js] (https://github.com/yanyiwu/nodejieba)
 
