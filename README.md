@@ -3,6 +3,8 @@
 ## A list of github accounts of various news organizations.
 
 * [AJAM](https://github.com/ajam)
+* [Al Jazeera Interactive](https://github.com/ajinteractive)
+* [BBC Visual Journalism](https://github.com/bbcvisualjournalism)
 * [Boston Globe](https://github.com/bostonglobe)
 * [BuzzFeed](https://github.com/BuzzFeed)
 * [BuzzFeedNews](https://github.com/BuzzFeedNews)
@@ -25,7 +27,10 @@
 * [Quartz] (https://github.com/quartz)
 * [Star Tribune](https://github.com/striblab)
 * [Reporter 報導者](https://github.com/twreporter)
+* [Reveal/CIR](https://github.com/cirlabs)
 * [St. Louis Post-Dispatch](https://github.com/PostDispatchInteractive)
+* [Seattle Times](https://github.com/seattletimes)
+* [Tampa Bay Times](https://github.com/tbtimes)
 * [Texas Tribune](https://github.com/texastribune)
 * [Time Magazine](https://github.com/TimeMagazine)
 * [Tribune News Applications Team](https://github.com/newsapps)
@@ -34,6 +39,7 @@
 * [Vox Media](https://github.com/voxmedia)
 * [WRAL Data Desk](https://github.com/wraldata)
 * [WNYC DataNews](https://github.com/datanews)
+* [YLE (Finnish National Broadcaster)](https://github.com/Yleisradio)
 * [Github's journalism showcases] (https://github.com/showcases/open-journalism)
 
 ## Independent groups and collaborations between newsrooms.
