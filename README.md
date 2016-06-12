@@ -19,12 +19,13 @@
 * [Five Thirty Eight](https://github.com/fivethirtyeight)
 * [Huffington Post Data](https://github.com/huffpostdata)
 * [Initium Lab 端傳媒](https://github.com/initiumlab)
-* [LA Times Data Desk](https://github.com/datadesk)
+* [La Nación (Buenos Aires)](https://github.com/lanacioncom)
+* [Los Angeles Times Data Desk](https://github.com/datadesk)
 * [National Geographic](https://github.com/natgeo)
-* [New York Times] (https://github.com/NYTimes)
-* [New York Times newsroom developers] (https://github.com/newsdev)
-* [ProPublica] (https://github.com/propublica)
-* [Quartz] (https://github.com/quartz)
+* [New York Times](https://github.com/NYTimes)
+* [New York Times newsroom developers](https://github.com/newsdev)
+* [ProPublica](https://github.com/propublica)
+* [Quartz](https://github.com/quartz)
 * [Star Tribune](https://github.com/striblab)
 * [Reporter 報導者](https://github.com/twreporter)
 * [Reveal/CIR](https://github.com/cirlabs)
@@ -40,11 +41,11 @@
 * [WRAL Data Desk](https://github.com/wraldata)
 * [WNYC DataNews](https://github.com/datanews)
 * [YLE (Finnish National Broadcaster)](https://github.com/Yleisradio)
-* [Github's journalism showcases] (https://github.com/showcases/open-journalism)
 
-## Independent groups and collaborations between newsrooms.
+## Independent groups, showcases and collaborations between newsrooms.
 
 * [DocumentCloud](https://github.com/documentcloud)
+* [Github's journalism showcases](https://github.com/showcases/open-journalism)
 * [Institute for Nonprofit News](https://github.com/inn)
 * [OpenElections](https://github.com/openelections)
 * [SunlightLabs](https://github.com/sunlightlabs)
