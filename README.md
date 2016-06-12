@@ -10,7 +10,7 @@ A list of github accounts of various news organizations.
 * [Digital First Media's Thunderdome](https://github.com/thunderdome-data)
 * [Financial Times](https://github.com/financial-times)
 * [FT interactive](https://github.com/ft-interactive/)
-* [FTChinese.com](https://github.com/ftchinese)
+* [FTChinese.com developer](https://github.com/ftchinese)
 * [FTChinese editorial](https://github.com/ftc-editorial)
 * [Five Thirty Eight](https://github.com/fivethirtyeight)
 * [Huffington Post Data](https://github.com/huffpostdata)
