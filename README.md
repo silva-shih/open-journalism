@@ -97,7 +97,7 @@
 
 ## Inside the head
 * [ProPublica Nerd Blog](https://www.propublica.org/nerds/)
-* [WaPo Developer Blog] (https://developer-blog-wp.ext.nile.works/)
+* [WaPo Developer Blog](https://developer-blog-wp.ext.nile.works/)
 
 ## Tools to save time.
 
@@ -107,5 +107,5 @@
 * [srvlr](https://github.com/kavanagh/srvlr): tiny HTTP server.
 * [SVG crowbar](https://github.com/NYTimes/svg-crowbar): getting you graphic off the page and into illustrator. 
 * [PDF table extractor](http://ronnywang.github.io/pdf-table-extractor/):PDF table extractor
-* [Jieba Chinese text segmentatio] (https://github.com/fxsjy/jieba): break chinese text. [node.js] (https://github.com/yanyiwu/nodejieba)
+* [Jieba Chinese text segmentatio](https://github.com/fxsjy/jieba): break chinese text. [node.js] (https://github.com/yanyiwu/nodejieba)
 
