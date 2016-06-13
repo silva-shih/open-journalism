@@ -44,6 +44,7 @@
 * [MinnPost](https://github.com/minnpost)
 * [Mother Jones](https://github.com/motherjones)
 * [National Geographic](https://github.com/natgeo)
+* [New York Magazine](https://github.com/nymag)
 * [New York Times](https://github.com/NYTimes)
 * [New York Times newsroom developers](https://github.com/newsdev)
 * [NYT The Upshot](https://github.com/theupshot)
