@@ -40,6 +40,7 @@
 * [Los Angeles Times Data Desk](https://github.com/datadesk)
 * [Marshall Project](https://github.com/themarshallproject)
 * [McClatchy Company](https://github.com/mcclatchy)
+* [Mic News](https://github.com/micnews)
 * [MinnPost](https://github.com/minnpost)
 * [Mother Jones](https://github.com/motherjones)
 * [National Geographic](https://github.com/natgeo)
