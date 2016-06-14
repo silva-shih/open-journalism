@@ -97,7 +97,7 @@
 
 ## Inside the head
 * [ProPublica Nerd Blog](https://www.propublica.org/nerds/)
-* [WaPo Developer Blog](https://developer.washingtonpost.com/pb/blog//)
+* [WaPo Developer Blog](https://developer.washingtonpost.com/pb/blog/)
 
 ## Tools to save time.
 
