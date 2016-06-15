@@ -29,12 +29,12 @@
 * [FT Interactive](https://github.com/ft-interactive/)
 * [FT Labs](https://github.com/ftlabs)
 * [First Look Media](https://github.com/firstlookmedia)
+* [Five Thirty Eight](https://github.com/fivethirtyeight)
 * [Gawker Media](https://github.com/gawkermedia)
 * [Guardian](https://github.com/guardian)
-* [Five Thirty Eight](https://github.com/fivethirtyeight)
 * [Huffington Post Data](https://github.com/huffpostdata)
-* [Inside Energy](https://github.com/InsideEnergy)
 * [Initium Lab 端傳媒](https://github.com/initiumlab)
+* [Inside Energy](https://github.com/InsideEnergy)
 * [La Nación (Buenos Aires)](https://github.com/lanacioncom)
 * [La Nación (Costa Rica)](https://github.com/nacion)
 * [Los Angeles Times Data Desk](https://github.com/datadesk)
@@ -49,28 +49,28 @@
 * [New York Times newsroom developers](https://github.com/newsdev)
 * [NYT The Upshot](https://github.com/theupshot)
 * [Onion](https://github.com/theonion)
-* [The Palm Beach Post](https://github.com/PalmBeachPost)
+* [Palm Beach Post](https://github.com/PalmBeachPost)
 * [ProPublica](https://github.com/propublica)
 * [PRX](https://github.com/PRX)
 * [Quartz](https://github.com/quartz)
-* [Southern California Public Radio](https://github.com/SCPR)
-* [Star Tribune](https://github.com/striblab)
 * [Register-Guard (Eugene, Ore.)](https://github.com/registerguard)
 * [Reporter 報導者](https://github.com/twreporter)
 * [Reveal/CIR](https://github.com/cirlabs)
 * [St. Louis Post-Dispatch](https://github.com/PostDispatchInteractive)
 * [St. Louis Public Radio](https://github.com/stlpublicradio)
+* [Southern California Public Radio](https://github.com/SCPR)
+* [Star Tribune](https://github.com/striblab)
 * [Seattle Times](https://github.com/seattletimes)
 * [Tampa Bay Times](https://github.com/tbtimes)
 * [Texas Tribune](https://github.com/texastribune)
 * [Time Magazine](https://github.com/TimeMagazine)
-* [Wall Street Journal](https://github.com/WSJ)
-* [Washington Post](https://github.com/washingtonpost)
 * [Vermont Public Radio](https://github.com/vprnet)
 * [Vox Media](https://github.com/voxmedia)
+* [Wall Street Journal](https://github.com/WSJ)
+* [Washington Post](https://github.com/washingtonpost)
 * [WBUR Learning Lab](https://github.com/LearningLab)
-* [WRAL Data Desk](https://github.com/wraldata)
 * [WNYC DataNews](https://github.com/datanews)
+* [WRAL Data Desk](https://github.com/wraldata)
 * [YLE (Finnish National Broadcaster)](https://github.com/Yleisradio)
 * [Zeit Online](https://github.com/ZeitOnline)
 
@@ -106,7 +106,6 @@
 * [ai2html](https://github.com/cedricsam/ai2html): converts ai into an HTML page.
 * [Reveal js](https://github.com/hakimel/reveal.js): create slides using HTML.
 * [srvlr](https://github.com/kavanagh/srvlr): tiny HTTP server.
-* [SVG crowbar](https://github.com/NYTimes/svg-crowbar): getting you graphic off the page and into illustrator. 
+* [SVG crowbar](https://github.com/NYTimes/svg-crowbar): getting you graphic off the page and into illustrator.
 * [PDF table extractor](http://ronnywang.github.io/pdf-table-extractor/):PDF table extractor
 * [Jieba Chinese text segmentatio](https://github.com/fxsjy/jieba): break chinese text. [node.js] (https://github.com/yanyiwu/nodejieba)
-
