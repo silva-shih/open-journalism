@@ -97,6 +97,7 @@
 * [DocumentCloud](https://github.com/documentcloud)
 * [Freedom of the Press Foundation](https://github.com/freedomofpress)
 * [Github's Journalism Showcases](https://github.com/showcases/open-journalism)
+* [Google News Lab](https://github.com/googletrends)
 * [Institute for Nonprofit News](https://github.com/inn)
 * [IRE/NICAR](https://github.com/ireapps)
 * [Journalism++](https://github.com/jplusplus)
