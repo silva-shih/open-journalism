@@ -1,6 +1,6 @@
 # Open Journalism
 
-*A list of github accounts of various news organizations. This list powers the [@newsnerdrepos](https://twitter.com/newsnerdrepos) Twitterbot.* 
+*A list of github accounts of various news organizations. This list powers the [@newsnerdrepos](https://twitter.com/newsnerdrepos) Twitterbot. List maintained by kleinmatic and silva-shih.* 
 
 ## Newsrooms
 
