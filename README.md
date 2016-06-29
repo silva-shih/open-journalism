@@ -64,6 +64,7 @@
 * [Texas Tribune](https://github.com/texastribune)
 * [Time Magazine](https://github.com/TimeMagazine)
 * [Wall Street Journal](https://github.com/WSJ)
+* [Washington City Paper](https://github.com/washingtoncitypaper)
 * [Washington Post](https://github.com/washingtonpost)
 * [Vermont Public Radio](https://github.com/vprnet)
 * [Vox Media](https://github.com/voxmedia)
