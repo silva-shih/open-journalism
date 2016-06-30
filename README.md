@@ -1,6 +1,8 @@
-# open-journalism
+# Open Journalism
 
-## A list of github accounts of various news organizations.
+*A list of github accounts of various news organizations. This list powers the [@newsnerdrepos](https://twitter.com/newsnerdrepos) Twitterbot. List maintained by kleinmatic and silva-shih.* 
+
+## Newsrooms
 
 * [AJAM](https://github.com/ajam)
 * [Al Jazeera Interactive](https://github.com/ajinteractive)
@@ -8,6 +10,7 @@
 * [Associated Press](https://github.com/associatedpress)
 * [Atlanta Journal-Constitution](https://github.com/NewsappAJC)
 * [Austin American-Statesman](https://github.com/statesman)
+* [Bangor Daily News](https://github.com/bangordailynews)
 * [BBC News](https://github.com/BBC-News)
 * [BBC News Labs](https://github.com/BBC-News-Labs)
 * [BBC Visual Journalism](https://github.com/bbcvisualjournalism)
@@ -34,6 +37,7 @@
 * [Gannett Digital](https://github.com/GannettDigital)
 * [Gawker Media](https://github.com/gawkermedia)
 * [Guardian](https://github.com/guardian)
+* [Hartford Courant](https://github.com/hartfordcourant)
 * [Huffington Post Data](https://github.com/huffpostdata)
 * [Initium Lab 端傳媒](https://github.com/initiumlab)
 * [Inside Energy](https://github.com/InsideEnergy)
@@ -49,6 +53,7 @@
 * [MinnPost](https://github.com/minnpost)
 * [Mother Jones](https://github.com/motherjones)
 * [National Geographic](https://github.com/natgeo)
+* [Newsday](https://github.com/newsday)
 * [New York Magazine](https://github.com/nymag)
 * [New York Times](https://github.com/NYTimes)
 * [New York Times newsroom developers](https://github.com/newsdev)
@@ -72,13 +77,14 @@
 * [Süddeutsche Zeitung](https://github.com/sueddeutsche)
 * [Tampa Bay Times](https://github.com/tbtimes)
 * [Texas Tribune](https://github.com/texastribune)
-* [Toronto Globe and Mail](https://github.com/globeandmail)
 * [Time Magazine](https://github.com/TimeMagazine)
+* [Toronto Globe and Mail](https://github.com/globeandmail)
 * [Tribune Publishing](https://github.com/tribune)
 * [USA Today](https://github.com/usatoday)
 * [Vermont Public Radio](https://github.com/vprnet)
 * [Vox Media](https://github.com/voxmedia)
 * [Wall Street Journal](https://github.com/WSJ)
+* [Washington City Paper](https://github.com/washingtoncitypaper)
 * [Washington Post](https://github.com/washingtonpost)
 * [WBUR Learning Lab](https://github.com/LearningLab)
 * [WNYC DataNews](https://github.com/datanews)
@@ -94,6 +100,7 @@
 * [DocumentCloud](https://github.com/documentcloud)
 * [Freedom of the Press Foundation](https://github.com/freedomofpress)
 * [Github's Journalism Showcases](https://github.com/showcases/open-journalism)
+* [Google News Lab](https://github.com/googletrends)
 * [Institute for Nonprofit News](https://github.com/inn)
 * [IRE/NICAR](https://github.com/ireapps)
 * [Journalism++](https://github.com/jplusplus)
@@ -108,16 +115,4 @@
 * [SunlightLabs](https://github.com/sunlightlabs)
 * [WireService](https://github.com/wireservice)
 
-## Inside the head
-* [ProPublica Nerd Blog](https://www.propublica.org/nerds/)
-* [WaPo Developer Blog](https://developer.washingtonpost.com/pb/blog/)
 
-## Tools to save time.
-
-* [Google table converter](https://github.com/jsvine/google-table-converter): covert google spreadsheets into responsive HTML.
-* [ai2html](https://github.com/cedricsam/ai2html): converts ai into an HTML page.
-* [Reveal js](https://github.com/hakimel/reveal.js): create slides using HTML.
-* [srvlr](https://github.com/kavanagh/srvlr): tiny HTTP server.
-* [SVG crowbar](https://github.com/NYTimes/svg-crowbar): getting you graphic off the page and into illustrator.
-* [PDF table extractor](http://ronnywang.github.io/pdf-table-extractor/):PDF table extractor
-* [Jieba Chinese text segmentatio](https://github.com/fxsjy/jieba): break chinese text. [node.js] (https://github.com/yanyiwu/nodejieba)
