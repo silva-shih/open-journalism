@@ -11,6 +11,7 @@
 * [Atlanta Journal-Constitution](https://github.com/NewsappAJC)
 * [Austin American-Statesman](https://github.com/statesman)
 * [Bangor Daily News](https://github.com/bangordailynews)
+* [BBC England Data Unit](https://github.com/bbc-data-unit)
 * [BBC News](https://github.com/BBC-News)
 * [BBC News Labs](https://github.com/BBC-News-Labs)
 * [BBC Visual Journalism](https://github.com/bbcvisualjournalism)
