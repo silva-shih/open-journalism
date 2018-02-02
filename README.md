@@ -43,7 +43,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Gannett Digital](https://github.com/GannettDigital)
 * [Gawker Media](https://github.com/gawkermedia)
 * [Guardian](https://github.com/guardian)
-* [Haaretz] (https://github.com/Haaretz)
+* [Haaretz](https://github.com/Haaretz)
 * [Hartford Courant](https://github.com/hartfordcourant)
 * [Huffington Post Data](https://github.com/huffpostdata)
 * [Initium Lab 端傳媒](https://github.com/initiumlab)
