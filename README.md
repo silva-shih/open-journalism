@@ -53,6 +53,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Mic News](https://github.com/micnews)
 * [Milwaukee Journal Sentinel DataHub](https://github.com/datahub)
 * [MinnPost](https://github.com/minnpost)
+* [Mirror Media 鏡傳媒](https://github.com/mirror-media)
 * [Mother Jones](https://github.com/motherjones)
 * [National Geographic](https://github.com/natgeo)
 * [Newsday](https://github.com/newsday)
