@@ -115,6 +115,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Poderopedia](https://github.com/poderopedia)
 * [SourceFabric](https://github.com/sourcefabric)
 * [SunlightLabs](https://github.com/sunlightlabs)
+* [TrendCT](https://github.com/trendct)
 * [WireService](https://github.com/wireservice)
 
 
