@@ -75,6 +75,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Onion](https://github.com/theonion)
 * [Orlando Sentinel](https://github.com/OrlandoSentinel)
 * [Palm Beach Post](https://github.com/PalmBeachPost)
+* [Politico](https://github.com/the-politico)
 * [ProPublica](https://github.com/propublica)
 * [PRX](https://github.com/PRX)
 * [Quartz](https://github.com/quartz)
