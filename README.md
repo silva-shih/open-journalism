@@ -44,6 +44,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Five Thirty Eight](https://github.com/fivethirtyeight)
 * [Gannett Digital](https://github.com/GannettDigital)
 * [Gawker Media](https://github.com/gawkermedia)
+* [GMG Special Projects Desk](https://github.com/GMG-Special-Projects-Desk)
 * [Guardian](https://github.com/guardian)
 * [Haaretz](https://github.com/Haaretz)
 * [Hartford Courant](https://github.com/hartfordcourant)
