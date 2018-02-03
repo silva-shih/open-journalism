@@ -22,3 +22,4 @@
 * [Enigma](https://github.com/enigma-io)
 * [Invisible Institute](https://github.com/invinst)
 * [Politico](https://github.com/The-Politico)
+* [GMG Special Projects Desk](https://github.com/GMG-Special-Projects-Desk)
