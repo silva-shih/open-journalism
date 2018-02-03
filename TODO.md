@@ -1,4 +1,4 @@
-## ADDED
+## RECENTLY ADDED
 
 * https://github.com/BloombergGraphics
 * https://github.com/trendct
