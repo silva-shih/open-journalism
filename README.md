@@ -111,14 +111,17 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 ## Independent journalism groups, agencies, showcases and collaborations between newsrooms.
 
 * [Census Reporter](https://github.com/censusreporter)
+* [City Bureau](https://github.com/City-Bureau)
 * [DataMade](https://github.com/datamade)
 * [DataWrapper](https://github.com/datawrapper)
 * [DocumentCloud](https://github.com/documentcloud)
+* [Enigma](https://github.com/enigma-io)
 * [Freedom of the Press Foundation](https://github.com/freedomofpress)
 * [Full Fact](https://github.com/FullFact)
 * [Github's Journalism Showcases](https://github.com/showcases/open-journalism)
 * [Google News Lab](https://github.com/googletrends)
 * [Institute for Nonprofit News](https://github.com/inn)
+* [Invisible Institute](https://github.com/invinst)
 * [IRE/NICAR](https://github.com/ireapps)
 * [Journalism++](https://github.com/jplusplus)
 * [Meedan](https://github.com/meedan)
