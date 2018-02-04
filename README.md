@@ -111,7 +111,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [YLE (Finnish National Broadcaster)](https://github.com/Yleisradio)
 * [Zeit Online](https://github.com/ZeitOnline)
 
-## Independent journalism groups, agencies, showcases and collaborations between newsrooms.
+## Independent journalism groups, agencies, showcases, journalism-adjacent open-data groups, and collaborations between newsrooms.
 
 * [California Civic Data Coalition](https://github.com/california-civic-data-coalition)
 * [Census Reporter](https://github.com/censusreporter)
@@ -124,6 +124,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Full Fact](https://github.com/FullFact)
 * [Github's Journalism Showcases](https://github.com/showcases/open-journalism)
 * [Google News Lab](https://github.com/googletrends)
+* [GovTrack](https://github.com/govtrack)
 * [Institute for Nonprofit News](https://github.com/inn)
 * [Invisible Institute](https://github.com/invinst)
 * [IRE/NICAR](https://github.com/ireapps)
@@ -134,6 +135,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Northwestern U. Knight Lab](https://github.com/NUKnightLab)
 * [OpenElections](https://github.com/openelections)
 * [OpenNews](https://github.com/openNews)
+* [OpenStates](https://github.com/openstates)
 * [Overview Project](https://github.com/overview)
 * [Poderopedia](https://github.com/poderopedia)
 * [SourceFabric](https://github.com/sourcefabric)
