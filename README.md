@@ -49,6 +49,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Haaretz](https://github.com/Haaretz)
 * [Hartford Courant](https://github.com/hartfordcourant)
 * [Huffington Post Data](https://github.com/huffpostdata)
+* [ICIJ](https://github.com/icij)
 * [Initium Lab 端傳媒](https://github.com/initiumlab)
 * [Inside Energy](https://github.com/InsideEnergy)
 * [La Nación (Buenos Aires)](https://github.com/lanacioncom)
@@ -69,7 +70,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [New York Daily News](https://github.com/nydailynews)
 * [New York Magazine](https://github.com/nymag)
 * [New York Times](https://github.com/NYTimes)
-* [New York Times newsroom developers](https://github.com/newsdev)
+* [New York Times Newsroom Developers](https://github.com/newsdev)
 * [NPR Tech](https://github.com/npr)
 * [NPR Viz](https://github.com/nprapps)
 * [NYT The Upshot](https://github.com/theupshot)
@@ -112,6 +113,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 
 ## Independent journalism groups, agencies, showcases and collaborations between newsrooms.
 
+* [California Civic Data Coalition](https://github.com/california-civic-data-coalition)
 * [Census Reporter](https://github.com/censusreporter)
 * [City Bureau](https://github.com/City-Bureau)
 * [DataMade](https://github.com/datamade)
