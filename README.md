@@ -1,6 +1,6 @@
 # Open Journalism
 
-*A list of github accounts of various news organizations. This list powers the [@newsnerdrepos](https://twitter.com/newsnerdrepos) Twitterbot. List maintained by kleinmatic and silva-shih.* 
+*A list of github accounts of various news organizations. This list powers the [@newsnerdrepos](https://twitter.com/newsnerdrepos) Twitterbot. List maintained by kleinmatic and silva-shih.*
 
 If you know of a newsroom (or journalism-adjacent group) posting code to github that we're missing, let us know by filing an issue or sending a pull request!
 
@@ -97,8 +97,8 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Time Magazine](https://github.com/TimeMagazine)
 * [Times & Sunday Times](https://github.com/times)
 * [Toronto Globe and Mail](https://github.com/globeandmail)
-* [Tribune Publishing](https://github.com/tribune)
 * [TrendCT](https://github.com/trendct)
+* [Tronc](https://github.com/tribune)
 * [USA Today](https://github.com/usatoday)
 * [Vermont Public Radio](https://github.com/vprnet)
 * [Vox Media](https://github.com/voxmedia)
