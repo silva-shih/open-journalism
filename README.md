@@ -9,6 +9,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [ABC News](https://github.com/abcnews)
 * [Advocate (Baton Rouge)](https://github.com/theadvocate)
 * [AJAM](https://github.com/ajam)
+* [AJ+](https://github.com/ALJAZEERAPLUS)
 * [Al Jazeera Interactive](https://github.com/ajinteractive)
 * [American Public Media](https://github.com/APMG)
 * [Associated Press](https://github.com/associatedpress)
