@@ -142,6 +142,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [PublicSource](https://github.com/publicsource)
 * [PRX](https://github.com/PRX)
 * [Quartz](https://github.com/quartz)
+* [Quartz Bot Studio](https://github.com/quartz-bot-studio)
 * [Radio Free Europe/Radio Liberty](https://github.com/rferl)
 * [Register-Guard (Eugene, Ore.)](https://github.com/registerguard)
 * [Reporter 報導者](https://github.com/twreporter)
