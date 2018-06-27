@@ -161,6 +161,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Slate](https://github.com/slategroup)
 * [South Florida Sun Sentinel](https://github.com/SunSentinel)
 * [Spokane Spokesman-Review](https://github.com/SpokesmanReview)
+* [SRF Data](https://github.com/srfdata)
 * [Süddeutsche Zeitung](https://github.com/sueddeutsche)
 * [TagesWoche](https://github.com/tageswoche)
 * [Tampa Bay Times](https://github.com/tbtimes)
