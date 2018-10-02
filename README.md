@@ -98,6 +98,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [La Opinión](https://github.com/laopinion)
 * [Le Monde](https://github.com/lemonde)
 * [Le Temps](https://github.com/labsletemps)
+* [Lenfest Local Lab](https://github.com/lenfestlab)
 * [Lens (NOLA)](https://github.com/thelens)
 * [Libération](https://github.com/liberation)
 * [Los Angeles Times Data Desk](https://github.com/datadesk)
