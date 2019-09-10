@@ -71,6 +71,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [First Look Media](https://github.com/firstlookmedia)
 * [Five Thirty Eight](https://github.com/fivethirtyeight)
 * [Gannett Digital](https://github.com/GannettDigital)
+* [GateHouse Media](https://github.com/gatehousemedia)
 * [Gawker Media](https://github.com/gawkermedia)
 * [GMG Special Projects Desk](https://github.com/GMG-Special-Projects-Desk)
 * [Guardian](https://github.com/guardian)
