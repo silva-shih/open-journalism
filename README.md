@@ -209,7 +209,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [CUNY Graduate School of Journalism](https://github.com/cunyjschool)
 * [Coral Project](https://github.com/coralproject)
 * [DataMade](https://github.com/datamade)
-* [DataWrapper](https://github.com/datawrapper)
+* [Datawrapper](https://github.com/datawrapper)
 * [DocumentCloud](https://github.com/documentcloud)
 * [Enigma](https://github.com/enigma-io)
 * [EveryBlock](https://github.com/everyblock)
