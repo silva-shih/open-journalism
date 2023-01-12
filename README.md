@@ -78,7 +78,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Hearst Emerging Technologies](https://github.com/Hearst-DD)
 * [Hearst Hatchery](https://github.com/Hearst-Hatchery)
 * [Hindustan Times](https://github.com/HindustanTimesLabs)
-* [Houston Chronicle](https://github.com/houstonchronicle)
 * [Houston Chronicle Data Desk](https://github.com/houston-chronicle)
 * [Huffington Post Data](https://github.com/huffpostdata)
 * [ICIJ](https://github.com/icij)
