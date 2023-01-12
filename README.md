@@ -231,6 +231,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [IRE/NICAR](https://github.com/ireapps)
 * [Journalism++](https://github.com/jplusplus)
 * [Kiln](https://github.com/kiln)
+* [Lenfest Institute for Journalism](https://github.com/Lenfest-Institute)
 * [Meedan](https://github.com/meedan)
 * [MuckRock](https://github.com/MuckRock)
 * [NewsApps.io](https://github.com/newsappsio)
