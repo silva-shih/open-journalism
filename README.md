@@ -173,6 +173,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Texas Tribune](https://github.com/texastribune)
 * [Texty.org.ua](https://github.com/texty)
 * [Time Magazine](https://github.com/TimeMagazine)
+* [The City](https://github.com/thecityny)
 * [Times & Sunday Times](https://github.com/times)
 * [Times & Sunday Times Digital](https://github.com/times-machine)
 * [Toronto Globe and Mail](https://github.com/globeandmail)
