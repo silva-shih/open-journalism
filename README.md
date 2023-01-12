@@ -215,6 +215,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Civica Digital](https://github.com/civica-digital)
 * [CUNY Graduate School of Journalism](https://github.com/cunyjschool)
 * [Coral Project](https://github.com/coralproject)
+* [Data Liberation Project](https://github.com/data-liberation-project)
 * [DataMade](https://github.com/datamade)
 * [DataWrapper](https://github.com/datawrapper)
 * [DocumentCloud](https://github.com/documentcloud)
