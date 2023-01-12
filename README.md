@@ -220,6 +220,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [GovTrack](https://github.com/govtrack)
 * [IndiaSpend](https://github.com/indiaspend)
 * [Hacks/Hackers](https://github.com/hackshackers)
+* [Howard Center for Investigative Journalism](https://github.com/Howard-Center-Investigations)
 * [Institute for Nonprofit News](https://github.com/inn)
 * [International Center for Journalists](https://github.com/icfj-org)
 * [Internews in Kenya](https://github.com/internews-ke)
