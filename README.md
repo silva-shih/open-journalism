@@ -102,6 +102,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Libération](https://github.com/liberation)
 * [Los Angeles Times Data Desk](https://github.com/datadesk)
 * [Louisville Courier-Journal](https://github.com/courierjournal)
+* [Markup](https://github.com/the-markup)
 * [Marshall Project](https://github.com/themarshallproject)
 * [Mashable](https://github.com/mashable)
 * [McClatchy Company](https://github.com/mcclatchy)
