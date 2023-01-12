@@ -151,6 +151,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Register-Guard (Eugene, Ore.)](https://github.com/registerguard)
 * [Reporter 報導者](https://github.com/twreporter)
 * [Reuters](https://github.com/thomsonreuters)
+* [Reuters Graphics](https://github.com/reuters-graphics)
 * [Reveal/CIR](https://github.com/cirlabs)
 * [St. Louis Post-Dispatch](https://github.com/PostDispatchInteractive)
 * [St. Louis Public Radio](https://github.com/stlpublicradio)
