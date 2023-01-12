@@ -178,6 +178,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Times & Sunday Times](https://github.com/times)
 * [Times & Sunday Times Digital](https://github.com/times-machine)
 * [Toronto Globe and Mail](https://github.com/globeandmail)
+* [Trace](https://github.com/TeamTrace)
 * [TrendCT](https://github.com/trendct)
 * [Tronc](https://github.com/tribune)
 * [USA Today](https://github.com/usatoday)
