@@ -26,7 +26,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [BBC News](https://github.com/BBC-News)
 * [BBC News Labs](https://github.com/BBC-News-Labs)
 * [BBC Visual Journalism](https://github.com/bbcvisualjournalism)
-* [Berliner Morgenpost](https://github.com/berlinermorgenpost)
 * [Bloomberg](https://github.com/bloomberg)
 * [Bloomberg Graphics](https://github.com/bloomberggraphics)
 * [Bloomberg Media](https://github.com/bloombergmedia)
