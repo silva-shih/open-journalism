@@ -79,7 +79,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Hearst Hatchery](https://github.com/Hearst-Hatchery)
 * [Hindustan Times](https://github.com/HindustanTimesLabs)
 * [Houston Chronicle Data Desk](https://github.com/houston-chronicle)
-* [Huffington Post Data](https://github.com/huffpostdata)
 * [ICIJ](https://github.com/icij)
 * [Initium Lab 端傳媒](https://github.com/initiumlab)
 * [Inside Energy](https://github.com/InsideEnergy)
