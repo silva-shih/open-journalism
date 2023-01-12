@@ -62,7 +62,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Economist Web Components](https://github.com/economist-components)
 * [El Faro](https://github.com/el-faro)
 * [Financial Times](https://github.com/financial-times)
-* [Foreign Policy](https://github.com/ForeignPolicy)
 * [Frontline](https://github.com/frontlinepbs)
 * [FT Chinese Developers](https://github.com/ftchinese)
 * [FT Chinese Editorial](https://github.com/ftc-editorial)
