@@ -84,7 +84,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Inside Energy](https://github.com/InsideEnergy)
 * [Irish Times](https://github.com/the-irish-times)
 * [Journal News (White Plains, N.Y.)](https://github.com/lohud)
-* [Journal Star (Peoria, Ill.)](https://github.com/pjstar)
 * [KPCC Southern California Public Radio](https://github.com/SCPR)
 * [KQED San Francisco](https://github.com/kqed)
 * [La Nación (Buenos Aires)](https://github.com/lanacioncom)
