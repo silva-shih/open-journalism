@@ -257,6 +257,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Spirited Media](https://github.com/spiritedmedia)
 * [SunlightLabs](https://github.com/sunlightlabs)
 * [Tarbell Project](https://github.com/tarbell-project)
+* [USA Facts](https://github.com/USAFacts)
 * [WireService](https://github.com/wireservice)
 
 
