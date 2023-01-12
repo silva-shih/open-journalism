@@ -18,6 +18,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Atlantic](https://github.com/theatlantic)
 * [Austin American-Statesman](https://github.com/statesman)
 * [Axios](https://github.com/axioscode)
+* [Baltimore Banner](https://github.com/The-Baltimore-Banner)
 * [Baltimore Sun](https://github.com/baltimore-sun-data)
 * [Bangor Daily News](https://github.com/bangordailynews)
 * [Bay Citizen](https://github.com/baycitizen)
