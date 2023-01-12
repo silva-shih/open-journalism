@@ -47,7 +47,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Conde Nast](https://github.com/condenast)
 * [Correct!v](https://github.com/correctiv)
 * [Daily Beast](https://github.com/dailybeast)
-* [Daily Herald (Arlington Heights, Ill.)](https://github.com/dailyherald)
 * [Daily Mail (London)](https://github.com/MailOnline)
 * [Dallas Morning News](https://github.com/dallasmorningnews)
 * [Democrat and Chronicle (Rochester, N.Y.)](https://github.com/dandc)
