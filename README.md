@@ -94,7 +94,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [KPCC Southern California Public Radio](https://github.com/SCPR)
 * [KQED San Francisco](https://github.com/kqed)
 * [La Nación (Buenos Aires)](https://github.com/lanacioncom)
-* [La Nación (Costa Rica)](https://github.com/nacion)
 * [La Opinión](https://github.com/laopinion)
 * [Le Monde](https://github.com/lemonde)
 * [Le Temps](https://github.com/labsletemps)
