@@ -29,7 +29,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Bloomberg](https://github.com/bloomberg)
 * [Bloomberg Graphics](https://github.com/bloomberggraphics)
 * [Bloomberg Media](https://github.com/bloombergmedia)
-* [Bloomberg Visual Data](https://github.com/bvisualdata)
 * [Boston Globe](https://github.com/bostonglobe)
 * [Buffalo News](https://github.com/thebuffalonews)
 * [BuzzFeed](https://github.com/BuzzFeed)
