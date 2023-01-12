@@ -215,7 +215,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [EveryBlock](https://github.com/everyblock)
 * [Freedom of the Press Foundation](https://github.com/freedomofpress)
 * [Full Fact](https://github.com/FullFact)
-* [Github's Journalism Showcases](https://github.com/showcases/open-journalism)
 * [Google News Lab](https://github.com/googletrends)
 * [GovTrack](https://github.com/govtrack)
 * [IndiaSpend](https://github.com/indiaspend)
