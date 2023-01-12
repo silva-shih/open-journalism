@@ -149,7 +149,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Reveal/CIR](https://github.com/cirlabs)
 * [St. Louis Post-Dispatch](https://github.com/PostDispatchInteractive)
 * [St. Louis Public Radio](https://github.com/stlpublicradio)
-* [Sacramento Bee](https://github.com/sacbee)
 * [Salt Lake Tribune](https://github.com/sltrib)
 * [San Antonio Express-News](https://github.com/sa-express-news)
 * [San Francisco Chronicle](https://github.com/sfchronicle)
