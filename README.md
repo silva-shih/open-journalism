@@ -175,7 +175,6 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [USA Today](https://github.com/usatoday)
 * [USA Today Sports](https://github.com/usatoday-smb)
 * [Vermont Public Radio](https://github.com/vprnet)
-* [Virginian-Pilot](https://github.com/virginianpilot)
 * [Voice of America](https://github.com/voanews)
 * [Vox Media](https://github.com/voxmedia)
 * [Wall Street Journal](https://github.com/WSJ)
