@@ -4,4 +4,4 @@
 
 If you know of a newsroom (or journalism-adjacent group) posting code to github that we're missing, let us know by filing an issue or sending a pull request!
 
-## [repos.csv](Open Journalism Repos)
+## [Open Journalism Repos](repos.csv)
