@@ -41,3 +41,9 @@ https://github.com/elpais ??
 https://github.com/grist
 
 https://github.com/chalkbeat
+
+https://github.com/deseretnews
+
+https://github.com/htlinc
+
+
