@@ -30,3 +30,14 @@ https://github.com/cbs-news-data
 
 https://github.com/nbcnews
 
+https://github.com/Haaretz
+
+https://github.com/animalpolitico
+
+https://github.com/el-faro
+
+https://github.com/elpais ??
+
+https://github.com/grist
+
+https://github.com/chalkbeat
