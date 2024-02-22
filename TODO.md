@@ -14,15 +14,6 @@ https://github.com/APM-Research-Lab
 
 https://github.com/j-norwood-young/revengine
 
-Lists of orgs:
-
-https://source.opennews.org/organizations/
-
-https://findyournews.org/campaign/inn-network-directory/
-
-https://www.lionpublishers.com/members/
-
-https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv
 
 https://github.com/cbsnews
 
@@ -46,4 +37,27 @@ https://github.com/deseretnews
 
 https://github.com/htlinc
 
+https://github.com/Harvard-Lampoon
+
+https://github.com/NMG-Digital
+
+https://github.com/motherjones
+
+https://github.com/topics/revealnews
+
+https://github.com/cirlabs
+
+https://github.com/PublicI
+
+https://github.com/theparanoids
+
+Lists of orgs:
+
+https://source.opennews.org/organizations/
+
+https://findyournews.org/campaign/inn-network-directory/
+
+https://www.lionpublishers.com/members/
+
+https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv
 
