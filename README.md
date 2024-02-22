@@ -42,6 +42,7 @@ If you know of a newsroom (or journalism-adjacent group) posting code to github 
 * [Chicago Reporter](https://github.com/thechicagoreporter)
 * [Chicago Tribune News Applications Team](https://github.com/newsapps)
 * [Chronicle of Higher Ed / Philanthropy](https://github.com/chrondata)
+* [City Bureau](https://github.com/City-Bureau)
 * [Civio](https://github.com/civio)
 * [Conde Nast](https://github.com/condenast)
 * [Correct!v](https://github.com/correctiv)
