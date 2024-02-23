@@ -1,11 +1,13 @@
 Organization,Type,Github
 19th,Newsroom,https://github.com/The-19th
 ABC News (Australia),Newsroom,https://github.com/abcnews
+Accurat,News Industry,https://github.com/accurat
 Advocate (Baton Rouge),Newsroom,https://github.com/theadvocate
-AJAM,Newsroom,https://github.com/ajam
 AJ+,Newsroom,https://github.com/ALJAZEERAPLUS
+AJAM,Newsroom,https://github.com/ajam
 Al Jazeera Interactive,Newsroom,https://github.com/ajinteractive
 American Public Media,Newsroom,https://github.com/APMG
+Animal Politico,Newsroom,https://github.com/animalpolitico
 Arizona Daily Star,Newsroom,https://github.com/arizonadailystar
 Associated Press,Newsroom,https://github.com/associatedpress
 Atlanta Journal-Constitution,Newsroom,https://github.com/NewsappAJC
@@ -20,17 +22,24 @@ BBC England Data Unit,Newsroom,https://github.com/bbc-data-unit
 BBC News,Newsroom,https://github.com/BBC-News
 BBC News Labs,Newsroom,https://github.com/BBC-News-Labs
 BBC Visual Journalism,Newsroom,https://github.com/bbcvisualjournalism
+Big Local News,News Industry,https://github.com/biglocalnews
 Bloomberg,Newsroom,https://github.com/bloomberg
 Bloomberg Graphics,Newsroom,https://github.com/bloomberggraphics
 Bloomberg Media,Newsroom,https://github.com/bloombergmedia
 Boston Globe,Newsroom,https://github.com/bostonglobe
 Buffalo News,Newsroom,https://github.com/thebuffalonews
 BuzzFeed,Newsroom,https://github.com/BuzzFeed
-BuzzFeedNews,Newsroom,https://github.com/BuzzFeedNews
 Buzzfeed OpenLab,Newsroom,https://github.com/buzzfeed-openlab
+BuzzFeedNews,Newsroom,https://github.com/BuzzFeedNews
+California Civic Data Coalition,News Industry,https://github.com/california-civic-data-coalition
 Calmatters,Newsroom,https://github.com/CalMatters
+CALmatters,News Industry,https://github.com/CALmatters
 CBC / Radio-Canada,Newsroom,https://github.com/cbcrc
 CBC News,Newsroom,https://github.com/CBCNews
+CBS News,Newsroom,https://github.com/cbsnews
+CBS News Data,Newsroom,https://github.com/cbs-news-data
+Census Reporter,News Industry,https://github.com/censusreporter
+Center for Investigative Reporting / Reveal,Newsroom,https://github.com/cirlabs
 Center for Public Integrity,Newsroom,https://github.com/publici
 Chalkbeat,Newsroom,https://github.com/Chalkbeat
 Charleston Post and Courier,Newsroom,https://github.com/postandcourier
@@ -38,48 +47,76 @@ Chicago Reporter,Newsroom,https://github.com/thechicagoreporter
 Chicago Tribune News Applications Team,Newsroom,https://github.com/newsapps
 Chronicle of Higher Ed / Philanthropy,Newsroom,https://github.com/chrondata
 City Bureau,Newsroom,https://github.com/City-Bureau
+City Bureau,News Industry,https://github.com/City-Bureau
+Civica Digital,News Industry,https://github.com/civica-digital
 Civio,Newsroom,https://github.com/civio
 Conde Nast,Newsroom,https://github.com/condenast
+Coral Project,News Industry,https://github.com/coralproject
 Correct!v,Newsroom,https://github.com/correctiv
+CUNY Graduate School of Journalism,News Industry,https://github.com/cunyjschool
 Daily Beast,Newsroom,https://github.com/dailybeast
 Daily Mail (London),Newsroom,https://github.com/MailOnline
 Dallas Morning News,Newsroom,https://github.com/dallasmorningnews
+Data Liberation Project,News Industry,https://github.com/data-liberation-project
+DataMade,News Industry,https://github.com/datamade
+DataWrapper,News Industry,https://github.com/datawrapper
 Democrat and Chronicle (Rochester N.Y.),Newsroom,https://github.com/dandc
 Denver Post,Newsroom,https://github.com/denverpost
-Digital First Media's Thunderdome,Newsroom,https://github.com/thunderdome-data
+Deseret News,Newsroom,https://github.com/deseretnews
+Digital First Media Thunderdome,Newsroom,https://github.com/thunderdome-data
 DNAinfo,Newsroom,https://github.com/DNAinfo
+DocumentCloud,News Industry,https://github.com/documentcloud
 Dow Jones,Newsroom,https://github.com/dowjones
 Duke Chronicle,Newsroom,https://github.com/dukechronicle
-The Economist,Newsroom,https://github.com/theeconomist
-The Economist Group,Newsroom,https://github.com/economistdigitalsolutions
 El Faro,Newsroom,https://github.com/el-faro
+El Pa�s,Newsroom,https://github.com/elpais
+Enigma,News Industry,https://github.com/enigma-io
+EveryBlock,News Industry,https://github.com/everyblock
 Financial Times,Newsroom,https://github.com/financial-times
+First Look Media,Newsroom,https://github.com/firstlookmedia
+Five Thirty Eight,Newsroom,https://github.com/fivethirtyeight
+Freedom of the Press Foundation,News Industry,https://github.com/freedomofpress
 Frontline,Newsroom,https://github.com/frontlinepbs
 FT Chinese Developers,Newsroom,https://github.com/ftchinese
 FT Chinese Editorial,Newsroom,https://github.com/ftc-editorial
 FT Interactive,Newsroom,https://github.com/ft-interactive/
 FT Labs,Newsroom,https://github.com/ftlabs
-First Look Media,Newsroom,https://github.com/firstlookmedia
-Five Thirty Eight,Newsroom,https://github.com/fivethirtyeight
+Full Fact,News Industry,https://github.com/FullFact
 Gannett Digital,Newsroom,https://github.com/GannettDigital
 GateHouse Media,Newsroom,https://github.com/gatehousemedia
 Gawker Media,Newsroom,https://github.com/gawkermedia
 GMG Special Projects Desk,Newsroom,https://github.com/GMG-Special-Projects-Desk
+Google News Lab,News Industry,https://github.com/googletrends
+GovTrack,News Industry,https://github.com/govtrack
+Grist,Newsroom,https://github.com/grist
 Guardian,Newsroom,https://github.com/guardian
 Guardian Mobile Innovation Lab,Newsroom,https://github.com/gdnmobilelab
 Haaretz,Newsroom,https://github.com/Haaretz
+Hacks/Hackers,News Industry,https://github.com/hackshackers
 Hartford Courant,Newsroom,https://github.com/hartfordcourant
 Harvard Business Review,Newsroom,https://github.com/HBRGTech
+Harvard Lampoon,Newsroom,https://github.com/Harvard-Lampoon
+Hashtag Labs,News Industry,https://github.com/htlinc
+Hearken,News Industry,https://github.com/wearehearken
 Hearst,Newsroom,https://github.com/HearstCorp
 Hearst Emerging Technologies,Newsroom,https://github.com/Hearst-DD
 Hearst Hatchery,Newsroom,https://github.com/Hearst-Hatchery
 Hindustan Times,Newsroom,https://github.com/HindustanTimesLabs
 Houston Chronicle Data Desk,Newsroom,https://github.com/houston-chronicle
+Howard Center for Investigative Journalism,News Industry,https://github.com/Howard-Center-Investigations
 ICIJ,Newsroom,https://github.com/icij
+IndiaSpend,News Industry,https://github.com/indiaspend
 Initium Lab 端傳媒,Newsroom,https://github.com/initiumlab
 Inside Energy,Newsroom,https://github.com/InsideEnergy
+Institute for Nonprofit News,News Industry,https://github.com/inn
+International Center for Journalists,News Industry,https://github.com/icfj-org
+Internews in Kenya,News Industry,https://github.com/internews-ke
+Invisible Institute,News Industry,https://github.com/invinst
+IRE/NICAR,News Industry,https://github.com/ireapps
 Irish Times,Newsroom,https://github.com/the-irish-times
 Journal News (White Plains N.Y.),Newsroom,https://github.com/lohud
+Journalism++,News Industry,https://github.com/jplusplus
+Kiln,News Industry,https://github.com/kiln
 KPCC Southern California Public Radio,Newsroom,https://github.com/SCPR
 KQED San Francisco,Newsroom,https://github.com/kqed
 La Nación (Buenos Aires),Newsroom,https://github.com/lanacioncom
@@ -87,6 +124,7 @@ La Opinión,Newsroom,https://github.com/laopinion
 Lawrence Journal-World,Newsroom,https://github.com/worldcompany
 Le Monde,Newsroom,https://github.com/lemonde
 Le Temps,Newsroom,https://github.com/labsletemps
+Lenfest Institute for Journalism,News Industry,https://github.com/Lenfest-Institute
 Lenfest Local Lab,Newsroom,https://github.com/lenfestlab
 Lens (NOLA),Newsroom,https://github.com/thelens
 Libération,Newsroom,https://github.com/liberation
@@ -96,6 +134,7 @@ Markup,Newsroom,https://github.com/the-markup
 Marshall Project,Newsroom,https://github.com/themarshallproject
 Mashable,Newsroom,https://github.com/mashable
 McClatchy Company,Newsroom,https://github.com/mcclatchy
+Meedan,News Industry,https://github.com/meedan
 Miami Herald,Newsroom,https://github.com/miamiherald
 Mic News,Newsroom,https://github.com/micnews
 Milwaukee Journal Sentinel DataHub,Newsroom,https://github.com/datahub
@@ -104,6 +143,8 @@ Minneapolis Star Tribune Lab,Newsroom,https://github.com/striblab
 MinnPost,Newsroom,https://github.com/minnpost
 Mirror Media 鏡傳媒,Newsroom,https://github.com/mirror-media
 Mother Jones,Newsroom,https://github.com/motherjones
+MuckRock,News Industry,https://github.com/MuckRock
+Nation Media Group (Nairobi),Newsroom,https://github.com/NMG-Digital
 National Geographic Partners,Newsroom,https://github.com/natgeo
 National Geographic Society,Newsroom,https://github.com/natgeosociety
 NBC News,Newsroom,https://github.com/nbcnews
@@ -116,58 +157,82 @@ New York Times Newsroom Developers,Newsroom,https://github.com/newsdev
 New York Times R&D Group,Newsroom,https://github.com/nytlabs
 New York Times The Upshot,Newsroom,https://github.com/theupshot
 New Yorker,Newsroom,https://github.com/newyorker
+News Catalyst,News Industry,https://github.com/news-catalyst
 News Journal (New Castle Del.),Newsroom,https://github.com/delawaredata
+News Revenue Hub,News Industry,https://github.com/newsrevenuehub 
+NewsApps.io,News Industry,https://github.com/newsappsio
 Newsday,Newsroom,https://github.com/newsday
+NewsLynx,News Industry,https://github.com/newslynx
 Newsweek,Newsroom,https://github.com/newsweek
+Nieman Lab,News Industry,https://github.com/niemanlab
+Northwestern U. Knight Lab,News Industry,https://github.com/NUKnightLab
 NPR Tech,Newsroom,https://github.com/npr
 NPR Viz,Newsroom,https://github.com/nprapps
 NZZ,Newsroom,https://github.com/nzzdev
 Onion,Newsroom,https://github.com/theonion
+OpenElections,News Industry,https://github.com/openelections
+OpenNews,News Industry,https://github.com/openNews
+OpenNews Labs,News Industry,https://github.com/opennewslabs
+OpenStates,News Industry,https://github.com/openstates
 Orlando Sentinel,Newsroom,https://github.com/OrlandoSentinel
+Overview Project,News Industry,https://github.com/overview
 Palm Beach Post,Newsroom,https://github.com/PalmBeachPost
 PBS NewsHour,Newsroom,https://github.com/newshour
 Philly.com,Newsroom,https://github.com/phillymedia
+Pitch Interactive,News Industry,https://github.com/PitchInteractiveInc
 Pitchfork,Newsroom,https://github.com/pitchfork
+Poderopedia,News Industry,https://github.com/poderopedia
+PolicyMic,News Industry,https://github.com/policymic
+Politibot,News Industry,https://github.com/politibot
 Politico,Newsroom,https://github.com/the-politico
 Polygraph,Newsroom,https://github.com/polygraph-cool
 Portland Oregonian,Newsroom,https://github.com/TheOregonian
 Portland Oregonian (Old Account),Newsroom,https://github.com/oregonian
+POV,News Industry,https://github.com/povdocs
 ProPublica,Newsroom,https://github.com/propublica
-PublicSource,Newsroom,https://github.com/publicsource
 PRX,Newsroom,https://github.com/PRX
+PublicSource,Newsroom,https://github.com/publicsource
 Quartz,Newsroom,https://github.com/quartz
 Quartz Bot Studio,Newsroom,https://github.com/quartz-bot-studio
 Radio Free Europe/Radio Liberty,Newsroom,https://github.com/rferl
+Reese News Lab,News Industry,https://github.com/reesenewslab
 Register-Guard (Eugene Ore.),Newsroom,https://github.com/registerguard
 Reporter 報導者,Newsroom,https://github.com/twreporter
 Reuters,Newsroom,https://github.com/thomsonreuters
 Reuters Graphics,Newsroom,https://github.com/reuters-graphics
 Reveal/CIR,Newsroom,https://github.com/cirlabs
-St. Louis Post-Dispatch,Newsroom,https://github.com/PostDispatchInteractive
-St. Louis Public Radio,Newsroom,https://github.com/stlpublicradio
+Süddeutsche Zeitung,Newsroom,https://github.com/sueddeutsche
 Salt Lake Tribune,Newsroom,https://github.com/sltrib
 San Antonio Express-News,Newsroom,https://github.com/sa-express-news
 San Francisco Chronicle,Newsroom,https://github.com/sfchronicle
 Seattle Times,Newsroom,https://github.com/seattletimes
 Slate,Newsroom,https://github.com/slategroup
+SourceFabric,News Industry,https://github.com/sourcefabric
 South Florida Sun Sentinel,Newsroom,https://github.com/SunSentinel
+Spirited Media,News Industry,https://github.com/spiritedmedia
 Spokane Spokesman-Review,Newsroom,https://github.com/SpokesmanReview
 SRF Data,Newsroom,https://github.com/srfdata
-Süddeutsche Zeitung,Newsroom,https://github.com/sueddeutsche
+St. Louis Post-Dispatch,Newsroom,https://github.com/PostDispatchInteractive
+St. Louis Public Radio,Newsroom,https://github.com/stlpublicradio
+SunlightLabs,News Industry,https://github.com/sunlightlabs
 TagesWoche,Newsroom,https://github.com/tageswoche
 Tampa Bay Times,Newsroom,https://github.com/tbtimes
+Tarbell Project,News Industry,https://github.com/tarbell-project
 Telegraph,Newsroom,https://github.com/telegraph
 Telemundo,Newsroom,https://github.com/telemundo
 Texas Tribune,Newsroom,https://github.com/texastribune
 Texty.org.ua,Newsroom,https://github.com/texty
-Time Magazine,Newsroom,https://github.com/TimeMagazine
 The City,Newsroom,https://github.com/thecityny
+The Economist,Newsroom,https://github.com/theeconomist
+The Economist Group,Newsroom,https://github.com/economistdigitalsolutions
+Time Magazine,Newsroom,https://github.com/TimeMagazine
 Times & Sunday Times,Newsroom,https://github.com/times
 Times & Sunday Times Digital,Newsroom,https://github.com/times-machine
 Toronto Globe and Mail,Newsroom,https://github.com/globeandmail
 Trace,Newsroom,https://github.com/TeamTrace
 TrendCT,Newsroom,https://github.com/trendct
 Tronc,Newsroom,https://github.com/tribune
+USA Facts,News Industry,https://github.com/USAFacts
 USA Today,Newsroom,https://github.com/usatoday
 USA Today Sports,Newsroom,https://github.com/usatoday-smb
 Vermont Public Radio,Newsroom,https://github.com/vprnet
@@ -181,68 +246,14 @@ Washington Post Investigations,Newsroom,https://github.com/wpinvestigative
 Washington Post SaaS (Arc Publishing),Newsroom,https://github.com/wapopartners
 Washington Times,Newsroom,https://github.com/washingtontimes
 WBEZ Chicago Public Media,Newsroom,https://github.com/wbez
-WBUR Learning Lab,Newsroom,https://github.com/LearningLab
 WBUR,Newsroom,https://github.com/wbur
+WBUR Learning Lab,Newsroom,https://github.com/LearningLab
 WGBH Boston,Newsroom,https://github.com/WGBH
-WNYC DataNews,Newsroom,https://github.com/datanews
+WireService,News Industry,https://github.com/wireservice
 WNYC,Newsroom,https://github.com/wnyc
+WNYC DataNews,Newsroom,https://github.com/datanews
 WRAL Data Desk,Newsroom,https://github.com/wraldata
+Yahoo! Paranoids,News Industry,https://github.com/theparanoids
 YLE (Finnish National Broadcaster),Newsroom,https://github.com/Yleisradio
 Youth Radio,Newsroom,https://github.com/youthradio
 Zeit Online,Newsroom,https://github.com/ZeitOnline
-Accurat,News Industry,https://github.com/accurat
-Big Local News,News Industry,https://github.com/biglocalnews
-California Civic Data Coalition,News Industry,https://github.com/california-civic-data-coalition
-CALmatters,News Industry,https://github.com/CALmatters
-Census Reporter,News Industry,https://github.com/censusreporter
-City Bureau,News Industry,https://github.com/City-Bureau
-Civica Digital,News Industry,https://github.com/civica-digital
-CUNY Graduate School of Journalism,News Industry,https://github.com/cunyjschool
-Coral Project,News Industry,https://github.com/coralproject
-Data Liberation Project,News Industry,https://github.com/data-liberation-project
-DataMade,News Industry,https://github.com/datamade
-DataWrapper,News Industry,https://github.com/datawrapper
-DocumentCloud,News Industry,https://github.com/documentcloud
-Enigma,News Industry,https://github.com/enigma-io
-EveryBlock,News Industry,https://github.com/everyblock
-Freedom of the Press Foundation,News Industry,https://github.com/freedomofpress
-Full Fact,News Industry,https://github.com/FullFact
-Google News Lab,News Industry,https://github.com/googletrends
-GovTrack,News Industry,https://github.com/govtrack
-IndiaSpend,News Industry,https://github.com/indiaspend
-Hacks/Hackers,News Industry,https://github.com/hackshackers
-Hearken,News Industry,https://github.com/wearehearken
-Howard Center for Investigative Journalism,News Industry,https://github.com/Howard-Center-Investigations
-Institute for Nonprofit News,News Industry,https://github.com/inn
-International Center for Journalists,News Industry,https://github.com/icfj-org
-Internews in Kenya,News Industry,https://github.com/internews-ke
-Invisible Institute,News Industry,https://github.com/invinst
-IRE/NICAR,News Industry,https://github.com/ireapps
-Journalism++,News Industry,https://github.com/jplusplus
-Kiln,News Industry,https://github.com/kiln
-Lenfest Institute for Journalism,News Industry,https://github.com/Lenfest-Institute
-Meedan,News Industry,https://github.com/meedan
-MuckRock,News Industry,https://github.com/MuckRock
-News Catalyst,News Industry,https://github.com/news-catalyst
-News Revenue Hub,News Industry,https://github.com/newsrevenuehub 
-NewsApps.io,News Industry,https://github.com/newsappsio
-NewsLynx,News Industry,https://github.com/newslynx
-Nieman Lab,News Industry,https://github.com/niemanlab
-Northwestern U. Knight Lab,News Industry,https://github.com/NUKnightLab
-OpenElections,News Industry,https://github.com/openelections
-OpenNews,News Industry,https://github.com/openNews
-OpenNews Labs,News Industry,https://github.com/opennewslabs
-OpenStates,News Industry,https://github.com/openstates
-Overview Project,News Industry,https://github.com/overview
-Pitch Interactive,News Industry,https://github.com/PitchInteractiveInc
-Poderopedia,News Industry,https://github.com/poderopedia
-Politibot,News Industry,https://github.com/politibot
-PolicyMic,News Industry,https://github.com/policymic
-POV,News Industry,https://github.com/povdocs
-Reese News Lab,News Industry,https://github.com/reesenewslab
-SourceFabric,News Industry,https://github.com/sourcefabric
-Spirited Media,News Industry,https://github.com/spiritedmedia
-SunlightLabs,News Industry,https://github.com/sunlightlabs
-Tarbell Project,News Industry,https://github.com/tarbell-project
-USA Facts,News Industry,https://github.com/USAFacts
-WireService,News Industry,https://github.com/wireservice
