@@ -81,7 +81,9 @@ jobs:
           git pull origin $GITHUB_REF
 
       - name: Run analyze command
-        run: pipenv run python -m analyze
+        run: |
+          pipenv run python -m analyze org-report
+          pipenv run python -m analyze new-repos-by-month
         shell: bash
 
       - name: Commit results
