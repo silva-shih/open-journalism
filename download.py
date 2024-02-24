@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import os
 import json
+import time
 from pathlib import Path
 
 from github import Github
@@ -14,7 +15,6 @@ from rich import print
 from rich.progress import track
 
 THIS_DIR = Path(__file__).parent
-DATA_DIR = THIS_DIR / "data"
 
 
 @click.command()
@@ -24,7 +24,13 @@ DATA_DIR = THIS_DIR / "data"
     is_flag=True,
     help="Force the download of the data.",
 )
-def cli(force: bool) -> None:
+@click.option(
+    "-w",
+    "--wait",
+    default=1,
+    help="Number of seconds to wait between requests.",
+)
+def cli(force: bool, wait: int) -> None:
     """Download repos for analysis."""
     # Read in our source CSV
     org_df = pd.read_csv(THIS_DIR / "orgs.csv")
@@ -33,12 +39,25 @@ def cli(force: bool) -> None:
     org_df['handle'] = org_df['Github'].apply(lambda x: x.split("/")[-1].lower().strip())
 
     # Assert that none of the handles are empty strings
-    assert not any(org_df.handle == ""), "Some of the handles are empty strings."
+    try:
+        assert not any(org_df.handle == "")
+    except AssertionError:
+        empty_handles = org_df[org_df.handle == ""].Github.unique()
+        print(f"Empty handles: {empty_handles}")
+        raise
+
+    # Assert that there are no duplicate handles
+    try:
+        assert not org_df.handle.duplicated().any()
+    except AssertionError:
+        dupes = org_df[org_df.handle.duplicated()].handle.unique()
+        print(f"Duplicate handles: {dupes}")
+        raise
 
     # Loop through the repositories
     repo_list = []
     for org in track(list(org_df.handle)):
-        repo_list += get_repo_list(org, force=force)
+        repo_list += get_repo_list(org, force=force, wait=wait)
 
     # Convert to a dataframe
     repo_df = pd.DataFrame(repo_list).sort_values(["org", "name"])
@@ -47,18 +66,19 @@ def cli(force: bool) -> None:
     repo_df.to_csv(THIS_DIR / "repos.csv", index=False)
 
 
-def get_repo_list(org: str, force: bool = False) -> list[dict]:
+def get_repo_list(org: str, force: bool = False, wait: int = 1) -> list[dict]:
     """Get the repos for a given org.
-    
+
     Args:
         org: The organization or user to download.
         force: If True, force the download.
-    
+        wait: Number of seconds to wait between requests.
+
     Returns:
         A list of dictionaries with the repo information.
     """
     # Skip it if we already have the file
-    data_path = DATA_DIR / f"{org}.json"
+    data_path = THIS_DIR / "data" / f"{org}.json"
     data_path.parent.mkdir(exist_ok=True, parents=True)
     if data_path.exists() and not force:
         return json.load(open(data_path, 'r'))
@@ -107,7 +127,10 @@ def get_repo_list(org: str, force: bool = False) -> list[dict]:
     # Write it out
     with open(data_path, "w") as fp:
         json.dump(d_list, fp, indent=2)
-    
+
+    # Wait a bit
+    time.sleep(wait)
+
     # Return the data
     return d_list
 
