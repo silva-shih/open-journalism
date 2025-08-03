@@ -52,7 +52,7 @@ def org_repo_contributors(force: bool = False, wait: float = 1) -> None:
 
 
 def get_repo_contributors(
-    full_name: str, force: bool = False, wait: float = 1
+    full_name: str, force: bool = False, wait: float = 1.0
 ) -> list[dict]:
     """Get the contributors to a given repository.
 

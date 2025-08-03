@@ -21,10 +21,10 @@ from src import settings
 @click.option(
     "-w",
     "--wait",
-    default=1,
+    default=1.0,
     help="Number of seconds to wait between requests.",
 )
-def org_repos(force: bool, wait: int) -> None:
+def org_repos(force: bool = False, wait: float = 1.0) -> None:
     """Download repos for analysis."""
     # Read in our source CSV
     org_df = pd.read_csv(settings.ROOT_DIR / "orgs.csv")
@@ -63,7 +63,7 @@ def org_repos(force: bool, wait: int) -> None:
     repo_df.to_csv(settings.TRANSFORM_DIR / "org-repos.csv", index=False)
 
 
-def get_repo_list(org: str, force: bool = False, wait: int = 1) -> list[dict]:
+def get_repo_list(org: str, force: bool = False, wait: float = 1.0) -> list[dict]:
     """Get the repos for a given org.
 
     Args:

@@ -1,0 +1,7 @@
+- [ ] Create a consolidated CSV of all personal user accounts link with an organization's repo
+- [ ] Download a list of all the repositories linked to all of the personal user accounts
+- [ ] Create a consolidated CSV of the organization repositories with the personal user accounts repositories, forks excluded
+- [ ] Analyze the consolidated repo list over time to identify trends in repository creation. Evaluate whether there is any difference in trends between personal user accounts and organization repositories
+- [ ] Rank the people who have the most and the most popular repositories
+- [ ] Get a commit count for each repository for each quarter and evaluate activity trends over time
+- [ ] Get a commit count for each contributor for each quarter and evaluate activity trends over time

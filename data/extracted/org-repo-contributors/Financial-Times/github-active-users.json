@@ -1,0 +1,29 @@
+[
+  {
+    "org": "Financial-Times",
+    "repo_name": "github-active-users",
+    "full_name": "Financial-Times/github-active-users",
+    "id": 428847,
+    "login": "lucas42",
+    "user_name": "Luke Blaney",
+    "contributions": 4
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "github-active-users",
+    "full_name": "Financial-Times/github-active-users",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "github-active-users",
+    "full_name": "Financial-Times/github-active-users",
+    "id": 3199181,
+    "login": "Limess",
+    "user_name": "Charlie Briggs",
+    "contributions": 1
+  }
+]

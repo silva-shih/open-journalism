@@ -21,10 +21,10 @@ from src import settings
 @click.option(
     "-w",
     "--wait",
-    default=1,
+    default=1.0,
     help="Number of seconds to wait between requests.",
 )
-def org_members(force: bool = False, wait: int = 1) -> None:
+def org_members(force: bool = False, wait: float = 1.0) -> None:
     """Download the members of each organization."""
     # Read in our source CSV
     org_df = pd.read_csv(settings.ROOT_DIR / "orgs.csv")
@@ -47,7 +47,7 @@ def org_members(force: bool = False, wait: int = 1) -> None:
     member_df.to_csv(settings.TRANSFORM_DIR / "org-members.csv", index=False)
 
 
-def get_org_members(org: str, force: bool = False, wait: int = 1) -> list[dict]:
+def get_org_members(org: str, force: bool = False, wait: float = 1.0) -> list[dict]:
     """Get the members for a given org.
 
     Args:

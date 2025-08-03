@@ -14,7 +14,7 @@ Create [personal access token](https://docs.github.com/en/authentication/keeping
 
 Set that token to your terminal's environment as the `GITHUB_API_TOKEN` variable. This can be done with a `.env` file or another environment management tool.
 
-Reset the downloaded data folder.
+Reset the downloaded data folder. Only do this if you want to wipe everything. A full download will take a while.
 
 ```bash
 make clean
