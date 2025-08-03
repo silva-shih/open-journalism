@@ -1,0 +1,38 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "hey-stranger",
+    "full_name": "abcnews/hey-stranger",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 24
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "hey-stranger",
+    "full_name": "abcnews/hey-stranger",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 11
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "hey-stranger",
+    "full_name": "abcnews/hey-stranger",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 4
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "hey-stranger",
+    "full_name": "abcnews/hey-stranger",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  }
+]

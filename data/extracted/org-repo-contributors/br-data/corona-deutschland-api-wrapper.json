@@ -1,0 +1,29 @@
+[
+  {
+    "org": "br-data",
+    "repo_name": "corona-deutschland-api-wrapper",
+    "full_name": "br-data/corona-deutschland-api-wrapper",
+    "id": 1587837,
+    "login": "stekhn",
+    "user_name": "Steffen K\u00fchne",
+    "contributions": 50
+  },
+  {
+    "org": "br-data",
+    "repo_name": "corona-deutschland-api-wrapper",
+    "full_name": "br-data/corona-deutschland-api-wrapper",
+    "id": 17271663,
+    "login": "ringlern",
+    "user_name": "Niels Ringler",
+    "contributions": 37
+  },
+  {
+    "org": "br-data",
+    "repo_name": "corona-deutschland-api-wrapper",
+    "full_name": "br-data/corona-deutschland-api-wrapper",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 8
+  }
+]

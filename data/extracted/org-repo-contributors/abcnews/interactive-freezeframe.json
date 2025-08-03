@@ -1,0 +1,38 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-freezeframe",
+    "full_name": "abcnews/interactive-freezeframe",
+    "id": 78984,
+    "login": "nathanhoad",
+    "user_name": "Nathan Hoad",
+    "contributions": 52
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-freezeframe",
+    "full_name": "abcnews/interactive-freezeframe",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-freezeframe",
+    "full_name": "abcnews/interactive-freezeframe",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 3
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-freezeframe",
+    "full_name": "abcnews/interactive-freezeframe",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 1
+  }
+]

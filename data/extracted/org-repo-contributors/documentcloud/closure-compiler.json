@@ -1,0 +1,164 @@
+[
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 4732,
+    "login": "jashkenas",
+    "user_name": "Jeremy Ashkenas",
+    "contributions": 57
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 192,
+    "login": "knowtheory",
+    "user_name": "Ted Han",
+    "contributions": 9
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 875498,
+    "login": "jdeff",
+    "user_name": "Jayme Deffenbaugh",
+    "contributions": 7
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 4731,
+    "login": "reefdog",
+    "user_name": "Justin Reese",
+    "contributions": 7
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 45967,
+    "login": "kares",
+    "user_name": "Karol Bucek",
+    "contributions": 5
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 137,
+    "login": "josh",
+    "user_name": "Joshua Peek",
+    "contributions": 4
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 2168518,
+    "login": "YurySolovyov",
+    "user_name": "Yury",
+    "contributions": 4
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 2028065,
+    "login": "alubbe",
+    "user_name": "Andreas Lubbe",
+    "contributions": 3
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 31402,
+    "login": "ghazel",
+    "user_name": "Greg Hazel",
+    "contributions": 2
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 131385,
+    "login": "robotblake",
+    "user_name": "Blake Imsland",
+    "contributions": 2
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 102009,
+    "login": "atambo",
+    "user_name": "Alex Tambellini",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 75132,
+    "login": "codegoalie",
+    "user_name": "Chris Marshall",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 337779,
+    "login": "cmbankester",
+    "user_name": "Christian Bankester",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 1022918,
+    "login": "International",
+    "user_name": "George Opritescu",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 32790,
+    "login": "xiazek",
+    "user_name": "Maciej Ksi\u0105\u017cek",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 35549,
+    "login": "rykov",
+    "user_name": "Michael Rykov",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 48361,
+    "login": "alunny",
+    "user_name": "Andrew Lunny",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "closure-compiler",
+    "full_name": "documentcloud/closure-compiler",
+    "id": 48312,
+    "login": "lapluviosilla",
+    "user_name": "Paul Strong",
+    "contributions": 1
+  }
+]

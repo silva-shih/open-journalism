@@ -1,0 +1,38 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "env-utils",
+    "full_name": "abcnews/env-utils",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 58
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "env-utils",
+    "full_name": "abcnews/env-utils",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 2
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "env-utils",
+    "full_name": "abcnews/env-utils",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 2
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "env-utils",
+    "full_name": "abcnews/env-utils",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

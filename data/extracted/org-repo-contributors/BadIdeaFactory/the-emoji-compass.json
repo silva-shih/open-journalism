@@ -1,0 +1,47 @@
+[
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "the-emoji-compass",
+    "full_name": "BadIdeaFactory/the-emoji-compass",
+    "id": 2553268,
+    "login": "louh",
+    "user_name": "Lou Huang",
+    "contributions": 230
+  },
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "the-emoji-compass",
+    "full_name": "BadIdeaFactory/the-emoji-compass",
+    "id": 6528572,
+    "login": "margoyle",
+    "user_name": "Margo",
+    "contributions": 25
+  },
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "the-emoji-compass",
+    "full_name": "BadIdeaFactory/the-emoji-compass",
+    "id": 613432,
+    "login": "mstem",
+    "user_name": "Matt",
+    "contributions": 11
+  },
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "the-emoji-compass",
+    "full_name": "BadIdeaFactory/the-emoji-compass",
+    "id": 208884,
+    "login": "slifty",
+    "user_name": "Daniel Schultz",
+    "contributions": 10
+  },
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "the-emoji-compass",
+    "full_name": "BadIdeaFactory/the-emoji-compass",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  }
+]

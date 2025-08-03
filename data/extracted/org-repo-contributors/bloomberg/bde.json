@@ -1,0 +1,767 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2048858,
+    "login": "mversche",
+    "user_name": "Mike Verschell",
+    "contributions": 1895
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 4334963,
+    "login": "lalawawa",
+    "user_name": "Bill Chapman",
+    "contributions": 1286
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1092730,
+    "login": "RMGiroux",
+    "user_name": "Mike Giroux",
+    "contributions": 1276
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2341947,
+    "login": "abeels",
+    "user_name": "Alexander Beels",
+    "contributions": 898
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1092626,
+    "login": "cppguru",
+    "user_name": "Attila Feh\u00e9r",
+    "contributions": 815
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 12657036,
+    "login": "osubboo",
+    "user_name": "Oleg Subbotin",
+    "contributions": 714
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 4554328,
+    "login": "hyrosen",
+    "user_name": "Hyman Rosen",
+    "contributions": 703
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 449609,
+    "login": "AlisdairM",
+    "user_name": "Alisdair Meredith",
+    "contributions": 678
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2389112,
+    "login": "sbreitstein",
+    "user_name": "Steven Breitstein",
+    "contributions": 653
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2591678,
+    "login": "cwilson9",
+    "user_name": null,
+    "contributions": 479
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 77207807,
+    "login": "MungoG",
+    "user_name": null,
+    "contributions": 295
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 984419,
+    "login": "phalpern",
+    "user_name": "Pablo Halpern",
+    "contributions": 243
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 6181611,
+    "login": "adambde",
+    "user_name": null,
+    "contributions": 199
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5730540,
+    "login": "glaptev",
+    "user_name": null,
+    "contributions": 190
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 126901975,
+    "login": "nosybug",
+    "user_name": "Nathan Roy",
+    "contributions": 142
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2295003,
+    "login": "che2",
+    "user_name": "Chen He",
+    "contributions": 136
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2495654,
+    "login": "gbleaney",
+    "user_name": "Graham Bleaney",
+    "contributions": 118
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 8160500,
+    "login": "nmyers12",
+    "user_name": null,
+    "contributions": 112
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 61800721,
+    "login": "joshuaberne",
+    "user_name": null,
+    "contributions": 106
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5614143,
+    "login": "apl8378",
+    "user_name": null,
+    "contributions": 99
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 949076,
+    "login": "t3nsor",
+    "user_name": "Brian Bi",
+    "contributions": 91
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5553465,
+    "login": "jmendelsohn",
+    "user_name": null,
+    "contributions": 89
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 3090716,
+    "login": "openbloomberg",
+    "user_name": "Open Bloomberg",
+    "contributions": 82
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 102317002,
+    "login": "jfevold-bbg",
+    "user_name": "Jake Fevold",
+    "contributions": 73
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 767372,
+    "login": "apaprocki",
+    "user_name": "Andrew Paprocki",
+    "contributions": 36
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 839103,
+    "login": "gstrauss",
+    "user_name": "Glenn Strauss",
+    "contributions": 33
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2286499,
+    "login": "azakhar",
+    "user_name": "Alexei Zakharov",
+    "contributions": 30
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 60375561,
+    "login": "bottha123",
+    "user_name": null,
+    "contributions": 29
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 305938,
+    "login": "kpfleming",
+    "user_name": "Kevin P. Fleming",
+    "contributions": 19
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 29150255,
+    "login": "gchassiakos",
+    "user_name": "George Chassiakos",
+    "contributions": 18
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 6001823,
+    "login": "khlebnikov",
+    "user_name": null,
+    "contributions": 17
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 415822,
+    "login": "dharesign",
+    "user_name": "Daryl Haresign",
+    "contributions": 13
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 7427647,
+    "login": "densokolov",
+    "user_name": "Denis Sokolov",
+    "contributions": 10
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 435950,
+    "login": "c4rlo",
+    "user_name": "Carlo Teubner",
+    "contributions": 8
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 28952568,
+    "login": "mthorpe7",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2180969,
+    "login": "frutiger",
+    "user_name": "Masud Rahman",
+    "contributions": 8
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 6458642,
+    "login": "cpoerschke",
+    "user_name": "Christine Poerschke",
+    "contributions": 7
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1799998,
+    "login": "ccotter",
+    "user_name": "Chris Cotter",
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2787248,
+    "login": "gjenkins8",
+    "user_name": "George Jenkins",
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 77253966,
+    "login": "stevenpackardblp",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5047848,
+    "login": "blueimpb",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 57705710,
+    "login": "NinaRanns",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 167192,
+    "login": "mclow",
+    "user_name": "Marshall Clow",
+    "contributions": 5
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 714940,
+    "login": "trollixx",
+    "user_name": "Oleg Shparber",
+    "contributions": 4
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 24393261,
+    "login": "dbeer1",
+    "user_name": "Daniel Beer",
+    "contributions": 4
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1509898,
+    "login": "lxv",
+    "user_name": "Alex Vasylenko",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5307571,
+    "login": "edbaunton",
+    "user_name": "Ed Baunton",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 59473880,
+    "login": "filip-simek",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 4711499,
+    "login": "hallfox",
+    "user_name": "Taylor Foxhall",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 918661,
+    "login": "vittorioromeo",
+    "user_name": "Vittorio Romeo",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1284017,
+    "login": "ericvw",
+    "user_name": "Eric N. Vander Weele",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 173255213,
+    "login": "ddragan-bloomberg",
+    "user_name": "Dmitry Dragan",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 40857816,
+    "login": "bbnil",
+    "user_name": "Nicolas Limare",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1176427,
+    "login": "EricWF",
+    "user_name": "Eric",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2517058,
+    "login": "chrisbeard",
+    "user_name": "Chris Beard",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 102149,
+    "login": "amdn",
+    "user_name": "Arturo Mart\u00edn-de-Nicol\u00e1s",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 8688782,
+    "login": "moconor",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 184796,
+    "login": "metti",
+    "user_name": "Matthias Maennich",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 816245,
+    "login": "thorpe-dev",
+    "user_name": "Michael Thorpe",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 102348,
+    "login": "mikesep",
+    "user_name": "Mike Seplowitz",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 73397,
+    "login": "MikeWeller",
+    "user_name": "Mike Weller",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 957902,
+    "login": "PeterMartini",
+    "user_name": "Peter Martini",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 61419851,
+    "login": "rtartler-blp",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 20797997,
+    "login": "Sammyalhashe",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 521513,
+    "login": "seanbaxter",
+    "user_name": "Sean Baxter",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5024860,
+    "login": "shanson7",
+    "user_name": "Sean Hanson",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1606576,
+    "login": "bulldy80",
+    "user_name": "Shezan Baig",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 31426,
+    "login": "Stackingit",
+    "user_name": "Stephen Bailey",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1793047,
+    "login": "ThosRTanner",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5280285,
+    "login": "albaltimore",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 177446,
+    "login": "sharmajai",
+    "user_name": "Jai Sharma",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 16568328,
+    "login": "lesterfan",
+    "user_name": "Lester Fan",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 8501952,
+    "login": "kjedruczyk",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 6796558,
+    "login": "gokcennurlu",
+    "user_name": "G\u00f6k\u00e7en Nurlu",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 53044964,
+    "login": "fwasserman1",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 210544772,
+    "login": "eseabrook1",
+    "user_name": "Edward Seabrook",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 4148345,
+    "login": "david-w-t",
+    "user_name": "David W. Thomas",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 20476609,
+    "login": "dr3rd",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 931195,
+    "login": "dribeas",
+    "user_name": "David Rodr\u00edguez Ibeas",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 5205367,
+    "login": "dgoffredo",
+    "user_name": "David Goffredo",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 81195,
+    "login": "ruoso",
+    "user_name": "Daniel Ruoso",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 142396601,
+    "login": "brauliovaldivielso",
+    "user_name": "Braulio Valdivielso",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 1717555,
+    "login": "agrapsas",
+    "user_name": "Andrew Grapsas",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 2787845,
+    "login": "abuch",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "bde",
+    "full_name": "bloomberg/bde",
+    "id": 720498,
+    "login": "adamncasey",
+    "user_name": "Adam Casey",
+    "contributions": 1
+  }
+]

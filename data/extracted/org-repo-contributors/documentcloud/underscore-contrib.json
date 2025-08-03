@@ -1,0 +1,380 @@
+[
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 12632,
+    "login": "fogus",
+    "user_name": "Fogus",
+    "contributions": 297
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 171086,
+    "login": "joshuacc",
+    "user_name": "Joshua Clanton",
+    "contributions": 128
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 1540185,
+    "login": "jgonggrijp",
+    "user_name": "Julian Gonggrijp",
+    "contributions": 65
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 17293,
+    "login": "pdubroy",
+    "user_name": "Patrick Dubroy",
+    "contributions": 16
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 17715,
+    "login": "raganwald",
+    "user_name": "Reg Braithwaite",
+    "contributions": 16
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 14
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 545655,
+    "login": "eborden",
+    "user_name": "Evan Rutledge Borden",
+    "contributions": 14
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 1113433,
+    "login": "AlphaGit",
+    "user_name": "Alpha",
+    "contributions": 12
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 607976,
+    "login": "jonahbron",
+    "user_name": "Jonah Bron",
+    "contributions": 12
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 6885356,
+    "login": "tomrogers42",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 215030,
+    "login": "DarrenN",
+    "user_name": "Darren",
+    "contributions": 7
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 76208,
+    "login": "seidtgeist",
+    "user_name": "Stephan Seidt",
+    "contributions": 6
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 249764,
+    "login": "krawaller",
+    "user_name": "David Waller",
+    "contributions": 4
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 3513394,
+    "login": "NetsydeMiro",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 542296,
+    "login": "tracend",
+    "user_name": "\u270c Makis Tracend",
+    "contributions": 3
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 32344,
+    "login": "locks",
+    "user_name": "Ricardo Mendes",
+    "contributions": 3
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 3475472,
+    "login": "megawac",
+    "user_name": "Graeme Yeates",
+    "contributions": 3
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 1215414,
+    "login": "zimme",
+    "user_name": "Simon Fridlund",
+    "contributions": 2
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 3238370,
+    "login": "mieszko4",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 422180,
+    "login": "bruun",
+    "user_name": "Thomas Bruun",
+    "contributions": 2
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 19592640,
+    "login": "gyeates",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 604618,
+    "login": "gsamokovarov",
+    "user_name": "Genadi Samokovarov",
+    "contributions": 2
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 7529,
+    "login": "sroccaserra",
+    "user_name": "S\u00e9bastien Roccaserra",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 1523570,
+    "login": "dbwhddn10",
+    "user_name": "jongwoo Yoo",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 1276139,
+    "login": "pwlmc",
+    "user_name": "Pawe\u0142 Maciejewski",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 154748,
+    "login": "tgriesser",
+    "user_name": "Tim Griesser",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 192,
+    "login": "knowtheory",
+    "user_name": "Ted Han",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 2124761,
+    "login": "StreetStrider",
+    "user_name": "Strider",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 36221,
+    "login": "Serabe",
+    "user_name": "Sergio Arbeo",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 290782,
+    "login": "tricknotes",
+    "user_name": "Ryunosuke Sato",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 151715,
+    "login": "rwky",
+    "user_name": "Rowan",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 567058,
+    "login": "codelahoma",
+    "user_name": "Rod Knowlton",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 591299,
+    "login": "mafiosso",
+    "user_name": "Pavel Proch\u00e1zka",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 2576444,
+    "login": "manrueda",
+    "user_name": "Manuel Rueda",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 730594,
+    "login": "outdooricon",
+    "user_name": "Johnathon Sanders",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 228496,
+    "login": "int3",
+    "user_name": "Jez Ng",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 4732,
+    "login": "jashkenas",
+    "user_name": "Jeremy Ashkenas",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 340,
+    "login": "jamesmacaulay",
+    "user_name": "James MacAulay",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 556490,
+    "login": "obmarg",
+    "user_name": "Graeme Coupar",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 64319,
+    "login": "chyld",
+    "user_name": "Chyld Medford",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 166258,
+    "login": "brianloveswords",
+    "user_name": "Brian J Brennan",
+    "contributions": 1
+  },
+  {
+    "org": "documentcloud",
+    "repo_name": "underscore-contrib",
+    "full_name": "documentcloud/underscore-contrib",
+    "id": 1135670,
+    "login": "yablonsky",
+    "user_name": "Andriy Yablonskyy",
+    "contributions": 1
+  }
+]

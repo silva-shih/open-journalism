@@ -1,0 +1,20 @@
+[
+  {
+    "org": "datamade",
+    "repo_name": "datasette-datatable",
+    "full_name": "datamade/datasette-datatable",
+    "id": 536941,
+    "login": "fgregg",
+    "user_name": "Forest Gregg",
+    "contributions": 22
+  },
+  {
+    "org": "datamade",
+    "repo_name": "datasette-datatable",
+    "full_name": "datamade/datasette-datatable",
+    "id": 9599,
+    "login": "simonw",
+    "user_name": "Simon Willison",
+    "contributions": 7
+  }
+]

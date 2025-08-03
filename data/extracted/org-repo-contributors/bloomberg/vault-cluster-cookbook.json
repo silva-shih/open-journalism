@@ -1,0 +1,38 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "vault-cluster-cookbook",
+    "full_name": "bloomberg/vault-cluster-cookbook",
+    "id": 241756,
+    "login": "johnbellone",
+    "user_name": "John Bellone",
+    "contributions": 8
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "vault-cluster-cookbook",
+    "full_name": "bloomberg/vault-cluster-cookbook",
+    "id": 17652201,
+    "login": "jjustice6",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "vault-cluster-cookbook",
+    "full_name": "bloomberg/vault-cluster-cookbook",
+    "id": 4063920,
+    "login": "samuelbohler",
+    "user_name": "Samuel Bohler",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "vault-cluster-cookbook",
+    "full_name": "bloomberg/vault-cluster-cookbook",
+    "id": 692769,
+    "login": "sh9189",
+    "user_name": "Shahul Hameed",
+    "contributions": 1
+  }
+]

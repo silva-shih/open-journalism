@@ -1,0 +1,29 @@
+[
+  {
+    "org": "azpm",
+    "repo_name": "django-scampi-cms",
+    "full_name": "azpm/django-scampi-cms",
+    "id": 2166295,
+    "login": "qwijib0",
+    "user_name": "Jason Katterhenry",
+    "contributions": 73
+  },
+  {
+    "org": "azpm",
+    "repo_name": "django-scampi-cms",
+    "full_name": "azpm/django-scampi-cms",
+    "id": 7884024,
+    "login": "aswedbergh",
+    "user_name": null,
+    "contributions": 10
+  },
+  {
+    "org": "azpm",
+    "repo_name": "django-scampi-cms",
+    "full_name": "azpm/django-scampi-cms",
+    "id": 1682643,
+    "login": "multigl",
+    "user_name": "Joey Leingang",
+    "contributions": 1
+  }
+]

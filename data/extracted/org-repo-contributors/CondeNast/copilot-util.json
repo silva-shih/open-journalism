@@ -1,0 +1,101 @@
+[
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 156808,
+    "login": "paulfryzel",
+    "user_name": "Paul Fryzel",
+    "contributions": 48
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 23040076,
+    "login": "greenkeeper[bot]",
+    "user_name": null,
+    "contributions": 29
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 4885634,
+    "login": "pgoldrbx",
+    "user_name": "Phil Gold",
+    "contributions": 22
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 911603,
+    "login": "landau",
+    "user_name": "L",
+    "contributions": 4
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 921795,
+    "login": "tollmanz",
+    "user_name": "Zack Tollman",
+    "contributions": 4
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 248669,
+    "login": "giles-v",
+    "user_name": "Giles Copp",
+    "contributions": 1
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 2047725,
+    "login": "guyellis",
+    "user_name": "Guy Ellis",
+    "contributions": 1
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 25180681,
+    "login": "renovate-bot",
+    "user_name": "Mend Renovate",
+    "contributions": 1
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "copilot-util",
+    "full_name": "CondeNast/copilot-util",
+    "id": 38790,
+    "login": "papajuans",
+    "user_name": "Ryan J",
+    "contributions": 1
+  }
+]

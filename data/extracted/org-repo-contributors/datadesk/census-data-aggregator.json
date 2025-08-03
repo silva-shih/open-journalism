@@ -1,0 +1,47 @@
+[
+  {
+    "org": "datadesk",
+    "repo_name": "census-data-aggregator",
+    "full_name": "datadesk/census-data-aggregator",
+    "id": 9993,
+    "login": "palewire",
+    "user_name": "Ben Welsh",
+    "contributions": 80
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "census-data-aggregator",
+    "full_name": "datadesk/census-data-aggregator",
+    "id": 6131960,
+    "login": "sastoudt",
+    "user_name": "Sara Stoudt",
+    "contributions": 33
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "census-data-aggregator",
+    "full_name": "datadesk/census-data-aggregator",
+    "id": 5997156,
+    "login": "nkrishnaswami",
+    "user_name": "Natarajan Krishnaswami",
+    "contributions": 5
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "census-data-aggregator",
+    "full_name": "datadesk/census-data-aggregator",
+    "id": 22920929,
+    "login": "irisslee",
+    "user_name": "Iris Lee",
+    "contributions": 3
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "census-data-aggregator",
+    "full_name": "datadesk/census-data-aggregator",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

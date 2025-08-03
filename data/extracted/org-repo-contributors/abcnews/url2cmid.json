@@ -1,0 +1,29 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "url2cmid",
+    "full_name": "abcnews/url2cmid",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 20
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "url2cmid",
+    "full_name": "abcnews/url2cmid",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "url2cmid",
+    "full_name": "abcnews/url2cmid",
+    "id": 49600,
+    "login": "AshKyd",
+    "user_name": "Ash Kyd",
+    "contributions": 2
+  }
+]

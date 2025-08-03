@@ -1,0 +1,20 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "poll-counters",
+    "full_name": "abcnews/poll-counters",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 1
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "poll-counters",
+    "full_name": "abcnews/poll-counters",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

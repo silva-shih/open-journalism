@@ -1,0 +1,20 @@
+[
+  {
+    "org": "coralproject",
+    "repo_name": "package-version-lint",
+    "full_name": "coralproject/package-version-lint",
+    "id": 633002,
+    "login": "wyattjoh",
+    "user_name": "Wyatt Johnson",
+    "contributions": 12
+  },
+  {
+    "org": "coralproject",
+    "repo_name": "package-version-lint",
+    "full_name": "coralproject/package-version-lint",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

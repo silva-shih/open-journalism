@@ -1,0 +1,29 @@
+[
+  {
+    "org": "alephdata",
+    "repo_name": "datadesktop",
+    "full_name": "alephdata/datadesktop",
+    "id": 6720200,
+    "login": "kjacks",
+    "user_name": "Kirk Jackson",
+    "contributions": 111
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "datadesktop",
+    "full_name": "alephdata/datadesktop",
+    "id": 1512805,
+    "login": "tillprochaska",
+    "user_name": "Till Prochaska",
+    "contributions": 8
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "datadesktop",
+    "full_name": "alephdata/datadesktop",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

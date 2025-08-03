@@ -1,0 +1,47 @@
+[
+  {
+    "org": "datadesk",
+    "repo_name": "nifc-wildfires",
+    "full_name": "datadesk/nifc-wildfires",
+    "id": 65916846,
+    "login": "actions-user",
+    "user_name": null,
+    "contributions": 2138
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nifc-wildfires",
+    "full_name": "datadesk/nifc-wildfires",
+    "id": 9993,
+    "login": "palewire",
+    "user_name": "Ben Welsh",
+    "contributions": 44
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nifc-wildfires",
+    "full_name": "datadesk/nifc-wildfires",
+    "id": 3526984,
+    "login": "caseymm",
+    "user_name": "Casey Miller",
+    "contributions": 29
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nifc-wildfires",
+    "full_name": "datadesk/nifc-wildfires",
+    "id": 22920929,
+    "login": "irisslee",
+    "user_name": "Iris Lee",
+    "contributions": 9
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nifc-wildfires",
+    "full_name": "datadesk/nifc-wildfires",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "org": "datadesk",
+    "repo_name": "nasa-wildfires",
+    "full_name": "datadesk/nasa-wildfires",
+    "id": 65916846,
+    "login": "actions-user",
+    "user_name": null,
+    "contributions": 4943
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nasa-wildfires",
+    "full_name": "datadesk/nasa-wildfires",
+    "id": 9993,
+    "login": "palewire",
+    "user_name": "Ben Welsh",
+    "contributions": 65
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nasa-wildfires",
+    "full_name": "datadesk/nasa-wildfires",
+    "id": 22920929,
+    "login": "irisslee",
+    "user_name": "Iris Lee",
+    "contributions": 22
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nasa-wildfires",
+    "full_name": "datadesk/nasa-wildfires",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 10
+  },
+  {
+    "org": "datadesk",
+    "repo_name": "nasa-wildfires",
+    "full_name": "datadesk/nasa-wildfires",
+    "id": 3526984,
+    "login": "caseymm",
+    "user_name": "Casey Miller",
+    "contributions": 8
+  }
+]

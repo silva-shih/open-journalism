@@ -1,0 +1,47 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "quiz-viewer",
+    "full_name": "abcnews/quiz-viewer",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 119
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "quiz-viewer",
+    "full_name": "abcnews/quiz-viewer",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "quiz-viewer",
+    "full_name": "abcnews/quiz-viewer",
+    "id": 1884292,
+    "login": "ljcl",
+    "user_name": "Luke Clark",
+    "contributions": 3
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "quiz-viewer",
+    "full_name": "abcnews/quiz-viewer",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "quiz-viewer",
+    "full_name": "abcnews/quiz-viewer",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 2
+  }
+]

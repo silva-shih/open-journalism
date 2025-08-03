@@ -1,0 +1,38 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "3d-graph-scrollyteller",
+    "full_name": "abcnews/3d-graph-scrollyteller",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 70
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "3d-graph-scrollyteller",
+    "full_name": "abcnews/3d-graph-scrollyteller",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 40
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "3d-graph-scrollyteller",
+    "full_name": "abcnews/3d-graph-scrollyteller",
+    "id": 78984,
+    "login": "nathanhoad",
+    "user_name": "Nathan Hoad",
+    "contributions": 25
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "3d-graph-scrollyteller",
+    "full_name": "abcnews/3d-graph-scrollyteller",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 5
+  }
+]

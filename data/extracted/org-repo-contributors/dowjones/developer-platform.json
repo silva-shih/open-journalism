@@ -1,0 +1,29 @@
+[
+  {
+    "org": "dowjones",
+    "repo_name": "developer-platform",
+    "full_name": "dowjones/developer-platform",
+    "id": 10422175,
+    "login": "thehonduranjazzman",
+    "user_name": "David Gutierrez",
+    "contributions": 27
+  },
+  {
+    "org": "dowjones",
+    "repo_name": "developer-platform",
+    "full_name": "dowjones/developer-platform",
+    "id": 12716687,
+    "login": "miballe",
+    "user_name": "Miguel Ballesteros",
+    "contributions": 26
+  },
+  {
+    "org": "dowjones",
+    "repo_name": "developer-platform",
+    "full_name": "dowjones/developer-platform",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  }
+]

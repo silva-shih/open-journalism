@@ -1,0 +1,20 @@
+[
+  {
+    "org": "biglocalnews",
+    "repo_name": "local-election-results-etl",
+    "full_name": "biglocalnews/local-election-results-etl",
+    "id": 9993,
+    "login": "palewire",
+    "user_name": "Ben Welsh",
+    "contributions": 1968
+  },
+  {
+    "org": "biglocalnews",
+    "repo_name": "local-election-results-etl",
+    "full_name": "biglocalnews/local-election-results-etl",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 12
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "bad-decision-maker",
+    "full_name": "BadIdeaFactory/bad-decision-maker",
+    "id": 1103467,
+    "login": "chriszs",
+    "user_name": "Chris Zubak-Skees",
+    "contributions": 141
+  },
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "bad-decision-maker",
+    "full_name": "BadIdeaFactory/bad-decision-maker",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 19
+  },
+  {
+    "org": "BadIdeaFactory",
+    "repo_name": "bad-decision-maker",
+    "full_name": "BadIdeaFactory/bad-decision-maker",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

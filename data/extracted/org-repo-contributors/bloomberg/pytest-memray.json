@@ -1,0 +1,92 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 28
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 690238,
+    "login": "gaborbernat",
+    "user_name": "Bern\u00e1t G\u00e1bor",
+    "contributions": 28
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 11718525,
+    "login": "pablogsal",
+    "user_name": "Pablo Galindo Salgado",
+    "contributions": 19
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 29423,
+    "login": "godlygeek",
+    "user_name": "Matt Wozniski",
+    "contributions": 15
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 5324472,
+    "login": "tdtshafer",
+    "user_name": "Travis Shafer",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 3266662,
+    "login": "itamarst",
+    "user_name": "Itamar Turner-Trauring",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 7935591,
+    "login": "ChaoticRoman",
+    "user_name": "Roman Pavelka",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 7753540,
+    "login": "vlad-ro",
+    "user_name": "Vlad Romanenko",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 14153264,
+    "login": "petr-tik",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "pytest-memray",
+    "full_name": "bloomberg/pytest-memray",
+    "id": 32220263,
+    "login": "ice-tong",
+    "user_name": "yancong",
+    "contributions": 1
+  }
+]

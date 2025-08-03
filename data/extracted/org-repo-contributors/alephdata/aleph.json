@@ -1,0 +1,587 @@
+[
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 41628,
+    "login": "pudo",
+    "user_name": "Friedrich Lindenberg",
+    "contributions": 5653
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 6720200,
+    "login": "kjacks",
+    "user_name": "Kirk Jackson",
+    "contributions": 1426
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 593
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 217554,
+    "login": "stchris",
+    "user_name": "Christian Stefanescu",
+    "contributions": 574
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 1512805,
+    "login": "tillprochaska",
+    "user_name": "Till Prochaska",
+    "contributions": 484
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 1142203,
+    "login": "sunu",
+    "user_name": "Tarashish Mishra",
+    "contributions": 419
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 402
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 33932832,
+    "login": "emmina",
+    "user_name": "Emina Muratovic",
+    "contributions": 331
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 33520749,
+    "login": "benoccrp",
+    "user_name": "Ben",
+    "contributions": 262
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 595695,
+    "login": "iaincollins",
+    "user_name": "Iain Collins",
+    "contributions": 155
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 3075886,
+    "login": "dkhurshudian",
+    "user_name": "Davit",
+    "contributions": 135
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 2084823,
+    "login": "wpf500",
+    "user_name": "Will Franklin",
+    "contributions": 132
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 112147,
+    "login": "stas",
+    "user_name": "Stas",
+    "contributions": 107
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 466229,
+    "login": "rhiaro",
+    "user_name": "Amy Guy",
+    "contributions": 98
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 14028425,
+    "login": "catileptic",
+    "user_name": "Alex \u0218tef\u0103nescu",
+    "contributions": 92
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 340405,
+    "login": "Rosencrantz",
+    "user_name": "Steve Haffenden",
+    "contributions": 91
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 1635212,
+    "login": "felixebert",
+    "user_name": "Felix Ebert",
+    "contributions": 46
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 2598420,
+    "login": "lepstep",
+    "user_name": null,
+    "contributions": 32
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 25503285,
+    "login": "smmbllsm",
+    "user_name": null,
+    "contributions": 31
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 8058332,
+    "login": "simonwoerpel",
+    "user_name": "Simon W\u00f6rpel",
+    "contributions": 26
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 647123,
+    "login": "andkamau",
+    "user_name": "Andrew Kamau",
+    "contributions": 26
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 4178542,
+    "login": "longhotsummer",
+    "user_name": "Greg Kempe",
+    "contributions": 17
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 877919,
+    "login": "DavidLemayian",
+    "user_name": "David Lemayian \u2728",
+    "contributions": 17
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 47370,
+    "login": "mynameisfiber",
+    "user_name": "Micha Gorelick",
+    "contributions": 16
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 97825,
+    "login": "Ueland",
+    "user_name": "Tor-Henning Ueland",
+    "contributions": 11
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 156128,
+    "login": "micahflee",
+    "user_name": "Micah Lee",
+    "contributions": 10
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 7926375,
+    "login": "jcshea",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 64605526,
+    "login": "dschulz-pnnl",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 86304937,
+    "login": "monneyboi",
+    "user_name": "Johan Schuijt",
+    "contributions": 7
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 5634227,
+    "login": "Rinatius",
+    "user_name": "Rinat Tuhvatshin",
+    "contributions": 6
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 235801,
+    "login": "jbothma",
+    "user_name": "JD Bothma",
+    "contributions": 5
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 3785873,
+    "login": "jlstro",
+    "user_name": "Jan",
+    "contributions": 5
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 17057932,
+    "login": "zekehuntergreen",
+    "user_name": "Zeke Hunter-Green",
+    "contributions": 5
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 59644018,
+    "login": "brassy-endomorph",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 1032692,
+    "login": "arp242",
+    "user_name": "Martin Tournoij",
+    "contributions": 4
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 2947742,
+    "login": "jalmquist",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 67607152,
+    "login": "bakrale",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 1915165,
+    "login": "nabla-c0d3",
+    "user_name": "Alban Diquet",
+    "contributions": 3
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 22011652,
+    "login": "msmych",
+    "user_name": "Matvey Smychkov",
+    "contributions": 3
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 78356,
+    "login": "stefanw",
+    "user_name": "Stefan Wehrmeyer",
+    "contributions": 3
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 2970510,
+    "login": "vsessink",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 137180728,
+    "login": "richardjennings-occrp",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 27774810,
+    "login": "uhhhuh",
+    "user_name": "jen",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 167054547,
+    "login": "friendly-wolfbat",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 16307866,
+    "login": "fastbone",
+    "user_name": "Gerold K.",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 25808,
+    "login": "fin",
+    "user_name": "Markus \u203afin\u2039 Hametner",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 650939,
+    "login": "maquchizi",
+    "user_name": "Mark Ng'ang'a",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 2070272,
+    "login": "jpilet",
+    "user_name": "Julien Pilet",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 198988,
+    "login": "davidknezic",
+    "user_name": "David Knezi\u0107",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 132355,
+    "login": "singingwolfboy",
+    "user_name": "David Baumgold",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 6331,
+    "login": "danohu",
+    "user_name": "Dan O'Huiginn",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 3830518,
+    "login": "cdharris",
+    "user_name": "Chris Harris",
+    "contributions": 2
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 32266057,
+    "login": "martyna-autumn",
+    "user_name": "Martyna",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 43172581,
+    "login": "riotbib",
+    "user_name": "lennart",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 4411267,
+    "login": "ksotik",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 48024900,
+    "login": "adryd325",
+    "user_name": "adryd",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 5577568,
+    "login": "tdurieux",
+    "user_name": "Thomas Durieux",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 79198460,
+    "login": "PitaHat",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 7547623,
+    "login": "milo-trujillo",
+    "user_name": "Milo Trujillo",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 282964,
+    "login": "mattcg",
+    "user_name": "Matthew Caruana Galizia",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 2861042,
+    "login": "moreymat",
+    "user_name": "Mathieu Morey",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 3050006,
+    "login": "catskillmarina",
+    "user_name": "Marina Brown",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 70441,
+    "login": "sungraze",
+    "user_name": "\u0218tefan Schipor",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 4598145,
+    "login": "mevey",
+    "user_name": "Eve",
+    "contributions": 1
+  },
+  {
+    "org": "alephdata",
+    "repo_name": "aleph",
+    "full_name": "alephdata/aleph",
+    "id": 29301569,
+    "login": "critocrito",
+    "user_name": "Christo Buschek",
+    "contributions": 1
+  }
+]

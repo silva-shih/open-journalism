@@ -1,0 +1,29 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "terminus-fetch",
+    "full_name": "abcnews/terminus-fetch",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 36
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "terminus-fetch",
+    "full_name": "abcnews/terminus-fetch",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 10
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "terminus-fetch",
+    "full_name": "abcnews/terminus-fetch",
+    "id": 78984,
+    "login": "nathanhoad",
+    "user_name": "Nathan Hoad",
+    "contributions": 5
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "org": "CondeNast",
+    "repo_name": "offset",
+    "full_name": "CondeNast/offset",
+    "id": 177701,
+    "login": "tim-evans",
+    "user_name": "Tim Evans",
+    "contributions": 2
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "offset",
+    "full_name": "CondeNast/offset",
+    "id": 959675,
+    "login": "bachbui",
+    "user_name": "Bach Bui",
+    "contributions": 1
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "offset",
+    "full_name": "CondeNast/offset",
+    "id": 25180681,
+    "login": "renovate-bot",
+    "user_name": "Mend Renovate",
+    "contributions": 1
+  }
+]

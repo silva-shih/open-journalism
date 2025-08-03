@@ -1,0 +1,29 @@
+[
+  {
+    "org": "censusreporter",
+    "repo_name": "acs-aggregate",
+    "full_name": "censusreporter/acs-aggregate",
+    "id": 46313,
+    "login": "JoeGermuska",
+    "user_name": "Joe Germuska",
+    "contributions": 29
+  },
+  {
+    "org": "censusreporter",
+    "repo_name": "acs-aggregate",
+    "full_name": "censusreporter/acs-aggregate",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "censusreporter",
+    "repo_name": "acs-aggregate",
+    "full_name": "censusreporter/acs-aggregate",
+    "id": 1116857,
+    "login": "brentajones",
+    "user_name": "Brent Jones",
+    "contributions": 1
+  }
+]

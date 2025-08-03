@@ -1,0 +1,29 @@
+[
+  {
+    "org": "datahub",
+    "repo_name": "data-sources",
+    "full_name": "datahub/data-sources",
+    "id": 10605170,
+    "login": "mtandre",
+    "user_name": "Michael Andre",
+    "contributions": 12
+  },
+  {
+    "org": "datahub",
+    "repo_name": "data-sources",
+    "full_name": "datahub/data-sources",
+    "id": 5270903,
+    "login": "armollica",
+    "user_name": "Andrew Mollica",
+    "contributions": 7
+  },
+  {
+    "org": "datahub",
+    "repo_name": "data-sources",
+    "full_name": "datahub/data-sources",
+    "id": 2718219,
+    "login": "erincaughey",
+    "user_name": "Erin Caughey",
+    "contributions": 5
+  }
+]

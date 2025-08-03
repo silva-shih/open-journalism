@@ -1,0 +1,38 @@
+[
+  {
+    "org": "censusreporter",
+    "repo_name": "census-table-metadata",
+    "full_name": "censusreporter/census-table-metadata",
+    "id": 261584,
+    "login": "iandees",
+    "user_name": "Ian Dees",
+    "contributions": 171
+  },
+  {
+    "org": "censusreporter",
+    "repo_name": "census-table-metadata",
+    "full_name": "censusreporter/census-table-metadata",
+    "id": 46313,
+    "login": "JoeGermuska",
+    "user_name": "Joe Germuska",
+    "contributions": 25
+  },
+  {
+    "org": "censusreporter",
+    "repo_name": "census-table-metadata",
+    "full_name": "censusreporter/census-table-metadata",
+    "id": 56477,
+    "login": "ryanpitts",
+    "user_name": "Ryan Pitts",
+    "contributions": 4
+  },
+  {
+    "org": "censusreporter",
+    "repo_name": "census-table-metadata",
+    "full_name": "censusreporter/census-table-metadata",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

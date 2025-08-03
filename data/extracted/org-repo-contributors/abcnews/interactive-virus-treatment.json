@@ -1,0 +1,38 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-virus-treatment",
+    "full_name": "abcnews/interactive-virus-treatment",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 51
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-virus-treatment",
+    "full_name": "abcnews/interactive-virus-treatment",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 3
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-virus-treatment",
+    "full_name": "abcnews/interactive-virus-treatment",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 2
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-virus-treatment",
+    "full_name": "abcnews/interactive-virus-treatment",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

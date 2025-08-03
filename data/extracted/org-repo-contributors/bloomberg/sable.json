@@ -1,0 +1,38 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "sable",
+    "full_name": "bloomberg/sable",
+    "id": 10169239,
+    "login": "jabellard",
+    "user_name": "Joe Nathan Abellard",
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "sable",
+    "full_name": "bloomberg/sable",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "sable",
+    "full_name": "bloomberg/sable",
+    "id": 35130198,
+    "login": "imakovoz",
+    "user_name": "Ilya Makovoz",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "sable",
+    "full_name": "bloomberg/sable",
+    "id": 1246228,
+    "login": "michaelmoss",
+    "user_name": "Michael Moss",
+    "contributions": 1
+  }
+]

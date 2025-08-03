@@ -1,0 +1,29 @@
+[
+  {
+    "org": "biglocalnews",
+    "repo_name": "datasette.biglocalnews.org",
+    "full_name": "biglocalnews/datasette.biglocalnews.org",
+    "id": 9993,
+    "login": "palewire",
+    "user_name": "Ben Welsh",
+    "contributions": 8
+  },
+  {
+    "org": "biglocalnews",
+    "repo_name": "datasette.biglocalnews.org",
+    "full_name": "biglocalnews/datasette.biglocalnews.org",
+    "id": 1138559,
+    "login": "esagara",
+    "user_name": "Eric Sagara",
+    "contributions": 2
+  },
+  {
+    "org": "biglocalnews",
+    "repo_name": "datasette.biglocalnews.org",
+    "full_name": "biglocalnews/datasette.biglocalnews.org",
+    "id": 9599,
+    "login": "simonw",
+    "user_name": "Simon Willison",
+    "contributions": 1
+  }
+]

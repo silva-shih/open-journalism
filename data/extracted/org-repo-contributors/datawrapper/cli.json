@@ -1,0 +1,29 @@
+[
+  {
+    "org": "datawrapper",
+    "repo_name": "cli",
+    "full_name": "datawrapper/cli",
+    "id": 5798652,
+    "login": "sto3psl",
+    "user_name": "Fabian",
+    "contributions": 56
+  },
+  {
+    "org": "datawrapper",
+    "repo_name": "cli",
+    "full_name": "datawrapper/cli",
+    "id": 617518,
+    "login": "gka",
+    "user_name": "Gregor Aisch",
+    "contributions": 8
+  },
+  {
+    "org": "datawrapper",
+    "repo_name": "cli",
+    "full_name": "datawrapper/cli",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 8
+  }
+]

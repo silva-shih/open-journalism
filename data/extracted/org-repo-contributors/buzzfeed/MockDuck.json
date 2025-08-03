@@ -1,0 +1,38 @@
+[
+  {
+    "org": "buzzfeed",
+    "repo_name": "MockDuck",
+    "full_name": "buzzfeed/MockDuck",
+    "id": 8086,
+    "login": "scelis",
+    "user_name": "Sebastian Celis",
+    "contributions": 57
+  },
+  {
+    "org": "buzzfeed",
+    "repo_name": "MockDuck",
+    "full_name": "buzzfeed/MockDuck",
+    "id": 1249875,
+    "login": "abbasmousavi",
+    "user_name": "Abbas Mousavi",
+    "contributions": 2
+  },
+  {
+    "org": "buzzfeed",
+    "repo_name": "MockDuck",
+    "full_name": "buzzfeed/MockDuck",
+    "id": 176368,
+    "login": "pwalters",
+    "user_name": "Pete Walters",
+    "contributions": 1
+  },
+  {
+    "org": "buzzfeed",
+    "repo_name": "MockDuck",
+    "full_name": "buzzfeed/MockDuck",
+    "id": 3542477,
+    "login": "willk37",
+    "user_name": "Will Kalish",
+    "contributions": 1
+  }
+]

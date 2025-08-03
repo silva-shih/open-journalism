@@ -1,0 +1,29 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "encryption-explainer",
+    "full_name": "abcnews/encryption-explainer",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 23
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "encryption-explainer",
+    "full_name": "abcnews/encryption-explainer",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 5
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "encryption-explainer",
+    "full_name": "abcnews/encryption-explainer",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  }
+]

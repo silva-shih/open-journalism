@@ -1,0 +1,38 @@
+[
+  {
+    "org": "baltimore-sun-data",
+    "repo_name": "salaries-datasette",
+    "full_name": "baltimore-sun-data/salaries-datasette",
+    "id": 222245,
+    "login": "earthboundkid",
+    "user_name": "Carlana",
+    "contributions": 144
+  },
+  {
+    "org": "baltimore-sun-data",
+    "repo_name": "salaries-datasette",
+    "full_name": "baltimore-sun-data/salaries-datasette",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "baltimore-sun-data",
+    "repo_name": "salaries-datasette",
+    "full_name": "baltimore-sun-data/salaries-datasette",
+    "id": 3538061,
+    "login": "carolinp",
+    "user_name": "Caroline Pate",
+    "contributions": 6
+  },
+  {
+    "org": "baltimore-sun-data",
+    "repo_name": "salaries-datasette",
+    "full_name": "baltimore-sun-data/salaries-datasette",
+    "id": 5895756,
+    "login": "underthecurve",
+    "user_name": "Christine Zhang",
+    "contributions": 1
+  }
+]

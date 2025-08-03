@@ -1,0 +1,29 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "go-testgroup",
+    "full_name": "bloomberg/go-testgroup",
+    "id": 102348,
+    "login": "mikesep",
+    "user_name": "Mike Seplowitz",
+    "contributions": 46
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "go-testgroup",
+    "full_name": "bloomberg/go-testgroup",
+    "id": 305938,
+    "login": "kpfleming",
+    "user_name": "Kevin P. Fleming",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "go-testgroup",
+    "full_name": "bloomberg/go-testgroup",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

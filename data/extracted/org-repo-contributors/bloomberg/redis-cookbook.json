@@ -1,0 +1,47 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "redis-cookbook",
+    "full_name": "bloomberg/redis-cookbook",
+    "id": 241756,
+    "login": "johnbellone",
+    "user_name": "John Bellone",
+    "contributions": 15
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "redis-cookbook",
+    "full_name": "bloomberg/redis-cookbook",
+    "id": 1391897,
+    "login": "acaiafa",
+    "user_name": "Anthony Caiafa",
+    "contributions": 10
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "redis-cookbook",
+    "full_name": "bloomberg/redis-cookbook",
+    "id": 692769,
+    "login": "sh9189",
+    "user_name": "Shahul Hameed",
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "redis-cookbook",
+    "full_name": "bloomberg/redis-cookbook",
+    "id": 17652201,
+    "login": "jjustice6",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "redis-cookbook",
+    "full_name": "bloomberg/redis-cookbook",
+    "id": 305938,
+    "login": "kpfleming",
+    "user_name": "Kevin P. Fleming",
+    "contributions": 1
+  }
+]

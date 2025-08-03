@@ -1,0 +1,308 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 4192761,
+    "login": "cbaenziger",
+    "user_name": "Clay B.",
+    "contributions": 738
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 6287145,
+    "login": "amithkanand",
+    "user_name": "Amit Anand",
+    "contributions": 315
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 1435487,
+    "login": "http-418",
+    "user_name": "Andrew Jones",
+    "contributions": 302
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 58771,
+    "login": "aespinosa",
+    "user_name": "Allan Espinosa",
+    "contributions": 248
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 2738646,
+    "login": "vt0r",
+    "user_name": "Salvatore LaMendola",
+    "contributions": 222
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 1405876,
+    "login": "pchandra",
+    "user_name": null,
+    "contributions": 219
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 7581305,
+    "login": "bijugs",
+    "user_name": "Biju Nair",
+    "contributions": 170
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 4429072,
+    "login": "mihalis68",
+    "user_name": "Chris Morgan",
+    "contributions": 131
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 2027344,
+    "login": "jerenkrantz",
+    "user_name": "Justin Erenkrantz",
+    "contributions": 116
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 3683228,
+    "login": "leochen4891",
+    "user_name": "Lei Chen",
+    "contributions": 108
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 4019043,
+    "login": "pu239ppy",
+    "user_name": "Lev Bronshtein",
+    "contributions": 103
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 4454094,
+    "login": "kiiranh",
+    "user_name": "Kiran Gavali",
+    "contributions": 81
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 11374244,
+    "login": "macmaster",
+    "user_name": "Ronald MacMaster ",
+    "contributions": 50
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 12088789,
+    "login": "ekund",
+    "user_name": null,
+    "contributions": 45
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 750916,
+    "login": "caiush",
+    "user_name": "Caius Howcroft",
+    "contributions": 41
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 9041254,
+    "login": "DrRayWang",
+    "user_name": null,
+    "contributions": 27
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 425343,
+    "login": "chrislongo",
+    "user_name": "Chris Longo",
+    "contributions": 24
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 124171,
+    "login": "rrichardson",
+    "user_name": "Rick Richardson",
+    "contributions": 9
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 14140785,
+    "login": "vineshcpaul",
+    "user_name": "Vinesh Chemmala Paul",
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 4624,
+    "login": "indexzero",
+    "user_name": "Charlie Robbins",
+    "contributions": 6
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 1449468,
+    "login": "dspadea",
+    "user_name": "Dave Spadea",
+    "contributions": 5
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 425773,
+    "login": "amscanne",
+    "user_name": "Adin Scannell",
+    "contributions": 4
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 11685968,
+    "login": "dbahir",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 1284017,
+    "login": "ericvw",
+    "user_name": "Eric N. Vander Weele",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 8700927,
+    "login": "sjain1991",
+    "user_name": "Saurabh Jain",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 915952,
+    "login": "vijayk",
+    "user_name": "Vijay Kumar",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 8921631,
+    "login": "snukavarapu",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 8375625,
+    "login": "kamidzi",
+    "user_name": "Kundai Andrew Midzi",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 1126676,
+    "login": "jmh045000",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 305938,
+    "login": "kpfleming",
+    "user_name": "Kevin P. Fleming",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 297902,
+    "login": "hkothari",
+    "user_name": "Hamel Ajay Kothari",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 2717764,
+    "login": "aceofsteel",
+    "user_name": "Chris",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 7253192,
+    "login": "asears",
+    "user_name": "Andrew Sears",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "chef-bach",
+    "full_name": "bloomberg/chef-bach",
+    "id": 767372,
+    "login": "apaprocki",
+    "user_name": "Andrew Paprocki",
+    "contributions": 1
+  }
+]

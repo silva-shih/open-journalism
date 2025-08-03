@@ -1,0 +1,515 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 29423,
+    "login": "godlygeek",
+    "user_name": "Matt Wozniski",
+    "contributions": 459
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 11718525,
+    "login": "pablogsal",
+    "user_name": "Pablo Galindo Salgado",
+    "contributions": 307
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 791741,
+    "login": "lkollar",
+    "user_name": "L\u00e1szl\u00f3 Kiss Koll\u00e1r",
+    "contributions": 135
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 3275593,
+    "login": "pradyunsg",
+    "user_name": "Pradyun Gedam",
+    "contributions": 127
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 59
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 24376333,
+    "login": "stefmolin",
+    "user_name": "Stefanie Molin",
+    "contributions": 26
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 80911834,
+    "login": "ivonastojanovic",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 19931720,
+    "login": "jcarnaxide",
+    "user_name": "Jesse Carnaxide",
+    "contributions": 5
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 7607923,
+    "login": "aelsayed95",
+    "user_name": "Aya Elsayed",
+    "contributions": 4
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 8604906,
+    "login": "mgmacias95",
+    "user_name": "Marta G\u00f3mez Mac\u00edas",
+    "contributions": 4
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 33141946,
+    "login": "ruchika2ar",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 32621813,
+    "login": "apurvakhatri",
+    "user_name": "Apurva Khatri",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1772435,
+    "login": "matthiasdiener",
+    "user_name": "Matthias Diener",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 20503207,
+    "login": "statkute",
+    "user_name": "Gintare Statkute",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 5879355,
+    "login": "sarahmonod",
+    "user_name": "Sarah Monod",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 21158136,
+    "login": "drz416",
+    "user_name": "Dee Lucic",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 3709715,
+    "login": "cclauss",
+    "user_name": "Christian Clauss",
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 2919865,
+    "login": "micheleAlberto",
+    "user_name": "malberto",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 77445020,
+    "login": "tal66",
+    "user_name": "Mika",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 49501366,
+    "login": "ZeroIntensity",
+    "user_name": "Peter Bierma",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1324225,
+    "login": "hugovk",
+    "user_name": "Hugo van Kemenade",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 397089,
+    "login": "davide125",
+    "user_name": "Davide Cavalca",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1532417,
+    "login": "tonybaloney",
+    "user_name": "Anthony Shaw",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 15172919,
+    "login": "nfsec",
+    "user_name": "Patryk Krawaczy\u0144ski",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 38643099,
+    "login": "RafaelWO",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 32459935,
+    "login": "ayshiff",
+    "user_name": "R\u00e9mi Doreau",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 13394161,
+    "login": "elfosardo",
+    "user_name": "Riccardo Pittau",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1166366,
+    "login": "salticus",
+    "user_name": "Robert Stewart",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1326112,
+    "login": "tiangolo",
+    "user_name": "Sebasti\u00e1n Ram\u00edrez",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 11198034,
+    "login": "subbrammanian",
+    "user_name": "Subbrammanian Nochur Ganeswaran",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 107308,
+    "login": "tjmcewan",
+    "user_name": "Tim McEwan",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 4428352,
+    "login": "vitimm144",
+    "user_name": "Victor",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 2744693,
+    "login": "vitorespindola",
+    "user_name": "Vitor Espindola",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 144058222,
+    "login": "WildDanDan",
+    "user_name": "Daniel",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1663864,
+    "login": "adrinjalali",
+    "user_name": "Adrin Jalali",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 82745308,
+    "login": "bilbofroggins",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1104559,
+    "login": "ochaloup",
+    "user_name": "chalda",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 43443470,
+    "login": "greydoubt",
+    "user_name": "--",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 53381916,
+    "login": "kakun45",
+    "user_name": "Xeniya Shoiko",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 29213366,
+    "login": "xlanor",
+    "user_name": "jingkai.",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 10603251,
+    "login": "EmilyBZhang",
+    "user_name": "Emily B. Zhang",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 29457495,
+    "login": "chaimhaas",
+    "user_name": "Chaim Haas",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 16963011,
+    "login": "EtiennePelletier",
+    "user_name": "\u00c9tienne Pelletier",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 45995097,
+    "login": "q-posev",
+    "user_name": "Evgeny Posenitskiy",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 17676929,
+    "login": "flpm",
+    "user_name": "Felipe Moreno",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 681278,
+    "login": "gustiando",
+    "user_name": "Gus Matias",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1161465,
+    "login": "oddsun",
+    "user_name": "Hao Sun",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 170192,
+    "login": "jhance",
+    "user_name": "jhance",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 11008387,
+    "login": "jayybhatt",
+    "user_name": "Jay Bhatt",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 24944371,
+    "login": "jessekv",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 9895620,
+    "login": "jugmac00",
+    "user_name": "J\u00fcrgen Gmach",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 134518,
+    "login": "kianmeng",
+    "user_name": "Kian-Meng Ang",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 1315629,
+    "login": "abstractedfox",
+    "user_name": "Kira",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 272303,
+    "login": "kushaldas",
+    "user_name": "Kushal Das",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 23139455,
+    "login": "NathanielRN",
+    "user_name": "Nathaniel Ruiz Nowell",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 23789,
+    "login": "nedbat",
+    "user_name": "Ned Batchelder",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "memray",
+    "full_name": "bloomberg/memray",
+    "id": 102228385,
+    "login": "adesidaseyi",
+    "user_name": null,
+    "contributions": 1
+  }
+]

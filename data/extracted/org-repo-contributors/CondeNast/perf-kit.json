@@ -1,0 +1,38 @@
+[
+  {
+    "org": "CondeNast",
+    "repo_name": "perf-kit",
+    "full_name": "CondeNast/perf-kit",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 66
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "perf-kit",
+    "full_name": "CondeNast/perf-kit",
+    "id": 25180681,
+    "login": "renovate-bot",
+    "user_name": "Mend Renovate",
+    "contributions": 56
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "perf-kit",
+    "full_name": "CondeNast/perf-kit",
+    "id": 177701,
+    "login": "tim-evans",
+    "user_name": "Tim Evans",
+    "contributions": 27
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "perf-kit",
+    "full_name": "CondeNast/perf-kit",
+    "id": 4432423,
+    "login": "Donmclean",
+    "user_name": "Don Mclean",
+    "contributions": 2
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "tiny-ducks",
+    "full_name": "abcnews/tiny-ducks",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 14
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "tiny-ducks",
+    "full_name": "abcnews/tiny-ducks",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "odyssey-panny",
+    "full_name": "abcnews/odyssey-panny",
+    "id": 596563,
+    "login": "drzax",
+    "user_name": "Simon Elvery",
+    "contributions": 3
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "odyssey-panny",
+    "full_name": "abcnews/odyssey-panny",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "odyssey-panny",
+    "full_name": "abcnews/odyssey-panny",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 1
+  }
+]

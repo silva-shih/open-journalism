@@ -1,0 +1,38 @@
+[
+  {
+    "org": "CondeNast",
+    "repo_name": "conventional-pull-request-action",
+    "full_name": "CondeNast/conventional-pull-request-action",
+    "id": 21014998,
+    "login": "mattbedell",
+    "user_name": "Matt Bedell",
+    "contributions": 20
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "conventional-pull-request-action",
+    "full_name": "CondeNast/conventional-pull-request-action",
+    "id": 189707,
+    "login": "benhodgson87",
+    "user_name": "Ben Hodgson",
+    "contributions": 1
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "conventional-pull-request-action",
+    "full_name": "CondeNast/conventional-pull-request-action",
+    "id": 189908,
+    "login": "crccheck",
+    "user_name": "Chris Chang",
+    "contributions": 1
+  },
+  {
+    "org": "CondeNast",
+    "repo_name": "conventional-pull-request-action",
+    "full_name": "CondeNast/conventional-pull-request-action",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

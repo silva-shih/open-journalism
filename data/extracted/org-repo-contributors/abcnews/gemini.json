@@ -1,0 +1,20 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "gemini",
+    "full_name": "abcnews/gemini",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 33
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "gemini",
+    "full_name": "abcnews/gemini",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 1478530,
+    "login": "aevri",
+    "user_name": "Angelos Evripiotis",
+    "contributions": 1294
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 2458024,
+    "login": "cs-shadow",
+    "user_name": "Chandan Singh",
+    "contributions": 38
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 8501952,
+    "login": "kjedruczyk",
+    "user_name": null,
+    "contributions": 17
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 1793047,
+    "login": "ThosRTanner",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 305938,
+    "login": "kpfleming",
+    "user_name": "Kevin P. Fleming",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 1668475,
+    "login": "hashpling",
+    "user_name": "Lara Bailey",
+    "contributions": 2
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 46826392,
+    "login": "amblp",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 81195,
+    "login": "ruoso",
+    "user_name": "Daniel Ruoso",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 856285,
+    "login": "psjay",
+    "user_name": "psjay",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 2186215,
+    "login": "sstriker",
+    "user_name": "Sander Striker",
+    "contributions": 1
+  },
+  {
+    "org": "bloomberg",
+    "repo_name": "phabricator-tools",
+    "full_name": "bloomberg/phabricator-tools",
+    "id": 4697200,
+    "login": "tchetwin",
+    "user_name": "Thomas Chetwin",
+    "contributions": 1
+  }
+]

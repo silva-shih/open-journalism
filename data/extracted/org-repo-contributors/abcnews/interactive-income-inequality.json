@@ -1,0 +1,29 @@
+[
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-income-inequality",
+    "full_name": "abcnews/interactive-income-inequality",
+    "id": 437566,
+    "login": "phocks",
+    "user_name": "Joshua Byrd",
+    "contributions": 405
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-income-inequality",
+    "full_name": "abcnews/interactive-income-inequality",
+    "id": 66612,
+    "login": "colingourlay",
+    "user_name": "Colin Gourlay",
+    "contributions": 2
+  },
+  {
+    "org": "abcnews",
+    "repo_name": "interactive-income-inequality",
+    "full_name": "abcnews/interactive-income-inequality",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]
