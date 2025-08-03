@@ -4,7 +4,7 @@ import click
 import pandas as pd
 from rich import print
 
-import settings
+from . import settings
 
 
 @click.group()

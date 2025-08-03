@@ -12,7 +12,7 @@ import pandas as pd
 from rich import print
 from rich.progress import track
 
-import settings
+from . import settings
 
 
 @click.command()
