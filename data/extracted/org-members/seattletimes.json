@@ -1,0 +1,22 @@
+[
+  {
+    "org": "seattletimes",
+    "id": 1273003,
+    "login": "cordulack",
+    "name": "Evan Cordulack",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-12-19 14:59:03+00:00",
+    "updated_at": "2025-07-29 23:11:47+00:00"
+  },
+  {
+    "org": "seattletimes",
+    "id": 7120023,
+    "login": "ricklyons",
+    "name": "Rick Lyons, Jr.",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-03-31 20:51:44+00:00",
+    "updated_at": "2025-01-08 00:37:17+00:00"
+  }
+]

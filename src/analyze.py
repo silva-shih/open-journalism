@@ -17,7 +17,7 @@ def cli():
 def org_report():
     # Load the data
     repo_df = pd.read_csv(
-        settings.TRANSFORM_DIR / "repos.csv", parse_dates=["updated_at"]
+        settings.TRANSFORM_DIR / "org-repos.csv", parse_dates=["updated_at"]
     )
 
     # Filter out all the forks
@@ -40,7 +40,7 @@ def new_repos_by_month():
     """Output the number of new repos by month."""
     # Load the data
     repo_df = pd.read_csv(
-        settings.TRANSFORM_DIR / "repos.csv", parse_dates=["created_at"]
+        settings.TRANSFORM_DIR / "org-repos.csv", parse_dates=["created_at"]
     )
 
     # Group by the organization, count the number of repos and list the latest update

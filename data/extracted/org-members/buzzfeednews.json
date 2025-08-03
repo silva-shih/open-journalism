@@ -1,0 +1,42 @@
+[
+  {
+    "org": "buzzfeednews",
+    "id": 534702,
+    "login": "jsvine",
+    "name": "Jeremy Singer-Vine",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-12-23 15:48:30+00:00",
+    "updated_at": "2025-06-26 02:41:52+00:00"
+  },
+  {
+    "org": "buzzfeednews",
+    "id": 3171529,
+    "login": "paldhous",
+    "name": "Peter Aldhous",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-01-02 19:07:09+00:00",
+    "updated_at": "2025-07-06 07:40:35+00:00"
+  },
+  {
+    "org": "buzzfeednews",
+    "id": 7005290,
+    "login": "scottpham",
+    "name": "Scott Pham",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-03-20 00:28:39+00:00",
+    "updated_at": "2025-04-09 21:50:03+00:00"
+  },
+  {
+    "org": "buzzfeednews",
+    "id": 2593202,
+    "login": "taggartk",
+    "name": "Kendall Taggart",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-10-18 22:03:30+00:00",
+    "updated_at": "2023-01-19 16:59:29+00:00"
+  }
+]

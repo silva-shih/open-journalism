@@ -1,0 +1,603 @@
+org,id,login,name,type,site_admin,created_at,updated_at
+abcnews,49600,AshKyd,Ash Kyd,User,False,2009-01-27 12:07:33+00:00,2025-05-27 09:51:52+00:00
+abcnews,23016152,alexanderlim9,Alex Lim,User,False,2016-10-23 17:32:44+00:00,2025-04-04 02:51:11+00:00
+abcnews,245146,blakebutcher,Blake Butcher,User,False,2010-04-16 02:02:57+00:00,2024-03-07 08:16:09+00:00
+abcnews,596563,drzax,Simon Elvery,User,False,2011-02-02 10:39:49+00:00,2025-04-30 04:27:57+00:00
+abcnews,13426605,mattliddy,Matt Liddy,User,False,2015-07-21 00:49:45+00:00,2025-06-16 23:17:15+00:00
+abcnews,437566,phocks,Joshua Byrd,User,False,2010-10-13 06:27:05+00:00,2025-07-30 07:08:34+00:00
+abcnews,70102377,thomasbrettell,Brettell,User,False,2020-08-23 14:39:03+00:00,2025-07-02 02:11:49+00:00
+aftenposten,334239,erikkri,Erik Kristensen,User,False,2010-07-16 17:22:58+00:00,2025-06-11 13:54:13+00:00
+aftenposten,808950,jlom,Jørgen Arnor G. Lom,User,False,2011-05-25 02:30:04+00:00,2025-06-30 10:39:58+00:00
+aftenposten,56080700,pbyenstuen,,User,False,2019-10-02 14:13:35+00:00,2025-05-23 10:59:26+00:00
+aljazeeraplus,10230040,LevanArabuli,larabuli,User,False,2014-12-18 07:54:59+00:00,2025-07-04 13:35:04+00:00
+aljazeeraplus,13624459,ShashwatMittal,Shashwat Mittal,User,False,2015-08-03 12:28:58+00:00,2025-07-11 02:21:59+00:00
+aljazeeraplus,26354653,abhijitrakas,Abhijit Rakas,User,False,2017-03-12 03:16:07+00:00,2025-06-04 08:22:02+00:00
+aljazeeraplus,40795917,shreyasikhar,Shreyas Ikhar,User,False,2018-07-03 12:20:34+00:00,2025-06-24 18:44:56+00:00
+apmg,180144,abeger,Andy Beger,User,False,2010-01-11 17:10:19+00:00,2024-12-04 11:50:56+00:00
+apmg,4681491,rasm0225,Peter Rasmussen,User,False,2013-06-12 17:30:11+00:00,2022-09-15 19:59:57+00:00
+associatedpress,61112665,ernestkung,Ernest Kung,User,False,2020-02-16 12:38:10+00:00,2025-06-24 21:55:29+00:00
+associatedpress,5200,greatseth,Seth Thomas Rasmussen,User,False,2008-04-05 00:32:08+00:00,2024-12-02 17:29:34+00:00
+associatedpress,178317,michelleminkoff,Michelle Minkoff,User,False,2010-01-08 02:46:25+00:00,2022-10-17 18:59:21+00:00
+associatedpress,217394,tthibo,Troy Thibodeaux,User,False,2010-03-07 00:34:50+00:00,2025-07-01 18:04:53+00:00
+azpm,1682643,multigl,Joey Leingang,User,False,2012-04-26 17:07:58+00:00,2025-07-15 14:39:52+00:00
+azpm,2166295,qwijib0,Jason Katterhenry,User,False,2012-08-17 00:24:17+00:00,2025-07-24 21:50:41+00:00
+badideafactory,21679,Laurian,Laurian Gridinoc,User,False,2008-08-23 10:11:37+00:00,2025-07-15 00:04:41+00:00
+badideafactory,2553268,louh,Lou Huang,User,False,2012-10-13 19:23:53+00:00,2025-05-07 13:36:23+00:00
+badideafactory,208756,maboa,Mark Boas,User,False,2010-02-22 23:04:28+00:00,2025-07-25 13:27:21+00:00
+badideafactory,53129,mtigas,Mike Tigas,User,False,2009-02-09 20:51:46+00:00,2025-07-30 15:56:46+00:00
+badideafactory,208884,slifty,Daniel Schultz,User,False,2010-02-23 03:12:27+00:00,2025-07-24 16:08:13+00:00
+baycitizen,231793,Jbonnett,Joshua Bonnett,User,False,2010-03-27 23:45:40+00:00,2024-03-31 06:03:29+00:00
+baycitizen,375109,joncotton,Jon Cotton,User,False,2010-08-24 22:41:20+00:00,2025-07-18 17:31:52+00:00
+baycitizen,433755,shaneshifflett,Shane Shifflett,User,False,2010-10-09 19:25:52+00:00,2024-05-31 16:18:04+00:00
+bbc-news-labs,1609725,bennuttall,Ben Nuttall,User,False,2012-04-03 21:27:56+00:00,2025-07-22 11:26:31+00:00
+bbcrd,1734984,chrisbaume,Chris Baume,User,False,2012-05-13 16:14:31+00:00,2025-08-01 02:43:58+00:00
+bbcrd,57790,chrisn,Chris Needham,User,False,2009-02-25 10:47:06+00:00,2025-07-04 21:59:15+00:00
+bbcrd,1894282,chrispike-bbc,Chris Pike,User,False,2012-06-26 13:45:06+00:00,2021-07-26 10:35:46+00:00
+bbcrd,623539,cisnky,Anthony Onumonu,User,False,2011-02-17 16:20:01+00:00,2025-04-22 14:23:46+00:00
+bbcrd,699073,jamesbaBBC,James P. Barrett,User,False,2011-03-30 10:19:25+00:00,2016-02-27 00:03:42+00:00
+bbcrd,210611,libbymiller,,User,False,2010-02-25 11:50:51+00:00,2024-08-29 20:24:12+00:00
+bbcrd,697281,matt-hammond-001,Matt Hammond,User,False,2011-03-29 13:35:54+00:00,2025-05-22 11:15:20+00:00
+bbcrd,53077,matth,Matt Haynes,User,False,2009-02-09 17:40:34+00:00,2025-05-30 18:23:14+00:00
+bbcrd,38734,njh,Nicholas Humfrey,User,False,2008-12-06 18:42:04+00:00,2025-07-27 11:21:40+00:00
+bbcrd,1176711,rosswilson,Ross Wilson,User,False,2011-11-07 00:17:45+00:00,2025-07-07 10:16:36+00:00
+bbcrd,1870,seanohalpin,Sean O'Halpin,User,False,2008-03-01 13:15:22+00:00,2025-05-06 01:17:08+00:00
+bbcrd,131971,sparkslabs,Michael,User,False,2009-09-27 21:06:49+00:00,2025-07-23 07:42:41+00:00
+biglocalnews,547438,cephillips,Cheryl Phillips,User,False,2011-01-04 19:04:47+00:00,2025-07-23 22:17:44+00:00
+biglocalnews,1578563,newsroomdev,Gerald Rich,User,False,2012-03-27 04:18:05+00:00,2025-07-31 22:10:14+00:00
+biglocalnews,20691507,ydoc5212,Cody Hergenroeder,User,False,2016-07-27 22:18:19+00:00,2025-07-09 05:32:00+00:00
+biglocalnews,39200,zstumgoren,Serdar Tumgoren,User,False,2008-12-09 01:26:00+00:00,2025-07-12 06:55:19+00:00
+bloomberg,1478530,aevri,Angelos Evripiotis,User,False,2012-02-27 14:17:56+00:00,2025-07-23 08:49:18+00:00
+bloomberg,767372,apaprocki,Andrew Paprocki,User,False,2011-05-04 08:29:08+00:00,2025-07-16 03:39:49+00:00
+bloomberg,78410,awright,alyssa wright,User,False,2009-04-27 17:09:48+00:00,2025-07-03 14:33:45+00:00
+bloomberg,42383631,bloomberg-oss,Bloomberg Open Source,User,False,2018-08-14 15:16:38+00:00,2025-03-05 01:25:44+00:00
+bloomberg,6003769,brittharr,Brittany Harris,User,False,2013-11-21 18:37:42+00:00,2025-07-12 13:50:10+00:00
+bloomberg,435950,c4rlo,Carlo Teubner,User,False,2010-10-11 21:58:32+00:00,2025-04-27 08:45:54+00:00
+bloomberg,4192761,cbaenziger,Clay B.,User,False,2013-04-18 15:09:37+00:00,2025-05-31 05:15:13+00:00
+bloomberg,6458642,cpoerschke,Christine Poerschke,User,False,2014-01-21 09:08:32+00:00,2025-07-25 13:34:15+00:00
+bloomberg,2805166,davidducros,Dave Du Cros,User,False,2012-11-15 14:00:32+00:00,2025-06-25 16:19:19+00:00
+bloomberg,3594022,dprophet,Erik Anderson,User,False,2013-02-14 13:41:27+00:00,2025-07-28 13:51:45+00:00
+bloomberg,17676929,flpm,Felipe Moreno,User,False,2016-03-05 18:01:49+00:00,2025-07-21 17:27:09+00:00
+bloomberg,1668475,hashpling,Lara Bailey,User,False,2012-04-22 18:09:02+00:00,2025-06-18 11:37:08+00:00
+bloomberg,10169239,jabellard,Joe Nathan Abellard,User,False,2014-12-12 18:08:44+00:00,2025-07-26 22:10:51+00:00
+bloomberg,936006,jasonwilliams,Jason Williams,User,False,2011-07-24 20:07:28+00:00,2025-07-28 08:50:25+00:00
+bloomberg,2481105,jbhoosreddy,Jaideep Bhoosreddy,User,False,2012-10-03 18:23:41+00:00,2025-01-06 04:39:30+00:00
+bloomberg,62577178,jdabtieu,Jonathan Wu,User,False,2020-03-24 00:04:55+00:00,2025-07-23 19:00:53+00:00
+bloomberg,74061546,jingqgeng,Jing Geng,User,False,2020-11-06 14:54:24+00:00,2025-07-15 14:20:33+00:00
+bloomberg,1611120,joom,Joomy Korkut,User,False,2012-04-04 09:14:53+00:00,2025-06-08 17:04:50+00:00
+bloomberg,567897,justaugustus,Stephen Augustus,User,False,2011-01-16 21:48:07+00:00,2025-07-01 16:37:58+00:00
+bloomberg,291757,kennethshackleton,Ken Shackleton,User,False,2010-05-31 00:49:58+00:00,2025-07-21 11:23:17+00:00
+bloomberg,19366641,linusg,Linus Groh,User,False,2016-05-14 22:44:13+00:00,2025-07-30 09:39:54+00:00
+bloomberg,189835,littledan,Daniel Ehrenberg,User,False,2010-01-26 02:02:16+00:00,2025-05-13 21:37:54+00:00
+bloomberg,21197331,martinRenou,martinRenou,User,False,2016-08-23 12:43:57+00:00,2025-07-25 08:21:09+00:00
+bloomberg,102348,mikesep,Mike Seplowitz,User,False,2009-07-07 01:43:19+00:00,2025-05-02 15:19:38+00:00
+bloomberg,4227194,molisani,Michael Molisani,User,False,2013-04-22 17:43:03+00:00,2025-04-22 18:20:32+00:00
+bloomberg,11718525,pablogsal,Pablo Galindo Salgado,User,False,2015-03-30 11:01:27+00:00,2025-07-30 20:19:17+00:00
+bloomberg,7103745,peternmartin,Peter Martin,User,False,2014-03-29 22:27:56+00:00,2025-07-26 21:17:22+00:00
+bloomberg,3275593,pradyunsg,Pradyun Gedam,User,False,2013-01-15 13:45:19+00:00,2025-07-28 17:00:27+00:00
+bloomberg,8302774,rangan337,Rangan Prabhakaran,User,False,2014-07-29 19:47:45+00:00,2025-06-20 15:42:57+00:00
+bloomberg,831623,rickbutton,Rick Button,User,False,2011-06-06 01:23:48+00:00,2025-07-02 17:14:40+00:00
+bloomberg,81195,ruoso,Daniel Ruoso,User,False,2009-05-05 13:10:48+00:00,2025-04-05 21:00:36+00:00
+bloomberg,210746,sorindumitru,Sorin Dumitru,User,False,2010-02-25 16:04:09+00:00,2025-07-18 10:09:33+00:00
+bloomberg,6341218,stevenbower,Steven Bower,User,False,2014-01-07 16:36:05+00:00,2024-12-20 03:00:33+00:00
+bloomberg,2336200,tj90241,Tyler Stachecki,User,False,2012-09-13 02:25:11+00:00,2025-06-15 13:23:25+00:00
+bloomberg,48145703,trev97,Trevor Scogin,User,False,2019-03-02 05:04:29+00:00,2025-04-03 18:57:03+00:00
+bloomberg,7098092,tylerparsons,Tyler Parsons,User,False,2014-03-29 03:24:29+00:00,2025-07-14 19:39:22+00:00
+bloomberg,46710067,vagaerg,Pablo Arteaga,User,False,2019-01-15 10:33:05+00:00,2025-05-08 11:08:03+00:00
+bloomberg,2738646,vt0r,Salvatore LaMendola,User,False,2012-11-06 22:20:39+00:00,2025-06-25 01:03:01+00:00
+bloomberg,1368129,xouabita,Alexandre ABITA,User,False,2012-01-22 17:22:42+00:00,2025-07-12 02:15:27+00:00
+bloomberggraphics,6003769,brittharr,Brittany Harris,User,False,2013-11-21 18:37:42+00:00,2025-07-12 13:50:10+00:00
+bostonglobe,846229,daigofuji,Daigo Fujiwara-Smith,User,False,2011-06-13 05:54:38+00:00,2025-08-02 06:39:31+00:00
+br-data,1587837,stekhn,Steffen Kühne,User,False,2012-03-29 17:01:50+00:00,2025-07-31 07:00:09+00:00
+browninstitute,21013438,alex-calderwood,Alex Calderwood,User,False,2016-08-13 20:47:57+00:00,2025-07-24 05:40:38+00:00
+browninstitute,227472,riordan,David Riordan,User,False,2010-03-21 20:34:15+00:00,2025-08-02 21:33:28+00:00
+businessinsider,6145283,dawin09,Dawin Camilo Cortés,User,False,2013-12-09 18:32:24+00:00,2025-08-01 17:49:19+00:00
+businessinsider,13686332,gabrielreisn,Gabriel Reis,User,False,2015-08-06 23:49:22+00:00,2025-08-01 17:40:45+00:00
+businessinsider,493546,gabriensymons,Gabrien Symons,User,False,2010-11-23 15:20:33+00:00,2025-07-12 18:01:44+00:00
+businessinsider,2415156,harryhope,Harry Hope,User,False,2012-09-24 21:28:02+00:00,2025-06-24 17:56:40+00:00
+businessinsider,1274534,jmmendivil,,User,False,2011-12-20 06:20:14+00:00,2025-07-07 19:18:29+00:00
+businessinsider,14146176,luizcieslak,Luiz Fernando da Silva Cieslak,User,False,2015-09-06 06:39:30+00:00,2025-07-26 16:14:46+00:00
+buzzfeed,4542049,PSmolic,Petar Smolic,User,False,2013-05-27 17:33:43+00:00,2025-07-22 08:17:49+00:00
+buzzfeed,4807680,curseagain,Rebecca,User,False,2013-06-24 20:57:01+00:00,2025-07-28 13:50:04+00:00
+buzzfeed,572114,pahko,Francisco Albarran Cristobal,User,False,2011-01-19 06:41:47+00:00,2025-07-31 23:40:12+00:00
+buzzfeed-openlab,1900307,WestleyArgentum,Westley Argentum Hennigh-Palermo,User,False,2012-06-27 21:29:56+00:00,2024-04-03 15:28:06+00:00
+buzzfeed-openlab,150791,amandabee,Amanda Hickman,User,False,2009-11-09 14:23:39+00:00,2025-05-14 15:54:56+00:00
+buzzfeed-openlab,1406537,cathydeng,Cathy Deng,User,False,2012-02-03 20:13:30+00:00,2025-07-29 17:34:48+00:00
+buzzfeednews,534702,jsvine,Jeremy Singer-Vine,User,False,2010-12-23 15:48:30+00:00,2025-06-26 02:41:52+00:00
+buzzfeednews,3171529,paldhous,Peter Aldhous,User,False,2013-01-02 19:07:09+00:00,2025-07-06 07:40:35+00:00
+buzzfeednews,7005290,scottpham,Scott Pham,User,False,2014-03-20 00:28:39+00:00,2025-04-09 21:50:03+00:00
+buzzfeednews,2593202,taggartk,Kendall Taggart,User,False,2012-10-18 22:03:30+00:00,2023-01-19 16:59:29+00:00
+california-civic-data-coalition,9993,palewire,Ben Welsh,User,False,2008-05-12 03:16:57+00:00,2025-07-30 22:24:04+00:00
+calmatters,5900353,BatMiles,Miles Hilton,User,False,2013-11-10 05:54:07+00:00,2024-08-21 20:57:16+00:00
+calmatters,13629454,malelew,Mohamed Al Elew,User,False,2015-08-03 17:59:41+00:00,2025-07-09 00:20:23+00:00
+calmatters,1535250,soooh,soo oh,User,False,2012-03-14 03:16:15+00:00,2024-10-03 22:02:05+00:00
+canalplus,1051458,flegall,Florent Le Gall,User,False,2011-09-14 21:17:56+00:00,2025-07-22 08:35:28+00:00
+cbcrc,11539339,RCMax,Maxime Séguin,User,False,2015-03-18 13:34:20+00:00,2022-03-30 14:03:54+00:00
+cbcrc,27737437,adruffin-rc,Arnaud Druffin,User,False,2017-04-18 17:52:46+00:00,2017-11-09 15:19:19+00:00
+cbcrc,11575718,hugoleclerc,Hugo Leclerc,User,False,2015-03-20 16:56:02+00:00,2025-07-08 17:18:22+00:00
+cbcrc,12261450,laurentlbm-rc,Laurent @ Radio-Canada,User,False,2015-05-05 20:51:34+00:00,2022-02-17 17:37:39+00:00
+cbcrc,8269312,matstlo,Mat St-Lo,User,False,2014-07-25 16:41:11+00:00,2025-07-15 02:54:48+00:00
+cbs-news-data,40156402,as9934,Arijit Sen,User,False,2018-06-11 02:56:55+00:00,2025-06-27 20:13:23+00:00
+cbs-news-data,49451910,cmhac,Chris Hacker,User,False,2019-04-09 17:04:14+00:00,2025-07-22 00:03:56+00:00
+censusreporter,46313,JoeGermuska,Joe Germuska,User,False,2009-01-13 18:28:43+00:00,2025-07-04 11:21:56+00:00
+censusreporter,7915735,Joonpark13,Joon Park,User,False,2014-06-17 18:07:36+00:00,2025-07-24 19:48:08+00:00
+censusreporter,3248981,SaraSchnadt,,User,False,2013-01-12 00:48:50+00:00,2017-05-12 21:31:15+00:00
+censusreporter,261584,iandees,Ian Dees,User,False,2010-05-01 22:20:34+00:00,2025-06-11 13:35:47+00:00
+censusreporter,312347,jkeefe,John Keefe,User,False,2010-06-23 03:13:48+00:00,2025-07-23 20:53:12+00:00
+censusreporter,56477,ryanpitts,Ryan Pitts,User,False,2009-02-21 01:20:52+00:00,2025-04-04 01:17:37+00:00
+censusreporter,11623486,tuchandra,Tushar Chandra,User,False,2015-03-24 02:36:22+00:00,2025-05-08 22:44:30+00:00
+chalkbeat,5066168,jonsisk,Jonathan Sisk,User,False,2013-07-22 15:42:18+00:00,2025-05-19 21:04:05+00:00
+chalkbeat,881329,thomaswilburn,Thomas Wilburn,User,False,2011-06-28 12:45:14+00:00,2025-07-16 10:11:43+00:00
+city-bureau,21316094,lsukaristone,Sukari Stone,User,False,2016-08-29 17:22:26+00:00,2025-07-26 00:50:01+00:00
+city-bureau,4379424,rajivsinclair,Rajiv Sinclair,User,False,2013-05-08 17:29:09+00:00,2025-07-30 23:54:32+00:00
+civica-digital,542209,juanpabloe,Juan Pablo Escobar L,User,False,2010-12-31 00:53:52+00:00,2025-07-31 22:28:50+00:00
+civio,7012771,carmen-tm,Carmen Torrecillas Molina,User,False,2014-03-20 15:40:11+00:00,2025-05-29 15:14:17+00:00
+civio,17741,dcabo,David Cabo,User,False,2008-07-21 22:41:38+00:00,2025-06-19 10:46:29+00:00
+condenast,210393605,aj-stanley,StanlyMathai::,User,False,2025-05-05 15:12:07+00:00,2025-07-26 17:15:27+00:00
+coralproject,10014755,losowsky,,User,False,2014-12-01 00:29:15+00:00,2025-06-24 00:01:51+00:00
+correctiv,8058332,simonwoerpel,Simon Wörpel,User,False,2014-07-03 12:36:40+00:00,2025-07-30 09:21:18+00:00
+courierjournal,5685892,jwhazel,Jesse Hazel,User,False,2013-10-14 20:20:52+00:00,2025-06-03 05:15:29+00:00
+cunyjschool,717911,KirstiItameri,,User,False,2011-04-08 17:12:25+00:00,2020-08-07 16:50:54+00:00
+dallasmorningnews,3731605,tjk911,Jun-Kai Teoh,User,False,2013-02-28 21:35:07+00:00,2025-07-28 14:12:52+00:00
+datadesk,8962594,cjbt,Cecil J. Tantay,User,False,2014-09-29 18:20:19+00:00,2025-07-31 15:00:14+00:00
+datamade,919583,derekeder,Derek Eder,User,False,2011-07-16 14:15:04+00:00,2024-08-21 22:01:18+00:00
+datamade,12176173,hancush,hannah cushman garland,User,False,2015-04-29 20:19:43+00:00,2025-05-16 12:38:40+00:00
+datawrapper,22416639,EX0l0N,Exolon Voncor,User,False,2016-09-24 16:08:50+00:00,2025-07-24 11:28:54+00:00
+datawrapper,6685200,SarcevicAntonio,Antonio Sarcevic,User,False,2014-02-14 19:34:59+00:00,2025-06-22 09:22:22+00:00
+datawrapper,104082367,alexanderkaessner,Alexander K.,User,False,2022-04-20 14:07:15+00:00,2025-02-11 14:38:19+00:00
+datawrapper,6981408,davidkokkelink,David Kokkelink,User,False,2014-03-17 23:58:52+00:00,2025-08-01 19:09:47+00:00
+datawrapper,617518,gka,Gregor Aisch,User,False,2011-02-14 15:48:07+00:00,2025-07-31 22:39:31+00:00
+datawrapper,6787862,ilokhov,Ivan Lokhov,User,False,2014-02-25 23:00:55+00:00,2025-07-20 14:53:04+00:00
+datawrapper,9379282,lisacharlotterost,Lisa Charlotte Muth,User,False,2014-10-24 09:32:15+00:00,2025-05-07 10:18:48+00:00
+denverpost,6498109,githamm,Kevin Hamm,User,False,2014-01-25 06:11:09+00:00,2024-04-07 23:01:40+00:00
+derspiegel,3787451,KurtJansson,Kurt Jansson,User,False,2013-03-06 13:20:51+00:00,2023-12-05 14:47:53+00:00
+derspiegel,22907799,mrestorff,,User,False,2016-10-18 08:44:24+00:00,2025-07-30 11:18:34+00:00
+derspiegel,572515,salevajo,Stephan Heffner,User,False,2011-01-19 12:37:47+00:00,2025-06-22 09:51:30+00:00
+deseretnews,40127530,etterTimothy,Timothy Etter,User,False,2018-06-09 20:33:00+00:00,2025-07-07 16:57:51+00:00
+deseretnews,3336936,faazshift,Brendan Warkentin,User,False,2013-01-22 08:28:57+00:00,2024-12-20 00:41:53+00:00
+documentcloud,150791,amandabee,Amanda Hickman,User,False,2009-11-09 14:23:39+00:00,2025-05-14 15:54:56+00:00
+documentcloud,273891,anthonydb,Anthony DeBarros,User,False,2010-05-12 00:17:24+00:00,2025-02-27 13:52:34+00:00
+documentcloud,5274,caolan,Caolan McMahon,User,False,2008-04-05 11:30:29+00:00,2025-07-20 05:24:38+00:00
+documentcloud,12632,fogus,Fogus,User,False,2008-06-04 23:59:25+00:00,2025-07-18 01:48:09+00:00
+documentcloud,3397,jacqui,Jacqui Lough,User,False,2008-03-18 23:34:36+00:00,2025-08-01 01:35:42+00:00
+documentcloud,4732,jashkenas,Jeremy Ashkenas,User,False,2008-04-03 21:10:45+00:00,2025-05-15 18:24:19+00:00
+documentcloud,192,knowtheory,Ted Han,User,False,2008-02-12 20:45:29+00:00,2025-08-03 01:46:43+00:00
+documentcloud,3475472,megawac,Graeme Yeates,User,False,2013-02-04 21:02:55+00:00,2025-05-18 18:13:10+00:00
+documentcloud,218840,michaelficarra,Michael Ficarra,User,False,2010-03-09 05:08:47+00:00,2025-07-07 14:21:43+00:00
+documentcloud,79566,nathanstitt,Nathan Stitt,User,False,2009-04-30 13:49:25+00:00,2025-07-12 11:20:30+00:00
+documentcloud,2039,pilhofer,Aron Pilhofer,User,False,2008-03-03 17:10:17+00:00,2016-02-26 22:34:45+00:00
+documentcloud,44229,samuelclay,Samuel Clay,User,False,2009-01-05 04:46:08+00:00,2025-06-25 01:07:07+00:00
+documentcloud,181635,tbranyen,Tim Branyen,User,False,2010-01-13 18:55:44+00:00,2025-06-26 22:31:06+00:00
+documentcloud,154748,tgriesser,Tim Griesser,User,False,2009-11-18 09:21:13+00:00,2025-08-01 05:23:21+00:00
+dowjones,2179966,kuberkaul,Kuber Kaul,User,False,2012-08-19 21:07:59+00:00,2025-06-30 17:49:52+00:00
+dowjones,5834637,mpaw,Marcin Pawelek,User,False,2013-11-01 22:00:07+00:00,2024-12-30 04:10:06+00:00
+dukechronicle,14322911,Lucytheanimefan,Lucy Zhang,User,False,2015-09-17 01:34:15+00:00,2023-03-02 03:24:58+00:00
+dukechronicle,350938,deanchen,Dean Chen,User,False,2010-08-01 18:04:31+00:00,2025-02-03 11:01:47+00:00
+dukechronicle,150594,galonsky,Alex Galonsky,User,False,2009-11-08 23:50:27+00:00,2025-05-27 13:05:43+00:00
+dukechronicle,1137465,grivkees,Glenn Rivkees,User,False,2011-10-19 06:07:19+00:00,2025-06-14 05:26:32+00:00
+dukechronicle,881253,jimpo,Jim Posen,User,False,2011-06-28 12:05:45+00:00,2025-07-13 17:57:04+00:00
+dukechronicle,234589,jodoglevy,Joe Levy,User,False,2010-04-01 01:10:02+00:00,2025-03-18 21:02:53+00:00
+dukechronicle,4461795,rogerzou,Roger Zou,User,False,2013-05-18 01:55:49+00:00,2025-07-13 19:43:57+00:00
+dukechronicle,2541320,rtoussaint,Ryan Toussaint,User,False,2012-10-12 01:50:38+00:00,2019-06-20 03:44:26+00:00
+dukechronicle,1269129,themichaellai,Michael Lai,User,False,2011-12-17 03:08:44+00:00,2025-06-23 18:13:41+00:00
+economistdigitalsolutions,50681058,a-w-l,Adam Lewis,User,False,2019-05-15 21:32:04+00:00,2024-03-31 13:11:10+00:00
+economistdigitalsolutions,167085936,cristianpetre-teg,Cristian Petre,User,False,2024-04-15 11:05:40+00:00,2025-07-29 14:47:49+00:00
+economistdigitalsolutions,5430873,lmcjt37,Luke Taylor,User,False,2013-09-10 21:42:17+00:00,2025-07-30 13:29:15+00:00
+financial-times,125273,MattieTK,Matt ‘TK’ Taylor,User,False,2009-09-10 09:26:48+00:00,2025-07-16 23:23:06+00:00
+financial-times,1314810,MightyPixel,Ognyan Angelov,User,False,2012-01-09 10:11:57+00:00,2025-07-03 10:41:51+00:00
+financial-times,185041,aendra-rininsland,Ændra Rininsland,User,False,2010-01-19 00:44:42+00:00,2025-04-28 11:29:42+00:00
+financial-times,121219,alexmuller,Alex Muller,User,False,2009-08-30 20:30:12+00:00,2025-07-31 13:14:22+00:00
+financial-times,68009,alicebartlett,Alice Bartlett,User,False,2009-03-27 23:00:16+00:00,2024-12-13 21:08:56+00:00
+financial-times,631757,apaleslimghost,Kara Brightwell,User,False,2011-02-22 11:22:26+00:00,2025-06-17 21:39:25+00:00
+financial-times,84996,commuterjoy,Matt Chadburn,User,False,2009-05-15 16:08:05+00:00,2025-07-08 08:42:13+00:00
+financial-times,44810431,dereknahman,kirsty,User,False,2018-11-06 14:59:23+00:00,2025-02-07 16:22:32+00:00
+financial-times,62282069,hannahtesfay,Hannah,User,False,2020-03-17 08:31:08+00:00,2025-07-28 06:29:09+00:00
+financial-times,5721977,j-mes,James Loveridge,User,False,2013-10-18 22:13:08+00:00,2025-07-10 06:37:18+00:00
+financial-times,1705375,jamesnicholls,James Nicholls,User,False,2012-05-04 09:58:35+00:00,2025-04-09 13:20:52+00:00
+financial-times,893208,joelcarr,Joel Carr,User,False,2011-07-04 10:01:16+00:00,2025-07-01 19:38:55+00:00
+financial-times,684559,kavanagh,Luke Kavanagh,User,False,2011-03-22 19:35:19+00:00,2025-05-25 14:00:45+00:00
+financial-times,3425322,lc512k,Laura Carvajal,User,False,2013-01-30 07:51:27+00:00,2025-07-19 11:24:12+00:00
+financial-times,27081787,metart43,Artem Metelskyi,User,False,2017-04-08 17:10:10+00:00,2025-07-31 17:29:11+00:00
+financial-times,1771189,ob6160,Oliver Barnwell,User,False,2012-05-23 18:47:53+00:00,2025-07-17 23:51:04+00:00
+financial-times,138944,rowanmanning,Rowan Manning,User,False,2009-10-12 23:04:50+00:00,2025-08-01 16:16:07+00:00
+flatwaterfreepress,6231574,bvankat,Ben Vankat,User,False,2013-12-20 15:42:22+00:00,2023-08-21 19:32:49+00:00
+folhasp,276068,MarioBDourado,Mario Dourado,User,False,2010-05-14 00:09:34+00:00,2025-07-17 19:27:55+00:00
+folhasp,2536588,mmorote,Marcelo Morote,User,False,2012-10-11 11:57:23+00:00,2025-03-04 17:41:35+00:00
+francetv,1399824,FloValence,Florian M Valence,User,False,2012-02-01 23:38:37+00:00,2025-07-28 07:47:49+00:00
+francetv,1724323,gpostaire,,User,False,2012-05-09 21:04:25+00:00,2023-10-06 14:03:33+00:00
+francetv,1151996,warchimede,William Archimede,User,False,2011-10-25 23:01:47+00:00,2025-07-28 10:35:22+00:00
+freedomofpress,67073,almet,Alexis Métaireau,User,False,2009-03-25 15:32:25+00:00,2025-06-22 01:56:08+00:00
+freedomofpress,357435,cfm,Cory Francis Myers,User,False,2010-08-08 02:04:30+00:00,2025-07-28 23:23:00+00:00
+freedomofpress,213636,eloquence,Erik Moeller,User,False,2010-03-02 03:26:03+00:00,2025-07-14 05:09:59+00:00
+freedomofpress,72914,huertanix,David Huerta,User,False,2009-04-12 05:47:48+00:00,2025-06-10 18:27:12+00:00
+freedomofpress,81392,legoktm,Kunal Mehta,User,False,2009-05-05 21:36:43+00:00,2025-07-14 14:16:01+00:00
+freedomofpress,66009328,lsd-cat,giulio,User,False,2020-05-27 10:01:37+00:00,2025-07-29 06:11:44+00:00
+freedomofpress,8262612,ninavizz,Nina Eleanor Alter,User,False,2014-07-25 01:01:52+00:00,2025-07-19 04:16:10+00:00
+ft-interactive,185041,aendra-rininsland,Ændra Rininsland,User,False,2010-01-19 00:44:42+00:00,2025-04-28 11:29:42+00:00
+ft-interactive,893208,joelcarr,Joel Carr,User,False,2011-07-04 10:01:16+00:00,2025-07-01 19:38:55+00:00
+ft-interactive,684559,kavanagh,Luke Kavanagh,User,False,2011-03-22 19:35:19+00:00,2025-05-25 14:00:45+00:00
+ft-interactive,998519,martinstabe,Martin Stabe,User,False,2011-08-23 09:29:59+00:00,2025-07-24 10:24:46+00:00
+ft-interactive,27081787,metart43,Artem Metelskyi,User,False,2017-04-08 17:10:10+00:00,2025-07-31 17:29:11+00:00
+globocom,13981690,KalilCazes,Kalil Cazes,User,False,2015-08-26 12:56:52+00:00,2025-05-01 02:15:01+00:00
+globocom,813448,SergioJorge,Sergio Jorge,User,False,2011-05-27 02:36:04+00:00,2025-06-22 17:29:17+00:00
+globocom,385421,andreribeirocoelho,André Coelho,User,False,2010-09-02 16:34:34+00:00,2025-07-29 01:19:36+00:00
+globocom,167967,arouca,Marcos Paulo Arouca Pereira,User,False,2009-12-15 16:40:30+00:00,2025-06-17 20:54:10+00:00
+globocom,69323223,bellamariz,Isabella Mariz,User,False,2020-08-06 19:21:25+00:00,2025-07-31 01:54:38+00:00
+globocom,4915296,ceelsoin,Celso Inácio,User,False,2013-07-02 02:17:27+00:00,2025-06-13 13:50:57+00:00
+globocom,7408201,deividson,Deividson M. Goulart,User,False,2014-04-25 18:28:56+00:00,2025-06-12 19:30:21+00:00
+globocom,723290,emilianoeloi,Emiliano Barbosa,User,False,2011-04-11 19:48:04+00:00,2025-08-02 18:54:33+00:00
+globocom,3433276,evandromacedo,Evandro Macedo,User,False,2013-01-31 01:11:45+00:00,2025-05-29 18:59:34+00:00
+globocom,354110,hermancaldara,Herman Caldara,User,False,2010-08-04 14:31:50+00:00,2025-07-15 22:10:32+00:00
+globocom,14154066,jhonatangcavalcanti,Jhonatan Cavalcanti,User,False,2015-09-06 23:27:09+00:00,2025-06-19 22:06:58+00:00
+globocom,5631063,joaopaulovieira,João Paulo da Silva Vieira,User,False,2013-10-07 17:09:21+00:00,2025-06-25 01:45:45+00:00
+globocom,560270,joseleme,Leme,User,False,2011-01-12 16:27:01+00:00,2023-11-22 23:22:44+00:00
+globocom,1847691,leaofelipe,Felipe Leão,User,False,2012-06-13 19:19:22+00:00,2025-06-12 14:55:49+00:00
+globocom,485715,lnavarro,,User,False,2010-11-17 15:55:58+00:00,2025-03-31 20:00:59+00:00
+globocom,2574399,lucasrodcosta,Lucas Costa,User,False,2012-10-16 16:57:15+00:00,2025-07-30 21:06:26+00:00
+globocom,134415,macaubas,Igor Macaubas,User,False,2009-10-02 22:50:51+00:00,2025-05-22 13:43:13+00:00
+globocom,665903,marcelometal,Marcelo Jorge Vieira,User,False,2011-03-12 16:57:33+00:00,2025-05-21 13:22:25+00:00
+globocom,55638,morpheu,Paulo Sousa,User,False,2009-02-18 18:40:50+00:00,2025-04-28 17:50:00+00:00
+globocom,79429,nsigustavo,Gustavo Rezende,User,False,2009-04-30 04:27:44+00:00,2025-07-15 18:36:20+00:00
+globocom,190546,perenecabuto,Felipe Ramos Ferreira (Cabuto),User,False,2010-01-27 00:15:09+00:00,2025-05-12 23:21:10+00:00
+globocom,382581,petry,Marcos Petry,User,False,2010-08-31 21:38:05+00:00,2024-12-26 20:16:41+00:00
+globocom,1208324,prifigueredo,,User,False,2011-11-20 13:09:11+00:00,2024-11-27 22:02:35+00:00
+globocom,59340,saboia,Alexandre Saboia Fuziyama,User,False,2009-03-02 12:20:16+00:00,2024-12-02 17:43:34+00:00
+globocom,691587,wpjunior,wpjunior,User,False,2011-03-26 05:05:04+00:00,2025-07-14 20:23:54+00:00
+govtrack,445875,JoshData,Joshua Tauberer,User,False,2010-10-19 19:33:38+00:00,2025-07-09 12:54:44+00:00
+guardian,21217225,AshCorr,AshCorr,User,False,2016-08-24 09:43:13+00:00,2025-07-17 15:48:30+00:00
+guardian,30306829,Falah-Zaidan,Falah Zaidan,User,False,2017-07-20 03:09:48+00:00,2025-03-31 09:45:27+00:00
+guardian,1731150,Jakeii,Jake,User,False,2012-05-11 19:31:38+00:00,2025-07-15 17:00:29+00:00
+guardian,690395,JustinPinner,Justin Pinner,User,False,2011-03-25 13:53:28+00:00,2025-07-14 15:36:52+00:00
+guardian,986155,NathanielBennett,Nathaniel Bennett,User,False,2011-08-17 13:26:01+00:00,2025-05-22 09:22:36+00:00
+guardian,79363218,ab-gnm,Aditya Bhaskar,User,False,2021-02-20 12:12:52+00:00,2025-07-08 11:33:11+00:00
+guardian,836140,akash1810,Akash Askoolum,User,False,2011-06-07 21:41:15+00:00,2025-07-31 08:08:22+00:00
+guardian,1229808,alinaboghiu,Alina Boghiu,User,False,2011-11-30 03:37:53+00:00,2025-07-07 10:36:49+00:00
+guardian,10963046,andrew-nowak,Andrew Nowak,User,False,2015-02-11 17:18:04+00:00,2025-06-24 21:24:13+00:00
+guardian,7014230,arelra,Ravi,User,False,2014-03-20 18:12:46+00:00,2025-05-21 08:13:50+00:00
+guardian,768467,ashishpuliyel,Ashish Puliyel,User,False,2011-05-04 18:06:43+00:00,2025-06-18 10:00:05+00:00
+guardian,13315440,coldlink,Mahesh Makani,User,False,2015-07-13 13:27:39+00:00,2025-04-13 12:05:13+00:00
+guardian,2619836,davidfurey,David Furey,User,False,2012-10-22 08:48:30+00:00,2025-07-24 10:34:38+00:00
+guardian,11380557,frederickobrien,Frederick O'Brien,User,False,2015-03-08 22:01:41+00:00,2025-07-22 07:40:09+00:00
+guardian,23298731,graham228221,Graham Hopgood,User,False,2016-11-06 19:36:52+00:00,2025-03-24 10:29:45+00:00
+guardian,5122968,joelochlann,Joseph Smith,User,False,2013-07-30 17:05:41+00:00,2025-03-31 10:53:35+00:00
+guardian,7304387,johnduffell,John Duffell,User,False,2014-04-15 15:48:16+00:00,2025-03-19 20:41:01+00:00
+guardian,1722550,kelvin-chappell,,User,False,2012-05-09 15:56:27+00:00,2025-07-18 11:23:21+00:00
+guardian,406099,markjamesbutler,Mark Butler,User,False,2010-09-18 16:14:24+00:00,2025-05-22 08:52:19+00:00
+guardian,615085,mchv,Mariot Chauvin,User,False,2011-02-13 00:09:02+00:00,2025-07-31 20:55:16+00:00
+guardian,3285072,michaelclapham,Michael Clapham,User,False,2013-01-16 11:41:31+00:00,2025-08-03 12:44:50+00:00
+guardian,1515970,paulbrown1982,Paul Brown,User,False,2012-03-08 11:55:13+00:00,2025-07-10 12:44:04+00:00
+guardian,2242307,paulmr,Paul Roberts,User,False,2012-08-29 15:10:45+00:00,2025-07-10 15:57:37+00:00
+guardian,52038,rtyley,Roberto Tyley,User,False,2009-02-05 11:56:30+00:00,2025-07-08 21:31:04+00:00
+guardian,181371,rupertbates,Rupert Bates,User,False,2010-01-13 11:29:43+00:00,2025-07-10 14:53:00+00:00
+guardian,867233,sndrs,Alex Sanders,User,False,2011-06-22 15:46:45+00:00,2025-03-31 09:45:12+00:00
+guardian,379839,tjmw,Tom Wey,User,False,2010-08-29 16:15:54+00:00,2025-06-13 10:46:24+00:00
+guardian,1513454,tomrf1,Tom Forbes,User,False,2012-03-07 22:07:11+00:00,2025-07-02 10:15:15+00:00
+guardian,32312712,vlbee,vanessa,User,False,2017-09-26 21:15:56+00:00,2025-07-31 14:17:01+00:00
+haaretz,5658514,TxHawks,Jonathan Pollak,User,False,2013-10-10 18:49:14+00:00,2025-07-18 23:36:00+00:00
+hackshackers,133105,burtherman,Burt Herman,User,False,2009-09-30 07:32:49+00:00,2025-07-24 14:25:12+00:00
+hackshackers,846229,daigofuji,Daigo Fujiwara-Smith,User,False,2011-06-13 05:54:38+00:00,2025-08-02 06:39:31+00:00
+hackshackers,50756,macdiva,MacDiva,User,False,2009-01-31 19:49:07+00:00,2024-07-26 18:50:24+00:00
+hackshackers,53129,mtigas,Mike Tigas,User,False,2009-02-09 20:51:46+00:00,2025-07-30 15:56:46+00:00
+hackshackers,44990,pattiereaves,Pattie Reaves,User,False,2009-01-08 01:56:02+00:00,2025-07-29 17:21:02+00:00
+hackshackers,34128,phillipadsmith,Phillip Smith,User,False,2008-11-12 20:24:55+00:00,2025-07-17 03:41:45+00:00
+hbrgtech,2522342,flagster76,Matt Wagner,User,False,2012-10-09 18:46:15+00:00,2024-11-20 18:41:00+00:00
+hbrgtech,6013528,rmup18,Lalande,User,False,2013-11-22 20:34:32+00:00,2016-07-06 18:15:51+00:00
+hearst-hatchery,156065,nmohoric,Nick Mohoric,User,False,2009-11-20 18:37:04+00:00,2025-01-31 15:57:02+00:00
+hearst-hatchery,4120475,terowz,Joe Lodato,User,False,2013-04-10 23:33:59+00:00,2025-08-01 22:01:07+00:00
+hearstcorp,156065,nmohoric,Nick Mohoric,User,False,2009-11-20 18:37:04+00:00,2025-01-31 15:57:02+00:00
+hindustantimeslabs,32628947,vijdankawoosa,,User,False,2017-10-09 04:57:13+00:00,2021-07-23 16:02:48+00:00
+houston-chronicle,5222967,akanik,Alexandra Kanik,User,False,2013-08-13 15:48:12+00:00,2025-06-03 22:58:19+00:00
+icij,1092938,antoniocuga,Antonio Cucho,User,False,2011-09-30 14:56:07+00:00,2025-02-25 13:36:11+00:00
+icij,1232839,miguelfg,Miguel Fiandor,User,False,2011-12-01 07:48:50+00:00,2025-07-16 08:14:54+00:00
+icij,471176,pirhoo,Pierre Romera Zhang,User,False,2010-11-07 14:52:23+00:00,2025-07-22 13:25:24+00:00
+imedd-lab,39416357,kellykiki,Kelly Kiki,User,False,2018-05-18 17:44:29+00:00,2025-03-18 13:06:54+00:00
+infoamazonia,11841075,bwstefano,Stefano Wrobleski,User,False,2015-04-07 18:52:14+00:00,2025-06-26 13:12:31+00:00
+inn,15877728,kaylima,Kay Lima,User,False,2015-11-16 20:11:32+00:00,2025-08-01 17:31:08+00:00
+insideclimatenews,3171529,paldhous,Peter Aldhous,User,False,2013-01-02 19:07:09+00:00,2025-07-06 07:40:35+00:00
+invinst,72823042,YassinEldeeb,Yassin Eldeeb,User,False,2020-10-13 19:23:38+00:00,2025-05-22 17:08:19+00:00
+invinst,21316094,lsukaristone,Sukari Stone,User,False,2016-08-29 17:22:26+00:00,2025-07-26 00:50:01+00:00
+invinst,4379424,rajivsinclair,Rajiv Sinclair,User,False,2013-05-08 17:29:09+00:00,2025-07-30 23:54:32+00:00
+ireapps,3728252,cjwinchester,Cody Winchester,User,False,2013-02-28 14:34:16+00:00,2025-07-30 20:12:42+00:00
+ireapps,2808742,eklucas,Liz Lucas,User,False,2012-11-15 22:32:26+00:00,2025-07-27 11:24:13+00:00
+irworkshop,639012,jsfenfen,Jacob Fenton,User,False,2011-02-26 01:30:04+00:00,2025-07-09 17:02:28+00:00
+journalismai,10402887,capmar00,Marina Cap,User,False,2015-01-05 15:04:22+00:00,2025-07-30 15:39:14+00:00
+jplusplus,1089739,jensfinnas,Jens Finnäs,User,False,2011-09-29 12:21:09+00:00,2025-07-29 16:32:37+00:00
+jplusplus,122874,rotsee,Leo Wallentin,User,False,2009-09-03 15:06:04+00:00,2025-07-05 13:51:50+00:00
+kqed,77543625,Chocoloco123,Caroline Sarkki,User,False,2021-01-16 16:35:59+00:00,2025-08-02 13:58:36+00:00
+kqed,90755835,Jmg047,Jaime Guardado,User,False,2021-09-15 08:07:10+00:00,2025-06-21 03:15:32+00:00
+kqed,62750729,carlMobileDev,Carl Wills,User,False,2020-03-27 12:13:04+00:00,2025-07-31 13:44:45+00:00
+kqed,2694785,chillbrodev,Jon,User,False,2012-10-31 22:31:41+00:00,2025-07-28 21:13:21+00:00
+kqed,6519071,jasondcater,Jason D. Cater,User,False,2014-01-27 22:04:42+00:00,2025-05-28 19:39:37+00:00
+kqed,585216,kic00,Kevin Cooke,User,False,2011-01-26 19:55:02+00:00,2025-05-22 00:01:36+00:00
+kqed,571254,noahpiper,Noah Piper,User,False,2011-01-18 19:07:13+00:00,2024-05-06 15:26:12+00:00
+kqed,65507722,pamelagilmour,Pamela Gilmour,User,False,2020-05-17 18:54:05+00:00,2025-07-22 19:47:21+00:00
+kqed,44248767,pickles135,pickles,User,False,2018-10-18 00:56:46+00:00,2024-03-20 03:40:03+00:00
+kqed,171093271,scpeckner-kqed,Szu-Ching Peckner,User,False,2024-05-28 21:41:26+00:00,2025-06-20 19:35:00+00:00
+kqed,67659248,seluri00,,User,False,2020-06-30 20:34:07+00:00,2024-09-12 16:25:44+00:00
+kqed,13595016,swiftymf,Mark Fransen,User,False,2015-08-01 00:14:43+00:00,2025-07-23 17:33:21+00:00
+kqed,47335961,venkat-kasagani,Venkat Kasagani,User,False,2019-02-04 20:31:01+00:00,2025-07-15 11:51:59+00:00
+lemonde,10938182,HugoSay,Hugo Saynac,User,False,2015-02-10 09:02:44+00:00,2025-06-16 12:32:53+00:00
+lemonde,4747227,lemonde-jenkins,,User,False,2013-06-20 09:33:21+00:00,2022-12-07 20:22:13+00:00
+lemonde,167641,ludow,Ludo Werwinski,User,False,2009-12-14 22:51:39+00:00,2025-07-28 09:00:18+00:00
+lemonde,6025040,mariusbrn,Marius Baron,User,False,2013-11-24 18:53:02+00:00,2025-07-15 15:42:46+00:00
+liberation,6709851,ldelcroix,Lucas Delcroix,User,False,2014-02-17 22:31:17+00:00,2024-08-03 15:10:23+00:00
+lohud,3731605,tjk911,Jun-Kai Teoh,User,False,2013-02-28 21:35:07+00:00,2025-07-28 14:12:52+00:00
+mailonline,615092,carlosvillademor,Carlos Fernandez Garcia,User,False,2011-02-13 00:16:59+00:00,2025-07-24 13:37:24+00:00
+mailonline,3967972,claudiorodriguez,Claudio Rodriguez,User,False,2013-03-25 19:45:39+00:00,2025-07-31 07:26:35+00:00
+mailonline,133139,sielay,Łukasz Marek Sielski,User,False,2009-09-30 09:05:25+00:00,2025-07-23 12:15:44+00:00
+mashable,34648,jcarouth,Jeff Carouth,User,False,2008-11-15 17:11:17+00:00,2025-05-08 20:36:12+00:00
+mashable,76674,ralphschindler,Ralph Schindler,User,False,2009-04-22 17:28:05+00:00,2025-08-01 14:38:58+00:00
+minnpost,435342,jonathanstegall,Jonathan Stegall,User,False,2010-10-11 12:51:25+00:00,2025-02-28 22:16:11+00:00
+mirror-media,101658,hcchien,Hsin-Chan Chien,User,False,2009-07-04 14:45:36+00:00,2025-07-10 03:19:50+00:00
+motherjones,1920187,RobertWise,,User,False,2012-07-04 00:46:18+00:00,2023-07-26 21:18:36+00:00
+motherjones,309214,benbreedlove,Ben Breedlove,User,False,2010-06-19 05:38:34+00:00,2025-07-07 18:45:25+00:00
+muckrack,163426,lsemel,Lee Semel,User,False,2009-12-06 20:29:54+00:00,2025-07-28 23:40:12+00:00
+muckrack,1290989,lud0,Ludo,User,False,2011-12-28 18:42:33+00:00,2025-08-02 11:22:06+00:00
+muckrock,6089482,allanlasser,Allan Lasser,User,False,2013-12-02 20:54:48+00:00,2025-07-04 19:16:45+00:00
+muckrock,136098,mitchelljkotler,,User,False,2009-10-07 03:54:36+00:00,2025-03-06 18:48:08+00:00
+muckrock,136939,morisy,Michael Morisy,User,False,2009-10-08 17:40:05+00:00,2025-07-18 03:18:35+00:00
+nbcnews,952321,ianrose,Ian Rose,User,False,2011-08-01 18:16:11+00:00,2025-07-28 21:11:06+00:00
+nbcnews,551260,samvtran,Sam Tran,User,False,2011-01-07 01:40:34+00:00,2025-07-27 13:26:54+00:00
+newsappsio,23859,lukasappelhans,Lukas Appelhans,User,False,2008-09-09 19:36:18+00:00,2022-09-05 05:16:01+00:00
+newsday,627233,aplayford,Adam Playford,User,False,2011-02-19 17:15:13+00:00,2025-07-10 18:54:58+00:00
+newsday,2427160,mthatcherclark,M. Thatcher Clark,User,False,2012-09-26 08:55:47+00:00,2025-06-26 21:44:32+00:00
+newsdev,5422397,afischer,Andrew Fischer,User,False,2013-09-09 22:48:53+00:00,2025-07-11 11:26:38+00:00
+newsdev,382862,albertsun,Albert Sun,User,False,2010-09-01 03:36:48+00:00,2025-07-02 22:08:36+00:00
+newsdev,4390001,arossback,Andy Rossback,User,False,2013-05-09 19:21:10+00:00,2025-06-24 19:40:22+00:00
+newsdev,5733536,asmaaelk,Asmaa Elkeurti,User,False,2013-10-21 01:32:16+00:00,2025-06-09 20:16:53+00:00
+newsdev,35356,bkoski,Ben Koski,User,False,2008-11-19 05:04:09+00:00,2025-06-25 21:54:50+00:00
+newsdev,986467,blacki,Blacki Migliozzi,User,False,2011-08-17 15:46:10+00:00,2025-06-09 17:27:52+00:00
+newsdev,3066943,ericrav,Eric Rabinowitz,User,False,2012-12-17 22:09:23+00:00,2025-07-29 02:06:51+00:00
+newsdev,2843237,isaacwhite,Isaac White,User,False,2012-11-20 10:37:51+00:00,2025-06-05 20:42:04+00:00
+newsdev,6675396,jonahsmith,Jonah Smith,User,False,2014-02-13 19:10:48+00:00,2025-06-20 16:45:51+00:00
+newsdev,224963,parisminton,James Thomas,User,False,2010-03-18 00:24:55+00:00,2025-07-02 04:06:06+00:00
+newsdev,1450503,pishposh,Kentaro Kaji,User,False,2012-02-19 04:01:04+00:00,2025-06-26 15:34:16+00:00
+newsdev,294614,sjwilliams,Josh Williams,User,False,2010-06-02 17:26:06+00:00,2025-07-12 15:25:26+00:00
+newshour,591885,dcv,Vanessa Dennis,User,False,2011-01-30 23:48:16+00:00,2025-04-30 20:01:37+00:00
+newshour,609132,tcd004,,User,False,2011-02-09 16:31:16+00:00,2022-12-06 20:06:50+00:00
+newslynx,498744,mhkeller,Michael Keller,User,False,2010-11-27 06:09:57+00:00,2025-07-31 11:21:57+00:00
+newsrevenuehub,1091864,x110dc,Daniel Craigmile,User,False,2011-09-30 06:03:32+00:00,2025-07-31 18:24:50+00:00
+newyorker,36363,donohoe,Michael Donohoe,User,False,2008-11-24 16:57:28+00:00,2025-08-01 09:46:40+00:00
+niemanlab,2439459,jbenton,Joshua Benton,User,False,2012-09-27 18:46:22+00:00,2025-07-23 11:26:56+00:00
+niemanlab,1697151,mailbackwards,Liam Andrew,User,False,2012-05-02 00:24:29+00:00,2025-06-30 17:45:58+00:00
+niemanlab,907847,phelps,Andrew Phelps,User,False,2011-07-11 13:52:07+00:00,2025-07-23 00:45:48+00:00
+npr,3260492,ablwr,Ashley Blewer,User,False,2013-01-13 23:27:49+00:00,2024-08-24 00:45:32+00:00
+npr,491318,alykat,Alyson Hurt,User,False,2010-11-22 04:10:41+00:00,2025-01-07 17:31:35+00:00
+npr,17087243,jagluck,Jake Gluck,User,False,2016-02-05 17:12:52+00:00,2024-12-17 18:35:34+00:00
+npr,684719,jaredbiehler,Jared Biehler,User,False,2011-03-22 20:59:04+00:00,2025-05-12 18:29:23+00:00
+npr,5692127,joshosbrn,Josh Osborne,User,False,2013-10-15 14:39:58+00:00,2025-03-27 21:06:54+00:00
+npr,1869238,toddwelstein,Todd Welstein,User,False,2012-06-19 19:40:28+00:00,2025-06-09 16:17:36+00:00
+nprapps,491318,alykat,Alyson Hurt,User,False,2010-11-22 04:10:41+00:00,2025-01-07 17:31:35+00:00
+nrkno,17824806,aarsethio,Lars Aarseth,User,False,2016-03-14 09:21:03+00:00,2025-07-20 14:55:55+00:00
+nrkno,1065009,chrpeter,Christian Peter,User,False,2011-09-20 13:01:26+00:00,2025-03-06 19:05:16+00:00
+nrkno,1637715,duvholt,Christian Duvholt,User,False,2012-04-12 18:15:05+00:00,2025-08-02 08:13:19+00:00
+nrkno,865049,gesi,Helge Silset,User,False,2011-06-21 18:51:05+00:00,2025-07-25 12:04:45+00:00
+nrkno,1582940,gundelsby,Ola Christian Gundelsby,User,False,2012-03-28 10:22:47+00:00,2025-07-30 09:13:56+00:00
+nrkno,33124564,hakonschia,Håkon Schia,User,False,2017-10-26 12:56:51+00:00,2025-07-28 06:06:15+00:00
+nrkno,2376630,heidisu,Heidi Mork,User,False,2012-09-19 07:57:31+00:00,2025-07-28 07:56:02+00:00
+nrkno,1197904,janerikbr,Jan-Erik Bråthen,User,False,2011-11-15 22:25:06+00:00,2025-07-06 08:29:55+00:00
+nrkno,3635991,jstarpl,Jan Starzak,User,False,2013-02-19 11:06:58+00:00,2025-07-22 18:51:25+00:00
+nrkno,146559,laat,Sigurd Fosseng,User,False,2009-10-29 23:40:19+00:00,2025-08-01 16:51:43+00:00
+nrkno,617743,mollerse,Stian Veum Møllersen,User,False,2011-02-14 18:02:11+00:00,2025-07-29 07:25:58+00:00
+nrkno,758683,oyvindeh,Øyvind Håkestad,User,False,2011-04-29 09:42:01+00:00,2025-02-11 12:03:22+00:00
+nrkno,35920115,seiporangen,Henrik Tronslin Seip,User,False,2018-01-29 11:04:29+00:00,2025-07-01 09:11:05+00:00
+nrkno,2546167,sjurtf,Sjur Fredriksen,User,False,2012-10-12 16:36:53+00:00,2024-09-27 09:16:40+00:00
+nrkno,14061984,slhm,Martin Solheim,User,False,2015-08-31 20:51:10+00:00,2025-07-02 21:14:20+00:00
+nrkno,9883897,tobinus,Thorben Dahl,User,False,2014-11-21 13:49:42+00:00,2025-07-11 11:30:24+00:00
+nrkno,46320315,vildef,Vilde Fjeldstad,User,False,2019-01-02 13:04:14+00:00,2025-06-23 18:46:20+00:00
+nuknightlab,46313,JoeGermuska,Joe Germuska,User,False,2009-01-13 18:28:43+00:00,2025-07-04 11:21:56+00:00
+nuknightlab,307713,scott2b,Scott Bradley,User,False,2010-06-17 13:59:48+00:00,2025-04-11 05:41:37+00:00
+nuknightlab,741789,zachwise,Zach Wise,User,False,2011-04-20 16:35:46+00:00,2025-07-27 11:22:31+00:00
+nydailynews,125554,freejoe76,Joe Murphy,User,False,2009-09-10 23:17:32+00:00,2025-07-24 14:37:50+00:00
+nymag,194897,alhansrisuk,Albert Hansrisuk,User,False,2010-02-02 22:53:18+00:00,2025-06-23 17:19:27+00:00
+nymag,56136351,ealcantara22,Enercido Alcantara,User,False,2019-10-03 20:29:41+00:00,2025-04-21 02:49:31+00:00
+nymag,34848565,prratek,Prratek Ramchandani,User,False,2017-12-26 03:03:25+00:00,2025-06-19 04:33:18+00:00
+nypublicradio,61664,cqr,Chris Quamme Rhoden,User,False,2009-03-09 17:25:05+00:00,2025-03-28 17:42:42+00:00
+nypublicradio,3483,farski,Chris Kalafarski,User,False,2008-03-20 21:26:42+00:00,2025-07-05 03:44:50+00:00
+nypublicradio,1039021,kedmundson,Kate Edmundson,User,False,2011-09-09 16:00:57+00:00,2025-07-24 14:31:01+00:00
+nypublicradio,6431934,kimlarocca,Kim LaRocca 🌈,User,False,2014-01-17 18:17:37+00:00,2025-07-20 22:30:09+00:00
+nytimes,5422397,afischer,Andrew Fischer,User,False,2013-09-09 22:48:53+00:00,2025-07-11 11:26:38+00:00
+nytimes,16242147,annabialas,anna bialas,User,False,2015-12-10 14:49:42+00:00,2025-07-15 21:07:07+00:00
+nytimes,986467,blacki,Blacki Migliozzi,User,False,2011-08-17 15:46:10+00:00,2025-06-09 17:27:52+00:00
+nytimes,9706870,brienna,Brienna Herold,User,False,2014-11-12 23:33:51+00:00,2025-07-21 20:29:38+00:00
+nytimes,310196,chrishwiggins,chris wiggins,User,False,2010-06-20 21:44:15+00:00,2025-08-02 23:19:20+00:00
+nytimes,45045727,damolaobaleke,Damola Obaleke,User,False,2018-11-14 17:46:41+00:00,2025-08-01 00:31:47+00:00
+nytimes,522900,delambo,Matthew DeLambo,User,False,2010-12-14 15:55:01+00:00,2025-07-23 15:37:48+00:00
+nytimes,91019,ericnkatz,Eric Katz,User,False,2009-06-02 13:13:08+00:00,2025-06-04 21:39:51+00:00
+nytimes,3066943,ericrav,Eric Rabinowitz,User,False,2012-12-17 22:09:23+00:00,2025-07-29 02:06:51+00:00
+nytimes,2843237,isaacwhite,Isaac White,User,False,2012-11-20 10:37:51+00:00,2025-06-05 20:42:04+00:00
+nytimes,6675396,jonahsmith,Jonah Smith,User,False,2014-02-13 19:10:48+00:00,2025-06-20 16:45:51+00:00
+nytimes,1591904,jonhuang,Jon Huang,User,False,2012-03-30 21:56:35+00:00,2025-08-01 15:16:39+00:00
+nytimes,634842,justinph,Justin Heideman,User,False,2011-02-23 22:04:33+00:00,2025-08-01 16:59:03+00:00
+nytimes,15991754,jzz567,jzz,User,False,2015-11-24 02:37:04+00:00,2025-08-01 02:06:58+00:00
+nytimes,13950,marzagao,Thompson Marzagão,User,False,2008-06-16 20:20:19+00:00,2025-05-20 12:20:48+00:00
+nytimes,69401,mericson,,User,False,2009-04-01 14:56:59+00:00,2025-05-28 15:59:01+00:00
+nytimes,17786500,mlclmj,Malcolm Jones,User,False,2016-03-11 16:19:13+00:00,2025-07-30 22:17:25+00:00
+nytimes,10605170,mtandre,Michael Andre,User,False,2015-01-19 22:55:13+00:00,2025-07-16 16:25:51+00:00
+nytimes,13593532,n-sayenko,Nataliya Sayenko,User,False,2015-07-31 21:00:02+00:00,2025-06-29 22:17:55+00:00
+nytimes,224963,parisminton,James Thomas,User,False,2010-03-18 00:24:55+00:00,2025-07-02 04:06:06+00:00
+nytimes,1450503,pishposh,Kentaro Kaji,User,False,2012-02-19 04:01:04+00:00,2025-06-26 15:34:16+00:00
+nytimes,707098,saranrapjs,Jeff Sisson,User,False,2011-04-03 19:34:03+00:00,2025-07-07 20:29:03+00:00
+nytimes,424530,sbower,Shawn Bower,User,False,2010-10-02 14:55:54+00:00,2025-04-22 18:18:01+00:00
+nytimes,294614,sjwilliams,Josh Williams,User,False,2010-06-02 17:26:06+00:00,2025-07-12 15:25:26+00:00
+nytimes,6391887,stvnspchr,Steven Speicher,User,False,2014-01-13 17:44:13+00:00,2025-06-18 03:52:40+00:00
+nytimes,3250776,tonglil,Tony Li,User,False,2013-01-12 08:41:52+00:00,2025-07-23 21:10:30+00:00
+nytlabs,2843237,isaacwhite,Isaac White,User,False,2012-11-20 10:37:51+00:00,2025-06-05 20:42:04+00:00
+nzzdev,1220014,VFertak,Volodymyr Fertak,User,False,2011-11-25 11:45:53+00:00,2025-08-01 12:28:23+00:00
+nzzdev,4998939,cr4ckm3,Chris Waclawiak,User,False,2013-07-12 18:14:55+00:00,2025-07-10 19:01:32+00:00
+nzzdev,97021099,gpcofinity,greg.popiel,User,False,2022-01-03 08:55:25+00:00,2025-03-24 09:22:20+00:00
+nzzdev,49127168,mbalazy,Marcin Balazy,User,False,2019-03-31 17:34:54+00:00,2025-07-03 15:18:09+00:00
+nzzdev,5922794,mirkomikulic,Mirko Mikulic,User,False,2013-11-12 19:53:48+00:00,2025-06-18 18:19:49+00:00
+openelections,4129752,ATLJoeReed,Joe Reed,User,False,2013-04-11 19:21:01+00:00,2025-07-23 17:06:43+00:00
+openelections,5894247,ericlagergren,Eric Lagergren,User,False,2013-11-09 06:20:45+00:00,2025-07-10 17:30:18+00:00
+openelections,4959135,mileswwatkins,Miles Watkins,User,False,2013-07-07 15:52:31+00:00,2025-03-13 06:12:00+00:00
+openelections,14825414,ssdatar,Saurabh Datar,User,False,2015-09-24 17:24:13+00:00,2025-05-28 19:03:45+00:00
+openelections,17345532,warwickmm,,User,False,2016-02-19 21:42:00+00:00,2025-08-01 21:21:35+00:00
+opennewslabs,1016646,DataMinerUK,Nicola Hughes,User,False,2011-08-31 10:46:55+00:00,2021-03-24 02:35:29+00:00
+opennewslabs,21679,Laurian,Laurian Gridinoc,User,False,2008-08-23 10:11:37+00:00,2025-07-15 00:04:41+00:00
+opennewslabs,215145,arc64,Annabel Church,User,False,2010-03-03 23:57:52+00:00,2025-05-20 09:47:18+00:00
+opennewslabs,745064,cole-gillespie,Cole Gillespie,User,False,2011-04-22 01:57:20+00:00,2025-07-07 13:44:27+00:00
+opennewslabs,218638,debrouwere,Stijn Debrouwere,User,False,2010-03-08 21:45:56+00:00,2025-07-18 20:35:40+00:00
+opennewslabs,201994,drtortoise,L. Sandvik,User,False,2010-02-11 18:08:22+00:00,2017-08-14 19:42:45+00:00
+opennewslabs,882639,erikao,Erika Owens,User,False,2011-06-28 22:46:52+00:00,2025-04-24 10:14:54+00:00
+opennewslabs,1059947,frnsys,Francis Tseng,User,False,2011-09-18 14:34:00+00:00,2025-07-25 02:51:05+00:00
+opennewslabs,28330,gabelula,Gaba E.,User,False,2008-10-09 21:04:01+00:00,2025-07-06 11:23:07+00:00
+opennewslabs,153357,harlo,Harlo Holmes/LvH,User,False,2009-11-14 20:40:11+00:00,2025-07-01 20:59:07+00:00
+opennewslabs,27584,jazzido,Manuel Aristarán,User,False,2008-10-04 20:00:02+00:00,2025-08-03 06:58:01+00:00
+opennewslabs,1643734,julia-smith,Julia Smith,User,False,2012-04-14 19:26:04+00:00,2025-04-12 00:22:01+00:00
+opennewslabs,208756,maboa,Mark Boas,User,False,2010-02-22 23:04:28+00:00,2025-07-25 13:27:21+00:00
+opennewslabs,53129,mtigas,Mike Tigas,User,False,2009-02-09 20:51:46+00:00,2025-07-30 15:56:46+00:00
+opennewslabs,56477,ryanpitts,Ryan Pitts,User,False,2009-02-21 01:20:52+00:00,2025-04-04 01:17:37+00:00
+opennewslabs,5553862,sandhya-k,Sandhya Kambhampati,User,False,2013-09-27 00:03:13+00:00,2025-03-04 21:14:25+00:00
+opennewslabs,208884,slifty,Daniel Schultz,User,False,2010-02-23 03:12:27+00:00,2025-07-24 16:08:13+00:00
+opennewslabs,3254344,sonya2song,Sonya,User,False,2013-01-12 21:48:55+00:00,2018-11-30 17:54:51+00:00
+openstates,1198350,heyitsolivia,Olivia Cheng,User,False,2011-11-16 02:48:43+00:00,2025-07-16 13:23:34+00:00
+openstates,19409253,hiteshgarg14,Hitesh Garg,User,False,2016-05-17 13:02:35+00:00,2025-01-06 13:55:42+00:00
+openstates,8034,jamesturk,jpt,User,False,2008-04-21 04:48:06+00:00,2025-07-08 03:59:53+00:00
+openstates,1633460,jmcarp,Joshua Carp,User,False,2012-04-11 14:54:36+00:00,2025-01-23 03:35:06+00:00
+openstates,4959135,mileswwatkins,Miles Watkins,User,False,2013-07-07 15:52:31+00:00,2025-03-13 06:12:00+00:00
+openstates,132447,paultag,Paul Tagliamonte,User,False,2009-09-28 22:47:50+00:00,2025-08-01 22:03:12+00:00
+overview,10812,adamhooper,Adam Hooper,User,False,2008-05-19 20:13:39+00:00,2025-02-22 12:24:08+00:00
+overview,215145,arc64,Annabel Church,User,False,2010-03-03 23:57:52+00:00,2025-05-20 09:47:18+00:00
+palmbeachpost,533487,stucka,Mike Stucka,User,False,2010-12-22 16:03:30+00:00,2025-04-22 10:03:17+00:00
+pitchfork,56901,rtt,Rich Taylor,User,False,2009-02-22 21:10:30+00:00,2025-05-29 08:34:51+00:00
+pitchinteractiveinc,1482377,nthitz,Nick Yahnke,User,False,2012-02-28 15:40:27+00:00,2024-11-19 23:58:44+00:00
+poderopedia,259102,alangrafu,Alvaro Graves,User,False,2010-04-29 04:46:23+00:00,2025-07-20 12:42:01+00:00
+poderopedia,1652826,juaneduardo,Juan Eduardo,User,False,2012-04-17 18:03:56+00:00,2025-05-10 14:52:25+00:00
+poderopedia,1486080,miguelpaz,Miguel Paz,User,False,2012-02-29 18:32:57+00:00,2025-06-17 23:10:34+00:00
+policymic,4842108,caltchek,Christopher Altchek,User,False,2013-06-26 23:35:46+00:00,2016-02-27 09:39:11+00:00
+povdocs,3444854,salim523,Salim Ali,User,False,2013-02-01 03:45:56+00:00,2025-07-29 17:24:08+00:00
+propublica,102354,ashaw,Al Shaw,User,False,2009-07-07 01:56:57+00:00,2024-12-12 15:10:57+00:00
+propublica,38114,dphiffer,Dan Phiffer,User,False,2008-12-03 20:19:58+00:00,2025-07-26 00:21:18+00:00
+propublica,1809908,jfrankl,Jeff Frankl,User,False,2012-06-02 14:57:18+00:00,2025-05-13 20:05:27+00:00
+propublica,1424157,lenagroeger,Lena Groeger,User,False,2012-02-09 19:57:43+00:00,2025-01-06 20:50:20+00:00
+propublica,20067,schwanksta,Ken Schwencke,User,False,2008-08-08 19:56:53+00:00,2025-07-21 21:44:25+00:00
+prx,1410587,cavis,cavis,User,False,2012-02-05 19:35:12+00:00,2025-04-30 02:15:11+00:00
+prx,588861,debenedictis,Robert DeBenedictis,User,False,2011-01-28 18:59:09+00:00,2024-04-23 18:20:27+00:00
+prx,3483,farski,Chris Kalafarski,User,False,2008-03-20 21:26:42+00:00,2025-07-05 03:44:50+00:00
+prx,46439,kookster,Andrew Kuklewicz,User,False,2009-01-14 06:39:27+00:00,2025-07-21 21:00:12+00:00
+prx,329012,svevang,Sam Vevang,User,False,2010-07-11 21:39:32+00:00,2025-03-14 14:04:39+00:00
+publici,1174162,pratheekrebala,Pratheek Rebala,User,False,2011-11-05 10:43:07+00:00,2025-06-26 22:33:31+00:00
+publicradiointernational,369739,brandonhundt,Brandon Hundt,User,False,2010-08-19 14:46:27+00:00,2025-01-06 15:57:17+00:00
+publicradiointernational,46439,kookster,Andrew Kuklewicz,User,False,2009-01-14 06:39:27+00:00,2025-07-21 21:00:12+00:00
+publicradiointernational,1107871,patrickocoffeyo,Patrick Coffey,User,False,2011-10-06 15:33:05+00:00,2025-06-17 22:03:25+00:00
+radiofrance,8793448,Behel,Behel,User,False,2014-09-16 14:00:24+00:00,2025-07-03 12:27:52+00:00
+radiofrance,4136623,Karacala,karacala,User,False,2013-04-12 12:14:38+00:00,2025-07-28 08:25:04+00:00
+radiofrance,8091139,Thibaut-gauvin,Thibaut Gauvin,User,False,2014-07-07 14:21:18+00:00,2025-02-07 23:14:38+00:00
+radiofrance,4128,haklop,Eric Bellemon,User,False,2008-03-30 12:13:16+00:00,2025-06-13 08:49:54+00:00
+radiofrance,48206448,joulaud,francoisj,User,False,2019-03-04 10:35:33+00:00,2025-01-13 08:00:05+00:00
+radiofrance,547609,uZer,Youenn Piolet,User,False,2011-01-04 21:01:00+00:00,2025-07-21 14:27:27+00:00
+radiofrance,19666897,xunleii,Alexandre Nicolaie,User,False,2016-05-31 12:03:46+00:00,2025-07-31 18:58:44+00:00
+radiofrance,3020368,zckrs,Mehdy Dara,User,False,2012-12-11 23:25:55+00:00,2025-07-08 07:15:38+00:00
+registerguard,96007,jheasly,John Heasly,User,False,2009-06-16 17:29:39+00:00,2025-07-09 14:18:35+00:00
+reuters-graphics,2772078,hobbes7878,Jon McClure,User,False,2012-11-11 15:30:16+00:00,2025-07-07 18:44:34+00:00
+reuters-graphics,7580745,pkd2512,Prasanta Kumar Dutta,User,False,2014-05-14 12:08:39+00:00,2025-07-15 10:38:52+00:00
+row-engineering,36363,donohoe,Michael Donohoe,User,False,2008-11-24 16:57:28+00:00,2025-08-01 09:46:40+00:00
+sa-express-news,3096144,lukewhyte,Luke Whyte,User,False,2012-12-21 07:11:22+00:00,2025-06-26 18:13:48+00:00
+sahanjournal,116761432,CynthiaTuData,Cynthia Tu,User,False,2022-10-26 20:00:41+00:00,2025-07-28 22:59:57+00:00
+seattletimes,1273003,cordulack,Evan Cordulack,User,False,2011-12-19 14:59:03+00:00,2025-07-29 23:11:47+00:00
+seattletimes,7120023,ricklyons,"Rick Lyons, Jr.",User,False,2014-03-31 20:51:44+00:00,2025-01-08 00:37:17+00:00
+sfchronicle,154285265,ToddTrumbull,Todd Trumbull,User,False,2023-12-18 23:10:31+00:00,2025-07-31 23:36:45+00:00
+sourcefabric,1876216,MiczFlor,Micz Flor,User,False,2012-06-21 09:55:48+00:00,2024-08-02 08:47:37+00:00
+sourcefabric,611081,drigato,Denise Rigato,User,False,2011-02-10 15:36:41+00:00,2020-10-18 14:58:04+00:00
+sourcefabric,124766,eos87,Helmy Giacoman,User,False,2009-09-09 04:51:45+00:00,2025-07-28 08:19:23+00:00
+sourcefabric,1861461,fritzSF,,User,False,2012-06-18 08:09:14+00:00,2025-07-25 13:14:48+00:00
+sourcefabric,4447632,ioanpocol,,User,False,2013-05-16 13:01:48+00:00,2020-03-25 11:24:24+00:00
+sourcefabric,481905,mugurrus,Mugur Rus,User,False,2010-11-15 08:39:46+00:00,2025-07-01 13:14:02+00:00
+sourcefabric,836112,nistormihai,,User,False,2011-06-07 21:22:00+00:00,2025-04-02 18:41:54+00:00
+sourcefabric,1877103,quxee,,User,False,2012-06-21 14:14:12+00:00,2024-09-09 09:03:17+00:00
+sourcefabric,4199922,ride90,Oleh Pshenychnyi,User,False,2013-04-19 09:20:16+00:00,2025-05-16 11:40:55+00:00
+sourcefabric,1872769,tictactatic,Sava Tatić,User,False,2012-06-20 15:02:54+00:00,2025-04-14 22:20:50+00:00
+stlpublicradio,1116857,brentajones,Brent Jones,User,False,2011-10-10 16:11:32+00:00,2025-08-01 15:52:43+00:00
+stlpublicradio,18580400,ricealexander,Alex Rice,User,False,2016-04-20 17:46:09+00:00,2024-08-25 17:31:54+00:00
+sueddeutsche,113886496,felixebertsz,Felix Ebert (SZ),User,False,2022-09-19 07:27:08+00:00,2025-06-22 14:41:31+00:00
+sueddeutsche,7893682,janstuemmel,Jan Stümmel,User,False,2014-06-15 11:34:03+00:00,2025-07-21 17:07:59+00:00
+sueddeutsche,2750463,mar-wal,Markus Walbrun,User,False,2012-11-08 11:49:21+00:00,2025-06-23 08:27:26+00:00
+sueddeutsche,550533,neovatar,Thomas Seliger,User,False,2011-01-06 15:58:59+00:00,2025-07-23 15:48:09+00:00
+sunlightlabs,942819,crdunwel,Clayton Dunwell,User,False,2011-07-27 19:27:36+00:00,2025-08-01 04:29:32+00:00
+sunlightlabs,417657,cweber,Caitlin,User,False,2010-09-27 14:09:20+00:00,2021-07-10 15:07:17+00:00
+sunlightlabs,3474451,gregjd,Greg Jordan-Detamore,User,False,2013-02-04 18:53:57+00:00,2025-08-01 00:13:58+00:00
+sunlightlabs,1198350,heyitsolivia,Olivia Cheng,User,False,2011-11-16 02:48:43+00:00,2025-07-16 13:23:34+00:00
+sunlightlabs,8034,jamesturk,jpt,User,False,2008-04-21 04:48:06+00:00,2025-07-08 03:59:53+00:00
+sunlightlabs,127904,krusynth,Bill Hunt,User,False,2009-09-16 23:53:53+00:00,2025-06-29 02:23:25+00:00
+sunlightlabs,132447,paultag,Paul Tagliamonte,User,False,2009-09-28 22:47:50+00:00,2025-08-01 22:03:12+00:00
+sunlightlabs,39152,timball,timball,User,False,2008-12-08 20:23:43+00:00,2025-05-27 15:03:13+00:00
+sunlightlabs,656758,waldoj,Waldo Jaquith,User,False,2011-03-08 01:43:16+00:00,2025-07-21 15:05:03+00:00
+teamtrace,12872474,dnass,Daniel Nass,User,False,2015-06-13 12:53:21+00:00,2025-05-28 19:30:27+00:00
+technologyreview,72454341,Mohamad-Kamar,Kamar,User,False,2020-10-06 14:10:10+00:00,2025-06-21 10:12:07+00:00
+technologyreview,1379629,emilywaggoner,Emily Waggoner,User,False,2012-01-25 16:37:30+00:00,2023-12-06 19:45:58+00:00
+technologyreview,1047659,shauncalhoun,Shaun Calhoun,User,False,2011-09-13 15:10:27+00:00,2019-12-16 23:03:14+00:00
+technologyreview,1633919,tylerreckart,Tyler Reckart,User,False,2012-04-11 17:22:06+00:00,2025-07-16 13:16:11+00:00
+telegraph,2510902,OllieEdge,Oliver Edgington,User,False,2012-10-08 10:43:39+00:00,2024-10-15 09:20:14+00:00
+telegraph,17792537,durranee,Irfan Durrani,User,False,2016-03-12 02:19:40+00:00,2025-03-21 18:02:09+00:00
+telegraph,195379,tarzasai,Giorgio Gelardi,User,False,2010-02-03 10:21:45+00:00,2025-07-12 08:58:44+00:00
+telemundo,551260,samvtran,Sam Tran,User,False,2011-01-07 01:40:34+00:00,2025-07-27 13:26:54+00:00
+texastribune,2974713,ashley-hebler,Ashley Hebler,User,False,2012-12-05 21:22:52+00:00,2025-05-04 20:49:56+00:00
+the-19th,54951096,abbyblachman,Abby Blachman,User,False,2019-09-05 15:51:11+00:00,2025-08-02 11:54:47+00:00
+the-markup,5900353,BatMiles,Miles Hilton,User,False,2013-11-10 05:54:07+00:00,2024-08-21 20:57:16+00:00
+the-markup,13629454,malelew,Mohamed Al Elew,User,False,2015-08-03 17:59:41+00:00,2025-07-09 00:20:23+00:00
+the-markup,1535250,soooh,soo oh,User,False,2012-03-14 03:16:15+00:00,2024-10-03 22:02:05+00:00
+the-politico,14295728,aaronalbright,Aaron Albright,User,False,2015-09-15 14:38:59+00:00,2025-01-13 22:10:06+00:00
+theatlantic,3620471,chuhlomin,Constantine Chukhlomin,User,False,2013-02-17 21:29:57+00:00,2025-07-13 02:07:23+00:00
+theatlantic,451612,fdintino,Frankie Dintino,User,False,2010-10-24 06:58:53+00:00,2025-07-29 01:02:04+00:00
+theatlantic,7842360,jsabol,,User,False,2014-06-09 20:26:12+00:00,2025-04-14 17:38:40+00:00
+thecityny,50996799,Suhailhassanbhat,sbhat,User,False,2019-05-24 15:40:43+00:00,2025-07-18 15:06:58+00:00
+thecityny,12834575,sraby,Sam Rabiyah,User,False,2015-06-10 18:37:45+00:00,2025-07-09 14:40:46+00:00
+theeconomist,4722970,JamesFransham,James Fransham,User,False,2013-06-17 22:51:29+00:00,2025-02-17 10:52:17+00:00
+theeconomist,25713168,Marie-Ella,Marie Segger,User,False,2017-02-11 21:57:14+00:00,2025-04-29 19:26:46+00:00
+theeconomist,181752,futuraprime,Evan Hensleigh,User,False,2010-01-13 22:18:37+00:00,2025-04-02 10:59:27+00:00
+thelens,5692185,ThomasThoren,Thomas Thoren,User,False,2013-10-15 14:46:58+00:00,2025-07-17 00:48:39+00:00
+themarshallproject,697801,GabeIsman,Gabe Isman,User,False,2011-03-29 18:11:47+00:00,2025-07-21 18:13:39+00:00
+themarshallproject,713778,tommeagher,Tom Meagher,User,False,2011-04-06 19:13:28+00:00,2025-07-29 20:10:21+00:00
+theoregonian,5719819,mpfriesen,Mark Friesen,User,False,2013-10-18 16:18:15+00:00,2025-03-06 20:22:44+00:00
+thomsonreuters,112708134,arber-salihi,Arbër Salihi,User,False,2022-09-02 13:32:10+00:00,2025-07-22 13:52:42+00:00
+thomsonreuters,9211413,yilmi,Yassine Ilmi,User,False,2014-10-14 09:24:26+00:00,2025-07-27 09:25:11+00:00
+thunderdome-data,2047505,hsunelson,Nelson Hsu,User,False,2012-07-26 16:37:48+00:00,2025-07-31 19:11:02+00:00
+thunderdome-data,292811,peggybustamante,peggy bustamante,User,False,2010-06-01 02:25:59+00:00,2020-03-22 21:53:19+00:00
+thunderdome-data,713778,tommeagher,Tom Meagher,User,False,2011-04-06 19:13:28+00:00,2025-07-29 20:10:21+00:00
+thunderdome-data,2385539,vhagerty,,User,False,2012-09-20 11:58:13+00:00,2020-02-12 10:49:16+00:00
+timemagazine,947603,wilson428,Chris Wilson,User,False,2011-07-29 21:10:28+00:00,2025-07-26 04:25:45+00:00
+times,9074516,flashcheeks,Callum Christie,User,False,2014-10-08 09:20:49+00:00,2024-10-11 11:19:20+00:00
+trendct,2603702,andrewbtran,Andrew Tran,User,False,2012-10-20 01:43:43+00:00,2025-07-07 16:32:05+00:00
+vgno,70267476,3ddyBoi,Edvard Høiby,User,False,2020-08-26 11:04:06+00:00,2025-07-02 18:52:37+00:00
+vgno,5215345,M4R7iNP,martinp,User,False,2013-08-12 16:56:33+00:00,2025-07-19 11:12:08+00:00
+vgno,51861,forberg,Mads Erik Forberg,User,False,2009-02-04 21:21:47+00:00,2024-11-24 08:50:31+00:00
+vgno,364610,hebe,Hilde Skjølberg,User,False,2010-08-14 21:22:38+00:00,2023-12-22 22:48:53+00:00
+vgno,572,jarib,Jari Bakken,User,False,2008-02-21 17:14:06+00:00,2025-07-20 17:17:29+00:00
+vgno,4445087,kalfheim,Kristoffer Alfheim,User,False,2013-05-16 07:21:16+00:00,2025-07-23 20:50:16+00:00
+vgno,10770822,lukaszblachastp,Łukasz Blacha,User,False,2015-01-30 09:22:59+00:00,2025-04-18 09:22:50+00:00
+vgno,3648647,mdrobny,Michał Drobniak,User,False,2013-02-20 15:15:18+00:00,2025-07-31 21:44:24+00:00
+vgno,544388,olekenneth,Ole-Kenneth,User,False,2011-01-02 17:41:15+00:00,2025-07-20 11:22:57+00:00
+voxmedia,38990705,BrettBlox,Brett Bloxom,User,False,2018-05-04 19:37:25+00:00,2025-05-28 15:16:08+00:00
+voxmedia,56136351,ealcantara22,Enercido Alcantara,User,False,2019-10-03 20:29:41+00:00,2025-04-21 02:49:31+00:00
+voxmedia,11667,sixfoot6,Ryan Gantz,User,False,2008-05-27 17:49:23+00:00,2025-07-31 19:03:07+00:00
+vprnet,996657,mattparrilla,Matt Parrilla,User,False,2011-08-22 15:44:41+00:00,2025-06-13 12:39:58+00:00
+washingtoncitypaper,6132143,rausnitz,Zach Rausnitz,User,False,2013-12-07 21:31:51+00:00,2025-02-07 17:38:38+00:00
+washingtonpost,748069,AramZS,Aram Zucker-Scharff,User,False,2011-04-23 22:11:42+00:00,2025-07-22 18:00:31+00:00
+washingtonpost,479290,anthonyjpesce,Anthony Pesce,User,False,2010-11-12 19:43:50+00:00,2025-02-18 18:12:00+00:00
+washingtonpost,20774194,gabelorenzo,Gabe Lorenzo,User,False,2016-08-01 13:54:36+00:00,2025-07-25 19:11:23+00:00
+wbez,4379073,wbezwebmaster,The Web Services People,User,False,2013-05-08 16:44:52+00:00,2024-05-22 14:49:08+00:00
+wgbh,1507490,afred,Andrew Myers,User,False,2012-03-06 15:03:08+00:00,2025-07-11 13:42:26+00:00
+wgbh,476078,eyemyth,Jay Thompson,User,False,2010-11-10 17:24:40+00:00,2025-05-23 19:15:31+00:00
+wireservice,26463,jpmckinney,James McKinney,User,False,2008-09-27 01:06:14+00:00,2025-06-10 03:17:16+00:00
+wireservice,2553386,nbedi,Neil Bedi,User,False,2012-10-13 19:46:54+00:00,2025-02-18 14:12:46+00:00
+wnyc,234208,marineb,Marine Boudeau,User,False,2010-03-31 15:17:00+00:00,2025-06-20 14:26:47+00:00
+wnyc,2090382,noslouch,Brian Whitton,User,False,2012-08-03 15:29:55+00:00,2025-05-22 16:08:54+00:00
+wsj,1442752,ejb,Elliot Bentley,User,False,2012-02-16 09:58:35+00:00,2025-07-30 07:07:25+00:00
+wsj,1656913,palanik,Palani Kumanan,User,False,2012-04-18 20:25:00+00:00,2025-08-03 11:24:27+00:00
+yleisradio,3000387,akselinurmio,Akseli Nurmio,User,False,2012-12-09 09:10:33+00:00,2025-07-31 20:45:08+00:00
+yleisradio,5222805,firoxer,Oliver Vartiainen,User,False,2013-08-13 15:21:13+00:00,2025-07-28 07:10:45+00:00
+yleisradio,1457573,jannematti,Janne Rantamäki,User,False,2012-02-21 14:38:44+00:00,2025-06-19 11:54:41+00:00
+yleisradio,880578,jruusu,Jan Ruusuvuori,User,False,2011-06-28 05:30:35+00:00,2025-07-28 03:54:56+00:00
+yleisradio,2161725,lasiltan,Lauri Siltanen,User,False,2012-08-16 08:06:52+00:00,2025-07-28 11:25:20+00:00
+yleisradio,7273798,liekki,Matti Vakkilainen,User,False,2014-04-12 15:30:36+00:00,2025-07-22 19:11:27+00:00
+yleisradio,2536077,lizine,Nina,User,False,2012-10-11 10:25:22+00:00,2025-01-07 08:02:45+00:00
+yleisradio,8464351,tkriik,Tanel Kriik,User,False,2014-08-16 10:37:04+00:00,2025-07-26 11:26:37+00:00
+youthradio,2424487,AshaLaura,Asha Richardson ,User,False,2012-09-26 00:44:09+00:00,2018-11-13 02:20:33+00:00
+youthradio,102277,radames,Radamés Ajna,User,False,2009-07-06 21:40:10+00:00,2025-07-28 15:12:00+00:00
+zeitonline,56071699,AWieczorreck,,User,False,2019-10-02 10:10:32+00:00,2025-07-10 12:11:21+00:00
+zeitonline,674840,codecandies,Nico Brünjes,User,False,2011-03-17 10:09:05+00:00,2025-07-22 08:10:28+00:00
+zeitonline,4659456,dkreitschmann,Daniel Kreitschmann,User,False,2013-06-10 08:55:35+00:00,2025-05-28 19:46:14+00:00
+zeitonline,38328,julians,Julian Stahnke,User,False,2008-12-04 17:47:03+00:00,2025-06-26 17:49:11+00:00
+zeitonline,1826918,mstoltenburg,Moritz Stoltenburg,User,False,2012-06-07 13:17:16+00:00,2025-06-05 10:05:46+00:00
+zeitonline,59207,tomster,Tom Lazar,User,False,2009-03-01 23:59:04+00:00,2025-05-21 09:33:43+00:00
+zeitonline,577891,wosc,Wolfgang Schnerring,User,False,2011-01-22 11:22:24+00:00,2025-07-28 06:05:45+00:00

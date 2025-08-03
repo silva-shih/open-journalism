@@ -1,0 +1,32 @@
+[
+  {
+    "org": "baycitizen",
+    "id": 231793,
+    "login": "Jbonnett",
+    "name": "Joshua Bonnett",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-03-27 23:45:40+00:00",
+    "updated_at": "2024-03-31 06:03:29+00:00"
+  },
+  {
+    "org": "baycitizen",
+    "id": 375109,
+    "login": "joncotton",
+    "name": "Jon Cotton",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-08-24 22:41:20+00:00",
+    "updated_at": "2025-07-18 17:31:52+00:00"
+  },
+  {
+    "org": "baycitizen",
+    "id": 433755,
+    "login": "shaneshifflett",
+    "name": "Shane Shifflett",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-10-09 19:25:52+00:00",
+    "updated_at": "2024-05-31 16:18:04+00:00"
+  }
+]

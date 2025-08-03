@@ -1,0 +1,72 @@
+[
+  {
+    "org": "abcnews",
+    "id": 23016152,
+    "login": "alexanderlim9",
+    "name": "Alex Lim",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2016-10-23 17:32:44+00:00",
+    "updated_at": "2025-04-04 02:51:11+00:00"
+  },
+  {
+    "org": "abcnews",
+    "id": 49600,
+    "login": "AshKyd",
+    "name": "Ash Kyd",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-01-27 12:07:33+00:00",
+    "updated_at": "2025-05-27 09:51:52+00:00"
+  },
+  {
+    "org": "abcnews",
+    "id": 245146,
+    "login": "blakebutcher",
+    "name": "Blake Butcher",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-04-16 02:02:57+00:00",
+    "updated_at": "2024-03-07 08:16:09+00:00"
+  },
+  {
+    "org": "abcnews",
+    "id": 596563,
+    "login": "drzax",
+    "name": "Simon Elvery",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-02-02 10:39:49+00:00",
+    "updated_at": "2025-04-30 04:27:57+00:00"
+  },
+  {
+    "org": "abcnews",
+    "id": 13426605,
+    "login": "mattliddy",
+    "name": "Matt Liddy",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2015-07-21 00:49:45+00:00",
+    "updated_at": "2025-06-16 23:17:15+00:00"
+  },
+  {
+    "org": "abcnews",
+    "id": 437566,
+    "login": "phocks",
+    "name": "Joshua Byrd",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-10-13 06:27:05+00:00",
+    "updated_at": "2025-07-30 07:08:34+00:00"
+  },
+  {
+    "org": "abcnews",
+    "id": 70102377,
+    "login": "thomasbrettell",
+    "name": "Brettell",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2020-08-23 14:39:03+00:00",
+    "updated_at": "2025-07-02 02:11:49+00:00"
+  }
+]

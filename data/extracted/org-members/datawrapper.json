@@ -1,0 +1,72 @@
+[
+  {
+    "org": "datawrapper",
+    "id": 104082367,
+    "login": "alexanderkaessner",
+    "name": "Alexander K.",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2022-04-20 14:07:15+00:00",
+    "updated_at": "2025-02-11 14:38:19+00:00"
+  },
+  {
+    "org": "datawrapper",
+    "id": 6981408,
+    "login": "davidkokkelink",
+    "name": "David Kokkelink",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-03-17 23:58:52+00:00",
+    "updated_at": "2025-08-01 19:09:47+00:00"
+  },
+  {
+    "org": "datawrapper",
+    "id": 22416639,
+    "login": "EX0l0N",
+    "name": "Exolon Voncor",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2016-09-24 16:08:50+00:00",
+    "updated_at": "2025-07-24 11:28:54+00:00"
+  },
+  {
+    "org": "datawrapper",
+    "id": 617518,
+    "login": "gka",
+    "name": "Gregor Aisch",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-02-14 15:48:07+00:00",
+    "updated_at": "2025-07-31 22:39:31+00:00"
+  },
+  {
+    "org": "datawrapper",
+    "id": 6787862,
+    "login": "ilokhov",
+    "name": "Ivan Lokhov",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-02-25 23:00:55+00:00",
+    "updated_at": "2025-07-20 14:53:04+00:00"
+  },
+  {
+    "org": "datawrapper",
+    "id": 9379282,
+    "login": "lisacharlotterost",
+    "name": "Lisa Charlotte Muth",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-10-24 09:32:15+00:00",
+    "updated_at": "2025-05-07 10:18:48+00:00"
+  },
+  {
+    "org": "datawrapper",
+    "id": 6685200,
+    "login": "SarcevicAntonio",
+    "name": "Antonio Sarcevic",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-02-14 19:34:59+00:00",
+    "updated_at": "2025-06-22 09:22:22+00:00"
+  }
+]

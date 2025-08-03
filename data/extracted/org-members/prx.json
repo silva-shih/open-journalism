@@ -1,0 +1,52 @@
+[
+  {
+    "org": "prx",
+    "id": 1410587,
+    "login": "cavis",
+    "name": "cavis",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-02-05 19:35:12+00:00",
+    "updated_at": "2025-04-30 02:15:11+00:00"
+  },
+  {
+    "org": "prx",
+    "id": 588861,
+    "login": "debenedictis",
+    "name": "Robert DeBenedictis",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-01-28 18:59:09+00:00",
+    "updated_at": "2024-04-23 18:20:27+00:00"
+  },
+  {
+    "org": "prx",
+    "id": 3483,
+    "login": "farski",
+    "name": "Chris Kalafarski",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2008-03-20 21:26:42+00:00",
+    "updated_at": "2025-07-05 03:44:50+00:00"
+  },
+  {
+    "org": "prx",
+    "id": 46439,
+    "login": "kookster",
+    "name": "Andrew Kuklewicz",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-01-14 06:39:27+00:00",
+    "updated_at": "2025-07-21 21:00:12+00:00"
+  },
+  {
+    "org": "prx",
+    "id": 329012,
+    "login": "svevang",
+    "name": "Sam Vevang",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-07-11 21:39:32+00:00",
+    "updated_at": "2025-03-14 14:04:39+00:00"
+  }
+]

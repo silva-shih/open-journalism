@@ -1,0 +1,52 @@
+[
+  {
+    "org": "openelections",
+    "id": 4129752,
+    "login": "ATLJoeReed",
+    "name": "Joe Reed",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-04-11 19:21:01+00:00",
+    "updated_at": "2025-07-23 17:06:43+00:00"
+  },
+  {
+    "org": "openelections",
+    "id": 5894247,
+    "login": "ericlagergren",
+    "name": "Eric Lagergren",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-11-09 06:20:45+00:00",
+    "updated_at": "2025-07-10 17:30:18+00:00"
+  },
+  {
+    "org": "openelections",
+    "id": 4959135,
+    "login": "mileswwatkins",
+    "name": "Miles Watkins",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-07-07 15:52:31+00:00",
+    "updated_at": "2025-03-13 06:12:00+00:00"
+  },
+  {
+    "org": "openelections",
+    "id": 14825414,
+    "login": "ssdatar",
+    "name": "Saurabh Datar",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2015-09-24 17:24:13+00:00",
+    "updated_at": "2025-05-28 19:03:45+00:00"
+  },
+  {
+    "org": "openelections",
+    "id": 17345532,
+    "login": "warwickmm",
+    "name": null,
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2016-02-19 21:42:00+00:00",
+    "updated_at": "2025-08-01 21:21:35+00:00"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "org": "derspiegel",
+    "id": 3787451,
+    "login": "KurtJansson",
+    "name": "Kurt Jansson",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-03-06 13:20:51+00:00",
+    "updated_at": "2023-12-05 14:47:53+00:00"
+  },
+  {
+    "org": "derspiegel",
+    "id": 22907799,
+    "login": "mrestorff",
+    "name": null,
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2016-10-18 08:44:24+00:00",
+    "updated_at": "2025-07-30 11:18:34+00:00"
+  },
+  {
+    "org": "derspiegel",
+    "id": 572515,
+    "login": "salevajo",
+    "name": "Stephan Heffner",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-01-19 12:37:47+00:00",
+    "updated_at": "2025-06-22 09:51:30+00:00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "org": "kffdata",
+    "name": "COVID-19-Data",
+    "full_name": "KFFData/COVID-19-Data",
+    "homepage": "https://www.kff.org/coronavirus-covid-19/",
+    "description": "KFF Data on Coronavirus",
+    "language": null,
+    "created_at": "2020-06-02 18:36:08+00:00",
+    "updated_at": "2025-07-30 19:08:31+00:00",
+    "pushed_at": "2025-07-30 19:08:27+00:00",
+    "fork": false,
+    "stargazers_count": 33,
+    "watchers_count": 33,
+    "forks_count": 34,
+    "open_issues_count": 0,
+    "license": null,
+    "topics": [
+      "coronavirus",
+      "coronavirus-tracking",
+      "covid-19",
+      "covid19-data",
+      "ncov-dashboard"
+    ]
+  },
+  {
+    "org": "kffdata",
+    "name": "kfftemplate",
+    "full_name": "KFFData/kfftemplate",
+    "homepage": null,
+    "description": null,
+    "language": null,
+    "created_at": "2021-02-07 00:10:52+00:00",
+    "updated_at": "2021-02-07 00:10:53+00:00",
+    "pushed_at": "2021-01-23 18:27:59+00:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "license": "GNU General Public License v3.0",
+    "topics": []
+  }
+]

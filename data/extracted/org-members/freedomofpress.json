@@ -1,0 +1,72 @@
+[
+  {
+    "org": "freedomofpress",
+    "id": 67073,
+    "login": "almet",
+    "name": "Alexis M\u00e9taireau",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-03-25 15:32:25+00:00",
+    "updated_at": "2025-06-22 01:56:08+00:00"
+  },
+  {
+    "org": "freedomofpress",
+    "id": 357435,
+    "login": "cfm",
+    "name": "Cory Francis Myers",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-08-08 02:04:30+00:00",
+    "updated_at": "2025-07-28 23:23:00+00:00"
+  },
+  {
+    "org": "freedomofpress",
+    "id": 213636,
+    "login": "eloquence",
+    "name": "Erik Moeller",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-03-02 03:26:03+00:00",
+    "updated_at": "2025-07-14 05:09:59+00:00"
+  },
+  {
+    "org": "freedomofpress",
+    "id": 72914,
+    "login": "huertanix",
+    "name": "David Huerta",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-04-12 05:47:48+00:00",
+    "updated_at": "2025-06-10 18:27:12+00:00"
+  },
+  {
+    "org": "freedomofpress",
+    "id": 81392,
+    "login": "legoktm",
+    "name": "Kunal Mehta",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-05-05 21:36:43+00:00",
+    "updated_at": "2025-07-14 14:16:01+00:00"
+  },
+  {
+    "org": "freedomofpress",
+    "id": 66009328,
+    "login": "lsd-cat",
+    "name": "giulio",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2020-05-27 10:01:37+00:00",
+    "updated_at": "2025-07-29 06:11:44+00:00"
+  },
+  {
+    "org": "freedomofpress",
+    "id": 8262612,
+    "login": "ninavizz",
+    "name": "Nina Eleanor Alter",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-07-25 01:01:52+00:00",
+    "updated_at": "2025-07-19 04:16:10+00:00"
+  }
+]

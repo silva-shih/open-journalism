@@ -1,0 +1,38 @@
+[
+  {
+    "org": "bayerischer-rundfunk",
+    "name": "android-env-picker",
+    "full_name": "bayerischer-rundfunk/android-env-picker",
+    "homepage": null,
+    "description": null,
+    "language": "Kotlin",
+    "created_at": "2021-10-13 09:25:32+00:00",
+    "updated_at": "2022-05-01 13:47:25+00:00",
+    "pushed_at": "2022-05-01 13:45:47+00:00",
+    "fork": false,
+    "stargazers_count": 8,
+    "watchers_count": 8,
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "license": "Apache License 2.0",
+    "topics": []
+  },
+  {
+    "org": "bayerischer-rundfunk",
+    "name": "android-br-newsticker-demo",
+    "full_name": "bayerischer-rundfunk/android-br-newsticker-demo",
+    "homepage": "",
+    "description": "Tutorial repo: Showcase for a ViewModel-based architecture for retrieving and displaying current BR news content. Part of our BR App coding workshop https://www.medienforum-mittweida.de/medienforum-mittweida-2021/workshops-mfmw2021/",
+    "language": "Kotlin",
+    "created_at": "2021-11-22 11:41:19+00:00",
+    "updated_at": "2021-11-22 17:14:04+00:00",
+    "pushed_at": "2021-11-22 17:14:02+00:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "license": null,
+    "topics": []
+  }
+]

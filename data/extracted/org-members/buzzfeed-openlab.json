@@ -1,0 +1,32 @@
+[
+  {
+    "org": "buzzfeed-openlab",
+    "id": 150791,
+    "login": "amandabee",
+    "name": "Amanda Hickman",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-11-09 14:23:39+00:00",
+    "updated_at": "2025-05-14 15:54:56+00:00"
+  },
+  {
+    "org": "buzzfeed-openlab",
+    "id": 1406537,
+    "login": "cathydeng",
+    "name": "Cathy Deng",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-02-03 20:13:30+00:00",
+    "updated_at": "2025-07-29 17:34:48+00:00"
+  },
+  {
+    "org": "buzzfeed-openlab",
+    "id": 1900307,
+    "login": "WestleyArgentum",
+    "name": "Westley Argentum Hennigh-Palermo",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-06-27 21:29:56+00:00",
+    "updated_at": "2024-04-03 15:28:06+00:00"
+  }
+]

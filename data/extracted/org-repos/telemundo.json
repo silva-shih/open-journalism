@@ -1,0 +1,20 @@
+[
+  {
+    "org": "telemundo",
+    "name": "PodcastGenerator",
+    "full_name": "telemundo/PodcastGenerator",
+    "homepage": null,
+    "description": "NotebookLM Clone to generate podcasts from a pdf",
+    "language": "Jupyter Notebook",
+    "created_at": "2025-01-22 17:35:42+00:00",
+    "updated_at": "2025-01-22 21:26:17+00:00",
+    "pushed_at": "2025-01-22 21:26:14+00:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "license": null,
+    "topics": []
+  }
+]

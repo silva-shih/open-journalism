@@ -1,0 +1,42 @@
+[
+  {
+    "org": "associatedpress",
+    "id": 61112665,
+    "login": "ernestkung",
+    "name": "Ernest Kung",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2020-02-16 12:38:10+00:00",
+    "updated_at": "2025-06-24 21:55:29+00:00"
+  },
+  {
+    "org": "associatedpress",
+    "id": 5200,
+    "login": "greatseth",
+    "name": "Seth Thomas Rasmussen",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2008-04-05 00:32:08+00:00",
+    "updated_at": "2024-12-02 17:29:34+00:00"
+  },
+  {
+    "org": "associatedpress",
+    "id": 178317,
+    "login": "michelleminkoff",
+    "name": "Michelle Minkoff",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-01-08 02:46:25+00:00",
+    "updated_at": "2022-10-17 18:59:21+00:00"
+  },
+  {
+    "org": "associatedpress",
+    "id": 217394,
+    "login": "tthibo",
+    "name": "Troy Thibodeaux",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-03-07 00:34:50+00:00",
+    "updated_at": "2025-07-01 18:04:53+00:00"
+  }
+]

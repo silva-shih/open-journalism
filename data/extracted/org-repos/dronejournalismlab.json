@@ -1,0 +1,38 @@
+[
+  {
+    "org": "dronejournalismlab",
+    "name": "COAapplication",
+    "full_name": "DroneJournalismLab/COAapplication",
+    "homepage": null,
+    "description": "A repository of answers submitted to the Federal Aviation Administration's Certificate of Authorization process.",
+    "language": null,
+    "created_at": "2013-09-28 20:50:24+00:00",
+    "updated_at": "2019-05-12 02:21:49+00:00",
+    "pushed_at": "2015-02-27 18:56:25+00:00",
+    "fork": false,
+    "stargazers_count": 14,
+    "watchers_count": 14,
+    "forks_count": 6,
+    "open_issues_count": 0,
+    "license": "MIT License",
+    "topics": []
+  },
+  {
+    "org": "dronejournalismlab",
+    "name": "OperationsManual",
+    "full_name": "DroneJournalismLab/OperationsManual",
+    "homepage": null,
+    "description": "The Drone Journalism Lab's Operations Manual is here to help your news organization with using flying robots to report news.",
+    "language": null,
+    "created_at": "2016-09-01 01:32:12+00:00",
+    "updated_at": "2025-06-17 19:30:58+00:00",
+    "pushed_at": "2017-12-11 14:33:12+00:00",
+    "fork": false,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "forks_count": 15,
+    "open_issues_count": 2,
+    "license": "Creative Commons Attribution Share Alike 4.0 International",
+    "topics": []
+  }
+]

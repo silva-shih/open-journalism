@@ -1,0 +1,32 @@
+[
+  {
+    "org": "aftenposten",
+    "id": 334239,
+    "login": "erikkri",
+    "name": "Erik Kristensen",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-07-16 17:22:58+00:00",
+    "updated_at": "2025-06-11 13:54:13+00:00"
+  },
+  {
+    "org": "aftenposten",
+    "id": 808950,
+    "login": "jlom",
+    "name": "J\u00f8rgen Arnor G. Lom",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-05-25 02:30:04+00:00",
+    "updated_at": "2025-06-30 10:39:58+00:00"
+  },
+  {
+    "org": "aftenposten",
+    "id": 56080700,
+    "login": "pbyenstuen",
+    "name": null,
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2019-10-02 14:13:35+00:00",
+    "updated_at": "2025-05-23 10:59:26+00:00"
+  }
+]

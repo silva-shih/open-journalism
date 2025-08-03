@@ -1,0 +1,42 @@
+[
+  {
+    "org": "lemonde",
+    "id": 10938182,
+    "login": "HugoSay",
+    "name": "Hugo Saynac",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2015-02-10 09:02:44+00:00",
+    "updated_at": "2025-06-16 12:32:53+00:00"
+  },
+  {
+    "org": "lemonde",
+    "id": 4747227,
+    "login": "lemonde-jenkins",
+    "name": null,
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-06-20 09:33:21+00:00",
+    "updated_at": "2022-12-07 20:22:13+00:00"
+  },
+  {
+    "org": "lemonde",
+    "id": 167641,
+    "login": "ludow",
+    "name": "Ludo Werwinski",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-12-14 22:51:39+00:00",
+    "updated_at": "2025-07-28 09:00:18+00:00"
+  },
+  {
+    "org": "lemonde",
+    "id": 6025040,
+    "login": "mariusbrn",
+    "name": "Marius Baron",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-11-24 18:53:02+00:00",
+    "updated_at": "2025-07-15 15:42:46+00:00"
+  }
+]

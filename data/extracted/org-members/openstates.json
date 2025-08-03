@@ -1,0 +1,62 @@
+[
+  {
+    "org": "openstates",
+    "id": 1198350,
+    "login": "heyitsolivia",
+    "name": "Olivia Cheng",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-11-16 02:48:43+00:00",
+    "updated_at": "2025-07-16 13:23:34+00:00"
+  },
+  {
+    "org": "openstates",
+    "id": 19409253,
+    "login": "hiteshgarg14",
+    "name": "Hitesh Garg",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2016-05-17 13:02:35+00:00",
+    "updated_at": "2025-01-06 13:55:42+00:00"
+  },
+  {
+    "org": "openstates",
+    "id": 8034,
+    "login": "jamesturk",
+    "name": "jpt",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2008-04-21 04:48:06+00:00",
+    "updated_at": "2025-07-08 03:59:53+00:00"
+  },
+  {
+    "org": "openstates",
+    "id": 1633460,
+    "login": "jmcarp",
+    "name": "Joshua Carp",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-04-11 14:54:36+00:00",
+    "updated_at": "2025-01-23 03:35:06+00:00"
+  },
+  {
+    "org": "openstates",
+    "id": 4959135,
+    "login": "mileswwatkins",
+    "name": "Miles Watkins",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-07-07 15:52:31+00:00",
+    "updated_at": "2025-03-13 06:12:00+00:00"
+  },
+  {
+    "org": "openstates",
+    "id": 132447,
+    "login": "paultag",
+    "name": "Paul Tagliamonte",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-09-28 22:47:50+00:00",
+    "updated_at": "2025-08-01 22:03:12+00:00"
+  }
+]

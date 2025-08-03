@@ -1,0 +1,42 @@
+[
+  {
+    "org": "biglocalnews",
+    "id": 547438,
+    "login": "cephillips",
+    "name": "Cheryl Phillips",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-01-04 19:04:47+00:00",
+    "updated_at": "2025-07-23 22:17:44+00:00"
+  },
+  {
+    "org": "biglocalnews",
+    "id": 1578563,
+    "login": "newsroomdev",
+    "name": "Gerald Rich",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-03-27 04:18:05+00:00",
+    "updated_at": "2025-07-31 22:10:14+00:00"
+  },
+  {
+    "org": "biglocalnews",
+    "id": 20691507,
+    "login": "ydoc5212",
+    "name": "Cody Hergenroeder",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2016-07-27 22:18:19+00:00",
+    "updated_at": "2025-07-09 05:32:00+00:00"
+  },
+  {
+    "org": "biglocalnews",
+    "id": 39200,
+    "login": "zstumgoren",
+    "name": "Serdar Tumgoren",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2008-12-09 01:26:00+00:00",
+    "updated_at": "2025-07-12 06:55:19+00:00"
+  }
+]

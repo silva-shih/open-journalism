@@ -1,0 +1,92 @@
+[
+  {
+    "org": "dukechronicle",
+    "id": 350938,
+    "login": "deanchen",
+    "name": "Dean Chen",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-08-01 18:04:31+00:00",
+    "updated_at": "2025-02-03 11:01:47+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 150594,
+    "login": "galonsky",
+    "name": "Alex Galonsky",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-11-08 23:50:27+00:00",
+    "updated_at": "2025-05-27 13:05:43+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 1137465,
+    "login": "grivkees",
+    "name": "Glenn Rivkees",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-10-19 06:07:19+00:00",
+    "updated_at": "2025-06-14 05:26:32+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 881253,
+    "login": "jimpo",
+    "name": "Jim Posen",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-06-28 12:05:45+00:00",
+    "updated_at": "2025-07-13 17:57:04+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 234589,
+    "login": "jodoglevy",
+    "name": "Joe Levy",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-04-01 01:10:02+00:00",
+    "updated_at": "2025-03-18 21:02:53+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 14322911,
+    "login": "Lucytheanimefan",
+    "name": "Lucy Zhang",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2015-09-17 01:34:15+00:00",
+    "updated_at": "2023-03-02 03:24:58+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 4461795,
+    "login": "rogerzou",
+    "name": "Roger Zou",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-05-18 01:55:49+00:00",
+    "updated_at": "2025-07-13 19:43:57+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 2541320,
+    "login": "rtoussaint",
+    "name": "Ryan Toussaint",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-10-12 01:50:38+00:00",
+    "updated_at": "2019-06-20 03:44:26+00:00"
+  },
+  {
+    "org": "dukechronicle",
+    "id": 1269129,
+    "login": "themichaellai",
+    "name": "Michael Lai",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-12-17 03:08:44+00:00",
+    "updated_at": "2025-06-23 18:13:41+00:00"
+  }
+]

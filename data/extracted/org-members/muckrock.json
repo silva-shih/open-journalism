@@ -1,0 +1,32 @@
+[
+  {
+    "org": "muckrock",
+    "id": 6089482,
+    "login": "allanlasser",
+    "name": "Allan Lasser",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-12-02 20:54:48+00:00",
+    "updated_at": "2025-07-04 19:16:45+00:00"
+  },
+  {
+    "org": "muckrock",
+    "id": 136098,
+    "login": "mitchelljkotler",
+    "name": null,
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-10-07 03:54:36+00:00",
+    "updated_at": "2025-03-06 18:48:08+00:00"
+  },
+  {
+    "org": "muckrock",
+    "id": 136939,
+    "login": "morisy",
+    "name": "Michael Morisy",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-10-08 17:40:05+00:00",
+    "updated_at": "2025-07-18 03:18:35+00:00"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "org": "dandc",
+    "name": "Backbone.localStorage",
+    "full_name": "dandc/Backbone.localStorage",
+    "homepage": "http://documentup.com/jeromegn/backbone.localStorage",
+    "description": "A localStorage adapter for Backbone.js",
+    "language": "JavaScript",
+    "created_at": "2013-05-31 16:57:07+00:00",
+    "updated_at": "2013-05-31 16:57:07+00:00",
+    "pushed_at": "2013-05-29 13:24:04+00:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "license": null,
+    "topics": []
+  },
+  {
+    "org": "dandc",
+    "name": "jquery-mobile",
+    "full_name": "dandc/jquery-mobile",
+    "homepage": "http://jquerymobile.com/",
+    "description": "jQuery Mobile Framework",
+    "language": "JavaScript",
+    "created_at": "2012-07-18 14:23:48+00:00",
+    "updated_at": "2021-10-29 15:55:16+00:00",
+    "pushed_at": "2012-01-23 19:37:48+00:00",
+    "fork": true,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "license": "Other",
+    "topics": []
+  }
+]

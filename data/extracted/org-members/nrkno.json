@@ -1,0 +1,172 @@
+[
+  {
+    "org": "nrkno",
+    "id": 17824806,
+    "login": "aarsethio",
+    "name": "Lars Aarseth",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2016-03-14 09:21:03+00:00",
+    "updated_at": "2025-07-20 14:55:55+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 1065009,
+    "login": "chrpeter",
+    "name": "Christian Peter",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-09-20 13:01:26+00:00",
+    "updated_at": "2025-03-06 19:05:16+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 1637715,
+    "login": "duvholt",
+    "name": "Christian Duvholt",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-04-12 18:15:05+00:00",
+    "updated_at": "2025-08-02 08:13:19+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 865049,
+    "login": "gesi",
+    "name": "Helge Silset",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-06-21 18:51:05+00:00",
+    "updated_at": "2025-07-25 12:04:45+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 1582940,
+    "login": "gundelsby",
+    "name": "Ola Christian Gundelsby",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-03-28 10:22:47+00:00",
+    "updated_at": "2025-07-30 09:13:56+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 33124564,
+    "login": "hakonschia",
+    "name": "H\u00e5kon Schia",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2017-10-26 12:56:51+00:00",
+    "updated_at": "2025-07-28 06:06:15+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 2376630,
+    "login": "heidisu",
+    "name": "Heidi Mork",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-09-19 07:57:31+00:00",
+    "updated_at": "2025-07-28 07:56:02+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 1197904,
+    "login": "janerikbr",
+    "name": "Jan-Erik Br\u00e5then",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-11-15 22:25:06+00:00",
+    "updated_at": "2025-07-06 08:29:55+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 3635991,
+    "login": "jstarpl",
+    "name": "Jan Starzak",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-02-19 11:06:58+00:00",
+    "updated_at": "2025-07-22 18:51:25+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 146559,
+    "login": "laat",
+    "name": "Sigurd Fosseng",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-10-29 23:40:19+00:00",
+    "updated_at": "2025-08-01 16:51:43+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 617743,
+    "login": "mollerse",
+    "name": "Stian Veum M\u00f8llersen",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-02-14 18:02:11+00:00",
+    "updated_at": "2025-07-29 07:25:58+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 758683,
+    "login": "oyvindeh",
+    "name": "\u00d8yvind H\u00e5kestad",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-04-29 09:42:01+00:00",
+    "updated_at": "2025-02-11 12:03:22+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 35920115,
+    "login": "seiporangen",
+    "name": "Henrik Tronslin Seip",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2018-01-29 11:04:29+00:00",
+    "updated_at": "2025-07-01 09:11:05+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 2546167,
+    "login": "sjurtf",
+    "name": "Sjur Fredriksen",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-10-12 16:36:53+00:00",
+    "updated_at": "2024-09-27 09:16:40+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 14061984,
+    "login": "slhm",
+    "name": "Martin Solheim",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2015-08-31 20:51:10+00:00",
+    "updated_at": "2025-07-02 21:14:20+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 9883897,
+    "login": "tobinus",
+    "name": "Thorben Dahl",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2014-11-21 13:49:42+00:00",
+    "updated_at": "2025-07-11 11:30:24+00:00"
+  },
+  {
+    "org": "nrkno",
+    "id": 46320315,
+    "login": "vildef",
+    "name": "Vilde Fjeldstad",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2019-01-02 13:04:14+00:00",
+    "updated_at": "2025-06-23 18:46:20+00:00"
+  }
+]

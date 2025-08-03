@@ -1,0 +1,22 @@
+[
+  {
+    "org": "muckrack",
+    "id": 163426,
+    "login": "lsemel",
+    "name": "Lee Semel",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-12-06 20:29:54+00:00",
+    "updated_at": "2025-07-28 23:40:12+00:00"
+  },
+  {
+    "org": "muckrack",
+    "id": 1290989,
+    "login": "lud0",
+    "name": "Ludo",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-12-28 18:42:33+00:00",
+    "updated_at": "2025-08-02 11:22:06+00:00"
+  }
+]

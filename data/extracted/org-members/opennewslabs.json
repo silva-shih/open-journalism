@@ -1,0 +1,182 @@
+[
+  {
+    "org": "opennewslabs",
+    "id": 215145,
+    "login": "arc64",
+    "name": "Annabel Church",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-03-03 23:57:52+00:00",
+    "updated_at": "2025-05-20 09:47:18+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 745064,
+    "login": "cole-gillespie",
+    "name": "Cole Gillespie",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-04-22 01:57:20+00:00",
+    "updated_at": "2025-07-07 13:44:27+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 1016646,
+    "login": "DataMinerUK",
+    "name": "Nicola Hughes",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-08-31 10:46:55+00:00",
+    "updated_at": "2021-03-24 02:35:29+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 218638,
+    "login": "debrouwere",
+    "name": "Stijn Debrouwere",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-03-08 21:45:56+00:00",
+    "updated_at": "2025-07-18 20:35:40+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 201994,
+    "login": "drtortoise",
+    "name": "L. Sandvik",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-02-11 18:08:22+00:00",
+    "updated_at": "2017-08-14 19:42:45+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 882639,
+    "login": "erikao",
+    "name": "Erika Owens",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-06-28 22:46:52+00:00",
+    "updated_at": "2025-04-24 10:14:54+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 1059947,
+    "login": "frnsys",
+    "name": "Francis Tseng",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2011-09-18 14:34:00+00:00",
+    "updated_at": "2025-07-25 02:51:05+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 28330,
+    "login": "gabelula",
+    "name": "Gaba E.",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2008-10-09 21:04:01+00:00",
+    "updated_at": "2025-07-06 11:23:07+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 153357,
+    "login": "harlo",
+    "name": "Harlo Holmes/LvH",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-11-14 20:40:11+00:00",
+    "updated_at": "2025-07-01 20:59:07+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 27584,
+    "login": "jazzido",
+    "name": "Manuel Aristar\u00e1n",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2008-10-04 20:00:02+00:00",
+    "updated_at": "2025-08-03 06:58:01+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 1643734,
+    "login": "julia-smith",
+    "name": "Julia Smith",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2012-04-14 19:26:04+00:00",
+    "updated_at": "2025-04-12 00:22:01+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 21679,
+    "login": "Laurian",
+    "name": "Laurian Gridinoc",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2008-08-23 10:11:37+00:00",
+    "updated_at": "2025-07-15 00:04:41+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 208756,
+    "login": "maboa",
+    "name": "Mark Boas",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-02-22 23:04:28+00:00",
+    "updated_at": "2025-07-25 13:27:21+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 53129,
+    "login": "mtigas",
+    "name": "Mike Tigas",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-02-09 20:51:46+00:00",
+    "updated_at": "2025-07-30 15:56:46+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 56477,
+    "login": "ryanpitts",
+    "name": "Ryan Pitts",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2009-02-21 01:20:52+00:00",
+    "updated_at": "2025-04-04 01:17:37+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 5553862,
+    "login": "sandhya-k",
+    "name": "Sandhya Kambhampati",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-09-27 00:03:13+00:00",
+    "updated_at": "2025-03-04 21:14:25+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 208884,
+    "login": "slifty",
+    "name": "Daniel Schultz",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2010-02-23 03:12:27+00:00",
+    "updated_at": "2025-07-24 16:08:13+00:00"
+  },
+  {
+    "org": "opennewslabs",
+    "id": 3254344,
+    "login": "sonya2song",
+    "name": "Sonya",
+    "type": "User",
+    "site_admin": false,
+    "created_at": "2013-01-12 21:48:55+00:00",
+    "updated_at": "2018-11-30 17:54:51+00:00"
+  }
+]
