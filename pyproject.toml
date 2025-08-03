@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools >= 61.0",]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "open-journalism"
+version = "0.0.0"
+requires-python = "==3.12.*"
+description = "Cataloging and analyzing open journalism projects"
+readme = "README.md"
+dependencies = [
+    "pygithub",
+    "pandas",
+    "pyarrow",
+    "rich",
+    "click",
+    "jupyterlab",
+    "ipywidgets",
+    "pre-commit",
+]
+
+[tool.setuptools]
+packages = ["src"]
