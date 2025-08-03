@@ -1,0 +1,38 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-elk",
+    "full_name": "freedomofpress/ansible-role-elk",
+    "id": 1161532,
+    "login": "ageis",
+    "user_name": "Kevin M. Gallagher",
+    "contributions": 51
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-elk",
+    "full_name": "freedomofpress/ansible-role-elk",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 42
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-elk",
+    "full_name": "freedomofpress/ansible-role-elk",
+    "id": 1727935,
+    "login": "msheiny",
+    "user_name": "Michael Sheinberg",
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-elk",
+    "full_name": "freedomofpress/ansible-role-elk",
+    "id": 1206173,
+    "login": "techraf",
+    "user_name": null,
+    "contributions": 2
+  }
+]

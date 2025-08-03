@@ -1,0 +1,20 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-motd",
+    "full_name": "globeandmail/ansible-role-motd",
+    "id": 12545827,
+    "login": "1adam",
+    "user_name": "1adam",
+    "contributions": 1
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-motd",
+    "full_name": "globeandmail/ansible-role-motd",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 1
+  }
+]

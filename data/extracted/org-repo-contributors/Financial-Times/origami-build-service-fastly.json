@@ -1,0 +1,38 @@
+[
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-service-fastly",
+    "full_name": "Financial-Times/origami-build-service-fastly",
+    "id": 1569131,
+    "login": "JakeChampion",
+    "user_name": "Jake Champion",
+    "contributions": 20
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-service-fastly",
+    "full_name": "Financial-Times/origami-build-service-fastly",
+    "id": 10405691,
+    "login": "notlee",
+    "user_name": "Lee Moody",
+    "contributions": 2
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-service-fastly",
+    "full_name": "Financial-Times/origami-build-service-fastly",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 2
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-service-fastly",
+    "full_name": "Financial-Times/origami-build-service-fastly",
+    "id": 65916846,
+    "login": "actions-user",
+    "user_name": null,
+    "contributions": 1
+  }
+]

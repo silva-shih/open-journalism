@@ -1,0 +1,20 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-sudoers",
+    "full_name": "globeandmail/ansible-role-sudoers",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 5
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-sudoers",
+    "full_name": "globeandmail/ansible-role-sudoers",
+    "id": 45631526,
+    "login": "tgam-abarrett",
+    "user_name": null,
+    "contributions": 3
+  }
+]

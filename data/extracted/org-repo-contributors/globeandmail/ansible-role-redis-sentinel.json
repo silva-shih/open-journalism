@@ -1,0 +1,29 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-redis-sentinel",
+    "full_name": "globeandmail/ansible-role-redis-sentinel",
+    "id": 12532073,
+    "login": "robwhiteongithub",
+    "user_name": "Rob White",
+    "contributions": 4
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-redis-sentinel",
+    "full_name": "globeandmail/ansible-role-redis-sentinel",
+    "id": 3987388,
+    "login": "OnlyLoveOleg",
+    "user_name": "Oleg",
+    "contributions": 3
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-redis-sentinel",
+    "full_name": "globeandmail/ansible-role-redis-sentinel",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 1
+  }
+]

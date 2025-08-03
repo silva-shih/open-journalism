@@ -1,0 +1,47 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nginx",
+    "full_name": "globeandmail/ansible-role-nginx",
+    "id": 12532073,
+    "login": "robwhiteongithub",
+    "user_name": "Rob White",
+    "contributions": 41
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nginx",
+    "full_name": "globeandmail/ansible-role-nginx",
+    "id": 56369517,
+    "login": "tgam-sid",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nginx",
+    "full_name": "globeandmail/ansible-role-nginx",
+    "id": 45631526,
+    "login": "tgam-abarrett",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nginx",
+    "full_name": "globeandmail/ansible-role-nginx",
+    "id": 12545827,
+    "login": "1adam",
+    "user_name": "1adam",
+    "contributions": 1
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nginx",
+    "full_name": "globeandmail/ansible-role-nginx",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 1
+  }
+]

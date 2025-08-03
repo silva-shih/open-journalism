@@ -1,0 +1,20 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-sysstat",
+    "full_name": "globeandmail/ansible-role-sysstat",
+    "id": 12545827,
+    "login": "1adam",
+    "user_name": "1adam",
+    "contributions": 3
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-sysstat",
+    "full_name": "globeandmail/ansible-role-sysstat",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 1
+  }
+]

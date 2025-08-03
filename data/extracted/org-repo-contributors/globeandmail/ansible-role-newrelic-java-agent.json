@@ -1,0 +1,29 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-newrelic-java-agent",
+    "full_name": "globeandmail/ansible-role-newrelic-java-agent",
+    "id": 12545827,
+    "login": "1adam",
+    "user_name": "1adam",
+    "contributions": 10
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-newrelic-java-agent",
+    "full_name": "globeandmail/ansible-role-newrelic-java-agent",
+    "id": 12532073,
+    "login": "robwhiteongithub",
+    "user_name": "Rob White",
+    "contributions": 7
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-newrelic-java-agent",
+    "full_name": "globeandmail/ansible-role-newrelic-java-agent",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 1
+  }
+]

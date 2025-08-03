@@ -1,0 +1,38 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-django",
+    "full_name": "freedomofpress/ansible-role-django",
+    "id": 1727935,
+    "login": "msheiny",
+    "user_name": "Michael Sheinberg",
+    "contributions": 130
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-django",
+    "full_name": "freedomofpress/ansible-role-django",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 19
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-django",
+    "full_name": "freedomofpress/ansible-role-django",
+    "id": 61424521,
+    "login": "maeve-fpf",
+    "user_name": "Maeve",
+    "contributions": 12
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-django",
+    "full_name": "freedomofpress/ansible-role-django",
+    "id": 1196131,
+    "login": "echoesactiii",
+    "user_name": null,
+    "contributions": 4
+  }
+]

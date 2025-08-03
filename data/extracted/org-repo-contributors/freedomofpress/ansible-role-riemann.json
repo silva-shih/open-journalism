@@ -1,0 +1,38 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-riemann",
+    "full_name": "freedomofpress/ansible-role-riemann",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-riemann",
+    "full_name": "freedomofpress/ansible-role-riemann",
+    "id": 1727935,
+    "login": "msheiny",
+    "user_name": "Michael Sheinberg",
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-riemann",
+    "full_name": "freedomofpress/ansible-role-riemann",
+    "id": 1161532,
+    "login": "ageis",
+    "user_name": "Kevin M. Gallagher",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-riemann",
+    "full_name": "freedomofpress/ansible-role-riemann",
+    "id": 2292245,
+    "login": "fwilhe",
+    "user_name": "Florian Wilhelm",
+    "contributions": 1
+  }
+]

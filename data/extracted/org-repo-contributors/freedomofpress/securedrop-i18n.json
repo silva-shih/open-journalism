@@ -1,0 +1,2765 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7832803,
+    "login": "redshiftzero",
+    "user_name": "redshiftzero",
+    "contributions": 1763
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2782952,
+    "login": "zenmonkeykstop",
+    "user_name": "Kevin O'Gorman",
+    "contributions": 765
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 407302,
+    "login": "garrettr",
+    "user_name": "Garrett Robinson",
+    "contributions": 702
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3998464,
+    "login": "heartsucker",
+    "user_name": "heartsucker",
+    "contributions": 660
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 47430598,
+    "login": "rmol",
+    "user_name": null,
+    "contributions": 604
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 15223328,
+    "login": "emkll",
+    "user_name": "mickael e.",
+    "contributions": 497
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 272303,
+    "login": "kushaldas",
+    "user_name": "Kushal Das",
+    "contributions": 489
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1727935,
+    "login": "msheiny",
+    "user_name": "Michael Sheinberg",
+    "contributions": 426
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 308
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1495205,
+    "login": "dolanjs",
+    "user_name": null,
+    "contributions": 258
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 213636,
+    "login": "eloquence",
+    "user_name": "Erik Moeller",
+    "contributions": 246
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 357435,
+    "login": "cfm",
+    "user_name": "Cory Francis Myers",
+    "contributions": 227
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 81392,
+    "login": "legoktm",
+    "user_name": "Kunal Mehta",
+    "contributions": 225
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 156128,
+    "login": "micahflee",
+    "user_name": "Micah Lee",
+    "contributions": 126
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 549654,
+    "login": "diracdeltas",
+    "user_name": "yan",
+    "contributions": 126
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 156137,
+    "login": "Hainish",
+    "user_name": "William Budington",
+    "contributions": 124
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1161532,
+    "login": "ageis",
+    "user_name": "Kevin M. Gallagher",
+    "contributions": 123
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 47065258,
+    "login": "deeplow",
+    "user_name": null,
+    "contributions": 107
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 85289,
+    "login": "runasand",
+    "user_name": "Runa Sandvik",
+    "contributions": 100
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 106391832,
+    "login": "notmuchtohide",
+    "user_name": null,
+    "contributions": 99
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 13802408,
+    "login": "comradekingu",
+    "user_name": "Allan Nordh\u00f8y",
+    "contributions": 79
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 201369,
+    "login": "eaon",
+    "user_name": null,
+    "contributions": 74
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 10092404,
+    "login": "ekcnl",
+    "user_name": "erinm",
+    "contributions": 64
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 22901938,
+    "login": "DrGFreeman",
+    "user_name": "Julien de la Bru\u00e8re-T.",
+    "contributions": 64
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8361268,
+    "login": "jxtsai",
+    "user_name": "jx tsai",
+    "contributions": 62
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1058938,
+    "login": "jacksingleton",
+    "user_name": "Jack Singleton",
+    "contributions": 62
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1607653,
+    "login": "weblate",
+    "user_name": "Weblate (bot)",
+    "contributions": 58
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3844869,
+    "login": "Claudinux",
+    "user_name": "Claudio Arseni",
+    "contributions": 51
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3977,
+    "login": "tmc",
+    "user_name": "Travis Cline",
+    "contributions": 50
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1915165,
+    "login": "nabla-c0d3",
+    "user_name": "Alban Diquet",
+    "contributions": 50
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 50411912,
+    "login": "AO-LocLab",
+    "user_name": null,
+    "contributions": 47
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 33516406,
+    "login": "btonasse",
+    "user_name": null,
+    "contributions": 45
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2234596,
+    "login": "agharbeia",
+    "user_name": "Ahmad Gharbeia",
+    "contributions": 44
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 50611,
+    "login": "david415",
+    "user_name": "David Stainton",
+    "contributions": 44
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 31065687,
+    "login": "prateekj117",
+    "user_name": "Prateek Jain",
+    "contributions": 43
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 19642016,
+    "login": "pierwill",
+    "user_name": null,
+    "contributions": 43
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4919,
+    "login": "aaronsw",
+    "user_name": "Aaron Swartz",
+    "contributions": 42
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1619067,
+    "login": "gonzalo-bulnes",
+    "user_name": "Gonzalo Bulnes Guilpain",
+    "contributions": 41
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 22777700,
+    "login": "rocodes",
+    "user_name": "rocodes",
+    "contributions": 39
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2352509,
+    "login": "pappasadrian",
+    "user_name": "Adrian",
+    "contributions": 37
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4481276,
+    "login": "dmaroulidis",
+    "user_name": "Dimitris Maroulidis",
+    "contributions": 36
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 628474,
+    "login": "Atalanttore",
+    "user_name": "Ettore Atalan",
+    "contributions": 35
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 31567272,
+    "login": "t1011",
+    "user_name": null,
+    "contributions": 33
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 14218967,
+    "login": "sveinki",
+    "user_name": "Sveinn \u00ed Felli",
+    "contributions": 31
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 9530293,
+    "login": "SaptakS",
+    "user_name": "Saptak Sengupta",
+    "contributions": 30
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5478801,
+    "login": "trevortimm",
+    "user_name": "Trevor Timm",
+    "contributions": 30
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 379051,
+    "login": "RamyRaoof",
+    "user_name": null,
+    "contributions": 29
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 53114766,
+    "login": "michaela-bot",
+    "user_name": null,
+    "contributions": 29
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 6131358,
+    "login": "nathandyer",
+    "user_name": "Nathan Dyer",
+    "contributions": 29
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3100220,
+    "login": "b-meson",
+    "user_name": "Freddy Martinez",
+    "contributions": 28
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4522213,
+    "login": "sssoleileraaa",
+    "user_name": null,
+    "contributions": 27
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4479335,
+    "login": "kayazeren",
+    "user_name": "Kaya Zeren",
+    "contributions": 27
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 231068,
+    "login": "vgezer",
+    "user_name": "Volkan Gezer",
+    "contributions": 25
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 11072594,
+    "login": "Jobava",
+    "user_name": null,
+    "contributions": 25
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 29256037,
+    "login": "OpISIL",
+    "user_name": null,
+    "contributions": 25
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3081375,
+    "login": "DonnchaC",
+    "user_name": "Donncha \u00d3 Cearbhaill",
+    "contributions": 25
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 200193,
+    "login": "tekrei",
+    "user_name": "T. E. Kalayc\u0131",
+    "contributions": 24
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 60208972,
+    "login": "drashti4",
+    "user_name": "Drashti",
+    "contributions": 22
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 778907,
+    "login": "jennyinit",
+    "user_name": "Jenny ",
+    "contributions": 21
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 20861337,
+    "login": "ff98sha",
+    "user_name": "ff98sha",
+    "contributions": 21
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2104294,
+    "login": "justintroutman",
+    "user_name": "Justin Troutman",
+    "contributions": 21
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 400348,
+    "login": "thisisparker",
+    "user_name": "Parker Higgins",
+    "contributions": 21
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7468355,
+    "login": "Oktavia",
+    "user_name": null,
+    "contributions": 19
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1072581,
+    "login": "BennyBeat",
+    "user_name": "BennyBeat",
+    "contributions": 18
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 42316180,
+    "login": "BoFFire",
+    "user_name": "ButterflyOfFire",
+    "contributions": 18
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 29999531,
+    "login": "pwnchief",
+    "user_name": "Abhishek Jaiswal",
+    "contributions": 18
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 651124,
+    "login": "egypcio",
+    "user_name": "vin\u00edcius",
+    "contributions": 18
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 26941169,
+    "login": "anatolif",
+    "user_name": "Anatoli",
+    "contributions": 18
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 217034,
+    "login": "evilaliv3",
+    "user_name": "Giovanni Pellerano",
+    "contributions": 17
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4391563,
+    "login": "bitsteak",
+    "user_name": null,
+    "contributions": 16
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8939021,
+    "login": "drewmassey",
+    "user_name": "Drew Massey",
+    "contributions": 15
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 60925479,
+    "login": "ViktoriaAndr",
+    "user_name": "Viktoria Andrascikova",
+    "contributions": 15
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 339645,
+    "login": "jmontane",
+    "user_name": "Joan Montan\u00e9",
+    "contributions": 14
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 11914728,
+    "login": "silverxp",
+    "user_name": "Thom",
+    "contributions": 14
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 791309,
+    "login": "1000101",
+    "user_name": null,
+    "contributions": 13
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 54696764,
+    "login": "wbaid",
+    "user_name": "Whistleblower Aid",
+    "contributions": 13
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 206105048,
+    "login": "Thalloula",
+    "user_name": null,
+    "contributions": 12
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 14834,
+    "login": "toast",
+    "user_name": "Nick Bailey",
+    "contributions": 12
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1646497,
+    "login": "pemulis",
+    "user_name": "John Shutt",
+    "contributions": 12
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 11362656,
+    "login": "Aiiida",
+    "user_name": "Aida",
+    "contributions": 12
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 707438,
+    "login": "dtauerbach",
+    "user_name": "Dan Auerbach",
+    "contributions": 11
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 356103,
+    "login": "ThomasWaldmann",
+    "user_name": "TW",
+    "contributions": 11
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 13391289,
+    "login": "wakkum",
+    "user_name": "Yarno Ritzen",
+    "contributions": 11
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 21109624,
+    "login": "mengpangwang",
+    "user_name": "MP Wang",
+    "contributions": 10
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 488803,
+    "login": "Ecron",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3538418,
+    "login": "psivesely",
+    "user_name": "Psi Vesely",
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3193806,
+    "login": "pdinoto",
+    "user_name": "Pablo Di Noto",
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 15796823,
+    "login": "pranciskus",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7584833,
+    "login": "taravancil",
+    "user_name": "Tara Vancil",
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 20697219,
+    "login": "Anonymous26",
+    "user_name": "Subham Banga",
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 99527,
+    "login": "KwadroNaut",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 20908993,
+    "login": "olivemartini",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4163701,
+    "login": "sheonhan",
+    "user_name": "Sheon Han",
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2976310,
+    "login": "antsar",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1145008,
+    "login": "xella",
+    "user_name": "Xella",
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 361378,
+    "login": "dcfix",
+    "user_name": "Darren Fix",
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 36447962,
+    "login": "JieDiscovery",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 63067681,
+    "login": "OmoYooba",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 53129,
+    "login": "mtigas",
+    "user_name": "Mike Tigas",
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 64981,
+    "login": "cooperq",
+    "user_name": "Cooper Quintin",
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 66009328,
+    "login": "lsd-cat",
+    "user_name": "giulio",
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7880217,
+    "login": "zyfdegh",
+    "user_name": "zyfdegh",
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8218231,
+    "login": "kstohr",
+    "user_name": "Kate Stohr",
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 19742137,
+    "login": "mdrose",
+    "user_name": "Michael Rose",
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5665942,
+    "login": "carlosm2",
+    "user_name": "cacu",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 6291913,
+    "login": "yogiks",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8781907,
+    "login": "petevdp",
+    "user_name": "Pieter Vanderpol",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 24649211,
+    "login": "interwebLT",
+    "user_name": "Tomas Darius Davainis",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 84262,
+    "login": "patrickod",
+    "user_name": "Patrick O'Doherty",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 198964,
+    "login": "PanderMusubi",
+    "user_name": "Pander",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 37602,
+    "login": "ntoll",
+    "user_name": "Nicholas Tollervey",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7270031,
+    "login": "MIB4u",
+    "user_name": "Martin Trebuch",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 63339169,
+    "login": "hroshik",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 103802,
+    "login": "joshuathayer",
+    "user_name": "Joshua Thayer",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8095242,
+    "login": "Giando",
+    "user_name": "Giandomenico Lombardi",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 12101368,
+    "login": "AboShanab",
+    "user_name": "Ali",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 554953,
+    "login": "fitojb",
+    "user_name": "Adolfo Jayme-Barrientos",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3577122,
+    "login": "Matthaiks",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 6270406,
+    "login": "abhn",
+    "user_name": "Abhishek Nagekar",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 168393,
+    "login": "LordLandon",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 6452110,
+    "login": "vurpo",
+    "user_name": "vurpo",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 43657314,
+    "login": "milotype",
+    "user_name": "Milo Ivir",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 154473468,
+    "login": "abuakramGit",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8461792,
+    "login": "pwplus",
+    "user_name": "Will Plusnick",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1469823,
+    "login": "mdamien",
+    "user_name": "Damien",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 13714764,
+    "login": "darmozrac",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 34081638,
+    "login": "claire-peters",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3719122,
+    "login": "ultimatecoder",
+    "user_name": "Jaysinh Shukla",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4228149,
+    "login": "JoomlaExpertin",
+    "user_name": "Anne M",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 29029116,
+    "login": "aydwi",
+    "user_name": "Aysh D",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1754963,
+    "login": "beatricemartini",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 47899089,
+    "login": "raukadah",
+    "user_name": "Chandan Kumar",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 136817,
+    "login": "cwattrus",
+    "user_name": "Craig Wattrus",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5304541,
+    "login": "ddworken",
+    "user_name": "David Dworken",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3191949,
+    "login": "Goudarz",
+    "user_name": "Goudarz Jafari",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 64732077,
+    "login": "LeeHL451",
+    "user_name": "Hsu-Lei Lee",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2298856,
+    "login": "datastory",
+    "user_name": "Honza Cibulka",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 12594709,
+    "login": "kjsman",
+    "user_name": "Jinseo Kim",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7735338,
+    "login": "JonnyShuali",
+    "user_name": "Roee Mayerowicz",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 35023708,
+    "login": "AbhayKaushik",
+    "user_name": "Abhay Kaushik",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7965,
+    "login": "rjmackay",
+    "user_name": "Robbie Mackay",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8052449,
+    "login": "skyvine",
+    "user_name": "Skyler Ferris",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 263128,
+    "login": "tkell",
+    "user_name": "Thor",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 57832,
+    "login": "audiodude",
+    "user_name": "Travis Briggs",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4328,
+    "login": "tswicegood",
+    "user_name": "Travis Swicegood",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 21953977,
+    "login": "vaibssingh",
+    "user_name": "Vaibhav",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 709645,
+    "login": "yasyf",
+    "user_name": "Yasyf Mohamedali",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 17057932,
+    "login": "zekehuntergreen",
+    "user_name": "Zeke Hunter-Green",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 84741194,
+    "login": "reirane",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 32111606,
+    "login": "nightwarriorftw",
+    "user_name": "Aman Verma",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 36852,
+    "login": "daonb",
+    "user_name": "benny daon",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 854918,
+    "login": "bpowers",
+    "user_name": "Bobby Powers",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7964197,
+    "login": "chkumar246",
+    "user_name": "Chandan Kumar",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 77170,
+    "login": "ternus",
+    "user_name": "Christian Ternus",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 19277334,
+    "login": "danielpyon",
+    "user_name": "Daniel Pyon",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 697801,
+    "login": "GabeIsman",
+    "user_name": "Gabe Isman",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 61360811,
+    "login": "Mejans",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 85603,
+    "login": "michel-slm",
+    "user_name": "Michel Lind",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2922075,
+    "login": "NickBouwhuis",
+    "user_name": "Nick Bouwhuis",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 29547468,
+    "login": "nulledone",
+    "user_name": "Undisclosed",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 50857856,
+    "login": "Oymate",
+    "user_name": "Oymate",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7780930,
+    "login": "foolfitz",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 322282,
+    "login": "eviljoel",
+    "user_name": "Joel Luellwitz",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1499984,
+    "login": "charltonaustin",
+    "user_name": "Charlton Austin",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 488819,
+    "login": "rohitsm",
+    "user_name": "Rohit",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 29496999,
+    "login": "rahulXs",
+    "user_name": "Rahul Sharma",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 744655,
+    "login": "ruzaq",
+    "user_name": "Pavel Ruzicka",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2298005,
+    "login": "nurkamol",
+    "user_name": "Nurkamol Vakhidov",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8262612,
+    "login": "ninavizz",
+    "user_name": "Nina Eleanor Alter",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 643918,
+    "login": "mapmeld",
+    "user_name": "Nick Doiron",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2722175,
+    "login": "annskaja",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 18664328,
+    "login": "hariharanj4v4",
+    "user_name": "Hariharan Java",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 72914,
+    "login": "huertanix",
+    "user_name": "David Huerta",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 31895964,
+    "login": "lbu32",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 55525217,
+    "login": "noumxn",
+    "user_name": "Nouman Syed",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 6353518,
+    "login": "pkm808",
+    "user_name": "pkm",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 65687522,
+    "login": "sobeitnow0",
+    "user_name": "Sobeitnow",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8660111,
+    "login": "trankmichael",
+    "user_name": "Michael Tran",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4432348,
+    "login": "williardx",
+    "user_name": "Will Doenlen",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 48434,
+    "login": "zyphlar",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 22130317,
+    "login": "championshuttler",
+    "user_name": "championshuttler",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 20884,
+    "login": "bxjx",
+    "user_name": "Bridger Rossiter",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 11340847,
+    "login": "ceciliadolago",
+    "user_name": "Cec\u00edlia do Lago",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 9060311,
+    "login": "Chaviland7",
+    "user_name": "Charlie Haviland",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 37958811,
+    "login": "Cypher-Znnb",
+    "user_name": "Cypher-Znnb",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2509536,
+    "login": "irdan",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 41879254,
+    "login": "GRFreire",
+    "user_name": "Guilherme Rugai Freire",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 153357,
+    "login": "harlo",
+    "user_name": "Harlo Holmes/LvH",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 296631,
+    "login": "harrislapiroff",
+    "user_name": "Harris Bard Lapiroff",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 368416,
+    "login": "ikehz",
+    "user_name": "Ike McCreery",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3941344,
+    "login": "MikkCZ",
+    "user_name": "Michal Stanke",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7425650,
+    "login": "maqp",
+    "user_name": "Markus Ottela",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 52472445,
+    "login": "Bild96",
+    "user_name": "Malcolm",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 106930910,
+    "login": "kishinsagi",
+    "user_name": "Kishin Sagume",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 21956467,
+    "login": "kaustav1996",
+    "user_name": "Kaustav Banerjee",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 236086,
+    "login": "zestyping",
+    "user_name": "Ping Yee",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3586685,
+    "login": "joseteneb",
+    "user_name": "Jose Teneb",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 23042027,
+    "login": "rossijonas",
+    "user_name": "Jonas B. R.",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2245816,
+    "login": "jrosco",
+    "user_name": "Joel Cumberland",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 218869,
+    "login": "kaizensoze",
+    "user_name": "Joe Gallo",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1797918,
+    "login": "honyczek",
+    "user_name": "Jan Pape\u017e",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1362219,
+    "login": "nsonnad",
+    "user_name": "Nikhil S",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4096005,
+    "login": "nsalontay",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 453701,
+    "login": "mrphs",
+    "user_name": "Nima Fatemi",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 208312,
+    "login": "nicolasiensen",
+    "user_name": "N\u00edcolas Iensen",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 58431,
+    "login": "zeroday",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 73274,
+    "login": "PabloCastellano",
+    "user_name": "Pablo Castellano",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 784889,
+    "login": "pamo",
+    "user_name": "Pamela Ocampo",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7551798,
+    "login": "tabakisp",
+    "user_name": "Panagiotis Tabakis",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 609707,
+    "login": "antagonismorg",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 161495,
+    "login": "reaperhulk",
+    "user_name": "Paul Kehrer",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 65444,
+    "login": "moredip",
+    "user_name": "Pete Hodgson",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 61599784,
+    "login": "peterfritz",
+    "user_name": "Peter Fritz",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 76976526,
+    "login": "nogoegst",
+    "user_name": "Ivan Markin",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 46975855,
+    "login": "n-thumann",
+    "user_name": "Nicolas Thumann",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 74571,
+    "login": "fitzgen",
+    "user_name": "Nick Fitzgerald",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 434063,
+    "login": "birdcar",
+    "user_name": "Nick Cannariato",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 106703187,
+    "login": "Naufal-Jaffri",
+    "user_name": "Naufal Jaffri",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 20201,
+    "login": "icco",
+    "user_name": "Nat Welch",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5694117,
+    "login": "misjoinder",
+    "user_name": "Misjoinder",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 11355273,
+    "login": "mikekelso",
+    "user_name": "Mike Kelso",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2856644,
+    "login": "mfauzy",
+    "user_name": "Mike H. Fauzy",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 9333743,
+    "login": "Mike-Gao",
+    "user_name": "Mike Gao",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 212189,
+    "login": "nijel",
+    "user_name": "Michal \u010ciha\u0159",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 34976212,
+    "login": "Meteor0id",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 390889,
+    "login": "mmahmoudian",
+    "user_name": "Mehrad Mahmoudian",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4888781,
+    "login": "jasonbraganza",
+    "user_name": "Mario Jason Braganza",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 18099289,
+    "login": "EdOverflow",
+    "user_name": "EdOverflow",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2572206,
+    "login": "maxamg",
+    "user_name": "Max Griffiths",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1006478,
+    "login": "lislis",
+    "user_name": "lislis",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1039940,
+    "login": "liliakai",
+    "user_name": "Kai",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 6698048,
+    "login": "hadymaggot",
+    "user_name": "saptohadi",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 59343410,
+    "login": "ed62-dev",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5059302,
+    "login": "eckeman",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 19266821,
+    "login": "diegofauser",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 173346373,
+    "login": "boublis",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1521093,
+    "login": "Bachmann1234",
+    "user_name": "Matt Bachmann",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5166932,
+    "login": "yingw787",
+    "user_name": "Ying Wang",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1900307,
+    "login": "WestleyArgentum",
+    "user_name": "Westley Argentum Hennigh-Palermo",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 6930425,
+    "login": "tepkenvannkorn",
+    "user_name": "Tepken Vannkorn",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 163497,
+    "login": "tomrittervg",
+    "user_name": "Tom Ritter",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 47873678,
+    "login": "timgates42",
+    "user_name": "Tim Gates",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1105323,
+    "login": "tiago-loureiro",
+    "user_name": "Tiago Manuel Ventura Loureiro",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 26350013,
+    "login": "switsys",
+    "user_name": "Eric C Westgren",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 37340283,
+    "login": "stiliyana-simeonova",
+    "user_name": "Stiliyana Simeonova",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 139603,
+    "login": "elimisteve",
+    "user_name": "Steve Phillips",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1282380,
+    "login": "ilyalee",
+    "user_name": "Shih-Chieh Ilya Li",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 24513605,
+    "login": "SethAngell",
+    "user_name": "Seth",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4871664,
+    "login": "sts10",
+    "user_name": "Sam Schlinkert",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 37586943,
+    "login": "richouzo",
+    "user_name": "Richard Huang",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 829526,
+    "login": "prayagverma",
+    "user_name": "Prayag Verma ",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 387511,
+    "login": "philpep",
+    "user_name": "Philippe Pepiot",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1322135,
+    "login": "peterstory",
+    "user_name": "Peter Story",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3063500,
+    "login": "ikona23",
+    "user_name": "Peter Kona",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 61963664,
+    "login": "donheshanthaka",
+    "user_name": "Heshanthaka",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 48695,
+    "login": "dreid",
+    "user_name": "dreid",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 55889780,
+    "login": "dfiguera",
+    "user_name": "David Figuera",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 19834040,
+    "login": "danishprakash",
+    "user_name": "Danish Prakash",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 10689272,
+    "login": "Dalek-Sec",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 419708,
+    "login": "cji",
+    "user_name": "Craig Ingram",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 43188742,
+    "login": "lev-csouffrant",
+    "user_name": "Corbin Souffrant",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1706450,
+    "login": "zerng07",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 634696,
+    "login": "gnusosa",
+    "user_name": "Carlos Sosa",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 13749641,
+    "login": "Carles-Figuerola",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 20425838,
+    "login": "ssempervirens",
+    "user_name": "camille fassett",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 18381590,
+    "login": "caioau",
+    "user_name": "Caio Volpato",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1592918,
+    "login": "bogdan-kulynych",
+    "user_name": "Bogdan Kulynych",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 25767844,
+    "login": "booradrel",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 12569516,
+    "login": "barun511",
+    "user_name": "Barun Parruck",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3454429,
+    "login": "asifrc",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4948674,
+    "login": "anweshadas",
+    "user_name": "Anwesha Das",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 20539534,
+    "login": "andreysmelter",
+    "user_name": "Andrey Smelter",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 952283,
+    "login": "apetro",
+    "user_name": "Andrew Petro",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3952223,
+    "login": "anorthall",
+    "user_name": "Andrew Northall",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 18104750,
+    "login": "andradaf",
+    "user_name": "Andrada Fiscutean",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5407317,
+    "login": "alimirjamali",
+    "user_name": "Ali Mirjamali",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 5170612,
+    "login": "algustionesa",
+    "user_name": "Algustionesa Yoshi",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4465975,
+    "login": "papazoga",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 523530,
+    "login": "xattabych",
+    "user_name": "Adham Kurbanov",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1144310,
+    "login": "ajvb",
+    "user_name": "Arya Bahnken",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 104795,
+    "login": "mmahut",
+    "user_name": "Marek Mahut",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 833603,
+    "login": "CirKu17",
+    "user_name": "Manuel D'Orso",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 61424521,
+    "login": "maeve-fpf",
+    "user_name": "Maeve",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 47544021,
+    "login": "lb803",
+    "user_name": "Luca Baffa",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1688420,
+    "login": "loganaden",
+    "user_name": "Loganaden Velvindron",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 21046,
+    "login": "darkk",
+    "user_name": "Leonid Evdokimov",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 682170,
+    "login": "leilaz",
+    "user_name": "LZ",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 31420082,
+    "login": "lbeaufort",
+    "user_name": "Laura Beaufort",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 11205331,
+    "login": "kvinton",
+    "user_name": "Katie Vinton",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2119212,
+    "login": "jsoref",
+    "user_name": "Josh Soref",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 27847,
+    "login": "jroes",
+    "user_name": "Jon Roes",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 88646,
+    "login": "johsw",
+    "user_name": "Johannes Wehner",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 28298762,
+    "login": "johwdr",
+    "user_name": "Johannes Wehner",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 66966713,
+    "login": "seemingli-hua",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 10229,
+    "login": "jdunck",
+    "user_name": "Jeremy Dunck",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 2097964,
+    "login": "jamesmunns",
+    "user_name": "James Munns",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 65322473,
+    "login": "jameelkaisar",
+    "user_name": "Jameel Kaisar",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 178803,
+    "login": "jrabbit",
+    "user_name": "J Laxson",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 7691259,
+    "login": "toholdaquill",
+    "user_name": "J.M. Porup",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 1269661,
+    "login": "IlyesSemlali",
+    "user_name": "Ily\u00e8s Semlali",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 61784806,
+    "login": "hubertp-test",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 99170721,
+    "login": "Ganjahmanvenenodedios",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 10278743,
+    "login": "f0rb1d",
+    "user_name": "Forbidden",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 3142178,
+    "login": "flaviove",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 30827929,
+    "login": "5idereal",
+    "user_name": "5idereal",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 8506155,
+    "login": "anxiousnix",
+    "user_name": "Em",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "id": 4706131,
+    "login": "ehashman",
+    "user_name": "Elana Hashman",
+    "contributions": 1
+  }
+]

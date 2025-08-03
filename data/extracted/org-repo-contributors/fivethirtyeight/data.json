@@ -1,0 +1,488 @@
+[
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 468544,
+    "login": "dmil",
+    "user_name": "Dhrumil Mehta",
+    "contributions": 557
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 57236,
+    "login": "jayb",
+    "user_name": "Jay Boice",
+    "contributions": 127
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 2692391,
+    "login": "andrewflowers",
+    "user_name": "Andrew Flowers",
+    "contributions": 114
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 2760121,
+    "login": "ritchieking",
+    "user_name": "Ritchie",
+    "contributions": 81
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 61800622,
+    "login": "hfuong",
+    "user_name": "Holly Fuong",
+    "contributions": 56
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 3207713,
+    "login": "atmccann",
+    "user_name": "Allison McCann",
+    "contributions": 54
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 10031270,
+    "login": "ryanabest",
+    "user_name": "Ryan Best",
+    "contributions": 53
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 11777159,
+    "login": "radcliffem",
+    "user_name": null,
+    "contributions": 43
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 4165273,
+    "login": "juruwolfe",
+    "user_name": "Julia Wolfe",
+    "contributions": 34
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 6422273,
+    "login": "BenCasselman",
+    "user_name": "Ben Casselman",
+    "contributions": 21
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 6992836,
+    "login": "reubenfb",
+    "user_name": "Reuben Fischer-Baum",
+    "contributions": 21
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 20685753,
+    "login": "fivethirtyeight-bot",
+    "user_name": "FiveThirtyEight Bot",
+    "contributions": 18
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 5376384,
+    "login": "ajnewman",
+    "user_name": "Alex Newman",
+    "contributions": 18
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 88076,
+    "login": "bycoffe",
+    "user_name": "Aaron Bycoffe",
+    "contributions": 18
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 7140242,
+    "login": "Neil-Paine-1",
+    "user_name": "Neil Paine",
+    "contributions": 16
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1715461,
+    "login": "gwezerek",
+    "user_name": "Gus Wezerek",
+    "contributions": 12
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 7096424,
+    "login": "MonaChalabi",
+    "user_name": "Mona Chalabi",
+    "contributions": 7
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 102197,
+    "login": "ascheink",
+    "user_name": "Andrei Scheinkman",
+    "contributions": 5
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1719223,
+    "login": "rhiever",
+    "user_name": "Randy Olson",
+    "contributions": 4
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 4574203,
+    "login": "rudeboybert",
+    "user_name": "Albert Y. Kim",
+    "contributions": 4
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 7255865,
+    "login": "forecasterenten",
+    "user_name": "Harry Enten",
+    "contributions": 3
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 35909636,
+    "login": "tylerlittlefield",
+    "user_name": "Tyler Littlefield",
+    "contributions": 3
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 40488170,
+    "login": "jooncodes",
+    "user_name": "joon",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1206478,
+    "login": "ppaulojr",
+    "user_name": "Pedro Paulo Jr",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 460076,
+    "login": "stephenturner",
+    "user_name": "Stephen Turner",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 16366261,
+    "login": "charliesmart",
+    "user_name": "Charlie Smart",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 776593,
+    "login": "adamobeng",
+    "user_name": "Adam Obeng",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 2180424,
+    "login": "frankbi",
+    "user_name": "Frank Bi",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 16639331,
+    "login": "peterthehan",
+    "user_name": "Peter Han",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 3209730,
+    "login": "sfrostenson",
+    "user_name": "Sarah Frostenson",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 10449844,
+    "login": "ellakoeze",
+    "user_name": "Ella Koeze",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 20912321,
+    "login": "karolismatul",
+    "user_name": "Frosty",
+    "contributions": 2
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 40303833,
+    "login": "dlwhiteman5",
+    "user_name": "David Whiteman",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1653274,
+    "login": "bstancil",
+    "user_name": "Benn Stancil",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 31074052,
+    "login": "ataylorg",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 26092352,
+    "login": "aminamos",
+    "user_name": "Amin",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 28781354,
+    "login": "aDotInTheVoid",
+    "user_name": "Alona Enraght-Moony",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 22283410,
+    "login": "bhrdj",
+    "user_name": "Steven",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1186124,
+    "login": "saulshanabrook",
+    "user_name": "Saul Shanabrook",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 14130887,
+    "login": "rdottle",
+    "user_name": "Rachael",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1430961,
+    "login": "adamgibbons",
+    "user_name": "Adam Gibbons",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 18710598,
+    "login": "astroboogie",
+    "user_name": "Nate Adams",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 10427043,
+    "login": "M4MURARI",
+    "user_name": "Murari Kumar",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 2035561,
+    "login": "mikeckennedy",
+    "user_name": "Michael Kennedy",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 5591107,
+    "login": "mbrickn",
+    "user_name": "Maxwell Paul Brickner",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1074773,
+    "login": "mathisonian",
+    "user_name": "Matthew Conlen",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 8840436,
+    "login": "lauraalkhoury",
+    "user_name": "Laura Alkhoury",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 1895498,
+    "login": "karasinski",
+    "user_name": "John Karasinski",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 7536330,
+    "login": "gusberinger",
+    "user_name": "Gus Beringer",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 4095866,
+    "login": "fhoffa",
+    "user_name": "Felipe Hoffa",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 22989,
+    "login": "dharmang",
+    "user_name": "Dharmang",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 155622,
+    "login": "craigatron",
+    "user_name": "Craig Martek",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 42847461,
+    "login": "annettechoi",
+    "user_name": "Annette Choi",
+    "contributions": 1
+  },
+  {
+    "org": "fivethirtyeight",
+    "repo_name": "data",
+    "full_name": "fivethirtyeight/data",
+    "id": 2790092,
+    "login": "AlJohri",
+    "user_name": "Al Johri",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 7832803,
+    "login": "redshiftzero",
+    "user_name": "redshiftzero",
+    "contributions": 509
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 213636,
+    "login": "eloquence",
+    "user_name": "Erik Moeller",
+    "contributions": 450
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 2782952,
+    "login": "zenmonkeykstop",
+    "user_name": "Kevin O'Gorman",
+    "contributions": 166
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 407302,
+    "login": "garrettr",
+    "user_name": "Garrett Robinson",
+    "contributions": 147
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 102
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 81392,
+    "login": "legoktm",
+    "user_name": "Kunal Mehta",
+    "contributions": 99
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 85289,
+    "login": "runasand",
+    "user_name": "Runa Sandvik",
+    "contributions": 86
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 15223328,
+    "login": "emkll",
+    "user_name": "mickael e.",
+    "contributions": 78
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 22777700,
+    "login": "rocodes",
+    "user_name": "rocodes",
+    "contributions": 76
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 357435,
+    "login": "cfm",
+    "user_name": "Cory Francis Myers",
+    "contributions": 75
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1161532,
+    "login": "ageis",
+    "user_name": "Kevin M. Gallagher",
+    "contributions": 60
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 57
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 47430598,
+    "login": "rmol",
+    "user_name": null,
+    "contributions": 49
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1619067,
+    "login": "gonzalo-bulnes",
+    "user_name": "Gonzalo Bulnes Guilpain",
+    "contributions": 46
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 3998464,
+    "login": "heartsucker",
+    "user_name": "heartsucker",
+    "contributions": 46
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 272303,
+    "login": "kushaldas",
+    "user_name": "Kushal Das",
+    "contributions": 42
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 6131358,
+    "login": "nathandyer",
+    "user_name": "Nathan Dyer",
+    "contributions": 38
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 19642016,
+    "login": "pierwill",
+    "user_name": null,
+    "contributions": 36
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1495205,
+    "login": "dolanjs",
+    "user_name": null,
+    "contributions": 35
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 5478801,
+    "login": "trevortimm",
+    "user_name": "Trevor Timm",
+    "contributions": 30
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1727935,
+    "login": "msheiny",
+    "user_name": "Michael Sheinberg",
+    "contributions": 24
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 156128,
+    "login": "micahflee",
+    "user_name": "Micah Lee",
+    "contributions": 23
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 2104294,
+    "login": "justintroutman",
+    "user_name": "Justin Troutman",
+    "contributions": 21
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 400348,
+    "login": "thisisparker",
+    "user_name": "Parker Higgins",
+    "contributions": 20
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 4522213,
+    "login": "sssoleileraaa",
+    "user_name": null,
+    "contributions": 14
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 61424521,
+    "login": "maeve-fpf",
+    "user_name": "Maeve",
+    "contributions": 12
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 549654,
+    "login": "diracdeltas",
+    "user_name": "yan",
+    "contributions": 11
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 156137,
+    "login": "Hainish",
+    "user_name": "William Budington",
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 3100220,
+    "login": "b-meson",
+    "user_name": "Freddy Martinez",
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 20908993,
+    "login": "olivemartini",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 201369,
+    "login": "eaon",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 3538418,
+    "login": "psivesely",
+    "user_name": "Psi Vesely",
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 99527,
+    "login": "KwadroNaut",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1646497,
+    "login": "pemulis",
+    "user_name": "John Shutt",
+    "contributions": 7
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 8218231,
+    "login": "kstohr",
+    "user_name": "Kate Stohr",
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 47065258,
+    "login": "deeplow",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 8939021,
+    "login": "drewmassey",
+    "user_name": "Drew Massey",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 37602,
+    "login": "ntoll",
+    "user_name": "Nicholas Tollervey",
+    "contributions": 5
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 13802408,
+    "login": "comradekingu",
+    "user_name": "Allan Nordh\u00f8y",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 651124,
+    "login": "egypcio",
+    "user_name": "vin\u00edcius",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 72914,
+    "login": "huertanix",
+    "user_name": "David Huerta",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 99173,
+    "login": "mig5",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 3719122,
+    "login": "ultimatecoder",
+    "user_name": "Jaysinh Shukla",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 21953977,
+    "login": "vaibssingh",
+    "user_name": "Vaibhav",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 20697219,
+    "login": "Anonymous26",
+    "user_name": "Subham Banga",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 29029116,
+    "login": "aydwi",
+    "user_name": "Aysh D",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 22130317,
+    "login": "championshuttler",
+    "user_name": "championshuttler",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1058938,
+    "login": "jacksingleton",
+    "user_name": "Jack Singleton",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 18099289,
+    "login": "EdOverflow",
+    "user_name": "EdOverflow",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 18664328,
+    "login": "hariharanj4v4",
+    "user_name": "Hariharan Java",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 3977,
+    "login": "tmc",
+    "user_name": "Travis Cline",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 263128,
+    "login": "tkell",
+    "user_name": "Thor",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 87483970,
+    "login": "Er1kkkaaa",
+    "user_name": "Erika",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 153357,
+    "login": "harlo",
+    "user_name": "Harlo Holmes/LvH",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 22901938,
+    "login": "DrGFreeman",
+    "user_name": "Julien de la Bru\u00e8re-T.",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 2245816,
+    "login": "jrosco",
+    "user_name": "Joel Cumberland",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 103802,
+    "login": "joshuathayer",
+    "user_name": "Joshua Thayer",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 21956467,
+    "login": "kaustav1996",
+    "user_name": "Kaustav Banerjee",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 8262612,
+    "login": "ninavizz",
+    "user_name": "Nina Eleanor Alter",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 31065687,
+    "login": "prateekj117",
+    "user_name": "Prateek Jain",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 952283,
+    "login": "apetro",
+    "user_name": "Andrew Petro",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 11355273,
+    "login": "mikekelso",
+    "user_name": "Mike Kelso",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 45570310,
+    "login": "MitchellBerend",
+    "user_name": "Mitchell Berendhuysen",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 20201,
+    "login": "icco",
+    "user_name": "Nat Welch",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 434063,
+    "login": "birdcar",
+    "user_name": "Nick Cannariato",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1362219,
+    "login": "nsonnad",
+    "user_name": "Nikhil S",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 453701,
+    "login": "mrphs",
+    "user_name": "Nima Fatemi",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 73274,
+    "login": "PabloCastellano",
+    "user_name": "Pablo Castellano",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 609707,
+    "login": "antagonismorg",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 65444,
+    "login": "moredip",
+    "user_name": "Pete Hodgson",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 387511,
+    "login": "philpep",
+    "user_name": "Philippe Pepiot",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 829526,
+    "login": "prayagverma",
+    "user_name": "Prayag Verma ",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 37586943,
+    "login": "richouzo",
+    "user_name": "Richard Huang",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 4871664,
+    "login": "sts10",
+    "user_name": "Sam Schlinkert",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 139603,
+    "login": "elimisteve",
+    "user_name": "Steve Phillips",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 356103,
+    "login": "ThomasWaldmann",
+    "user_name": "TW",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 163497,
+    "login": "tomrittervg",
+    "user_name": "Tom Ritter",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1900307,
+    "login": "WestleyArgentum",
+    "user_name": "Westley Argentum Hennigh-Palermo",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 4391563,
+    "login": "bitsteak",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 64981,
+    "login": "cooperq",
+    "user_name": "Cooper Quintin",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1469823,
+    "login": "mdamien",
+    "user_name": "Damien",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 29999531,
+    "login": "pwnchief",
+    "user_name": "Abhishek Jaiswal",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 2976310,
+    "login": "antsar",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 12569516,
+    "login": "barun511",
+    "user_name": "Barun Parruck",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 36852,
+    "login": "daonb",
+    "user_name": "benny daon",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 419708,
+    "login": "cji",
+    "user_name": "Craig Ingram",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 10689272,
+    "login": "Dalek-Sec",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 19834040,
+    "login": "danishprakash",
+    "user_name": "Danish Prakash",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 48695,
+    "login": "dreid",
+    "user_name": "dreid",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 299879,
+    "login": "DrWhax",
+    "user_name": "DrWhax",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 963328,
+    "login": "leee",
+    "user_name": "E. Lee",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 8506155,
+    "login": "anxiousnix",
+    "user_name": "Em",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 217034,
+    "login": "evilaliv3",
+    "user_name": "Giovanni Pellerano",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 178803,
+    "login": "jrabbit",
+    "user_name": "J Laxson",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 27847,
+    "login": "jroes",
+    "user_name": "Jon Roes",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 2119212,
+    "login": "jsoref",
+    "user_name": "Josh Soref",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1834051,
+    "login": "jjelosua",
+    "user_name": "Juan Elosua",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 31420082,
+    "login": "lbeaufort",
+    "user_name": "Laura Beaufort",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 21046,
+    "login": "darkk",
+    "user_name": "Leonid Evdokimov",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1688420,
+    "login": "loganaden",
+    "user_name": "Loganaden Velvindron",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 4888781,
+    "login": "jasonbraganza",
+    "user_name": "Mario Jason Braganza",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 4054013,
+    "login": "martinshelton",
+    "user_name": "Martin Shelton",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 1170300,
+    "login": "czesiekhaker",
+    "user_name": "Micha\u0142 \"czesiek\" Czy\u017cewski",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "id": 2856644,
+    "login": "mfauzy",
+    "user_name": "Mike H. Fauzy",
+    "contributions": 1
+  }
+]

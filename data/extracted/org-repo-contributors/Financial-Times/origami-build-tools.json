@@ -1,0 +1,335 @@
+[
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 1569131,
+    "login": "JakeChampion",
+    "user_name": "Jake Champion",
+    "contributions": 193
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 840334,
+    "login": "samgiles",
+    "user_name": "Sam Giles",
+    "contributions": 96
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 825088,
+    "login": "matthew-andrews",
+    "user_name": "Matt Andrews",
+    "contributions": 88
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 10405691,
+    "login": "notlee",
+    "user_name": "Lee Moody",
+    "contributions": 82
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 85783,
+    "login": "kaelig",
+    "user_name": "Kaelig Deloumeau-Prigent",
+    "contributions": 68
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 64
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 178266,
+    "login": "chee",
+    "user_name": "chee",
+    "contributions": 42
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 40
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 447559,
+    "login": "wheresrhys",
+    "user_name": "Rhys Evans",
+    "contributions": 31
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 1735391,
+    "login": "triblondon",
+    "user_name": "Andrew Betts",
+    "contributions": 30
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 1240073,
+    "login": "onishiweb",
+    "user_name": "Adam Onishi",
+    "contributions": 15
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 14
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 138944,
+    "login": "rowanmanning",
+    "user_name": "Rowan Manning",
+    "contributions": 13
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 32459059,
+    "login": "robinmarr-ft",
+    "user_name": "Robin Marr",
+    "contributions": 12
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 3081639,
+    "login": "mariabg",
+    "user_name": "Mar\u00eda Benavente",
+    "contributions": 10
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 68009,
+    "login": "alicebartlett",
+    "user_name": "Alice Bartlett",
+    "contributions": 7
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 15323495,
+    "login": "VladDubrovskis",
+    "user_name": "Vlad Dubrovskis",
+    "contributions": 7
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 250617,
+    "login": "callumlocke",
+    "user_name": "Callum Locke",
+    "contributions": 6
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 2759279,
+    "login": "dan-searle",
+    "user_name": "Dan Searle",
+    "contributions": 6
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 13867127,
+    "login": "origamiserviceuser",
+    "user_name": "Fox",
+    "contributions": 5
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 16777943,
+    "login": "gvonkoss",
+    "user_name": "Gabrielle von Koss",
+    "contributions": 5
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 1362205,
+    "login": "geek-caroline",
+    "user_name": "Caroline",
+    "contributions": 3
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 733849,
+    "login": "bjfletcher",
+    "user_name": "Ben Fletcher",
+    "contributions": 2
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 65916846,
+    "login": "actions-user",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 4994123,
+    "login": "expe",
+    "user_name": "Tom Young",
+    "contributions": 2
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 7458891,
+    "login": "spriggsha",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 675909,
+    "login": "ifyio",
+    "user_name": "Ifeanyi Isitor",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 215210,
+    "login": "rowanbeentje",
+    "user_name": "Rowan Beentje",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 616321,
+    "login": "robsquires",
+    "user_name": "Rob Squires",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 631757,
+    "login": "apaleslimghost",
+    "user_name": "Kara Brightwell",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 150157,
+    "login": "leafrogers",
+    "user_name": "Leaf Rogers",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 37520401,
+    "login": "sbinlondon",
+    "user_name": "Kate Beard",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 74132,
+    "login": "ironsidevsquincy",
+    "user_name": "Darren Hurley",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 3199181,
+    "login": "Limess",
+    "user_name": "Charlie Briggs",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 440052,
+    "login": "alexwilson",
+    "user_name": "Alex Wilson",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 3966773,
+    "login": "alexflorisca",
+    "user_name": "Alex Florisca",
+    "contributions": 1
+  },
+  {
+    "org": "Financial-Times",
+    "repo_name": "origami-build-tools",
+    "full_name": "Financial-Times/origami-build-tools",
+    "id": 660635,
+    "login": "tavvy",
+    "user_name": "Adam Tavener",
+    "contributions": 1
+  }
+]

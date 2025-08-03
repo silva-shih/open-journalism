@@ -1,0 +1,29 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nis",
+    "full_name": "globeandmail/ansible-role-nis",
+    "id": 12545827,
+    "login": "1adam",
+    "user_name": "1adam",
+    "contributions": 5
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nis",
+    "full_name": "globeandmail/ansible-role-nis",
+    "id": 45631526,
+    "login": "tgam-abarrett",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-nis",
+    "full_name": "globeandmail/ansible-role-nis",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 1
+  }
+]

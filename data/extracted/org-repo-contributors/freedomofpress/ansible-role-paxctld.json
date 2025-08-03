@@ -1,0 +1,29 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-paxctld",
+    "full_name": "freedomofpress/ansible-role-paxctld",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-paxctld",
+    "full_name": "freedomofpress/ansible-role-paxctld",
+    "id": 1727935,
+    "login": "msheiny",
+    "user_name": "Michael Sheinberg",
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-paxctld",
+    "full_name": "freedomofpress/ansible-role-paxctld",
+    "id": 1161532,
+    "login": "ageis",
+    "user_name": "Kevin M. Gallagher",
+    "contributions": 2
+  }
+]

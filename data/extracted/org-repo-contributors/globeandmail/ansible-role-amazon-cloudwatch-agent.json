@@ -1,0 +1,38 @@
+[
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-amazon-cloudwatch-agent",
+    "full_name": "globeandmail/ansible-role-amazon-cloudwatch-agent",
+    "id": 12545827,
+    "login": "1adam",
+    "user_name": "1adam",
+    "contributions": 16
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-amazon-cloudwatch-agent",
+    "full_name": "globeandmail/ansible-role-amazon-cloudwatch-agent",
+    "id": 12532073,
+    "login": "robwhiteongithub",
+    "user_name": "Rob White",
+    "contributions": 8
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-amazon-cloudwatch-agent",
+    "full_name": "globeandmail/ansible-role-amazon-cloudwatch-agent",
+    "id": 45631526,
+    "login": "tgam-abarrett",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "globeandmail",
+    "repo_name": "ansible-role-amazon-cloudwatch-agent",
+    "full_name": "globeandmail/ansible-role-amazon-cloudwatch-agent",
+    "id": 45598698,
+    "login": "tgam-tallannder",
+    "user_name": "Tal Lannder",
+    "contributions": 2
+  }
+]

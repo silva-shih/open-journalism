@@ -1,0 +1,20 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-dockermachine",
+    "full_name": "freedomofpress/ansible-role-dockermachine",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "ansible-role-dockermachine",
+    "full_name": "freedomofpress/ansible-role-dockermachine",
+    "id": 1727935,
+    "login": "msheiny",
+    "user_name": "Michael Sheinberg",
+    "contributions": 1
+  }
+]

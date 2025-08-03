@@ -1,0 +1,398 @@
+[
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 7832803,
+    "login": "redshiftzero",
+    "user_name": "redshiftzero",
+    "contributions": 648
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 81392,
+    "login": "legoktm",
+    "user_name": "Kunal Mehta",
+    "contributions": 369
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 272303,
+    "login": "kushaldas",
+    "user_name": "Kushal Das",
+    "contributions": 261
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 1619067,
+    "login": "gonzalo-bulnes",
+    "user_name": "Gonzalo Bulnes Guilpain",
+    "contributions": 242
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 22777700,
+    "login": "rocodes",
+    "user_name": "rocodes",
+    "contributions": 218
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 357435,
+    "login": "cfm",
+    "user_name": "Cory Francis Myers",
+    "contributions": 216
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 3998464,
+    "login": "heartsucker",
+    "user_name": "heartsucker",
+    "contributions": 206
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 1607653,
+    "login": "weblate",
+    "user_name": "Weblate (bot)",
+    "contributions": 155
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 15223328,
+    "login": "emkll",
+    "user_name": "mickael e.",
+    "contributions": 150
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 37602,
+    "login": "ntoll",
+    "user_name": "Nicholas Tollervey",
+    "contributions": 143
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 156128,
+    "login": "micahflee",
+    "user_name": "Micah Lee",
+    "contributions": 136
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 2782952,
+    "login": "zenmonkeykstop",
+    "user_name": "Kevin O'Gorman",
+    "contributions": 127
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 47430598,
+    "login": "rmol",
+    "user_name": null,
+    "contributions": 119
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 213636,
+    "login": "eloquence",
+    "user_name": "Erik Moeller",
+    "contributions": 107
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 4522213,
+    "login": "sssoleileraaa",
+    "user_name": null,
+    "contributions": 92
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 69
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 47065258,
+    "login": "deeplow",
+    "user_name": null,
+    "contributions": 60
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 103802,
+    "login": "joshuathayer",
+    "user_name": "Joshua Thayer",
+    "contributions": 53
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 657862,
+    "login": "conorsch",
+    "user_name": "Conor Schaefer",
+    "contributions": 52
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 201369,
+    "login": "eaon",
+    "user_name": null,
+    "contributions": 33
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 7269957,
+    "login": "vickiniu",
+    "user_name": "Vicki Niu",
+    "contributions": 18
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 17057932,
+    "login": "zekehuntergreen",
+    "user_name": "Zeke Hunter-Green",
+    "contributions": 14
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 87483970,
+    "login": "Er1kkkaaa",
+    "user_name": "Erika",
+    "contributions": 11
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 9
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 249800,
+    "login": "timruffles",
+    "user_name": "Tim Ruffles",
+    "contributions": 8
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 19642016,
+    "login": "pierwill",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 32111606,
+    "login": "nightwarriorftw",
+    "user_name": "Aman Verma",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 3719122,
+    "login": "ultimatecoder",
+    "user_name": "Jaysinh Shukla",
+    "contributions": 4
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 14218967,
+    "login": "sveinki",
+    "user_name": "Sveinn \u00ed Felli",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 9296805,
+    "login": "vivekanand1101",
+    "user_name": "Vivek Anand",
+    "contributions": 3
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 17308840,
+    "login": "michdcode",
+    "user_name": "Michelle D",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 41586691,
+    "login": "nahara7",
+    "user_name": "Nahara",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 908356,
+    "login": "chamalis",
+    "user_name": "Stelios",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 19742137,
+    "login": "mdrose",
+    "user_name": "Michael Rose",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 7270031,
+    "login": "MIB4u",
+    "user_name": "Martin Trebuch",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 2119212,
+    "login": "jsoref",
+    "user_name": "Josh Soref",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 148752,
+    "login": "jdlrobson",
+    "user_name": "Jon Robson",
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 488803,
+    "login": "Ecron",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 791309,
+    "login": "1000101",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 177332,
+    "login": "tomkins",
+    "user_name": "Alex Tomkins",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 1072581,
+    "login": "BennyBeat",
+    "user_name": "BennyBeat",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 1834051,
+    "login": "jjelosua",
+    "user_name": "Juan Elosua",
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 63339169,
+    "login": "hroshik",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "id": 51460047,
+    "login": "ssurbhi560",
+    "user_name": "Surbhi Sharma",
+    "contributions": 1
+  }
+]
