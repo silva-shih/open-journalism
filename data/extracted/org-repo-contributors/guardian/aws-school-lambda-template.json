@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "aws-school-lambda-template",
+    "full_name": "guardian/aws-school-lambda-template",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "aws-school-lambda-template",
+    "full_name": "guardian/aws-school-lambda-template",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "aws-school-lambda-template",
+    "full_name": "guardian/aws-school-lambda-template",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 1
+  }
+]

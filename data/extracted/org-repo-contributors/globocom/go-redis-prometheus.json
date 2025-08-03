@@ -1,0 +1,38 @@
+[
+  {
+    "org": "globocom",
+    "repo_name": "go-redis-prometheus",
+    "full_name": "globocom/go-redis-prometheus",
+    "id": 446867,
+    "login": "mbenford",
+    "user_name": "Michael Benford",
+    "contributions": 15
+  },
+  {
+    "org": "globocom",
+    "repo_name": "go-redis-prometheus",
+    "full_name": "globocom/go-redis-prometheus",
+    "id": 25023177,
+    "login": "cristiandean",
+    "user_name": "Cristian Dean",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "go-redis-prometheus",
+    "full_name": "globocom/go-redis-prometheus",
+    "id": 10260430,
+    "login": "desk467",
+    "user_name": "Ricardo Gomes",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "go-redis-prometheus",
+    "full_name": "globocom/go-redis-prometheus",
+    "id": 4842605,
+    "login": "rafaeleyng",
+    "user_name": "Rafael",
+    "contributions": 1
+  }
+]

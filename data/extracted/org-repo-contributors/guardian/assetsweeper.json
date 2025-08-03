@@ -1,0 +1,56 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "assetsweeper",
+    "full_name": "guardian/assetsweeper",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 206
+  },
+  {
+    "org": "guardian",
+    "repo_name": "assetsweeper",
+    "full_name": "guardian/assetsweeper",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 193
+  },
+  {
+    "org": "guardian",
+    "repo_name": "assetsweeper",
+    "full_name": "guardian/assetsweeper",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "assetsweeper",
+    "full_name": "guardian/assetsweeper",
+    "id": 32717,
+    "login": "kant",
+    "user_name": "Dar\u00edo Here\u00f1\u00fa",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "assetsweeper",
+    "full_name": "guardian/assetsweeper",
+    "id": 20578453,
+    "login": "yusufparkar",
+    "user_name": "Yusuf Parkar",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "assetsweeper",
+    "full_name": "guardian/assetsweeper",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

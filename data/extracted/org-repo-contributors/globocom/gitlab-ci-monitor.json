@@ -1,0 +1,128 @@
+[
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 21
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 125281,
+    "login": "mfriedenhagen",
+    "user_name": "Mirko Friedenhagen",
+    "contributions": 20
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 86251,
+    "login": "ggarnier",
+    "user_name": "Guilherme Garnier",
+    "contributions": 18
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 665903,
+    "login": "marcelometal",
+    "user_name": "Marcelo Jorge Vieira",
+    "contributions": 10
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 354110,
+    "login": "hermancaldara",
+    "user_name": "Herman Caldara",
+    "contributions": 9
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 355751,
+    "login": "luizbafilho",
+    "user_name": "Luiz Filho",
+    "contributions": 5
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 1382338,
+    "login": "afonsocdaniel",
+    "user_name": "Daniel Filho",
+    "contributions": 3
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 411799,
+    "login": "douglaslise",
+    "user_name": "Douglas Lise",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 5504958,
+    "login": "gvarandas",
+    "user_name": "Guilherme Varandas",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 31950929,
+    "login": "dbermuehler",
+    "user_name": "Dominik Berm\u00fchler",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 5131923,
+    "login": "donbowman",
+    "user_name": "Don Bowman",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 271259,
+    "login": "heliocorreia",
+    "user_name": "H\u00e9lio Correia",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 1433992,
+    "login": "kiefermat",
+    "user_name": "Matthias Kiefer",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "gitlab-ci-monitor",
+    "full_name": "globocom/gitlab-ci-monitor",
+    "id": 10358784,
+    "login": "thiagormagalhaes",
+    "user_name": "Thiago Rodrigues Magalh\u00e3es",
+    "contributions": 1
+  }
+]

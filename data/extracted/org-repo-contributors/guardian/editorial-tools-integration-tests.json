@@ -1,0 +1,74 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 5476326,
+    "login": "aug24",
+    "user_name": "Justin Rowles",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 4633246,
+    "login": "SHession",
+    "user_name": "Sam Hession",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 12645938,
+    "login": "jennygrahamjones",
+    "user_name": "Jenny Graham-Jones",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "editorial-tools-integration-tests",
+    "full_name": "guardian/editorial-tools-integration-tests",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 1
+  }
+]

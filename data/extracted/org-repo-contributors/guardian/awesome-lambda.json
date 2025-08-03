@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "awesome-lambda",
+    "full_name": "guardian/awesome-lambda",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "awesome-lambda",
+    "full_name": "guardian/awesome-lambda",
+    "id": 3343647,
+    "login": "oilnam",
+    "user_name": "manlio",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "awesome-lambda",
+    "full_name": "guardian/awesome-lambda",
+    "id": 2242307,
+    "login": "paulmr",
+    "user_name": "Paul Roberts",
+    "contributions": 1
+  }
+]

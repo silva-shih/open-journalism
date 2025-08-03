@@ -1,0 +1,452 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 715
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 1166188,
+    "login": "jamesmockett",
+    "user_name": "James Mockett",
+    "contributions": 315
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 196
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 40648315,
+    "login": "oliverabrahams",
+    "user_name": "Oliver Abrahams",
+    "contributions": 140
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 124
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 77005274,
+    "login": "joecowton1",
+    "user_name": "Joe Cowton",
+    "contributions": 117
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 150677948,
+    "login": "gu-changesets-release-pr[bot]",
+    "user_name": null,
+    "contributions": 114
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 20416599,
+    "login": "abeddow91",
+    "user_name": "Anna Beddow",
+    "contributions": 80
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 1771189,
+    "login": "ob6160",
+    "user_name": "Oliver Barnwell",
+    "contributions": 74
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 71
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 13315440,
+    "login": "coldlink",
+    "user_name": "Mahesh Makani",
+    "contributions": 65
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 52
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 52
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 26366706,
+    "login": "sophie-macmillan",
+    "user_name": "Sophie",
+    "contributions": 51
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 7014230,
+    "login": "arelra",
+    "user_name": "Ravi",
+    "contributions": 51
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 15648334,
+    "login": "tjsilver",
+    "user_name": "TJ Silver",
+    "contributions": 35
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 115992455,
+    "login": "charleycampbell",
+    "user_name": "Charley Campbell",
+    "contributions": 32
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 30567854,
+    "login": "dblatcher",
+    "user_name": "David Blatcher",
+    "contributions": 31
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 106528085,
+    "login": "akinsola-guardian",
+    "user_name": "Akinsola Lawanson",
+    "contributions": 26
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 1731150,
+    "login": "Jakeii",
+    "user_name": "Jake",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 21217225,
+    "login": "AshCorr",
+    "user_name": "AshCorr",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 114918544,
+    "login": "andrewHEguardian",
+    "user_name": "Andrew Howe-Ely",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 15894063,
+    "login": "marjisound",
+    "user_name": "Marjan Kalanaki",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 43961396,
+    "login": "cemms1",
+    "user_name": "Charlotte Emms",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 110032454,
+    "login": "DanielCliftonGuardian",
+    "user_name": "Daniel Clifton",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 102960844,
+    "login": "Georges-GNM",
+    "user_name": "Georges Lebreton",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 37048459,
+    "login": "bryophyta",
+    "user_name": "Pete F",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 31692,
+    "login": "jamesgorrie",
+    "user_name": "James Gorrie",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 1590704,
+    "login": "GHaberis",
+    "user_name": "George Haberis",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 1336821,
+    "login": "oliverlloyd",
+    "user_name": "Oliver Lloyd",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 130582307,
+    "login": "vlkerag",
+    "user_name": "Anna Voelker",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 705427,
+    "login": "georgeblahblah",
+    "user_name": "George B",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 9575458,
+    "login": "OllysCoding",
+    "user_name": "Olly",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 108270776,
+    "login": "emma-imber",
+    "user_name": "Emma Imber",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 379839,
+    "login": "tjmw",
+    "user_name": "Tom Wey",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 32312712,
+    "login": "vlbee",
+    "user_name": "vanessa",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 2510683,
+    "login": "rBangay",
+    "user_name": "Richard Bangay",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 74301289,
+    "login": "codingWithRach",
+    "user_name": "Rachel Miles",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 73653255,
+    "login": "LAKSHMIRPILLAI",
+    "user_name": "Lakshmi R Pillai",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 12988096,
+    "login": "jirihofman",
+    "user_name": "Ji\u0159\u00ed Hofman",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 1229808,
+    "login": "alinaboghiu",
+    "user_name": "Alina Boghiu",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 768467,
+    "login": "ashishpuliyel",
+    "user_name": "Ashish Puliyel",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 8000415,
+    "login": "chrislomaxjones",
+    "user_name": "Chris Jones",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 29146931,
+    "login": "i-hardy",
+    "user_name": "Imogen Hardy",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "csnx",
+    "full_name": "guardian/csnx",
+    "id": 9384003,
+    "login": "sookburt",
+    "user_name": "Sue Burt",
+    "contributions": 1
+  }
+]

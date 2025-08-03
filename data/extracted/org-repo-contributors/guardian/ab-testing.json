@@ -1,0 +1,65 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "ab-testing",
+    "full_name": "guardian/ab-testing",
+    "id": 638051,
+    "login": "gtrufitt",
+    "user_name": "Gareth Trufitt",
+    "contributions": 142
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ab-testing",
+    "full_name": "guardian/ab-testing",
+    "id": 1336821,
+    "login": "oliverlloyd",
+    "user_name": "Oliver Lloyd",
+    "contributions": 58
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ab-testing",
+    "full_name": "guardian/ab-testing",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ab-testing",
+    "full_name": "guardian/ab-testing",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ab-testing",
+    "full_name": "guardian/ab-testing",
+    "id": 1731150,
+    "login": "Jakeii",
+    "user_name": "Jake",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ab-testing",
+    "full_name": "guardian/ab-testing",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ab-testing",
+    "full_name": "guardian/ab-testing",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  }
+]

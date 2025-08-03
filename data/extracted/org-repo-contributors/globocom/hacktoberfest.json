@@ -1,0 +1,416 @@
+[
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 1333599,
+    "login": "arturfsousa",
+    "user_name": "Artur Felipe Sousa",
+    "contributions": 192
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 10504554,
+    "login": "markiing",
+    "user_name": "Marcus Cart\u00e1genes",
+    "contributions": 79
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 381179,
+    "login": "davidsonfellipe",
+    "user_name": "Davidson Fellipe",
+    "contributions": 27
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 665903,
+    "login": "marcelometal",
+    "user_name": "Marcelo Jorge Vieira",
+    "contributions": 14
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 4915296,
+    "login": "ceelsoin",
+    "user_name": "Celso In\u00e1cio",
+    "contributions": 8
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 4116980,
+    "login": "brunoocasali",
+    "user_name": "Bruno Casali",
+    "contributions": 6
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 4535535,
+    "login": "lauraceconi",
+    "user_name": "Laura Ceconi",
+    "contributions": 6
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 19207341,
+    "login": "RaphaelVRossi",
+    "user_name": "Raphael Rossi",
+    "contributions": 5
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 25023177,
+    "login": "cristiandean",
+    "user_name": "Cristian Dean",
+    "contributions": 5
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 5731176,
+    "login": "TiagoDanin",
+    "user_name": "Tiago Danin",
+    "contributions": 5
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 2049144,
+    "login": "robertoconceicao",
+    "user_name": "Bob",
+    "contributions": 5
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 55638,
+    "login": "morpheu",
+    "user_name": "Paulo Sousa",
+    "contributions": 5
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 19175579,
+    "login": "lucasbarrosrocha",
+    "user_name": "Lucas Barros Rocha",
+    "contributions": 5
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 331817,
+    "login": "guilhermebr",
+    "user_name": "Guilherme Rezende",
+    "contributions": 4
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 62268905,
+    "login": "devppjr",
+    "user_name": "Pedro Paulo",
+    "contributions": 3
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 34961222,
+    "login": "JuanMeireles",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 9121359,
+    "login": "lubien",
+    "user_name": "Lubien",
+    "contributions": 3
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 244265,
+    "login": "flavioribeiro",
+    "user_name": "Flavio Ribeiro",
+    "contributions": 3
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 44641613,
+    "login": "AdeLuigi",
+    "user_name": "Ademario Santana",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 11041,
+    "login": "cezarsa",
+    "user_name": "Cezar S\u00e1 Espinola",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 8283709,
+    "login": "danielmeloramos",
+    "user_name": "Daniel Melo Ramos",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 5695277,
+    "login": "davidsonsimoes",
+    "user_name": "Davidson Sim\u00f5es",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 354110,
+    "login": "hermancaldara",
+    "user_name": "Herman Caldara",
+    "contributions": 2
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 4202262,
+    "login": "lucaxsilveira",
+    "user_name": "Lucas da Silveira",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 342161,
+    "login": "mateuspontes",
+    "user_name": "Mateus Pontes",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 25057248,
+    "login": "Koalapvh13",
+    "user_name": "Matheus Dias Vieira",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 11907615,
+    "login": "xpecex",
+    "user_name": "Pedro Filipe",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 48925043,
+    "login": "ravilock",
+    "user_name": "Ravi Menezes",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 80645852,
+    "login": "samuelnakazawa",
+    "user_name": "Samuel Nakazawa",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 118348,
+    "login": "tarsisazevedo",
+    "user_name": "Tarsis Azevedo",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 6867958,
+    "login": "thayannevls",
+    "user_name": "Thayanne Sousa",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 61105850,
+    "login": "ThesllaDev",
+    "user_name": "ThesllaDev",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 39417,
+    "login": "thiagobfiorenza",
+    "user_name": "Thiago Bueno Fiorenza",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 10358784,
+    "login": "thiagormagalhaes",
+    "user_name": "Thiago Rodrigues Magalh\u00e3es",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 1672089,
+    "login": "lucasvst",
+    "user_name": "Lucas Teles",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 9697621,
+    "login": "lousander",
+    "user_name": "Louren\u00e7o Sander",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 33805207,
+    "login": "IsraelSampaio",
+    "user_name": "Israel de Souza Carvalho Sampaio",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 32279982,
+    "login": "ingridpacheco",
+    "user_name": "Ingrid Pacheco",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 759784,
+    "login": "pantuza",
+    "user_name": "Gustavo Pantuza",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 10405276,
+    "login": "gabekanegae",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 38007503,
+    "login": "GabhenDM",
+    "user_name": "Gabriel Henriques",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 29429658,
+    "login": "fsilvaco",
+    "user_name": "Fl\u00e1vio Silva",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 14113480,
+    "login": "fanny",
+    "user_name": "Fanny",
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 187920648,
+    "login": "danilogila45",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "globocom",
+    "repo_name": "hacktoberfest",
+    "full_name": "globocom/hacktoberfest",
+    "id": 6757777,
+    "login": "schirrel",
+    "user_name": "Alan Schio",
+    "contributions": 1
+  }
+]

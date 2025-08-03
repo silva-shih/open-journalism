@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "actions-assume-aws-role",
+    "full_name": "guardian/actions-assume-aws-role",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 37
+  },
+  {
+    "org": "guardian",
+    "repo_name": "actions-assume-aws-role",
+    "full_name": "guardian/actions-assume-aws-role",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "actions-assume-aws-role",
+    "full_name": "guardian/actions-assume-aws-role",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "actions-assume-aws-role",
+    "full_name": "guardian/actions-assume-aws-role",
+    "id": 1236466,
+    "login": "sihil",
+    "user_name": "Simon Hildrew",
+    "contributions": 2
+  }
+]

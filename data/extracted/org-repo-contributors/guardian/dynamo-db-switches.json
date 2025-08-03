@@ -1,0 +1,110 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 15324270,
+    "login": "pvighi",
+    "user_name": "Patricio Vighi",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 14816091,
+    "login": "Mark-McCracken",
+    "user_name": "Mark McCracken",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 1001642,
+    "login": "robertberry-zz",
+    "user_name": "Rob Berry",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 21217225,
+    "login": "AshCorr",
+    "user_name": "AshCorr",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "dynamo-db-switches",
+    "full_name": "guardian/dynamo-db-switches",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

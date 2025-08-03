@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "cdk-cli",
+    "full_name": "guardian/cdk-cli",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 99
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk-cli",
+    "full_name": "guardian/cdk-cli",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk-cli",
+    "full_name": "guardian/cdk-cli",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk-cli",
+    "full_name": "guardian/cdk-cli",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 1
+  }
+]

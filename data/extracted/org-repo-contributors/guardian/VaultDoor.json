@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "VaultDoor",
+    "full_name": "guardian/VaultDoor",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 182
+  },
+  {
+    "org": "guardian",
+    "repo_name": "VaultDoor",
+    "full_name": "guardian/VaultDoor",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 56
+  },
+  {
+    "org": "guardian",
+    "repo_name": "VaultDoor",
+    "full_name": "guardian/VaultDoor",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "VaultDoor",
+    "full_name": "guardian/VaultDoor",
+    "id": 66913730,
+    "login": "richpryce",
+    "user_name": "Richard Pryce",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "VaultDoor",
+    "full_name": "guardian/VaultDoor",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 3
+  }
+]

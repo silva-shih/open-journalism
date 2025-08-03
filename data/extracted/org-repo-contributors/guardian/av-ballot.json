@@ -1,0 +1,20 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "av-ballot",
+    "full_name": "guardian/av-ballot",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 24
+  },
+  {
+    "org": "guardian",
+    "repo_name": "av-ballot",
+    "full_name": "guardian/av-ballot",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 10
+  }
+]

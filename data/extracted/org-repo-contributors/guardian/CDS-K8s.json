@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "CDS-K8s",
+    "full_name": "guardian/CDS-K8s",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 69
+  },
+  {
+    "org": "guardian",
+    "repo_name": "CDS-K8s",
+    "full_name": "guardian/CDS-K8s",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 67
+  },
+  {
+    "org": "guardian",
+    "repo_name": "CDS-K8s",
+    "full_name": "guardian/CDS-K8s",
+    "id": 66913730,
+    "login": "richpryce",
+    "user_name": "Richard Pryce",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "CDS-K8s",
+    "full_name": "guardian/CDS-K8s",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "commercial-playground",
+    "full_name": "guardian/commercial-playground",
+    "id": 7014230,
+    "login": "arelra",
+    "user_name": "Ravi",
+    "contributions": 29
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-playground",
+    "full_name": "guardian/commercial-playground",
+    "id": 8000415,
+    "login": "chrislomaxjones",
+    "user_name": "Chris Jones",
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-playground",
+    "full_name": "guardian/commercial-playground",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-playground",
+    "full_name": "guardian/commercial-playground",
+    "id": 9574885,
+    "login": "domlander",
+    "user_name": "Dominik Lander",
+    "contributions": 1
+  }
+]

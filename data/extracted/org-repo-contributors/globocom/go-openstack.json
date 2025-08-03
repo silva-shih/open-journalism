@@ -1,0 +1,29 @@
+[
+  {
+    "org": "globocom",
+    "repo_name": "go-openstack",
+    "full_name": "globocom/go-openstack",
+    "id": 52241,
+    "login": "andrewsmedina",
+    "user_name": "Andrews Medina",
+    "contributions": 16
+  },
+  {
+    "org": "globocom",
+    "repo_name": "go-openstack",
+    "full_name": "globocom/go-openstack",
+    "id": 444856,
+    "login": "flavianmissi",
+    "user_name": "Flavian Missi",
+    "contributions": 11
+  },
+  {
+    "org": "globocom",
+    "repo_name": "go-openstack",
+    "full_name": "globocom/go-openstack",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 8
+  }
+]

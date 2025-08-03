@@ -1,0 +1,83 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 42
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 379839,
+    "login": "tjmw",
+    "user_name": "Tom Wey",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 1692169,
+    "login": "andre1050",
+    "user_name": "Andre Silva",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 1590704,
+    "login": "GHaberis",
+    "user_name": "George Haberis",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "automat-client",
+    "full_name": "guardian/automat-client",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  }
+]

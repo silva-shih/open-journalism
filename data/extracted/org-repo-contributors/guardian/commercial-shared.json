@@ -1,0 +1,164 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 177
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 1731150,
+    "login": "Jakeii",
+    "user_name": "Jake",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 233326,
+    "login": "TBonnin",
+    "user_name": "Thomas Bonnin",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 108270776,
+    "login": "emma-imber",
+    "user_name": "Emma Imber",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 445472,
+    "login": "janua",
+    "user_name": "Francis",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 10913420,
+    "login": "mkuzdowicz",
+    "user_name": "Marcin Kuzdowicz",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 7014230,
+    "login": "arelra",
+    "user_name": "Ravi",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 5560113,
+    "login": "itsibitzi",
+    "user_name": "Sam Cutler",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 9574885,
+    "login": "domlander",
+    "user_name": "Dominik Lander",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 705427,
+    "login": "georgeblahblah",
+    "user_name": "George B",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "commercial-shared",
+    "full_name": "guardian/commercial-shared",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

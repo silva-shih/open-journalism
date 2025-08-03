@@ -1,0 +1,56 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "cql",
+    "full_name": "guardian/cql",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 517
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cql",
+    "full_name": "guardian/cql",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cql",
+    "full_name": "guardian/cql",
+    "id": 40991816,
+    "login": "Fweddi",
+    "user_name": "Freddie Preece",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cql",
+    "full_name": "guardian/cql",
+    "id": 114918544,
+    "login": "andrewHEguardian",
+    "user_name": "Andrew Howe-Ely",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cql",
+    "full_name": "guardian/cql",
+    "id": 37048459,
+    "login": "bryophyta",
+    "user_name": "Pete F",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cql",
+    "full_name": "guardian/cql",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

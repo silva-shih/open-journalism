@@ -1,0 +1,20 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "coach-comdev",
+    "full_name": "guardian/coach-comdev",
+    "id": 1731150,
+    "login": "Jakeii",
+    "user_name": "Jake",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "coach-comdev",
+    "full_name": "guardian/coach-comdev",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,353 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1390
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 1357
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 251
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 408027,
+    "login": "guardian-ci",
+    "user_name": "theguardian.com continuous integration",
+    "contributions": 208
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 131
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 107
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 80
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 21217225,
+    "login": "AshCorr",
+    "user_name": "AshCorr",
+    "contributions": 35
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 25
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 57295823,
+    "login": "marsavar",
+    "user_name": "Mario Savarese",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 7239344,
+    "login": "michaelwmcnamara",
+    "user_name": "Michael McNamara",
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 80390930,
+    "login": "JuliaBrigitte",
+    "user_name": "Julia Branke",
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 4633246,
+    "login": "SHession",
+    "user_name": "Sam Hession",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 7883129,
+    "login": "samanthagottlieb",
+    "user_name": "Samantha Gottlieb",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 9820960,
+    "login": "amyhughes",
+    "user_name": "Amy Hughes",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 1236466,
+    "login": "sihil",
+    "user_name": "Simon Hildrew",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 214830583,
+    "login": "guardian-cdk[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 17720442,
+    "login": "tompretty",
+    "user_name": "Tom Pretty",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 37048459,
+    "login": "bryophyta",
+    "user_name": "Pete F",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 181371,
+    "login": "rupertbates",
+    "user_name": "Rupert Bates",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 30179286,
+    "login": "jamie-lynch",
+    "user_name": "Jamie Lynch",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 19835654,
+    "login": "frankie297",
+    "user_name": "Francesca Hammond",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 705427,
+    "login": "georgeblahblah",
+    "user_name": "George B",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 77005274,
+    "login": "joecowton1",
+    "user_name": "Joe Cowton",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "cdk",
+    "full_name": "guardian/cdk",
+    "id": 17057932,
+    "login": "zekehuntergreen",
+    "user_name": "Zeke Hunter-Green",
+    "contributions": 1
+  }
+]
