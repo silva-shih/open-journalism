@@ -16,6 +16,7 @@ dependencies = [
     "click",
     "jupyterlab",
     "ipywidgets",
+    "altair",
     "pre-commit",
 ]
 
