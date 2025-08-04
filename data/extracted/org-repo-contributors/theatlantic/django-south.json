@@ -1,0 +1,416 @@
+[
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 36182,
+    "login": "andrewgodwin",
+    "user_name": "Andrew Godwin",
+    "contributions": 653
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 155692,
+    "login": "sfllaw",
+    "user_name": "Simon Law",
+    "contributions": 74
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 129187,
+    "login": "shaib",
+    "user_name": "Shai Berger",
+    "contributions": 70
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 9293,
+    "login": "charettes",
+    "user_name": "Simon Charette",
+    "contributions": 22
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 126888,
+    "login": "evidens",
+    "user_name": "F. Gabriel Gosselin",
+    "contributions": 12
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 788910,
+    "login": "aaugustin",
+    "user_name": "Aymeric Augustin",
+    "contributions": 9
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 305268,
+    "login": "msabramo",
+    "user_name": "Marc Abramowitz",
+    "contributions": 9
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 852075,
+    "login": "sjaensch",
+    "user_name": "Stephan Jaensch",
+    "contributions": 9
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 253351,
+    "login": "jackdied",
+    "user_name": "Jack Diederich",
+    "contributions": 7
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 1610,
+    "login": "jezdez",
+    "user_name": "Jannis Leidel",
+    "contributions": 7
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 61553,
+    "login": "rctay",
+    "user_name": "Ray",
+    "contributions": 7
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 223833,
+    "login": "vanschelven",
+    "user_name": "Klaas van Schelven",
+    "contributions": 6
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 55577,
+    "login": "dgouldin",
+    "user_name": "David Gouldin",
+    "contributions": 5
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 69902,
+    "login": "mfogel",
+    "user_name": "Mike Fogel",
+    "contributions": 5
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 10229,
+    "login": "jdunck",
+    "user_name": "Jeremy Dunck",
+    "contributions": 4
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 171166,
+    "login": "freevoid",
+    "user_name": "Nikolay Zakharov",
+    "contributions": 4
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 578586,
+    "login": "maxirobaina",
+    "user_name": "Maximiliano Robaina",
+    "contributions": 4
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 13807,
+    "login": "miracle2k",
+    "user_name": "Michael",
+    "contributions": 3
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 2815692,
+    "login": "denisenkom",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 128243,
+    "login": "coderanger",
+    "user_name": "Noah Kantrowitz",
+    "contributions": 3
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 321391,
+    "login": "skyjur",
+    "user_name": "Ski Jurgaitis",
+    "contributions": 3
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 737884,
+    "login": "danielgoncalves",
+    "user_name": "Daniel Gon\u00e7alves",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 2792687,
+    "login": "gterzian",
+    "user_name": "Gregory Terzian",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 3853,
+    "login": "justinabrahms",
+    "user_name": "Justin Abrahms",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 71676,
+    "login": "lorenzogil",
+    "user_name": "Lorenzo Gil Sanchez",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 1525,
+    "login": "snoack",
+    "user_name": "Sebastian Noack",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 772,
+    "login": "alex",
+    "user_name": "Alex Gaynor",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 1086596,
+    "login": "soulne4ny",
+    "user_name": "Alexey Luchko",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 510678,
+    "login": "shamrin",
+    "user_name": "Alexey Shamrin",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 154998,
+    "login": "ayadav",
+    "user_name": "Amit Yadav",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 25457,
+    "login": "paulproteus",
+    "user_name": "Asheesh Laroia",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 8517,
+    "login": "gotgenes",
+    "user_name": "Chris Lasher",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 86222,
+    "login": "evildmp",
+    "user_name": "Daniele Procida",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 56265,
+    "login": "duncanparkes",
+    "user_name": "Duncan Parkes",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 903160,
+    "login": "gabriel-samfira",
+    "user_name": "Gabriel",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 30702,
+    "login": "johnpaulett",
+    "user_name": "John Paulett",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 107968,
+    "login": "k-bx",
+    "user_name": "Kostia R",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 248376,
+    "login": "lakinwecker",
+    "user_name": "Lakin Wecker",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 912849,
+    "login": "LucianU",
+    "user_name": "Lucian Ursu",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 26704,
+    "login": "mikexstudios",
+    "user_name": "Michael Huynh",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 123717,
+    "login": "mrooney",
+    "user_name": "Michael Rooney",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 1209,
+    "login": "sverrejoh",
+    "user_name": "Sverre Johansen",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 812019,
+    "login": "timdawborn",
+    "user_name": "Tim Dawborn",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 35847,
+    "login": "zakhar",
+    "user_name": "Zakhar Zibarov",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 359076,
+    "login": "joke2k",
+    "user_name": "Daniele Faraglia",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-south",
+    "full_name": "theatlantic/django-south",
+    "id": 14330,
+    "login": "stefanfoulis",
+    "user_name": "Stefan Foulis",
+    "contributions": 1
+  }
+]

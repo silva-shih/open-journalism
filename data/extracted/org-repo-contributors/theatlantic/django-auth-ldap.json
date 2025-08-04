@@ -1,0 +1,56 @@
+[
+  {
+    "org": "theatlantic",
+    "repo_name": "django-auth-ldap",
+    "full_name": "theatlantic/django-auth-ldap",
+    "id": 197241,
+    "login": "psagers",
+    "user_name": "Peter Sagerson",
+    "contributions": 25
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-auth-ldap",
+    "full_name": "theatlantic/django-auth-ldap",
+    "id": 67394752,
+    "login": "jwilhelm-godaddy",
+    "user_name": "Joey Wilhelm",
+    "contributions": 6
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-auth-ldap",
+    "full_name": "theatlantic/django-auth-ldap",
+    "id": 788910,
+    "login": "aaugustin",
+    "user_name": "Aymeric Augustin",
+    "contributions": 3
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-auth-ldap",
+    "full_name": "theatlantic/django-auth-ldap",
+    "id": 451612,
+    "login": "fdintino",
+    "user_name": "Frankie Dintino",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-auth-ldap",
+    "full_name": "theatlantic/django-auth-ldap",
+    "id": 970415,
+    "login": "snanda85",
+    "user_name": "Sunny Nanda",
+    "contributions": 1
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-auth-ldap",
+    "full_name": "theatlantic/django-auth-ldap",
+    "id": 757444,
+    "login": "smeinel",
+    "user_name": "Steve Meinel",
+    "contributions": 1
+  }
+]

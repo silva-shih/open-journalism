@@ -1,0 +1,38 @@
+[
+  {
+    "org": "texastribune",
+    "repo_name": "pgcli",
+    "full_name": "texastribune/pgcli",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "pgcli",
+    "full_name": "texastribune/pgcli",
+    "id": 1091864,
+    "login": "x110dc",
+    "user_name": "Daniel Craigmile",
+    "contributions": 4
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "pgcli",
+    "full_name": "texastribune/pgcli",
+    "id": 5316367,
+    "login": "bfreeds",
+    "user_name": "brandyn",
+    "contributions": 3
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "pgcli",
+    "full_name": "texastribune/pgcli",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

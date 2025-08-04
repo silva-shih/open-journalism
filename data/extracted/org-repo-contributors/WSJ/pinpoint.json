@@ -1,0 +1,29 @@
+[
+  {
+    "org": "WSJ",
+    "repo_name": "pinpoint",
+    "full_name": "WSJ/pinpoint",
+    "id": 1442752,
+    "login": "ejb",
+    "user_name": "Elliot Bentley",
+    "contributions": 13
+  },
+  {
+    "org": "WSJ",
+    "repo_name": "pinpoint",
+    "full_name": "WSJ/pinpoint",
+    "id": 95356,
+    "login": "everyplace",
+    "user_name": "Erin Sparling",
+    "contributions": 3
+  },
+  {
+    "org": "WSJ",
+    "repo_name": "pinpoint",
+    "full_name": "WSJ/pinpoint",
+    "id": 3319507,
+    "login": "maptastik",
+    "user_name": "Ryan Cooper",
+    "contributions": 1
+  }
+]

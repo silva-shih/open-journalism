@@ -1,0 +1,29 @@
+[
+  {
+    "org": "ZeitOnline",
+    "repo_name": "celery_redis_sync",
+    "full_name": "ZeitOnline/celery_redis_sync",
+    "id": 577891,
+    "login": "wosc",
+    "user_name": "Wolfgang Schnerring",
+    "contributions": 28
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "celery_redis_sync",
+    "full_name": "ZeitOnline/celery_redis_sync",
+    "id": 5547971,
+    "login": "zon-hoppe",
+    "user_name": null,
+    "contributions": 14
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "celery_redis_sync",
+    "full_name": "ZeitOnline/celery_redis_sync",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 6
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 33046,
+    "login": "onyxfish",
+    "user_name": "Christopher Groskopf",
+    "contributions": 884
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 26463,
+    "login": "jpmckinney",
+    "user_name": "James McKinney",
+    "contributions": 215
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 2553386,
+    "login": "nbedi",
+    "user_name": "Neil Bedi",
+    "contributions": 197
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 302319,
+    "login": "lcorbasson",
+    "user_name": "Lo\u00efc Corbasson",
+    "contributions": 124
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 9993,
+    "login": "palewire",
+    "user_name": "Ben Welsh",
+    "contributions": 21
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 96007,
+    "login": "jheasly",
+    "user_name": "John Heasly",
+    "contributions": 20
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 1858004,
+    "login": "r0fls",
+    "user_name": "Raphael Deem",
+    "contributions": 9
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 48392,
+    "login": "flother",
+    "user_name": "Matt Riggott",
+    "contributions": 6
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 7553496,
+    "login": "ejmurra",
+    "user_name": "Eli Murray",
+    "contributions": 5
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 8499679,
+    "login": "scottgigante",
+    "user_name": "Scott Gigante",
+    "contributions": 3
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 81670803,
+    "login": "catowhee",
+    "user_name": "John Martyn",
+    "contributions": 3
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 582896,
+    "login": "mickaobrien",
+    "user_name": "Mick O'Brien",
+    "contributions": 3
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 6226927,
+    "login": "castorf",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 149943,
+    "login": "sandyp",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 11415404,
+    "login": "r0f1s",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 688980,
+    "login": "milafrerichs",
+    "user_name": "Mila Frerichs",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 955351,
+    "login": "skorasaurus",
+    "user_name": "Will Skora",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 118367,
+    "login": "paulfitz",
+    "user_name": "Paul Fitzpatrick",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 55365,
+    "login": "thejefflarson",
+    "user_name": "Jeff Larson",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 1964655,
+    "login": "ghisvail",
+    "user_name": "Ghislain Vaillant",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 536941,
+    "login": "fgregg",
+    "user_name": "Forest Gregg",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 634572,
+    "login": "eads",
+    "user_name": "David Eads",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 433780,
+    "login": "chrislkeller",
+    "user_name": "Chris Keller",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 5607572,
+    "login": "Jamim",
+    "user_name": "Aliaksei Urbanski",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 6806011,
+    "login": "dotlambda",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 419145,
+    "login": "rdmurphy",
+    "user_name": "Ryan Murphy",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 88142,
+    "login": "TaurusOlson",
+    "user_name": "Taurus Olson",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 47873678,
+    "login": "timgates42",
+    "user_name": "Tim Gates",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 962327,
+    "login": "tonypapousek",
+    "user_name": "Tony Papou\u0161ek",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 1077075,
+    "login": "TylerFisher",
+    "user_name": "Tyler Fisher",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 425874,
+    "login": "wpdavis",
+    "user_name": "William P. Davis",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 321037,
+    "login": "wadevries",
+    "user_name": "Wouter de Vries",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 15339858,
+    "login": "Zeroji",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 10523802,
+    "login": "lexieheinle",
+    "user_name": "Lexie Heinle",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 14183684,
+    "login": "mathdesc",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 1508133,
+    "login": "miroli",
+    "user_name": "Robin Linderborg",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 99543,
+    "login": "orsharir",
+    "user_name": "Or Sharir",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 1362219,
+    "login": "nsonnad",
+    "user_name": "Nikhil S",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 675639,
+    "login": "kevinschaul",
+    "user_name": "Kevin Schaul",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 3161,
+    "login": "akkartik",
+    "user_name": "Kartik Agaram",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 6643536,
+    "login": "Jenselme",
+    "user_name": "Julien Enselme",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 46313,
+    "login": "JoeGermuska",
+    "user_name": "Joe Germuska",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 110420,
+    "login": "ghing",
+    "user_name": "Geoffrey Hing",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 381500,
+    "login": "swingley",
+    "user_name": "Derek Swingley",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 929399,
+    "login": "dannypage",
+    "user_name": "Danny Page",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 915754,
+    "login": "brian-from-quantrocket",
+    "user_name": "Brian",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 5118689,
+    "login": "apoorv74",
+    "user_name": "Apoorv Anand",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "agate",
+    "full_name": "wireservice/agate",
+    "id": 11459840,
+    "login": "andriyor",
+    "user_name": "Andrii Oriekhov",
+    "contributions": 1
+  }
+]

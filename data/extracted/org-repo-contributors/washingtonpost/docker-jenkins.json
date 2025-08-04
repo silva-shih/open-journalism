@@ -1,0 +1,56 @@
+[
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-jenkins",
+    "full_name": "washingtonpost/docker-jenkins",
+    "id": 1848743,
+    "login": "manchicken",
+    "user_name": "Mike Stemle",
+    "contributions": 35
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-jenkins",
+    "full_name": "washingtonpost/docker-jenkins",
+    "id": 6929638,
+    "login": "vs4505",
+    "user_name": "Kolla, Vijaya Sankar",
+    "contributions": 16
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-jenkins",
+    "full_name": "washingtonpost/docker-jenkins",
+    "id": 28735188,
+    "login": "rantonucci-washpost",
+    "user_name": "Robert Antonucci",
+    "contributions": 8
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-jenkins",
+    "full_name": "washingtonpost/docker-jenkins",
+    "id": 600684,
+    "login": "jasonbartz",
+    "user_name": "Jason Bartz",
+    "contributions": 3
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-jenkins",
+    "full_name": "washingtonpost/docker-jenkins",
+    "id": 1411070,
+    "login": "jkwiz",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-jenkins",
+    "full_name": "washingtonpost/docker-jenkins",
+    "id": 5950956,
+    "login": "JackHowa",
+    "user_name": "Jack Howard",
+    "contributions": 1
+  }
+]

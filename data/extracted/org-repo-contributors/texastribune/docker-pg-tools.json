@@ -1,0 +1,47 @@
+[
+  {
+    "org": "texastribune",
+    "repo_name": "docker-pg-tools",
+    "full_name": "texastribune/docker-pg-tools",
+    "id": 419145,
+    "login": "rdmurphy",
+    "user_name": "Ryan Murphy",
+    "contributions": 14
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "docker-pg-tools",
+    "full_name": "texastribune/docker-pg-tools",
+    "id": 5316367,
+    "login": "bfreeds",
+    "user_name": "brandyn",
+    "contributions": 4
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "docker-pg-tools",
+    "full_name": "texastribune/docker-pg-tools",
+    "id": 2974713,
+    "login": "ashley-hebler",
+    "user_name": "Ashley Hebler",
+    "contributions": 3
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "docker-pg-tools",
+    "full_name": "texastribune/docker-pg-tools",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "docker-pg-tools",
+    "full_name": "texastribune/docker-pg-tools",
+    "id": 10566965,
+    "login": "tjb346",
+    "user_name": "Ty Brockhoeft",
+    "contributions": 1
+  }
+]

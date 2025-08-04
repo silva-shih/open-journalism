@@ -1,0 +1,47 @@
+[
+  {
+    "org": "texastribune",
+    "repo_name": "tt_thumbor",
+    "full_name": "texastribune/tt_thumbor",
+    "id": 5316367,
+    "login": "bfreeds",
+    "user_name": "brandyn",
+    "contributions": 11
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "tt_thumbor",
+    "full_name": "texastribune/tt_thumbor",
+    "id": 10566965,
+    "login": "tjb346",
+    "user_name": "Ty Brockhoeft",
+    "contributions": 10
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "tt_thumbor",
+    "full_name": "texastribune/tt_thumbor",
+    "id": 142910,
+    "login": "okor",
+    "user_name": "Jason Ormand",
+    "contributions": 2
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "tt_thumbor",
+    "full_name": "texastribune/tt_thumbor",
+    "id": 1091864,
+    "login": "x110dc",
+    "user_name": "Daniel Craigmile",
+    "contributions": 1
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "tt_thumbor",
+    "full_name": "texastribune/tt_thumbor",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "org": "washingtonpost",
+    "repo_name": "wpds-plugins",
+    "full_name": "washingtonpost/wpds-plugins",
+    "id": 6046591,
+    "login": "BrianAA",
+    "user_name": "Brian Alfaro",
+    "contributions": 60
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "wpds-plugins",
+    "full_name": "washingtonpost/wpds-plugins",
+    "id": 347490,
+    "login": "artmsilva",
+    "user_name": "Arturo Silva",
+    "contributions": 32
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "wpds-plugins",
+    "full_name": "washingtonpost/wpds-plugins",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 11
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "wpds-plugins",
+    "full_name": "washingtonpost/wpds-plugins",
+    "id": 67281745,
+    "login": "clairehhelms",
+    "user_name": "Claire Helms",
+    "contributions": 1
+  }
+]

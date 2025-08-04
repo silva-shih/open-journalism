@@ -6,7 +6,7 @@ import click
 import pandas as pd
 from rich import print
 from rich.progress import track
-from github import Github, UnknownObjectException
+from github import Github, UnknownObjectException, GithubException
 
 from src import settings
 
@@ -79,6 +79,9 @@ def get_repo_contributors(
         contributors = g.get_repo(full_name).get_contributors()
     except UnknownObjectException:
         contributors = []
+    except GithubException:
+        print(f"Error getting contributors for {full_name}. Skipping.")
+        return []
 
     # Parse out each contributor
     d_list = []

@@ -1,0 +1,38 @@
+[
+  {
+    "org": "theonion",
+    "repo_name": "django-betty-cropper",
+    "full_name": "theonion/django-betty-cropper",
+    "id": 666056,
+    "login": "MichaelButkovic",
+    "user_name": "Michael Butkovic",
+    "contributions": 12
+  },
+  {
+    "org": "theonion",
+    "repo_name": "django-betty-cropper",
+    "full_name": "theonion/django-betty-cropper",
+    "id": 5589639,
+    "login": "camsom",
+    "user_name": "Cameron Lowe",
+    "contributions": 10
+  },
+  {
+    "org": "theonion",
+    "repo_name": "django-betty-cropper",
+    "full_name": "theonion/django-betty-cropper",
+    "id": 156237,
+    "login": "csinchok",
+    "user_name": "Chris Sinchok",
+    "contributions": 1
+  },
+  {
+    "org": "theonion",
+    "repo_name": "django-betty-cropper",
+    "full_name": "theonion/django-betty-cropper",
+    "id": 4360430,
+    "login": "vforgione",
+    "user_name": "Vince Forgione",
+    "contributions": 1
+  }
+]

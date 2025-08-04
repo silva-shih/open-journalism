@@ -1,0 +1,29 @@
+[
+  {
+    "org": "theonion",
+    "repo_name": "django-zencoder",
+    "full_name": "theonion/django-zencoder",
+    "id": 5589639,
+    "login": "camsom",
+    "user_name": "Cameron Lowe",
+    "contributions": 24
+  },
+  {
+    "org": "theonion",
+    "repo_name": "django-zencoder",
+    "full_name": "theonion/django-zencoder",
+    "id": 3155025,
+    "login": "mparent61",
+    "user_name": "Mike Parent",
+    "contributions": 2
+  },
+  {
+    "org": "theonion",
+    "repo_name": "django-zencoder",
+    "full_name": "theonion/django-zencoder",
+    "id": 4360430,
+    "login": "vforgione",
+    "user_name": "Vince Forgione",
+    "contributions": 1
+  }
+]

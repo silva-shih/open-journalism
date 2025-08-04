@@ -1,0 +1,38 @@
+[
+  {
+    "org": "theatlantic",
+    "repo_name": "django-phatpages",
+    "full_name": "theatlantic/django-phatpages",
+    "id": 451612,
+    "login": "fdintino",
+    "user_name": "Frankie Dintino",
+    "contributions": 13
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-phatpages",
+    "full_name": "theatlantic/django-phatpages",
+    "id": 18324,
+    "login": "joshmaker",
+    "user_name": "Josh West",
+    "contributions": 5
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-phatpages",
+    "full_name": "theatlantic/django-phatpages",
+    "id": 353359,
+    "login": "mhowsden",
+    "user_name": "Mike Howsden",
+    "contributions": 5
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-phatpages",
+    "full_name": "theatlantic/django-phatpages",
+    "id": 40864,
+    "login": "dakrauth",
+    "user_name": "David A Krauth",
+    "contributions": 3
+  }
+]

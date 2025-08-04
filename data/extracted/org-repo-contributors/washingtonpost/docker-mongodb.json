@@ -1,0 +1,56 @@
+[
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-mongodb",
+    "full_name": "washingtonpost/docker-mongodb",
+    "id": 1097420,
+    "login": "patrickbcullen",
+    "user_name": "Patrick Cullen",
+    "contributions": 119
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-mongodb",
+    "full_name": "washingtonpost/docker-mongodb",
+    "id": 600684,
+    "login": "jasonbartz",
+    "user_name": "Jason Bartz",
+    "contributions": 12
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-mongodb",
+    "full_name": "washingtonpost/docker-mongodb",
+    "id": 8863790,
+    "login": "Daniel-Hoerauf",
+    "user_name": "Daniel Hoerauf",
+    "contributions": 3
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-mongodb",
+    "full_name": "washingtonpost/docker-mongodb",
+    "id": 37079558,
+    "login": "jarchavez",
+    "user_name": "Jared",
+    "contributions": 2
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-mongodb",
+    "full_name": "washingtonpost/docker-mongodb",
+    "id": 9592229,
+    "login": "jhagelin",
+    "user_name": "Jim Hagelin",
+    "contributions": 1
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "docker-mongodb",
+    "full_name": "washingtonpost/docker-mongodb",
+    "id": 2306,
+    "login": "timothykim",
+    "user_name": "Timothy Kim",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 33046,
+    "login": "onyxfish",
+    "user_name": "Christopher Groskopf",
+    "contributions": 649
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 26463,
+    "login": "jpmckinney",
+    "user_name": "James McKinney",
+    "contributions": 361
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 46313,
+    "login": "JoeGermuska",
+    "user_name": "Joe Germuska",
+    "contributions": 110
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 13192,
+    "login": "reidab",
+    "user_name": "Reid Beels",
+    "contributions": 18
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 3905501,
+    "login": "bryant1410",
+    "user_name": "Santiago Castro",
+    "contributions": 13
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 92956,
+    "login": "bsilverthorn",
+    "user_name": "Bryan Silverthorn",
+    "contributions": 11
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 14829262,
+    "login": "marksmayo",
+    "user_name": "Mark Mayo",
+    "contributions": 11
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1368256,
+    "login": "jeroenjanssens",
+    "user_name": "Jeroen Janssens",
+    "contributions": 10
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 536941,
+    "login": "fgregg",
+    "user_name": "Forest Gregg",
+    "contributions": 9
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 272026,
+    "login": "acompa",
+    "user_name": "Alejandro Companioni",
+    "contributions": 9
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 121520,
+    "login": "dannguyen",
+    "user_name": "Dan Nguyen",
+    "contributions": 6
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 20599459,
+    "login": "sgpeter1",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 5544532,
+    "login": "jez",
+    "user_name": "Jake Zimmerman",
+    "contributions": 5
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 675639,
+    "login": "kevinschaul",
+    "user_name": "Kevin Schaul",
+    "contributions": 4
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 135904,
+    "login": "dergachev",
+    "user_name": "Alex Dergachev",
+    "contributions": 4
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 890156,
+    "login": "jankatins",
+    "user_name": "Jan Katins",
+    "contributions": 4
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 51855,
+    "login": "gotoplanb",
+    "user_name": "Dave Stanton",
+    "contributions": 4
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 62621,
+    "login": "thatmattbone",
+    "user_name": "Matt Bone",
+    "contributions": 3
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 3605793,
+    "login": "mpettis",
+    "user_name": "Matt Pettis",
+    "contributions": 3
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 56477,
+    "login": "ryanpitts",
+    "user_name": "Ryan Pitts",
+    "contributions": 3
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 17283394,
+    "login": "alvaro-osvaldo-tm",
+    "user_name": "\u00c1lvaro Osvaldo",
+    "contributions": 3
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 161816,
+    "login": "jest",
+    "user_name": "Przemek Weso\u0142ek",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 165090,
+    "login": "volpino",
+    "user_name": "Federico Scrinzi",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 15692,
+    "login": "ewheeler",
+    "user_name": "Evan Wheeler",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1725615,
+    "login": "vergenzt",
+    "user_name": "Tim Vergenz",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1138892,
+    "login": "srstsavage",
+    "user_name": "Shane St Savage",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 10678620,
+    "login": "groutr",
+    "user_name": "Ryan Grout",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 440002,
+    "login": "nhoffman",
+    "user_name": "Noah Hoffman",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 77857,
+    "login": "mattdudys",
+    "user_name": "Matt Dudys",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 2335284,
+    "login": "martinburch",
+    "user_name": "Martin Burch",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 8570882,
+    "login": "KarrieK",
+    "user_name": "Karrie Kehoe",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 15092,
+    "login": "jayvdb",
+    "user_name": "John Vandenberg",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 55365,
+    "login": "thejefflarson",
+    "user_name": "Jeff Larson",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 909587,
+    "login": "felixbuenemann",
+    "user_name": "Felix B\u00fcnemann",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 68444,
+    "login": "aisipos",
+    "user_name": "Anton Ian Sipos",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 5607572,
+    "login": "Jamim",
+    "user_name": "Aliaksei Urbanski",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 2391118,
+    "login": "drien",
+    "user_name": "Adrien Delessert",
+    "contributions": 2
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 526130,
+    "login": "greenskeleton",
+    "user_name": "Sam Stuck",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 2501066,
+    "login": "richardalow",
+    "user_name": "Richard Low",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 954487,
+    "login": "rslemos",
+    "user_name": "Rodrigo Lemos",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 65950,
+    "login": "olivierlacan",
+    "user_name": "Olivier Lacan",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 75901,
+    "login": "kundor",
+    "user_name": "Nicholas Matteo",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 119472,
+    "login": "nealmcb",
+    "user_name": "Neal McBurnett",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 928566,
+    "login": "migonzalvar",
+    "user_name": "Miguel Gonzalez",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 82501,
+    "login": "michaelmior",
+    "user_name": "Michael Mior",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 198999,
+    "login": "mcepl",
+    "user_name": "Mat\u011bj Cepl",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 4391184,
+    "login": "mattgiguere",
+    "user_name": "Matt Giguere",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 305268,
+    "login": "msabramo",
+    "user_name": "Marc Abramowitz",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1533128,
+    "login": "gelicia",
+    "user_name": "Kristina",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 2249863,
+    "login": "kjedamzik",
+    "user_name": "Kofi",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 279725,
+    "login": "aarcro",
+    "user_name": "Aaron McMillin",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1323293,
+    "login": "smnorris",
+    "user_name": "Simon Norris",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 633395,
+    "login": "skarra",
+    "user_name": "Sriram Karra",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 761444,
+    "login": "timwis",
+    "user_name": "Tim Wisniewski",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 13086088,
+    "login": "hrnciar",
+    "user_name": "Tom\u00e1\u0161 Hrn\u010diar",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 76629,
+    "login": "nvictor",
+    "user_name": "Victor Noagbodji",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 582444,
+    "login": "slhck",
+    "user_name": "Werner Robitza",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 714125,
+    "login": "fitnr",
+    "user_name": "Neil Freeman",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 6779585,
+    "login": "vimagick",
+    "user_name": "K\u0336e\u0336v\u0336i\u0336n\u0336",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 550990,
+    "login": "mikemee",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 75945345,
+    "login": "panolens",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 37459,
+    "login": "ptrbrn",
+    "user_name": "Peter Bruun",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 210680,
+    "login": "vjimw",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 635179,
+    "login": "merwok",
+    "user_name": "\u00c9ric",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 24759802,
+    "login": "imba-tjd",
+    "user_name": "\u8c2d\u4e5d\u9f0e",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 11459840,
+    "login": "andriyor",
+    "user_name": "Andrii Oriekhov",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 920728,
+    "login": "themiurgo",
+    "user_name": "Antonio Lima",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 6345,
+    "login": "bmispelon",
+    "user_name": "Baptiste Mispelon",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 852540,
+    "login": "Bonifacio2",
+    "user_name": "Bonifacio de Oliveira",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 5891981,
+    "login": "bmrankin",
+    "user_name": "Bryan Rankin",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1406537,
+    "login": "cathydeng",
+    "user_name": "Cathy Deng",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 562352,
+    "login": "CharlesNepote",
+    "user_name": "Charles Nepote",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1760683,
+    "login": "crosenth",
+    "user_name": "Chris Rosenthal",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 3709715,
+    "login": "cclauss",
+    "user_name": "Christian Clauss",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 345060,
+    "login": "molecules",
+    "user_name": "Christopher Bottoms",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 52205,
+    "login": "dandavison",
+    "user_name": "Dan Davison",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 3710083,
+    "login": "dannysepler",
+    "user_name": "Danny Sepler",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 29362,
+    "login": "vad",
+    "user_name": "Davide Setti",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 583919,
+    "login": "underrun",
+    "user_name": "J Derek Wilson",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 192702,
+    "login": "diraol",
+    "user_name": "Diego Rabatone Oliveira",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 3818,
+    "login": "EdwardBetts",
+    "user_name": "Edward Betts",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1037088,
+    "login": "esparta",
+    "user_name": "esparta",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 251675,
+    "login": "fedeisas",
+    "user_name": "Fede Isas",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 43419330,
+    "login": "gbwalker",
+    "user_name": "Gabe Walker",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 578872,
+    "login": "mindw",
+    "user_name": "Gabi Davar",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 817669,
+    "login": "barentsen",
+    "user_name": "Geert Barentsen",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1964655,
+    "login": "ghisvail",
+    "user_name": "Ghislain Vaillant",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 44523,
+    "login": "Gui13",
+    "user_name": "Guillaume",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 166486,
+    "login": "haridsv",
+    "user_name": "Hari Krishna Dara",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 697848,
+    "login": "jseppi",
+    "user_name": "James Seppi",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 1269165,
+    "login": "JeffPaine",
+    "user_name": "Jeff Paine",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 17674842,
+    "login": "kit494way",
+    "user_name": "KITAGAWA Yasutaka",
+    "contributions": 1
+  },
+  {
+    "org": "wireservice",
+    "repo_name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "id": 401111,
+    "login": "kfogel",
+    "user_name": "Karl Fogel",
+    "contributions": 1
+  }
+]

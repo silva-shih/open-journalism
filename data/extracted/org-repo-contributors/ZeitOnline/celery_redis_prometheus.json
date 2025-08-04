@@ -1,0 +1,20 @@
+[
+  {
+    "org": "ZeitOnline",
+    "repo_name": "celery_redis_prometheus",
+    "full_name": "ZeitOnline/celery_redis_prometheus",
+    "id": 577891,
+    "login": "wosc",
+    "user_name": "Wolfgang Schnerring",
+    "contributions": 31
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "celery_redis_prometheus",
+    "full_name": "ZeitOnline/celery_redis_prometheus",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "org": "texastribune",
+    "repo_name": "queso-tools",
+    "full_name": "texastribune/queso-tools",
+    "id": 2974713,
+    "login": "ashley-hebler",
+    "user_name": "Ashley Hebler",
+    "contributions": 247
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "queso-tools",
+    "full_name": "texastribune/queso-tools",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 82
+  },
+  {
+    "org": "texastribune",
+    "repo_name": "queso-tools",
+    "full_name": "texastribune/queso-tools",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 19
+  }
+]

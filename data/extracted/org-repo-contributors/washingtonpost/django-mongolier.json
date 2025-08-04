@@ -1,0 +1,29 @@
+[
+  {
+    "org": "washingtonpost",
+    "repo_name": "django-mongolier",
+    "full_name": "washingtonpost/django-mongolier",
+    "id": 600684,
+    "login": "jasonbartz",
+    "user_name": "Jason Bartz",
+    "contributions": 106
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "django-mongolier",
+    "full_name": "washingtonpost/django-mongolier",
+    "id": 444342,
+    "login": "willvanwazer",
+    "user_name": "Will Van Wazer",
+    "contributions": 5
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "django-mongolier",
+    "full_name": "washingtonpost/django-mongolier",
+    "id": 109988,
+    "login": "jeremyjbowers",
+    "user_name": "Jeremy Bowers",
+    "contributions": 3
+  }
+]

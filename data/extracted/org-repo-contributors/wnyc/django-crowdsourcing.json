@@ -1,0 +1,56 @@
+[
+  {
+    "org": "wnyc",
+    "repo_name": "django-crowdsourcing",
+    "full_name": "wnyc/django-crowdsourcing",
+    "id": 224855,
+    "login": "dasmith2",
+    "user_name": "David Smith",
+    "contributions": 47
+  },
+  {
+    "org": "wnyc",
+    "repo_name": "django-crowdsourcing",
+    "full_name": "wnyc/django-crowdsourcing",
+    "id": 52152,
+    "login": "codebykat",
+    "user_name": "Kat Hagan",
+    "contributions": 4
+  },
+  {
+    "org": "wnyc",
+    "repo_name": "django-crowdsourcing",
+    "full_name": "wnyc/django-crowdsourcing",
+    "id": 52117,
+    "login": "schuyler1d",
+    "user_name": "Schuyler Duveen",
+    "contributions": 3
+  },
+  {
+    "org": "wnyc",
+    "repo_name": "django-crowdsourcing",
+    "full_name": "wnyc/django-crowdsourcing",
+    "id": 39731,
+    "login": "smulloni",
+    "user_name": "Jacob Smullyan",
+    "contributions": 1
+  },
+  {
+    "org": "wnyc",
+    "repo_name": "django-crowdsourcing",
+    "full_name": "wnyc/django-crowdsourcing",
+    "id": 1380155,
+    "login": "gmohre",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "wnyc",
+    "repo_name": "django-crowdsourcing",
+    "full_name": "wnyc/django-crowdsourcing",
+    "id": 944553,
+    "login": "karthikbgl",
+    "user_name": "Karthik Ravindra",
+    "contributions": 1
+  }
+]

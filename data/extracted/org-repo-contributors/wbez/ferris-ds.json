@@ -1,0 +1,47 @@
+[
+  {
+    "org": "wbez",
+    "repo_name": "ferris-ds",
+    "full_name": "wbez/ferris-ds",
+    "id": 19356482,
+    "login": "phjudge",
+    "user_name": "Patrick Judge",
+    "contributions": 277
+  },
+  {
+    "org": "wbez",
+    "repo_name": "ferris-ds",
+    "full_name": "wbez/ferris-ds",
+    "id": 2916001,
+    "login": "oliverholmberg",
+    "user_name": "Oliver Holmberg",
+    "contributions": 6
+  },
+  {
+    "org": "wbez",
+    "repo_name": "ferris-ds",
+    "full_name": "wbez/ferris-ds",
+    "id": 65092114,
+    "login": "dillonkelley",
+    "user_name": "Dillon Kelley",
+    "contributions": 5
+  },
+  {
+    "org": "wbez",
+    "repo_name": "ferris-ds",
+    "full_name": "wbez/ferris-ds",
+    "id": 64343378,
+    "login": "foxten",
+    "user_name": "Tenaysia Fox",
+    "contributions": 1
+  },
+  {
+    "org": "wbez",
+    "repo_name": "ferris-ds",
+    "full_name": "wbez/ferris-ds",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

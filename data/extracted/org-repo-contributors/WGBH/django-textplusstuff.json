@@ -1,0 +1,29 @@
+[
+  {
+    "org": "WGBH",
+    "repo_name": "django-textplusstuff",
+    "full_name": "WGBH/django-textplusstuff",
+    "id": 843929,
+    "login": "respondcreate",
+    "user_name": "Jonathan Ellenberger",
+    "contributions": 116
+  },
+  {
+    "org": "WGBH",
+    "repo_name": "django-textplusstuff",
+    "full_name": "WGBH/django-textplusstuff",
+    "id": 476078,
+    "login": "eyemyth",
+    "user_name": "Jay Thompson",
+    "contributions": 42
+  },
+  {
+    "org": "WGBH",
+    "repo_name": "django-textplusstuff",
+    "full_name": "WGBH/django-textplusstuff",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

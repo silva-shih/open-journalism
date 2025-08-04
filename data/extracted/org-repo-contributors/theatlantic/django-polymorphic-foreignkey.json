@@ -1,0 +1,29 @@
+[
+  {
+    "org": "theatlantic",
+    "repo_name": "django-polymorphic-foreignkey",
+    "full_name": "theatlantic/django-polymorphic-foreignkey",
+    "id": 451612,
+    "login": "fdintino",
+    "user_name": "Frankie Dintino",
+    "contributions": 5
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-polymorphic-foreignkey",
+    "full_name": "theatlantic/django-polymorphic-foreignkey",
+    "id": 338892,
+    "login": "defbyte",
+    "user_name": "Chris Davis",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-polymorphic-foreignkey",
+    "full_name": "theatlantic/django-polymorphic-foreignkey",
+    "id": 40864,
+    "login": "dakrauth",
+    "user_name": "David A Krauth",
+    "contributions": 1
+  }
+]

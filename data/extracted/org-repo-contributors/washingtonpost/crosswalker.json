@@ -1,0 +1,47 @@
+[
+  {
+    "org": "washingtonpost",
+    "repo_name": "crosswalker",
+    "full_name": "washingtonpost/crosswalker",
+    "id": 306095,
+    "login": "freedmand",
+    "user_name": "Dylan Freedman",
+    "contributions": 19
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "crosswalker",
+    "full_name": "washingtonpost/crosswalker",
+    "id": 2431045,
+    "login": "erikreyna",
+    "user_name": "Erik Reyna",
+    "contributions": 1
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "crosswalker",
+    "full_name": "washingtonpost/crosswalker",
+    "id": 498744,
+    "login": "mhkeller",
+    "user_name": "Michael Keller",
+    "contributions": 1
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "crosswalker",
+    "full_name": "washingtonpost/crosswalker",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "washingtonpost",
+    "repo_name": "crosswalker",
+    "full_name": "washingtonpost/crosswalker",
+    "id": 32174276,
+    "login": "semantic-release-bot",
+    "user_name": "Semantic Release Bot",
+    "contributions": 1
+  }
+]

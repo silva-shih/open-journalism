@@ -1,0 +1,110 @@
+[
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 229470,
+    "login": "scheying",
+    "user_name": "Stephan Scheying",
+    "contributions": 53
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 85173861,
+    "login": "norman-zon",
+    "user_name": "Norman",
+    "contributions": 40
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 28
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 139547744,
+    "login": "zon-renovate",
+    "user_name": "Renovate Bot",
+    "contributions": 18
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 12
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 577891,
+    "login": "wosc",
+    "user_name": "Wolfgang Schnerring",
+    "contributions": 7
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 44409692,
+    "login": "tjaacks",
+    "user_name": "Tim Jaacks",
+    "contributions": 3
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 79702262,
+    "login": "zon-ops",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 62399,
+    "login": "witsch",
+    "user_name": "Andreas Zeidler",
+    "contributions": 1
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 174440681,
+    "login": "BenediktFloeser",
+    "user_name": "Benedikt Fl\u00f6ser",
+    "contributions": 1
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 81760482,
+    "login": "dabo-ZON",
+    "user_name": "Daniel Boggasch",
+    "contributions": 1
+  },
+  {
+    "org": "ZeitOnline",
+    "repo_name": "gh-action-baseproject",
+    "full_name": "ZeitOnline/gh-action-baseproject",
+    "id": 6375667,
+    "login": "knutgoetz",
+    "user_name": "Knut G\u00f6tz",
+    "contributions": 1
+  }
+]

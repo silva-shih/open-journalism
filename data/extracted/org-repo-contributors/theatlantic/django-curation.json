@@ -1,0 +1,47 @@
+[
+  {
+    "org": "theatlantic",
+    "repo_name": "django-curation",
+    "full_name": "theatlantic/django-curation",
+    "id": 451612,
+    "login": "fdintino",
+    "user_name": "Frankie Dintino",
+    "contributions": 103
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-curation",
+    "full_name": "theatlantic/django-curation",
+    "id": 18324,
+    "login": "joshmaker",
+    "user_name": "Josh West",
+    "contributions": 8
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-curation",
+    "full_name": "theatlantic/django-curation",
+    "id": 377630,
+    "login": "whatisjasongoldstein",
+    "user_name": "Jason Goldstein",
+    "contributions": 4
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-curation",
+    "full_name": "theatlantic/django-curation",
+    "id": 20109,
+    "login": "ctbarna",
+    "user_name": "Chris Barna",
+    "contributions": 2
+  },
+  {
+    "org": "theatlantic",
+    "repo_name": "django-curation",
+    "full_name": "theatlantic/django-curation",
+    "id": 40864,
+    "login": "dakrauth",
+    "user_name": "David A Krauth",
+    "contributions": 2
+  }
+]
