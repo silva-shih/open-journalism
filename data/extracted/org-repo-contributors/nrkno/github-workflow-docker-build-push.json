@@ -1,0 +1,65 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "github-workflow-docker-build-push",
+    "full_name": "nrkno/github-workflow-docker-build-push",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 85
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "github-workflow-docker-build-push",
+    "full_name": "nrkno/github-workflow-docker-build-push",
+    "id": 952936,
+    "login": "stigok",
+    "user_name": "Stig Otnes Kolstad",
+    "contributions": 37
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "github-workflow-docker-build-push",
+    "full_name": "nrkno/github-workflow-docker-build-push",
+    "id": 124674390,
+    "login": "nrkno-bulldozer[bot]",
+    "user_name": null,
+    "contributions": 34
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "github-workflow-docker-build-push",
+    "full_name": "nrkno/github-workflow-docker-build-push",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 13
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "github-workflow-docker-build-push",
+    "full_name": "nrkno/github-workflow-docker-build-push",
+    "id": 37105839,
+    "login": "siljekristensen",
+    "user_name": "Silje Kristensen",
+    "contributions": 8
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "github-workflow-docker-build-push",
+    "full_name": "nrkno/github-workflow-docker-build-push",
+    "id": 3236965,
+    "login": "bateau84",
+    "user_name": "Mats B\u00f8e Bergmann",
+    "contributions": 5
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "github-workflow-docker-build-push",
+    "full_name": "nrkno/github-workflow-docker-build-push",
+    "id": 26965575,
+    "login": "martinsolberg",
+    "user_name": "Martin Bruset Solberg",
+    "contributions": 2
+  }
+]

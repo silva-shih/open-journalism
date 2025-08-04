@@ -1,0 +1,92 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 8607683,
+    "login": "katebee",
+    "user_name": "Kate Whalen",
+    "contributions": 111
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 19190171,
+    "login": "louishather",
+    "user_name": "Louis Hather",
+    "contributions": 68
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 37340283,
+    "login": "stiliyana-simeonova",
+    "user_name": "Stiliyana Simeonova",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 5560113,
+    "login": "itsibitzi",
+    "user_name": "Sam Cutler",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 690395,
+    "login": "JustinPinner",
+    "user_name": "Justin Pinner",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "secure-contact",
+    "full_name": "guardian/secure-contact",
+    "id": 773940,
+    "login": "hoyla",
+    "user_name": "Luke Hoyland",
+    "contributions": 1
+  }
+]

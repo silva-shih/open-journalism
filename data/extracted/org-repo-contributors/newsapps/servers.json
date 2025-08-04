@@ -1,0 +1,29 @@
+[
+  {
+    "org": "newsapps",
+    "repo_name": "servers",
+    "full_name": "newsapps/servers",
+    "id": 114194,
+    "login": "ryanmark",
+    "user_name": "Ryan Mark",
+    "contributions": 32
+  },
+  {
+    "org": "newsapps",
+    "repo_name": "servers",
+    "full_name": "newsapps/servers",
+    "id": 110420,
+    "login": "ghing",
+    "user_name": "Geoffrey Hing",
+    "contributions": 9
+  },
+  {
+    "org": "newsapps",
+    "repo_name": "servers",
+    "full_name": "newsapps/servers",
+    "id": 88008,
+    "login": "anderser",
+    "user_name": "Anders Eriksen",
+    "contributions": 1
+  }
+]

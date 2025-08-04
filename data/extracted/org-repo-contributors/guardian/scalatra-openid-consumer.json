@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "scalatra-openid-consumer",
+    "full_name": "guardian/scalatra-openid-consumer",
+    "id": 36964,
+    "login": "theefer",
+    "user_name": "S\u00e9bastien Cevey",
+    "contributions": 14
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scalatra-openid-consumer",
+    "full_name": "guardian/scalatra-openid-consumer",
+    "id": 145254,
+    "login": "steppenwells",
+    "user_name": "Stephen Wells",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scalatra-openid-consumer",
+    "full_name": "guardian/scalatra-openid-consumer",
+    "id": 30920,
+    "login": "ahume",
+    "user_name": "Andy Hume",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scalatra-openid-consumer",
+    "full_name": "guardian/scalatra-openid-consumer",
+    "id": 55859,
+    "login": "robb1e",
+    "user_name": "Robbie Clutton",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scalatra-openid-consumer",
+    "full_name": "guardian/scalatra-openid-consumer",
+    "id": 21567,
+    "login": "bmjames",
+    "user_name": "Ben James",
+    "contributions": 1
+  }
+]

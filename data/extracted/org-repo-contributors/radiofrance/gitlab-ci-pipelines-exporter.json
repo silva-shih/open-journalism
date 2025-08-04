@@ -1,0 +1,47 @@
+[
+  {
+    "org": "radiofrance",
+    "repo_name": "gitlab-ci-pipelines-exporter",
+    "full_name": "radiofrance/gitlab-ci-pipelines-exporter",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 259
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "gitlab-ci-pipelines-exporter",
+    "full_name": "radiofrance/gitlab-ci-pipelines-exporter",
+    "id": 4977244,
+    "login": "graillus",
+    "user_name": "Robin Graillon",
+    "contributions": 106
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "gitlab-ci-pipelines-exporter",
+    "full_name": "radiofrance/gitlab-ci-pipelines-exporter",
+    "id": 19666897,
+    "login": "xunleii",
+    "user_name": "Alexandre Nicolaie",
+    "contributions": 98
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "gitlab-ci-pipelines-exporter",
+    "full_name": "radiofrance/gitlab-ci-pipelines-exporter",
+    "id": 8091139,
+    "login": "Thibaut-gauvin",
+    "user_name": "Thibaut Gauvin",
+    "contributions": 9
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "gitlab-ci-pipelines-exporter",
+    "full_name": "radiofrance/gitlab-ci-pipelines-exporter",
+    "id": 17236630,
+    "login": "gminh474",
+    "user_name": null,
+    "contributions": 4
+  }
+]

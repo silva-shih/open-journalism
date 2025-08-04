@@ -1,0 +1,164 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 90
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 42
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 181371,
+    "login": "rupertbates",
+    "user_name": "Rupert Bates",
+    "contributions": 36
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 23298731,
+    "login": "graham228221",
+    "user_name": "Graham Hopgood",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 39066365,
+    "login": "AndreaDiotallevi",
+    "user_name": "Andrea Diotallevi",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 408027,
+    "login": "guardian-ci",
+    "user_name": "theguardian.com continuous integration",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 17720442,
+    "login": "tompretty",
+    "user_name": "Tom Pretty",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 8503363,
+    "login": "SarahJessica",
+    "user_name": "Jessica Leivers",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 32044368,
+    "login": "jambo1",
+    "user_name": "Jamie",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 91546670,
+    "login": "jonflynng",
+    "user_name": "Jonathan Flynn",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 25020231,
+    "login": "michaelbjacobson",
+    "user_name": "Michael Jacobson",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 1515970,
+    "login": "paulbrown1982",
+    "user_name": "Paul Brown",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "invoicing-api",
+    "full_name": "guardian/invoicing-api",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

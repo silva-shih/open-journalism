@@ -1,0 +1,47 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "backbone.trackit",
+    "full_name": "nytimes/backbone.trackit",
+    "id": 522900,
+    "login": "delambo",
+    "user_name": "Matthew DeLambo",
+    "contributions": 9
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "backbone.trackit",
+    "full_name": "nytimes/backbone.trackit",
+    "id": 140436,
+    "login": "lalitkapoor",
+    "user_name": "Lalit Kapoor",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "backbone.trackit",
+    "full_name": "nytimes/backbone.trackit",
+    "id": 1851603,
+    "login": "splars",
+    "user_name": "Shawn Larson",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "backbone.trackit",
+    "full_name": "nytimes/backbone.trackit",
+    "id": 234437,
+    "login": "sdemjanenko",
+    "user_name": "Stephen Demjanenko",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "backbone.trackit",
+    "full_name": "nytimes/backbone.trackit",
+    "id": 515293,
+    "login": "groe",
+    "user_name": "Benjamin Groessing",
+    "contributions": 1
+  }
+]

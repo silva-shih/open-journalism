@@ -1,0 +1,65 @@
+[
+  {
+    "org": "radiofrance",
+    "repo_name": "image-registry-metrics-exporter",
+    "full_name": "radiofrance/image-registry-metrics-exporter",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 74
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "image-registry-metrics-exporter",
+    "full_name": "radiofrance/image-registry-metrics-exporter",
+    "id": 4977244,
+    "login": "graillus",
+    "user_name": "Robin Graillon",
+    "contributions": 23
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "image-registry-metrics-exporter",
+    "full_name": "radiofrance/image-registry-metrics-exporter",
+    "id": 42968436,
+    "login": "antoinegelloz",
+    "user_name": "Antoine Gelloz",
+    "contributions": 13
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "image-registry-metrics-exporter",
+    "full_name": "radiofrance/image-registry-metrics-exporter",
+    "id": 8091139,
+    "login": "Thibaut-gauvin",
+    "user_name": "Thibaut Gauvin",
+    "contributions": 13
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "image-registry-metrics-exporter",
+    "full_name": "radiofrance/image-registry-metrics-exporter",
+    "id": 19666897,
+    "login": "xunleii",
+    "user_name": "Alexandre Nicolaie",
+    "contributions": 9
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "image-registry-metrics-exporter",
+    "full_name": "radiofrance/image-registry-metrics-exporter",
+    "id": 30628951,
+    "login": "antony-ramos",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "image-registry-metrics-exporter",
+    "full_name": "radiofrance/image-registry-metrics-exporter",
+    "id": 17236630,
+    "login": "gminh474",
+    "user_name": null,
+    "contributions": 4
+  }
+]

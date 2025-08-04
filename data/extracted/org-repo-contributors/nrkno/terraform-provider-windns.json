@@ -1,0 +1,20 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-windns",
+    "full_name": "nrkno/terraform-provider-windns",
+    "id": 2546167,
+    "login": "sjurtf",
+    "user_name": "Sjur Fredriksen",
+    "contributions": 38
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-windns",
+    "full_name": "nrkno/terraform-provider-windns",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 22
+  }
+]

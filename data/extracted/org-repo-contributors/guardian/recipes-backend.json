@@ -1,0 +1,65 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "recipes-backend",
+    "full_name": "guardian/recipes-backend",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 427
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recipes-backend",
+    "full_name": "guardian/recipes-backend",
+    "id": 17780995,
+    "login": "Divs-B",
+    "user_name": "Divya Bhatt",
+    "contributions": 211
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recipes-backend",
+    "full_name": "guardian/recipes-backend",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 138
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recipes-backend",
+    "full_name": "guardian/recipes-backend",
+    "id": 74301289,
+    "login": "codingWithRach",
+    "user_name": "Rachel Miles",
+    "contributions": 33
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recipes-backend",
+    "full_name": "guardian/recipes-backend",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recipes-backend",
+    "full_name": "guardian/recipes-backend",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recipes-backend",
+    "full_name": "guardian/recipes-backend",
+    "id": 3285072,
+    "login": "michaelclapham",
+    "user_name": "Michael Clapham",
+    "contributions": 1
+  }
+]

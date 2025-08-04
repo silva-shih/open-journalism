@@ -1,0 +1,38 @@
+[
+  {
+    "org": "micnews",
+    "repo_name": "date-parse",
+    "full_name": "micnews/date-parse",
+    "id": 6034700,
+    "login": "iefserge",
+    "user_name": "Serge",
+    "contributions": 7
+  },
+  {
+    "org": "micnews",
+    "repo_name": "date-parse",
+    "full_name": "micnews/date-parse",
+    "id": 640279,
+    "login": "tjmehta",
+    "user_name": "Tejesh Mehta",
+    "contributions": 5
+  },
+  {
+    "org": "micnews",
+    "repo_name": "date-parse",
+    "full_name": "micnews/date-parse",
+    "id": 74128,
+    "login": "kesla",
+    "user_name": "David Bj\u00f6rklund",
+    "contributions": 1
+  },
+  {
+    "org": "micnews",
+    "repo_name": "date-parse",
+    "full_name": "micnews/date-parse",
+    "id": 14790466,
+    "login": "greenkeeperio-bot",
+    "user_name": "Greenkeeper",
+    "contributions": 1
+  }
+]

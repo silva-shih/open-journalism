@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "self-assessment",
+    "full_name": "guardian/self-assessment",
+    "id": 57295823,
+    "login": "marsavar",
+    "user_name": "Mario Savarese",
+    "contributions": 76
+  },
+  {
+    "org": "guardian",
+    "repo_name": "self-assessment",
+    "full_name": "guardian/self-assessment",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "self-assessment",
+    "full_name": "guardian/self-assessment",
+    "id": 40991816,
+    "login": "Fweddi",
+    "user_name": "Freddie Preece",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "self-assessment",
+    "full_name": "guardian/self-assessment",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "self-assessment",
+    "full_name": "guardian/self-assessment",
+    "id": 9574885,
+    "login": "domlander",
+    "user_name": "Dominik Lander",
+    "contributions": 2
+  }
+]

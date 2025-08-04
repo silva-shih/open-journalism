@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "gudocs2",
+    "full_name": "guardian/gudocs2",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 141
+  },
+  {
+    "org": "guardian",
+    "repo_name": "gudocs2",
+    "full_name": "guardian/gudocs2",
+    "id": 89925410,
+    "login": "waisingyiu",
+    "user_name": "Wai Sing Yiu",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "gudocs2",
+    "full_name": "guardian/gudocs2",
+    "id": 40991816,
+    "login": "Fweddi",
+    "user_name": "Freddie Preece",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "gudocs2",
+    "full_name": "guardian/gudocs2",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  }
+]

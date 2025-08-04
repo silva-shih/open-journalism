@@ -1,0 +1,47 @@
+[
+  {
+    "org": "PRX",
+    "repo_name": "prx_auth-rails",
+    "full_name": "PRX/prx_auth-rails",
+    "id": 1410587,
+    "login": "cavis",
+    "user_name": "cavis",
+    "contributions": 81
+  },
+  {
+    "org": "PRX",
+    "repo_name": "prx_auth-rails",
+    "full_name": "PRX/prx_auth-rails",
+    "id": 329012,
+    "login": "svevang",
+    "user_name": "Sam Vevang",
+    "contributions": 55
+  },
+  {
+    "org": "PRX",
+    "repo_name": "prx_auth-rails",
+    "full_name": "PRX/prx_auth-rails",
+    "id": 61664,
+    "login": "cqr",
+    "user_name": "Chris Quamme Rhoden",
+    "contributions": 19
+  },
+  {
+    "org": "PRX",
+    "repo_name": "prx_auth-rails",
+    "full_name": "PRX/prx_auth-rails",
+    "id": 3483,
+    "login": "farski",
+    "user_name": "Chris Kalafarski",
+    "contributions": 8
+  },
+  {
+    "org": "PRX",
+    "repo_name": "prx_auth-rails",
+    "full_name": "PRX/prx_auth-rails",
+    "id": 46439,
+    "login": "kookster",
+    "user_name": "Andrew Kuklewicz",
+    "contributions": 3
+  }
+]

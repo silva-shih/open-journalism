@@ -1,0 +1,83 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 322239,
+    "login": "thiagopnts",
+    "user_name": "Thiago Pontes",
+    "contributions": 93
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 48
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 22755531,
+    "login": "scentless-apprentice",
+    "user_name": "Veronica",
+    "contributions": 37
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 24
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 244265,
+    "login": "flavioribeiro",
+    "user_name": "Flavio Ribeiro",
+    "contributions": 14
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 1733559,
+    "login": "adamthesax",
+    "user_name": "Adam Sax",
+    "contributions": 8
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 818962,
+    "login": "esonderegger",
+    "user_name": "Evan Sonderegger",
+    "contributions": 6
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 1816385,
+    "login": "markx",
+    "user_name": "Ke",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "id": 8524971,
+    "login": "jfwhitehead",
+    "user_name": null,
+    "contributions": 1
+  }
+]

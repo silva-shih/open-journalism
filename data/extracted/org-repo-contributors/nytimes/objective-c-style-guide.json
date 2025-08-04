@@ -1,0 +1,425 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 14093,
+    "login": "mbbischoff",
+    "user_name": "mb",
+    "contributions": 55
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 1043416,
+    "login": "Twigz",
+    "user_name": "Andrew Harrison",
+    "contributions": 34
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 102904,
+    "login": "cdzombak",
+    "user_name": "Chris Dzombak",
+    "contributions": 32
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 5882477,
+    "login": "fernandomatal",
+    "user_name": "Fernando Mata",
+    "contributions": 31
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 25009,
+    "login": "bcapps",
+    "user_name": "Brian Capps",
+    "contributions": 12
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 322135,
+    "login": "ericguirbal",
+    "user_name": "\u00c9ric Guirbal",
+    "contributions": 12
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 37600982,
+    "login": "pburkart",
+    "user_name": "Paul Burkart",
+    "contributions": 8
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 221078,
+    "login": "Veronique",
+    "user_name": "V\u00e9ronique Brossier",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 6098931,
+    "login": "yorkepb",
+    "user_name": "iY\uf8ffrke",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 978400,
+    "login": "paulbruneau",
+    "user_name": "Paul Bruneau",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 428364,
+    "login": "marlonandrade",
+    "user_name": "Marlon Andrade",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 87937,
+    "login": "murdocdv",
+    "user_name": "Dave Murdock",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 188828,
+    "login": "iwill",
+    "user_name": "M\u00edng",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 109652,
+    "login": "jacobvanorder",
+    "user_name": "Jacob Van Order",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 907847,
+    "login": "phelps",
+    "user_name": "Andrew Phelps",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 504184,
+    "login": "ayanonagon",
+    "user_name": "Ayaka Nonaka",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 377298,
+    "login": "loganmoseley",
+    "user_name": "Logan Moseley",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 4429361,
+    "login": "minsOne",
+    "user_name": "Ahn JungMin",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 221802,
+    "login": "raimon49",
+    "user_name": "raimon",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 4084679,
+    "login": "VincentSit",
+    "user_name": "Vincent",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 238331,
+    "login": "brow",
+    "user_name": "Tom Brow",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 37008,
+    "login": "peteog",
+    "user_name": "Pete O'Grady",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 5442055,
+    "login": "pacocardenal",
+    "user_name": "Paco Cardenal",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 53729,
+    "login": "ishida",
+    "user_name": "Katsunobu Ishida",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 202240,
+    "login": "jawwad",
+    "user_name": "Jawwad Ahmad",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 9380368,
+    "login": "XjShi",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 15367484,
+    "login": "ReadmeCritic",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 4723115,
+    "login": "dkhamsing",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 23486477,
+    "login": "dtellenbach",
+    "user_name": "David Tellenbach",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 3055936,
+    "login": "victorteokw",
+    "user_name": "Victor Teo",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 484656,
+    "login": "vsouza",
+    "user_name": "Vinicius Souza",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 217368,
+    "login": "yas375",
+    "user_name": "Victor Ilyukevich",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 74679,
+    "login": "capnslipp",
+    "user_name": "Slipp Douglas Thompson",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 12571895,
+    "login": "ScholliYT",
+    "user_name": "Tom Stein",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 459739,
+    "login": "sassy",
+    "user_name": "Satoshi Watanabe",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 59671,
+    "login": "robrix",
+    "user_name": "Rob Rix",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 495892,
+    "login": "mortonfox",
+    "user_name": "Morton Fox",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 1274145,
+    "login": "MaxGabriel",
+    "user_name": "Maximilian Tagher",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 163534,
+    "login": "lk23lekkladf2",
+    "user_name": "lk23lekkladf2",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 2228380,
+    "login": "jfiore",
+    "user_name": "Joe Fiore",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 1329385,
+    "login": "eerwitt",
+    "user_name": "Erik Erwitt",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 1088217,
+    "login": "3lvis",
+    "user_name": "Elvis Nunez",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 4506500,
+    "login": "thii",
+    "user_name": "Thi Doan",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 161247,
+    "login": "dzlobin",
+    "user_name": "Danny Zlobinsky",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 38447,
+    "login": "dlo",
+    "user_name": "Dan Loewenherz",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 480724,
+    "login": "Amorymeltzer",
+    "user_name": "Amory Meltzer",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "id": 2581078,
+    "login": "ashott",
+    "user_name": "Adam Shott",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "org": "radiofrance",
+    "repo_name": "go-containerregistry",
+    "full_name": "radiofrance/go-containerregistry",
+    "id": 42968436,
+    "login": "antoinegelloz",
+    "user_name": "Antoine Gelloz",
+    "contributions": 13
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "go-containerregistry",
+    "full_name": "radiofrance/go-containerregistry",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 5
+  }
+]

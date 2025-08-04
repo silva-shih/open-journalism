@@ -1,0 +1,29 @@
+[
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-pyfec",
+    "full_name": "newsdev/nyt-pyfec",
+    "id": 901091,
+    "login": "rshorey",
+    "user_name": "Rachel Shorey",
+    "contributions": 99
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-pyfec",
+    "full_name": "newsdev/nyt-pyfec",
+    "id": 109988,
+    "login": "jeremyjbowers",
+    "user_name": "Jeremy Bowers",
+    "contributions": 33
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-pyfec",
+    "full_name": "newsdev/nyt-pyfec",
+    "id": 639012,
+    "login": "jsfenfen",
+    "user_name": "Jacob Fenton",
+    "contributions": 3
+  }
+]

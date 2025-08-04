@@ -1,0 +1,416 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 1386065,
+    "login": "jprobinson",
+    "user_name": "JP Robinson",
+    "contributions": 249
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 53
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 1442631,
+    "login": "darrenmcc",
+    "user_name": "Darren McCleary",
+    "contributions": 24
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 594123,
+    "login": "scottefein",
+    "user_name": "Scott Feinberg",
+    "contributions": 10
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 17011545,
+    "login": "oliver-nyt",
+    "user_name": "Oliver",
+    "contributions": 8
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 16294261,
+    "login": "marwan-at-work",
+    "user_name": "Marwan Sulaiman",
+    "contributions": 7
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 4228796,
+    "login": "bufdev",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 35007,
+    "login": "buddhamagnet",
+    "user_name": "Dave Goodchild",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 4416772,
+    "login": "gaplyk",
+    "user_name": "Oleksii Khliupin",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 2894330,
+    "login": "mk6i",
+    "user_name": "Mike",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 2896568,
+    "login": "wild-endeavor",
+    "user_name": "Yee Hing Tong",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 9948629,
+    "login": "taraspos",
+    "user_name": "Taras",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 429760,
+    "login": "marcotroisi",
+    "user_name": "Marco Troisi",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 13138999,
+    "login": "KonoMaxi",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 707098,
+    "login": "saranrapjs",
+    "user_name": "Jeff Sisson",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 5475084,
+    "login": "avepr",
+    "user_name": "Alexander",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 19543,
+    "login": "adammck",
+    "user_name": "Adam Mckaig",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 13422477,
+    "login": "MixedMessages",
+    "user_name": "Angel Santiago",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 4016602,
+    "login": "NathanBWaters",
+    "user_name": "Nathan Waters",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 13652979,
+    "login": "weilandia",
+    "user_name": "Nick Weiland",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 1241310,
+    "login": "surajbarkale",
+    "user_name": "Suraj Barkale",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 13950,
+    "login": "marzagao",
+    "user_name": "Thompson Marzag\u00e3o",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 29933243,
+    "login": "tiagorlampert",
+    "user_name": "Tiago Rodrigo Lampert",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 3250776,
+    "login": "tonglil",
+    "user_name": "Tony Li",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 22755531,
+    "login": "scentless-apprentice",
+    "user_name": "Veronica",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 169986,
+    "login": "cristiangraz",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 929050,
+    "login": "ctborg",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 23059808,
+    "login": "edgulczynski",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 3268817,
+    "login": "joemadeus",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 8113212,
+    "login": "soluckykuku",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 1905309,
+    "login": "wezzle",
+    "user_name": "Wesley",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 6237113,
+    "login": "Gattermeier",
+    "user_name": "Matthias Gattermeier",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 404458,
+    "login": "mweagle",
+    "user_name": "Matt Weagle",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 184905,
+    "login": "msuterski",
+    "user_name": "Marcin Suterski",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 28523,
+    "login": "alrs",
+    "user_name": "Lars Lehtonen",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 953358,
+    "login": "katrogan",
+    "user_name": "Katrina Rogan",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 292712,
+    "login": "jbochi",
+    "user_name": "Juarez Bochi",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 244704,
+    "login": "tizmagik",
+    "user_name": "Jeremy Gayed",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 12098,
+    "login": "ianfoo",
+    "user_name": "Ian Molee",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 904868,
+    "login": "durple",
+    "user_name": "Deep Kapadia",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 59961222,
+    "login": "pp-davy",
+    "user_name": "Davy Jones",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 5780637,
+    "login": "lopezator",
+    "user_name": "David Lobe",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 597300,
+    "login": "connyay",
+    "user_name": "Connor Hindley",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 11632400,
+    "login": "Fontinalis",
+    "user_name": "Barnab\u00e1s Pataki",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "id": 4144234,
+    "login": "alessandrozucca",
+    "user_name": "Alessandro Zucca",
+    "contributions": 1
+  }
+]

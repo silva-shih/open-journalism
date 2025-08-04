@@ -1,0 +1,92 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 2670496,
+    "login": "AWare",
+    "user_name": "Alex Ware",
+    "contributions": 84
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 34686302,
+    "login": "rhystmills",
+    "user_name": "Rhys Mills",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "node-riffraff-artifact",
+    "full_name": "guardian/node-riffraff-artifact",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 1
+  }
+]

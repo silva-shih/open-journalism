@@ -1,0 +1,56 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "teamcity-s3-plugin",
+    "full_name": "guardian/teamcity-s3-plugin",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "teamcity-s3-plugin",
+    "full_name": "guardian/teamcity-s3-plugin",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "teamcity-s3-plugin",
+    "full_name": "guardian/teamcity-s3-plugin",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "teamcity-s3-plugin",
+    "full_name": "guardian/teamcity-s3-plugin",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "teamcity-s3-plugin",
+    "full_name": "guardian/teamcity-s3-plugin",
+    "id": 117124,
+    "login": "evgeny-goldin",
+    "user_name": "Evgeny Goldin",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "teamcity-s3-plugin",
+    "full_name": "guardian/teamcity-s3-plugin",
+    "id": 906662,
+    "login": "lizottenj",
+    "user_name": "Nick Lizotte",
+    "contributions": 1
+  }
+]

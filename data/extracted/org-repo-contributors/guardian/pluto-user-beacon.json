@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pluto-user-beacon",
+    "full_name": "guardian/pluto-user-beacon",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 24
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-user-beacon",
+    "full_name": "guardian/pluto-user-beacon",
+    "id": 66913730,
+    "login": "richpryce",
+    "user_name": "Richard Pryce",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-user-beacon",
+    "full_name": "guardian/pluto-user-beacon",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-user-beacon",
+    "full_name": "guardian/pluto-user-beacon",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 3
+  }
+]

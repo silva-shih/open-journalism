@@ -1,0 +1,380 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 483
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 376
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 89925410,
+    "login": "waisingyiu",
+    "user_name": "Wai Sing Yiu",
+    "contributions": 338
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 275
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 19835654,
+    "login": "frankie297",
+    "user_name": "Francesca Hammond",
+    "contributions": 219
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 45561419,
+    "login": "DavidLawes",
+    "user_name": "David Lawes",
+    "contributions": 168
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 1202622,
+    "login": "lindseydew",
+    "user_name": "Lindsey Dew",
+    "contributions": 147
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 37694514,
+    "login": "markrichardsg",
+    "user_name": "Mark Richards",
+    "contributions": 103
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 103
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 233326,
+    "login": "TBonnin",
+    "user_name": "Thomas Bonnin",
+    "contributions": 75
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 47318984,
+    "login": "aracho1",
+    "user_name": "Ara Cho",
+    "contributions": 75
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 986155,
+    "login": "NathanielBennett",
+    "user_name": "Nathaniel Bennett",
+    "contributions": 64
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 56
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 102960825,
+    "login": "tkgnm",
+    "user_name": "Thomas King",
+    "contributions": 55
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 47
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 49187886,
+    "login": "dskamiotis",
+    "user_name": "Demetrios Skamiotis",
+    "contributions": 32
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 8526142,
+    "login": "agulowaty",
+    "user_name": null,
+    "contributions": 28
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 55602675,
+    "login": "silvacb",
+    "user_name": "Silvija Blaslov",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 15894063,
+    "login": "marjisound",
+    "user_name": "Marjan Kalanaki",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 11618797,
+    "login": "webb04",
+    "user_name": "Jamie Webb",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 32312712,
+    "login": "vlbee",
+    "user_name": "vanessa",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 2464813,
+    "login": "ScalaWilliam",
+    "user_name": "ScalaWilliam",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 15324270,
+    "login": "pvighi",
+    "user_name": "Patricio Vighi",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 2242307,
+    "login": "paulmr",
+    "user_name": "Paul Roberts",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 91967886,
+    "login": "umguardian",
+    "user_name": "Unmesh Malvankar",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 951849,
+    "login": "maxspencer",
+    "user_name": "Max Spencer",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 1229808,
+    "login": "alinaboghiu",
+    "user_name": "Alina Boghiu",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 32717,
+    "login": "kant",
+    "user_name": "Dar\u00edo Here\u00f1\u00fa",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 2153620,
+    "login": "DiegoVazquezNanini",
+    "user_name": "Diego Vazquez Nanini",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 3072877,
+    "login": "lmath",
+    "user_name": "Leigh-Anne Mathieson",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 773940,
+    "login": "hoyla",
+    "user_name": "Luke Hoyland",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 14816091,
+    "login": "Mark-McCracken",
+    "user_name": "Mark McCracken",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-n10n",
+    "full_name": "guardian/mobile-n10n",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

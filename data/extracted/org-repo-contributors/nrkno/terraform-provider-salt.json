@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-salt",
+    "full_name": "nrkno/terraform-provider-salt",
+    "id": 2546167,
+    "login": "sjurtf",
+    "user_name": "Sjur Fredriksen",
+    "contributions": 16
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-salt",
+    "full_name": "nrkno/terraform-provider-salt",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-salt",
+    "full_name": "nrkno/terraform-provider-salt",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

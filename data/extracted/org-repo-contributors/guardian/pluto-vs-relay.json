@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pluto-vs-relay",
+    "full_name": "guardian/pluto-vs-relay",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 28
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-vs-relay",
+    "full_name": "guardian/pluto-vs-relay",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-vs-relay",
+    "full_name": "guardian/pluto-vs-relay",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 1
+  }
+]

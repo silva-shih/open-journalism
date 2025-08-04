@@ -1,0 +1,56 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pluto-mediabrowser",
+    "full_name": "guardian/pluto-mediabrowser",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 110
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-mediabrowser",
+    "full_name": "guardian/pluto-mediabrowser",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 106
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-mediabrowser",
+    "full_name": "guardian/pluto-mediabrowser",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-mediabrowser",
+    "full_name": "guardian/pluto-mediabrowser",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-mediabrowser",
+    "full_name": "guardian/pluto-mediabrowser",
+    "id": 66913730,
+    "login": "richpryce",
+    "user_name": "Richard Pryce",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-mediabrowser",
+    "full_name": "guardian/pluto-mediabrowser",
+    "id": 34271160,
+    "login": "viktormill",
+    "user_name": null,
+    "contributions": 1
+  }
+]

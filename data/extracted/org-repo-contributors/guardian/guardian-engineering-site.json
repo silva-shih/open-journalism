@@ -1,0 +1,191 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 171
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 9122944,
+    "login": "buck06191",
+    "user_name": "Josh Buckland",
+    "contributions": 86
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 44
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 19835654,
+    "login": "frankie297",
+    "user_name": "Francesca Hammond",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 705427,
+    "login": "georgeblahblah",
+    "user_name": "George B",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 13315440,
+    "login": "coldlink",
+    "user_name": "Mahesh Makani",
+    "contributions": 13
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 11380557,
+    "login": "frederickobrien",
+    "user_name": "Frederick O'Brien",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 7014230,
+    "login": "arelra",
+    "user_name": "Ravi",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 16781258,
+    "login": "lucymonie",
+    "user_name": "Lucy Monie Hall",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 25180681,
+    "login": "renovate-bot",
+    "user_name": "Mend Renovate",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 51630004,
+    "login": "ioanna0",
+    "user_name": "Ioanna Kyprianou",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 20416599,
+    "login": "abeddow91",
+    "user_name": "Anna Beddow",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 57295823,
+    "login": "marsavar",
+    "user_name": "Mario Savarese",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 9574885,
+    "login": "domlander",
+    "user_name": "Dominik Lander",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 406099,
+    "login": "markjamesbutler",
+    "user_name": "Mark Butler",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 34686302,
+    "login": "rhystmills",
+    "user_name": "Rhys Mills",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-engineering-site",
+    "full_name": "guardian/guardian-engineering-site",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 1
+  }
+]

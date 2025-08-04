@@ -1,0 +1,128 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 53380242,
+    "login": "github-scx",
+    "user_name": null,
+    "contributions": 57
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 49285327,
+    "login": "angelo-streetcontxt",
+    "user_name": "Angelo Genovese",
+    "contributions": 39
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 37929162,
+    "login": "mergify[bot]",
+    "user_name": null,
+    "contributions": 36
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 627562,
+    "login": "bpg",
+    "user_name": "Pavel Boldyrev",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 106689150,
+    "login": "trucnguyenjgx",
+    "user_name": "Truc Nguyen",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 1201299,
+    "login": "anikifoss",
+    "user_name": "Aleksey Nikiforov",
+    "contributions": 14
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 315214,
+    "login": "agenovese",
+    "user_name": "Angelo Genovese",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 1043997,
+    "login": "trucnguyenlam",
+    "user_name": "Truc Nguyen Lam",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 53193397,
+    "login": "elise-scx",
+    "user_name": "Elise",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 1094760,
+    "login": "takezoe",
+    "user_name": "Naoki Takezoe",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "kcl-pekko-stream",
+    "full_name": "guardian/kcl-pekko-stream",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 1
+  }
+]

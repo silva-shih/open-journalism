@@ -1,0 +1,92 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 28
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 29203769,
+    "login": "QuarpT",
+    "user_name": "Peter C",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 21217225,
+    "login": "AshCorr",
+    "user_name": "AshCorr",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 33927854,
+    "login": "rebecca-thompson",
+    "user_name": "Rebecca Thompson",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "identity-test-users",
+    "full_name": "guardian/identity-test-users",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

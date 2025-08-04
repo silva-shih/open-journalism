@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-lastpass",
+    "full_name": "nrkno/terraform-provider-lastpass",
+    "id": 1187127,
+    "login": "martensson",
+    "user_name": "Benjamin M\u00e5rtensson",
+    "contributions": 146
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-lastpass",
+    "full_name": "nrkno/terraform-provider-lastpass",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 29
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-provider-lastpass",
+    "full_name": "nrkno/terraform-provider-lastpass",
+    "id": 1004109,
+    "login": "jasoares",
+    "user_name": "Jo\u00e3o Soares",
+    "contributions": 2
+  }
+]

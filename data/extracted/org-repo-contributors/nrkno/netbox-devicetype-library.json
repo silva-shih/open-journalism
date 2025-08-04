@@ -1,0 +1,146 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 6331168,
+    "login": "kennethdammyr",
+    "user_name": "Kenneth Dammyr",
+    "contributions": 46
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 42
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 2546167,
+    "login": "sjurtf",
+    "user_name": "Sjur Fredriksen",
+    "contributions": 37
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 177939031,
+    "login": "MartinMaeland",
+    "user_name": null,
+    "contributions": 11
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 2376630,
+    "login": "heidisu",
+    "user_name": "Heidi Mork",
+    "contributions": 10
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 131877177,
+    "login": "MicGas",
+    "user_name": "Michel Gascoin",
+    "contributions": 10
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 183381866,
+    "login": "LeanEmoChild",
+    "user_name": "Michael Olden",
+    "contributions": 10
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 53510678,
+    "login": "eirikrasdal",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 37105839,
+    "login": "siljekristensen",
+    "user_name": "Silje Kristensen",
+    "contributions": 6
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 15076744,
+    "login": "umglurf",
+    "user_name": "H\u00e5vard Moen",
+    "contributions": 3
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 117267347,
+    "login": "Ivarrrrr",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 14869544,
+    "login": "joakimmohn",
+    "user_name": "Joakim Mohn",
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 103120017,
+    "login": "MadsRennesund",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 91502063,
+    "login": "ShravanBhattu",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "netbox-devicetype-library",
+    "full_name": "nrkno/netbox-devicetype-library",
+    "id": 146559,
+    "login": "laat",
+    "user_name": "Sigurd Fosseng",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "jai_2022_sandbox",
+    "full_name": "guardian/jai_2022_sandbox",
+    "id": 64908337,
+    "login": "michel-ds",
+    "user_name": "Michel",
+    "contributions": 74
+  },
+  {
+    "org": "guardian",
+    "repo_name": "jai_2022_sandbox",
+    "full_name": "guardian/jai_2022_sandbox",
+    "id": 52038807,
+    "login": "Luis-R-Flores",
+    "user_name": "Luis-R-Flores",
+    "contributions": 34
+  },
+  {
+    "org": "guardian",
+    "repo_name": "jai_2022_sandbox",
+    "full_name": "guardian/jai_2022_sandbox",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

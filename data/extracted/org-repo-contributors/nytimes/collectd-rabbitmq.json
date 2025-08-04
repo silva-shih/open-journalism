@@ -1,0 +1,155 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 5437001,
+    "login": "jimbydamonk",
+    "user_name": "Mike Buzzetti",
+    "contributions": 107
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 131319,
+    "login": "redterror",
+    "user_name": "Dave Steinberg",
+    "contributions": 6
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 3670669,
+    "login": "nordewal",
+    "user_name": "nordewal",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 4005134,
+    "login": "caduri",
+    "user_name": "Caduri",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 95780,
+    "login": "abompard",
+    "user_name": "Aur\u00e9lien Bompard",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 220839,
+    "login": "lalinsky",
+    "user_name": "Luk\u00e1\u0161 Lalinsk\u00fd",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 2228380,
+    "login": "jfiore",
+    "user_name": "Joe Fiore",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 763086,
+    "login": "mrunge",
+    "user_name": "Matthias Runge",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 328319,
+    "login": "sathlan",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 6665717,
+    "login": "btall",
+    "user_name": "Babacar T.",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 175809,
+    "login": "mre",
+    "user_name": "Matthias Endler",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 37150283,
+    "login": "monkey670",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 140174,
+    "login": "ryanvm",
+    "user_name": "Ryan VanMiddlesworth",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 28005,
+    "login": "lebauce",
+    "user_name": "Sylvain Baubeau",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 3152522,
+    "login": "ttarczynski",
+    "user_name": "Tomasz Tarczynski",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 1352301,
+    "login": "bufadu",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "id": 1591858,
+    "login": "lenzenmi",
+    "user_name": "Mike Lenzen",
+    "contributions": 1
+  }
+]

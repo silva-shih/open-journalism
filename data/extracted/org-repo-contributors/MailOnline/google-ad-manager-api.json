@@ -1,0 +1,38 @@
+[
+  {
+    "org": "MailOnline",
+    "repo_name": "google-ad-manager-api",
+    "full_name": "MailOnline/google-ad-manager-api",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 310
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "google-ad-manager-api",
+    "full_name": "MailOnline/google-ad-manager-api",
+    "id": 1423566,
+    "login": "johngeorgewright",
+    "user_name": "John Wright",
+    "contributions": 203
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "google-ad-manager-api",
+    "full_name": "MailOnline/google-ad-manager-api",
+    "id": 32174276,
+    "login": "semantic-release-bot",
+    "user_name": "Semantic Release Bot",
+    "contributions": 53
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "google-ad-manager-api",
+    "full_name": "MailOnline/google-ad-manager-api",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

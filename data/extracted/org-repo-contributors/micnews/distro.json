@@ -1,0 +1,29 @@
+[
+  {
+    "org": "micnews",
+    "repo_name": "distro",
+    "full_name": "micnews/distro",
+    "id": 6034700,
+    "login": "iefserge",
+    "user_name": "Serge",
+    "contributions": 8
+  },
+  {
+    "org": "micnews",
+    "repo_name": "distro",
+    "full_name": "micnews/distro",
+    "id": 74128,
+    "login": "kesla",
+    "user_name": "David Bj\u00f6rklund",
+    "contributions": 1
+  },
+  {
+    "org": "micnews",
+    "repo_name": "distro",
+    "full_name": "micnews/distro",
+    "id": 14790466,
+    "login": "greenkeeperio-bot",
+    "user_name": "Greenkeeper",
+    "contributions": 1
+  }
+]

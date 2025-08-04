@@ -1,0 +1,542 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 36296660,
+    "login": "david-pepper",
+    "user_name": "David Pepper",
+    "contributions": 1796
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 1095
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 181371,
+    "login": "rupertbates",
+    "user_name": "Rupert Bates",
+    "contributions": 888
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 39066365,
+    "login": "AndreaDiotallevi",
+    "user_name": "Andrea Diotallevi",
+    "contributions": 824
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 15324270,
+    "login": "pvighi",
+    "user_name": "Patricio Vighi",
+    "contributions": 750
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 289928,
+    "login": "frj",
+    "user_name": "Francis Rhys-Jones",
+    "contributions": 585
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 31655293,
+    "login": "davidpepper223",
+    "user_name": "David Pepper",
+    "contributions": 547
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 455
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 91546670,
+    "login": "jonflynng",
+    "user_name": "Jonathan Flynn",
+    "contributions": 344
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 328
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 316
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 290
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 202127457,
+    "login": "andresilva-guardian",
+    "user_name": null,
+    "contributions": 289
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 252
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 25020231,
+    "login": "michaelbjacobson",
+    "user_name": "Michael Jacobson",
+    "contributions": 130
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 112
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 23298731,
+    "login": "graham228221",
+    "user_name": "Graham Hopgood",
+    "contributions": 111
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 379839,
+    "login": "tjmw",
+    "user_name": "Tom Wey",
+    "contributions": 80
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 67
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 37303488,
+    "login": "01jonathanf",
+    "user_name": "Jonathan Flynn",
+    "contributions": 67
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 63
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 3072877,
+    "login": "lmath",
+    "user_name": "Leigh-Anne Mathieson",
+    "contributions": 46
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 7239344,
+    "login": "michaelwmcnamara",
+    "user_name": "Michael McNamara",
+    "contributions": 43
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 32044368,
+    "login": "jambo1",
+    "user_name": "Jamie",
+    "contributions": 40
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 42539745,
+    "login": "laurenemms",
+    "user_name": "Lauren Emms",
+    "contributions": 40
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 48949546,
+    "login": "ripecosta",
+    "user_name": "Ricardo Costa",
+    "contributions": 39
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 38
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 48053130,
+    "login": "wojtek-tg",
+    "user_name": "Wojtek Malinowski",
+    "contributions": 34
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 1515970,
+    "login": "paulbrown1982",
+    "user_name": "Paul Brown",
+    "contributions": 31
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 46345831,
+    "login": "gnm-notona",
+    "user_name": "Andy Noton",
+    "contributions": 29
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 29203769,
+    "login": "QuarpT",
+    "user_name": "Peter C",
+    "contributions": 29
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 31692,
+    "login": "jamesgorrie",
+    "user_name": "James Gorrie",
+    "contributions": 26
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 175631488,
+    "login": "Joemgru",
+    "user_name": "Joe Griffiths",
+    "contributions": 23
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 5294853,
+    "login": "arausuy",
+    "user_name": "Yusuf Faraji",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 114918544,
+    "login": "andrewHEguardian",
+    "user_name": "Andrew Howe-Ely",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 44685872,
+    "login": "marialani",
+    "user_name": "Maria ",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 986155,
+    "login": "NathanielBennett",
+    "user_name": "Nathaniel Bennett",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 73653255,
+    "login": "LAKSHMIRPILLAI",
+    "user_name": "Lakshmi R Pillai",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 408027,
+    "login": "guardian-ci",
+    "user_name": "theguardian.com continuous integration",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 99180049,
+    "login": "MaelGNM",
+    "user_name": "Ma\u00ebl Zoungrana",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 118187364,
+    "login": "pawel-krupinski-guardian",
+    "user_name": "Pawe\u0142 Krupi\u0144ski",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 90685618,
+    "login": "ecguardian",
+    "user_name": "Elliott Cooper",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 2510683,
+    "login": "rBangay",
+    "user_name": "Richard Bangay",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 19362408,
+    "login": "twinlensreflex",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 4980117,
+    "login": "andrade0",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 1590704,
+    "login": "GHaberis",
+    "user_name": "George Haberis",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 36624261,
+    "login": "jbguardian",
+    "user_name": "Jesus Barbero",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 122288493,
+    "login": "JoeMitchellGuardian",
+    "user_name": "Joe Mitchell",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 8503363,
+    "login": "SarahJessica",
+    "user_name": "Jessica Leivers",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 106528085,
+    "login": "akinsola-guardian",
+    "user_name": "Akinsola Lawanson",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 115992455,
+    "login": "charleycampbell",
+    "user_name": "Charley Campbell",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 51158221,
+    "login": "kostas-kougios-guardian",
+    "user_name": "Kostas Kougios",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 23704769,
+    "login": "codacy-badger",
+    "user_name": "Codacy Badger",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 17720442,
+    "login": "tompretty",
+    "user_name": "Tom Pretty",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "support-service-lambdas",
+    "full_name": "guardian/support-service-lambdas",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

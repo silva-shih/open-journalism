@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "storybooks",
+    "full_name": "guardian/storybooks",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "storybooks",
+    "full_name": "guardian/storybooks",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "storybooks",
+    "full_name": "guardian/storybooks",
+    "id": 13315440,
+    "login": "coldlink",
+    "user_name": "Mahesh Makani",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "storybooks",
+    "full_name": "guardian/storybooks",
+    "id": 114918544,
+    "login": "andrewHEguardian",
+    "user_name": "Andrew Howe-Ely",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "storybooks",
+    "full_name": "guardian/storybooks",
+    "id": 40648315,
+    "login": "oliverabrahams",
+    "user_name": "Oliver Abrahams",
+    "contributions": 2
+  }
+]

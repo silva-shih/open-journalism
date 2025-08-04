@@ -1,0 +1,47 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "mock-ec2-metadata",
+    "full_name": "nytimes/mock-ec2-metadata",
+    "id": 5437001,
+    "login": "jimbydamonk",
+    "user_name": "Mike Buzzetti",
+    "contributions": 42
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "mock-ec2-metadata",
+    "full_name": "nytimes/mock-ec2-metadata",
+    "id": 3441609,
+    "login": "andrasmaroy",
+    "user_name": "Andr\u00e1s Mar\u00f3y",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "mock-ec2-metadata",
+    "full_name": "nytimes/mock-ec2-metadata",
+    "id": 540525,
+    "login": "flosell",
+    "user_name": "Florian Sellmayr",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "mock-ec2-metadata",
+    "full_name": "nytimes/mock-ec2-metadata",
+    "id": 1386065,
+    "login": "jprobinson",
+    "user_name": "JP Robinson",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "mock-ec2-metadata",
+    "full_name": "nytimes/mock-ec2-metadata",
+    "id": 594123,
+    "login": "scottefein",
+    "user_name": "Scott Feinberg",
+    "contributions": 1
+  }
+]

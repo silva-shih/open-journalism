@@ -1,0 +1,29 @@
+[
+  {
+    "org": "newsapps",
+    "repo_name": "python-chicago",
+    "full_name": "newsapps/python-chicago",
+    "id": 470427,
+    "login": "aepton",
+    "user_name": "Abraham Epton",
+    "contributions": 12
+  },
+  {
+    "org": "newsapps",
+    "repo_name": "python-chicago",
+    "full_name": "newsapps/python-chicago",
+    "id": 110420,
+    "login": "ghing",
+    "user_name": "Geoffrey Hing",
+    "contributions": 7
+  },
+  {
+    "org": "newsapps",
+    "repo_name": "python-chicago",
+    "full_name": "newsapps/python-chicago",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

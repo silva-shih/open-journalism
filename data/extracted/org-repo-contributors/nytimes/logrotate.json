@@ -1,0 +1,38 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "logrotate",
+    "full_name": "nytimes/logrotate",
+    "id": 1386065,
+    "login": "jprobinson",
+    "user_name": "JP Robinson",
+    "contributions": 6
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "logrotate",
+    "full_name": "nytimes/logrotate",
+    "id": 929050,
+    "login": "ctborg",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "logrotate",
+    "full_name": "nytimes/logrotate",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "logrotate",
+    "full_name": "nytimes/logrotate",
+    "id": 594123,
+    "login": "scottefein",
+    "user_name": "Scott Feinberg",
+    "contributions": 1
+  }
+]

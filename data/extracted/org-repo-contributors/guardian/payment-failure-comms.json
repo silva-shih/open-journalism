@@ -1,0 +1,119 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 42
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 40
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 48949546,
+    "login": "ripecosta",
+    "user_name": "Ricardo Costa",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 91546670,
+    "login": "jonflynng",
+    "user_name": "Jonathan Flynn",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 23298731,
+    "login": "graham228221",
+    "user_name": "Graham Hopgood",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 408027,
+    "login": "guardian-ci",
+    "user_name": "theguardian.com continuous integration",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 99180049,
+    "login": "MaelGNM",
+    "user_name": "Ma\u00ebl Zoungrana",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 379839,
+    "login": "tjmw",
+    "user_name": "Tom Wey",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "payment-failure-comms",
+    "full_name": "guardian/payment-failure-comms",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

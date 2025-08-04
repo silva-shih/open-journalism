@@ -1,0 +1,56 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "nginx-vod-module-docker",
+    "full_name": "nytimes/nginx-vod-module-docker",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "nginx-vod-module-docker",
+    "full_name": "nytimes/nginx-vod-module-docker",
+    "id": 818962,
+    "login": "esonderegger",
+    "user_name": "Evan Sonderegger",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "nginx-vod-module-docker",
+    "full_name": "nytimes/nginx-vod-module-docker",
+    "id": 244265,
+    "login": "flavioribeiro",
+    "user_name": "Flavio Ribeiro",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "nginx-vod-module-docker",
+    "full_name": "nytimes/nginx-vod-module-docker",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "nginx-vod-module-docker",
+    "full_name": "nytimes/nginx-vod-module-docker",
+    "id": 22755531,
+    "login": "scentless-apprentice",
+    "user_name": "Veronica",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "nginx-vod-module-docker",
+    "full_name": "nytimes/nginx-vod-module-docker",
+    "id": 33431589,
+    "login": "s47221288",
+    "user_name": null,
+    "contributions": 1
+  }
+]

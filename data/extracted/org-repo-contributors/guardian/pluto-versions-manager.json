@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pluto-versions-manager",
+    "full_name": "guardian/pluto-versions-manager",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 62
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-versions-manager",
+    "full_name": "guardian/pluto-versions-manager",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 28
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-versions-manager",
+    "full_name": "guardian/pluto-versions-manager",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-versions-manager",
+    "full_name": "guardian/pluto-versions-manager",
+    "id": 66913730,
+    "login": "richpryce",
+    "user_name": "Richard Pryce",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-versions-manager",
+    "full_name": "guardian/pluto-versions-manager",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 1
+  }
+]

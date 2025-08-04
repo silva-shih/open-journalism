@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "example-typescript-lambda",
+    "full_name": "guardian/example-typescript-lambda",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 150
+  },
+  {
+    "org": "guardian",
+    "repo_name": "example-typescript-lambda",
+    "full_name": "guardian/example-typescript-lambda",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 150
+  },
+  {
+    "org": "guardian",
+    "repo_name": "example-typescript-lambda",
+    "full_name": "guardian/example-typescript-lambda",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 49
+  },
+  {
+    "org": "guardian",
+    "repo_name": "example-typescript-lambda",
+    "full_name": "guardian/example-typescript-lambda",
+    "id": 114918544,
+    "login": "andrewHEguardian",
+    "user_name": "Andrew Howe-Ely",
+    "contributions": 2
+  }
+]

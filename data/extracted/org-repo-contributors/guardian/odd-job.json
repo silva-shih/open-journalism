@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "odd-job",
+    "full_name": "guardian/odd-job",
+    "id": 4816896,
+    "login": "guandroidbuild",
+    "user_name": "Android Build Server",
+    "contributions": 62
+  },
+  {
+    "org": "guardian",
+    "repo_name": "odd-job",
+    "full_name": "guardian/odd-job",
+    "id": 2470816,
+    "login": "jharewinton",
+    "user_name": "Jon Hare-Winton",
+    "contributions": 36
+  },
+  {
+    "org": "guardian",
+    "repo_name": "odd-job",
+    "full_name": "guardian/odd-job",
+    "id": 181371,
+    "login": "rupertbates",
+    "user_name": "Rupert Bates",
+    "contributions": 5
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "grid-client",
+    "full_name": "guardian/grid-client",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 43
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-client",
+    "full_name": "guardian/grid-client",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-client",
+    "full_name": "guardian/grid-client",
+    "id": 32174276,
+    "login": "semantic-release-bot",
+    "user_name": "Semantic Release Bot",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-client",
+    "full_name": "guardian/grid-client",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-client",
+    "full_name": "guardian/grid-client",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  }
+]

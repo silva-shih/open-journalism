@@ -1,0 +1,29 @@
+[
+  {
+    "org": "radiofrance",
+    "repo_name": "svelte-leaflet",
+    "full_name": "radiofrance/svelte-leaflet",
+    "id": 4068963,
+    "login": "romaindurand",
+    "user_name": "Romain Durand",
+    "contributions": 62
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "svelte-leaflet",
+    "full_name": "radiofrance/svelte-leaflet",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "svelte-leaflet",
+    "full_name": "radiofrance/svelte-leaflet",
+    "id": 9358572,
+    "login": "vvnsrzn",
+    "user_name": "Vivian Sarazin",
+    "contributions": 1
+  }
+]

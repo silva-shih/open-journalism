@@ -1,0 +1,65 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pluggable-content-rules",
+    "full_name": "guardian/pluggable-content-rules",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 66
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluggable-content-rules",
+    "full_name": "guardian/pluggable-content-rules",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 13
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluggable-content-rules",
+    "full_name": "guardian/pluggable-content-rules",
+    "id": 89925410,
+    "login": "waisingyiu",
+    "user_name": "Wai Sing Yiu",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluggable-content-rules",
+    "full_name": "guardian/pluggable-content-rules",
+    "id": 9575458,
+    "login": "OllysCoding",
+    "user_name": "Olly",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluggable-content-rules",
+    "full_name": "guardian/pluggable-content-rules",
+    "id": 23424805,
+    "login": "deedeeh",
+    "user_name": "Dina Hafez",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluggable-content-rules",
+    "full_name": "guardian/pluggable-content-rules",
+    "id": 30567854,
+    "login": "dblatcher",
+    "user_name": "David Blatcher",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluggable-content-rules",
+    "full_name": "guardian/pluggable-content-rules",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

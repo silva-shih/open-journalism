@@ -1,0 +1,731 @@
+[
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 6446,
+    "login": "vboctor",
+    "user_name": "Victor Boctor",
+    "contributions": 1973
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 449891,
+    "login": "dregad",
+    "user_name": "Damien Regad",
+    "contributions": 1692
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 16276382,
+    "login": "mantis",
+    "user_name": "Mantis Development",
+    "contributions": 1102
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 920057,
+    "login": "thraxisp",
+    "user_name": null,
+    "contributions": 558
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 319019,
+    "login": "davidhicks",
+    "user_name": "David Hicks",
+    "contributions": 507
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 6444,
+    "login": "amyreese",
+    "user_name": "Amethyst Reese",
+    "contributions": 493
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 14123811,
+    "login": "cproensa",
+    "user_name": "Carlos",
+    "contributions": 307
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1354889,
+    "login": "syncguru",
+    "user_name": "Rafik Robeal",
+    "contributions": 294
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 210297,
+    "login": "siebrand",
+    "user_name": "Siebrand Mazeland",
+    "contributions": 252
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 319317,
+    "login": "atrol",
+    "user_name": "Roland Becker",
+    "contributions": 218
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 21237,
+    "login": "rombert",
+    "user_name": "Robert Munteanu",
+    "contributions": 211
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 6527,
+    "login": "giallu",
+    "user_name": "Gianluca Sforna",
+    "contributions": 172
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 92977,
+    "login": "infojunkie",
+    "user_name": "Karim Ratib",
+    "contributions": 55
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 24829418,
+    "login": "translatewiki",
+    "user_name": "translatewiki.net",
+    "contributions": 32
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 72159,
+    "login": "kornelski",
+    "user_name": "Kornel",
+    "contributions": 25
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 955545,
+    "login": "jllano",
+    "user_name": "Joel C. Llano",
+    "contributions": 24
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1597304,
+    "login": "badfiles",
+    "user_name": null,
+    "contributions": 18
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 302940,
+    "login": "Kirill",
+    "user_name": "Kirill Krasnov",
+    "contributions": 17
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 54641,
+    "login": "rlerdorf",
+    "user_name": "Rasmus Lerdorf",
+    "contributions": 10
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 413867,
+    "login": "huslage",
+    "user_name": "Aaron Huslage",
+    "contributions": 8
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1196803,
+    "login": "VeMag",
+    "user_name": "V\u00e9ronique Maginot",
+    "contributions": 5
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 231804,
+    "login": "danez",
+    "user_name": "Daniel Tschinder",
+    "contributions": 4
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 152802,
+    "login": "stpe",
+    "user_name": "Stefan Pettersson",
+    "contributions": 4
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1068863,
+    "login": "vincentsels",
+    "user_name": "Vincent Sels",
+    "contributions": 4
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 145110,
+    "login": "libregeek",
+    "user_name": "Manilal",
+    "contributions": 4
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 220479,
+    "login": "dominik",
+    "user_name": "Dominik Blunk",
+    "contributions": 3
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 359577,
+    "login": "thg2k",
+    "user_name": "Giovanni Giacobbi",
+    "contributions": 3
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3925177,
+    "login": "obmsch",
+    "user_name": "Martin Schleu\u00dfer",
+    "contributions": 3
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 17144029,
+    "login": "val-kulkov",
+    "user_name": "Val Kulkov",
+    "contributions": 3
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 10668413,
+    "login": "mfoXen",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1909153,
+    "login": "jeckyhl",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 8885753,
+    "login": "mattmccutchen",
+    "user_name": "Matt McCutchen",
+    "contributions": 2
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 68473,
+    "login": "mgrdcm",
+    "user_name": "Dan Moore",
+    "contributions": 2
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 293273,
+    "login": "gtz-et",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 2056077,
+    "login": "evilchewits",
+    "user_name": "Alexander Ishmuradov",
+    "contributions": 2
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 5250426,
+    "login": "maringer",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3015722,
+    "login": "MatthieuR",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 200336,
+    "login": "01-Scripts",
+    "user_name": "Michael",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1027819,
+    "login": "pantsmanuk",
+    "user_name": "Murray Crane",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 129536,
+    "login": "dolmen",
+    "user_name": "Olivier Mengu\u00e9",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3691490,
+    "login": "PeterDaveHello",
+    "user_name": "Peter Dave Hello",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3637661,
+    "login": "calimero100582",
+    "user_name": "Pier-Luc Duchaine",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1199765,
+    "login": "Dentxinho",
+    "user_name": "Raul Baldner Junior",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 118361,
+    "login": "rnelson",
+    "user_name": "Ross Nelson",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1651808,
+    "login": "elwlwlwk",
+    "user_name": "Rafe Lee",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 912973,
+    "login": "SL-Gundam",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 19717246,
+    "login": "Sergiomdf",
+    "user_name": "Sergio Del Franco",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 256074,
+    "login": "tgulacsi",
+    "user_name": "Tam\u00e1s Gul\u00e1csi",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 8518239,
+    "login": "gitter-badger",
+    "user_name": "The Gitter Badger",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 5957892,
+    "login": "cheesecracker",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 2155352,
+    "login": "cybd",
+    "user_name": "Sergei Matros",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 6771947,
+    "login": "epenet",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1127966,
+    "login": "gcompagnon",
+    "user_name": "Guillaume COMPAGNON // perso",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 6172455,
+    "login": "naveenbali",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3183314,
+    "login": "hrchu",
+    "user_name": "petertc",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1579235,
+    "login": "spidgorny",
+    "user_name": "Slawa Pidgorny",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3795009,
+    "login": "wapznw",
+    "user_name": "April E Mullins",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 6408536,
+    "login": "watergad",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 2847525,
+    "login": "andreasstieger",
+    "user_name": "Andreas Stieger",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 421049,
+    "login": "brenard",
+    "user_name": "Benjamin Renard",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1885279,
+    "login": "bstidham",
+    "user_name": "Bill Stidham",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1016780,
+    "login": "thinkl33t",
+    "user_name": "Bob Clough",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1262099,
+    "login": "bwrightson",
+    "user_name": "Brian Wrightson",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1992255,
+    "login": "2color",
+    "user_name": "Daniel Norman",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 2113969,
+    "login": "djuntgen",
+    "user_name": "Dave Juntgen",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 970678,
+    "login": "DKuranov",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 101123,
+    "login": "urkle",
+    "user_name": "Edward Rudd",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 77500,
+    "login": "nextgens",
+    "user_name": "Florent Daigniere",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3853589,
+    "login": "langerheiko",
+    "user_name": "Heiko Schneider-Lange",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 7802924,
+    "login": "henningeiben",
+    "user_name": "Henning Eiben",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1156664,
+    "login": "quayzar",
+    "user_name": "Ian MacKenzie",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 2729285,
+    "login": "jchoover",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 7398948,
+    "login": "JeremyVriens",
+    "user_name": "Jeremy Vriens",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 56049,
+    "login": "lemonad",
+    "user_name": "Jonas Nockert",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 2500972,
+    "login": "7h3ju57",
+    "user_name": "Justin",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3647678,
+    "login": "wiggisser",
+    "user_name": "silentbob",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 858215,
+    "login": "winston01",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 16453832,
+    "login": "LeoZandvliet",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 6927280,
+    "login": "MS-Astra",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 3484222,
+    "login": "marcodings",
+    "user_name": "Marco Dings",
+    "contributions": 1
+  },
+  {
+    "org": "meedan",
+    "repo_name": "MantisBT",
+    "full_name": "meedan/MantisBT",
+    "id": 1135237,
+    "login": "OSguard",
+    "user_name": "Markus Schneider",
+    "contributions": 1
+  }
+]

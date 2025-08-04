@@ -1,0 +1,65 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "simple-ts-test",
+    "full_name": "guardian/simple-ts-test",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 84
+  },
+  {
+    "org": "guardian",
+    "repo_name": "simple-ts-test",
+    "full_name": "guardian/simple-ts-test",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 56
+  },
+  {
+    "org": "guardian",
+    "repo_name": "simple-ts-test",
+    "full_name": "guardian/simple-ts-test",
+    "id": 408027,
+    "login": "guardian-ci",
+    "user_name": "theguardian.com continuous integration",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "simple-ts-test",
+    "full_name": "guardian/simple-ts-test",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "simple-ts-test",
+    "full_name": "guardian/simple-ts-test",
+    "id": 32174276,
+    "login": "semantic-release-bot",
+    "user_name": "Semantic Release Bot",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "simple-ts-test",
+    "full_name": "guardian/simple-ts-test",
+    "id": 30179286,
+    "login": "jamie-lynch",
+    "user_name": "Jamie Lynch",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "simple-ts-test",
+    "full_name": "guardian/simple-ts-test",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 1
+  }
+]

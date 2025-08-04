@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "gitbooster-test",
+    "full_name": "guardian/gitbooster-test",
+    "id": 9820960,
+    "login": "amyhughes",
+    "user_name": "Amy Hughes",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "gitbooster-test",
+    "full_name": "guardian/gitbooster-test",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "gitbooster-test",
+    "full_name": "guardian/gitbooster-test",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "gitbooster-test",
+    "full_name": "guardian/gitbooster-test",
+    "id": 11612847,
+    "login": "TormodMacLean",
+    "user_name": "Tormod MacLean",
+    "contributions": 1
+  }
+]

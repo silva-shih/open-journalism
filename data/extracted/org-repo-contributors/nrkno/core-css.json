@@ -1,0 +1,83 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 39
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 691801,
+    "login": "eirikbacker",
+    "user_name": "Eirik Backer",
+    "contributions": 35
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 1709263,
+    "login": "htor",
+    "user_name": "Herman Torjussen",
+    "contributions": 14
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 2345608,
+    "login": "skjalgepalg",
+    "user_name": "Skjalg",
+    "contributions": 6
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 124469,
+    "login": "Saegrov",
+    "user_name": "Simen S\u00e6grov",
+    "contributions": 4
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 406933,
+    "login": "mariuslundgard",
+    "user_name": "Marius Lundg\u00e5rd",
+    "contributions": 3
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 1135523,
+    "login": "bratberg",
+    "user_name": "Espen Bratberg",
+    "contributions": 2
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 14921203,
+    "login": "mia-aasbakken",
+    "user_name": "Mia Aasbakken",
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "core-css",
+    "full_name": "nrkno/core-css",
+    "id": 1506750,
+    "login": "wwalmnes",
+    "user_name": "William Almnes",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 164991,
+    "login": "niklasvincent",
+    "user_name": "Niklas Vincent",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 5560113,
+    "login": "itsibitzi",
+    "user_name": "Sam Cutler",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 2373681,
+    "login": "emma-p",
+    "user_name": "Emmanuelle Franquelin",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hmac-headers",
+    "full_name": "guardian/hmac-headers",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

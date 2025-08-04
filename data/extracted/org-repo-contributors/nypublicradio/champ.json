@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nypublicradio",
+    "repo_name": "champ",
+    "full_name": "nypublicradio/champ",
+    "id": 73845930,
+    "login": "jgitlin-nypr",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "nypublicradio",
+    "repo_name": "champ",
+    "full_name": "nypublicradio/champ",
+    "id": 35702841,
+    "login": "ncastro-nypr",
+    "user_name": "Nico Castro",
+    "contributions": 2
+  },
+  {
+    "org": "nypublicradio",
+    "repo_name": "champ",
+    "full_name": "nypublicradio/champ",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

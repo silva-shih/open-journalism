@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pluto-start",
+    "full_name": "guardian/pluto-start",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 89
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-start",
+    "full_name": "guardian/pluto-start",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 85
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-start",
+    "full_name": "guardian/pluto-start",
+    "id": 34271160,
+    "login": "viktormill",
+    "user_name": null,
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-start",
+    "full_name": "guardian/pluto-start",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pluto-start",
+    "full_name": "guardian/pluto-start",
+    "id": 66913730,
+    "login": "richpryce",
+    "user_name": "Richard Pryce",
+    "contributions": 6
+  }
+]

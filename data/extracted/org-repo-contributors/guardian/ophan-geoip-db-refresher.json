@@ -1,0 +1,110 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 64
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 23424805,
+    "login": "deedeeh",
+    "user_name": "Dina Hafez",
+    "contributions": 23
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 23
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 23
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 4633246,
+    "login": "SHession",
+    "user_name": "Sam Hession",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 26366706,
+    "login": "sophie-macmillan",
+    "user_name": "Sophie",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 11380557,
+    "login": "frederickobrien",
+    "user_name": "Frederick O'Brien",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 23078809,
+    "login": "simone-smith",
+    "user_name": "Simone Smith",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 91546670,
+    "login": "jonflynng",
+    "user_name": "Jonathan Flynn",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "ophan-geoip-db-refresher",
+    "full_name": "guardian/ophan-geoip-db-refresher",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

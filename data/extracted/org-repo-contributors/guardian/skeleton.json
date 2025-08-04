@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "skeleton",
+    "full_name": "guardian/skeleton",
+    "id": 1147913,
+    "login": "stephanfowler",
+    "user_name": "Stephan Fowler",
+    "contributions": 80
+  },
+  {
+    "org": "guardian",
+    "repo_name": "skeleton",
+    "full_name": "guardian/skeleton",
+    "id": 445472,
+    "login": "janua",
+    "user_name": "Francis",
+    "contributions": 72
+  },
+  {
+    "org": "guardian",
+    "repo_name": "skeleton",
+    "full_name": "guardian/skeleton",
+    "id": 80089,
+    "login": "phamann",
+    "user_name": "Patrick Hamann",
+    "contributions": 2
+  }
+]

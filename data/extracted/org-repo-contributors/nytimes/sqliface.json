@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "sqliface",
+    "full_name": "nytimes/sqliface",
+    "id": 1386065,
+    "login": "jprobinson",
+    "user_name": "JP Robinson",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "sqliface",
+    "full_name": "nytimes/sqliface",
+    "id": 1442631,
+    "login": "darrenmcc",
+    "user_name": "Darren McCleary",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "sqliface",
+    "full_name": "nytimes/sqliface",
+    "id": 929050,
+    "login": "ctborg",
+    "user_name": null,
+    "contributions": 1
+  }
+]

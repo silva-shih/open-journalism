@@ -1,0 +1,65 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 20
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "id": 3250776,
+    "login": "tonglil",
+    "user_name": "Tony Li",
+    "contributions": 11
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "id": 818962,
+    "login": "esonderegger",
+    "user_name": "Evan Sonderegger",
+    "contributions": 7
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "id": 22755531,
+    "login": "scentless-apprentice",
+    "user_name": "Veronica",
+    "contributions": 7
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "id": 244265,
+    "login": "flavioribeiro",
+    "user_name": "Flavio Ribeiro",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "id": 5943009,
+    "login": "saidketchman",
+    "user_name": "Said Ketchman",
+    "contributions": 1
+  }
+]

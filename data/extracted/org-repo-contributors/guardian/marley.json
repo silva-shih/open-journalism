@@ -1,0 +1,146 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 72
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 4633246,
+    "login": "SHession",
+    "user_name": "Sam Hession",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 23424805,
+    "login": "deedeeh",
+    "user_name": "Dina Hafez",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 91546670,
+    "login": "jonflynng",
+    "user_name": "Jonathan Flynn",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 26366706,
+    "login": "sophie-macmillan",
+    "user_name": "Sophie",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 51444,
+    "login": "tackley",
+    "user_name": "Graham Tackley",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "marley",
+    "full_name": "guardian/marley",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

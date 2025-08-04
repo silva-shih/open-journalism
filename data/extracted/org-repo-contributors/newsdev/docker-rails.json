@@ -1,0 +1,65 @@
+[
+  {
+    "org": "newsdev",
+    "repo_name": "docker-rails",
+    "full_name": "newsdev/docker-rails",
+    "id": 1918465,
+    "login": "buth",
+    "user_name": "Eric Buth",
+    "contributions": 28
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "docker-rails",
+    "full_name": "newsdev/docker-rails",
+    "id": 677570,
+    "login": "abstrctn",
+    "user_name": "Michael Strickland",
+    "contributions": 13
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "docker-rails",
+    "full_name": "newsdev/docker-rails",
+    "id": 35356,
+    "login": "bkoski",
+    "user_name": "Ben Koski",
+    "contributions": 6
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "docker-rails",
+    "full_name": "newsdev/docker-rails",
+    "id": 3444289,
+    "login": "aaronkrolik",
+    "user_name": "Aaron Krolik",
+    "contributions": 4
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "docker-rails",
+    "full_name": "newsdev/docker-rails",
+    "id": 382862,
+    "login": "albertsun",
+    "user_name": "Albert Sun",
+    "contributions": 2
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "docker-rails",
+    "full_name": "newsdev/docker-rails",
+    "id": 1957344,
+    "login": "bsmithgall",
+    "user_name": "Ben Smithgall",
+    "contributions": 1
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "docker-rails",
+    "full_name": "newsdev/docker-rails",
+    "id": 10605170,
+    "login": "mtandre",
+    "user_name": "Michael Andre",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "org": "sueddeutsche",
+    "repo_name": "editron",
+    "full_name": "sueddeutsche/editron",
+    "id": 116006602,
+    "login": "EileenVerena",
+    "user_name": "Eileen Verena Schlott",
+    "contributions": 23
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "editron",
+    "full_name": "sueddeutsche/editron",
+    "id": 1635212,
+    "login": "felixebert",
+    "user_name": "Felix Ebert",
+    "contributions": 20
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "editron",
+    "full_name": "sueddeutsche/editron",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 10
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "editron",
+    "full_name": "sueddeutsche/editron",
+    "id": 1394732,
+    "login": "benurb",
+    "user_name": "Benjamin Urban",
+    "contributions": 5
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 19543,
+    "login": "adammck",
+    "user_name": "Adam Mckaig",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 1386065,
+    "login": "jprobinson",
+    "user_name": "JP Robinson",
+    "contributions": 10
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 195661,
+    "login": "juliens",
+    "user_name": "Julien Salleyron",
+    "contributions": 6
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 3159064,
+    "login": "Thomasdezeeuw",
+    "user_name": "Thomas de Zeeuw",
+    "contributions": 6
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 16614,
+    "login": "dim",
+    "user_name": "Dimitrij Denissenko",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 112555,
+    "login": "jameshartig",
+    "user_name": "James Hartig",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 95254,
+    "login": "EmielM",
+    "user_name": "Emiel Mols",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 3800339,
+    "login": "renfredxh",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 245984,
+    "login": "tmthrgd",
+    "user_name": "Tom Thorogood",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 2427,
+    "login": "zemariamm",
+    "user_name": "Ze Maria Mendonca e Moura",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 5622516,
+    "login": "AlphaWong",
+    "user_name": "Alpha",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 146748028,
+    "login": "ArthurWhite",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 46,
+    "login": "bmizerany",
+    "user_name": "Blake Mizerany",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 155215,
+    "login": "brianfoshee",
+    "user_name": "Brian Foshee",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 827274,
+    "login": "danwall",
+    "user_name": "Dan Wall",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 3818,
+    "login": "EdwardBetts",
+    "user_name": "Edward Betts",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 70507,
+    "login": "jacobstr",
+    "user_name": "Jacob Straszynski",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 2228380,
+    "login": "jfiore",
+    "user_name": "Joe Fiore",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 8555063,
+    "login": "flimzy",
+    "user_name": "Jonathan Hall",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 46149,
+    "login": "matttproud",
+    "user_name": "Matt T. Proud",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 199056,
+    "login": "TheHippo",
+    "user_name": "Philipp Klose",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 11521496,
+    "login": "romainmenke",
+    "user_name": "Romain Menke",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 25254,
+    "login": "tj",
+    "user_name": "TJ",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 1613383,
+    "login": "victorges",
+    "user_name": "Victor Elias",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 5093184,
+    "login": "cgilling",
+    "user_name": "cgilling",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 929050,
+    "login": "ctborg",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 6905586,
+    "login": "genofire",
+    "user_name": "genofire",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 2866738,
+    "login": "jared2501",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 2043305,
+    "login": "meirf",
+    "user_name": "Meir Fischer",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 20403783,
+    "login": "pcram-techcyte",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "id": 2668821,
+    "login": "ryanfowler",
+    "user_name": "Ryan Fowler",
+    "contributions": 1
+  }
+]

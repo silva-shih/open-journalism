@@ -1,0 +1,38 @@
+[
+  {
+    "org": "nymag",
+    "repo_name": "text-model",
+    "full_name": "nymag/text-model",
+    "id": 447522,
+    "login": "nelsonpecora",
+    "user_name": "Nelson Pecora",
+    "contributions": 41
+  },
+  {
+    "org": "nymag",
+    "repo_name": "text-model",
+    "full_name": "nymag/text-model",
+    "id": 4154804,
+    "login": "ironspecs",
+    "user_name": "Dane Stuckel",
+    "contributions": 7
+  },
+  {
+    "org": "nymag",
+    "repo_name": "text-model",
+    "full_name": "nymag/text-model",
+    "id": 14790466,
+    "login": "greenkeeperio-bot",
+    "user_name": "Greenkeeper",
+    "contributions": 6
+  },
+  {
+    "org": "nymag",
+    "repo_name": "text-model",
+    "full_name": "nymag/text-model",
+    "id": 40772,
+    "login": "elgreg",
+    "user_name": "Greg Lavallee",
+    "contributions": 1
+  }
+]

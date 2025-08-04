@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "sbt-teamcity-test-reporting-plugin",
+    "full_name": "guardian/sbt-teamcity-test-reporting-plugin",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-teamcity-test-reporting-plugin",
+    "full_name": "guardian/sbt-teamcity-test-reporting-plugin",
+    "id": 51444,
+    "login": "tackley",
+    "user_name": "Graham Tackley",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-teamcity-test-reporting-plugin",
+    "full_name": "guardian/sbt-teamcity-test-reporting-plugin",
+    "id": 111891,
+    "login": "kenlim",
+    "user_name": "Ken Lim",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-teamcity-test-reporting-plugin",
+    "full_name": "guardian/sbt-teamcity-test-reporting-plugin",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 2
+  }
+]

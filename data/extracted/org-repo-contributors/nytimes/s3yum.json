@@ -1,0 +1,38 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "s3yum",
+    "full_name": "nytimes/s3yum",
+    "id": 5437001,
+    "login": "jimbydamonk",
+    "user_name": "Mike Buzzetti",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "s3yum",
+    "full_name": "nytimes/s3yum",
+    "id": 2228380,
+    "login": "jfiore",
+    "user_name": "Joe Fiore",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "s3yum",
+    "full_name": "nytimes/s3yum",
+    "id": 1631365,
+    "login": "mmckinst",
+    "user_name": "Mark McKinstry",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "s3yum",
+    "full_name": "nytimes/s3yum",
+    "id": 1863511,
+    "login": "benjaminharnett",
+    "user_name": "Benjamin Harnett",
+    "contributions": 1
+  }
+]

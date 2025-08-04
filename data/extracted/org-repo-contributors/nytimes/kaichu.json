@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "kaichu",
+    "full_name": "nytimes/kaichu",
+    "id": 1846937,
+    "login": "silasray",
+    "user_name": "Silas Ray",
+    "contributions": 14
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kaichu",
+    "full_name": "nytimes/kaichu",
+    "id": 1459436,
+    "login": "mrandre",
+    "user_name": "Andre Behrens",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kaichu",
+    "full_name": "nytimes/kaichu",
+    "id": 2228380,
+    "login": "jfiore",
+    "user_name": "Joe Fiore",
+    "contributions": 2
+  }
+]

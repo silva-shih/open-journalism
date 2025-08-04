@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "sbt-jasmine-plugin",
+    "full_name": "guardian/sbt-jasmine-plugin",
+    "id": 145254,
+    "login": "steppenwells",
+    "user_name": "Stephen Wells",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-jasmine-plugin",
+    "full_name": "guardian/sbt-jasmine-plugin",
+    "id": 882948,
+    "login": "joescii",
+    "user_name": "Joe Daniel Barnes",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-jasmine-plugin",
+    "full_name": "guardian/sbt-jasmine-plugin",
+    "id": 36964,
+    "login": "theefer",
+    "user_name": "S\u00e9bastien Cevey",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-jasmine-plugin",
+    "full_name": "guardian/sbt-jasmine-plugin",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-jasmine-plugin",
+    "full_name": "guardian/sbt-jasmine-plugin",
+    "id": 215145,
+    "login": "arc64",
+    "user_name": "Annabel Church",
+    "contributions": 1
+  }
+]

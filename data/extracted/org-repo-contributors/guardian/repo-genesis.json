@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "repo-genesis",
+    "full_name": "guardian/repo-genesis",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 88
+  },
+  {
+    "org": "guardian",
+    "repo_name": "repo-genesis",
+    "full_name": "guardian/repo-genesis",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "repo-genesis",
+    "full_name": "guardian/repo-genesis",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "repo-genesis",
+    "full_name": "guardian/repo-genesis",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "repo-genesis",
+    "full_name": "guardian/repo-genesis",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 2
+  }
+]

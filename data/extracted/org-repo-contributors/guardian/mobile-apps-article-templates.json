@@ -1,0 +1,596 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 11618797,
+    "login": "webb04",
+    "user_name": "Jamie Webb",
+    "contributions": 963
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1590704,
+    "login": "GHaberis",
+    "user_name": "George Haberis",
+    "contributions": 936
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 4561,
+    "login": "duarte",
+    "user_name": "Duarte Carrilho da Gra\u00e7a",
+    "contributions": 490
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 45403038,
+    "login": "sammorrisdesign",
+    "user_name": "Sam Morris",
+    "contributions": 489
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 11960295,
+    "login": "GuardianAndroid",
+    "user_name": "GuardianAndroid",
+    "contributions": 437
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1101,
+    "login": "sandropaganotti-zz",
+    "user_name": "Sandro Paganotti",
+    "contributions": 328
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 210
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 316340,
+    "login": "clare-codes",
+    "user_name": "Clare",
+    "contributions": 112
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 26553497,
+    "login": "sandropaganotti",
+    "user_name": "Sandro Paganotti",
+    "contributions": 81
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 89925410,
+    "login": "waisingyiu",
+    "user_name": "Wai Sing Yiu",
+    "contributions": 64
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 63
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 19835654,
+    "login": "frankie297",
+    "user_name": "Francesca Hammond",
+    "contributions": 61
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 5630563,
+    "login": "AleLudovici",
+    "user_name": "Alessandro Ludovici",
+    "contributions": 56
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 8774970,
+    "login": "NataliaLKB",
+    "user_name": "Natalia Baltazar",
+    "contributions": 45
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 102960825,
+    "login": "tkgnm",
+    "user_name": "Thomas King",
+    "contributions": 39
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 39
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 54999705,
+    "login": "jglueck",
+    "user_name": null,
+    "contributions": 35
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 34
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1202622,
+    "login": "lindseydew",
+    "user_name": "Lindsey Dew",
+    "contributions": 32
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 274682,
+    "login": "aodhol",
+    "user_name": "Aodh O Lionaird",
+    "contributions": 28
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 951849,
+    "login": "maxspencer",
+    "user_name": "Max Spencer",
+    "contributions": 26
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 2470816,
+    "login": "jharewinton",
+    "user_name": "Jon Hare-Winton",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 414905,
+    "login": "andrewcb",
+    "user_name": "Andrew Bulhak",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 49187886,
+    "login": "dskamiotis",
+    "user_name": "Demetrios Skamiotis",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 996926,
+    "login": "alexanderedge",
+    "user_name": "Alexander Edge",
+    "contributions": 13
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 20416599,
+    "login": "abeddow91",
+    "user_name": "Anna Beddow",
+    "contributions": 13
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 181371,
+    "login": "rupertbates",
+    "user_name": "Rupert Bates",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 70634759,
+    "login": "groakland",
+    "user_name": "Grahame Oakland",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 45561419,
+    "login": "DavidLawes",
+    "user_name": "David Lawes",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 47318984,
+    "login": "aracho1",
+    "user_name": "Ara Cho",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 15894063,
+    "login": "marjisound",
+    "user_name": "Marjan Kalanaki",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 3285072,
+    "login": "michaelclapham",
+    "user_name": "Michael Clapham",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 79363218,
+    "login": "ab-gnm",
+    "user_name": "Aditya Bhaskar",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 23078809,
+    "login": "simone-smith",
+    "user_name": "Simone Smith",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 7014230,
+    "login": "arelra",
+    "user_name": "Ravi",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 6583174,
+    "login": "mohammad-haque",
+    "user_name": "Mohammad Haque",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 481903,
+    "login": "marchibbins",
+    "user_name": "Marc Hibbins",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1168033,
+    "login": "alfavata",
+    "user_name": "Antonio Favata",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 12860328,
+    "login": "faresite",
+    "user_name": "Fares Marek Basmadji",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1733570,
+    "login": "jeanlauliac",
+    "user_name": "Jean Lauliac",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 12812445,
+    "login": "SLambrakis",
+    "user_name": "Sophie Lambrakis",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 5708818,
+    "login": "theTiv",
+    "user_name": "Justin Gl\u00fcck",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 705427,
+    "login": "georgeblahblah",
+    "user_name": "George B",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 2670496,
+    "login": "AWare",
+    "user_name": "Alex Ware",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 10324129,
+    "login": "ajwl",
+    "user_name": "Anna",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 710361,
+    "login": "Odhran",
+    "user_name": "Odhr\u00e1n McConnell",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 32312712,
+    "login": "vlbee",
+    "user_name": "vanessa",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 34686302,
+    "login": "rhystmills",
+    "user_name": "Rhys Mills",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 5181870,
+    "login": "ChrisOwen101",
+    "user_name": "Christopher Owen",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 2844554,
+    "login": "jranks123",
+    "user_name": "Jonathan Rankin",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1218561,
+    "login": "MatthewJWalls",
+    "user_name": "Matthew Walls",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 1249717,
+    "login": "jegumi",
+    "user_name": "Jes\u00fas Gumiel",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 6727874,
+    "login": "superfrank",
+    "user_name": "Frank Hulley-Jones",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 32717,
+    "login": "kant",
+    "user_name": "Dar\u00edo Here\u00f1\u00fa",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 6651444,
+    "login": "ddramowicz",
+    "user_name": "Dana Dramowicz",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 11950919,
+    "login": "blongden73",
+    "user_name": "Ben Longden",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 2292388,
+    "login": "adityabhaskar",
+    "user_name": "Aditya",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mobile-apps-article-templates",
+    "full_name": "guardian/mobile-apps-article-templates",
+    "id": 53435954,
+    "login": "amajeedm",
+    "user_name": "A-Majeed Mu'azu",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-fec",
+    "full_name": "newsdev/nyt-fec",
+    "id": 901091,
+    "login": "rshorey",
+    "user_name": "Rachel Shorey",
+    "contributions": 168
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-fec",
+    "full_name": "newsdev/nyt-fec",
+    "id": 109988,
+    "login": "jeremyjbowers",
+    "user_name": "Jeremy Bowers",
+    "contributions": 3
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-fec",
+    "full_name": "newsdev/nyt-fec",
+    "id": 5125496,
+    "login": "anniedaniel",
+    "user_name": "Annie Daniel",
+    "contributions": 3
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-fec",
+    "full_name": "newsdev/nyt-fec",
+    "id": 394805,
+    "login": "jayminkapish",
+    "user_name": "Jaymin Patel",
+    "contributions": 1
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "nyt-fec",
+    "full_name": "newsdev/nyt-fec",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

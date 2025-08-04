@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "google-chat-utils",
+    "full_name": "guardian/google-chat-utils",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-chat-utils",
+    "full_name": "guardian/google-chat-utils",
+    "id": 114918544,
+    "login": "andrewHEguardian",
+    "user_name": "Andrew Howe-Ely",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-chat-utils",
+    "full_name": "guardian/google-chat-utils",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-chat-utils",
+    "full_name": "guardian/google-chat-utils",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  }
+]

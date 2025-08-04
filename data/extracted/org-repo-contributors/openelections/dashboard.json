@@ -1,0 +1,74 @@
+[
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 39200,
+    "login": "zstumgoren",
+    "user_name": "Serdar Tumgoren",
+    "contributions": 149
+  },
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 2214,
+    "login": "dwillis",
+    "user_name": "Derek Willis",
+    "contributions": 81
+  },
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 110420,
+    "login": "ghing",
+    "user_name": "Geoffrey Hing",
+    "contributions": 10
+  },
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 9993,
+    "login": "palewire",
+    "user_name": "Ben Welsh",
+    "contributions": 5
+  },
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 4592,
+    "login": "konklone",
+    "user_name": "Eric Mill",
+    "contributions": 1
+  },
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 536941,
+    "login": "fgregg",
+    "user_name": "Forest Gregg",
+    "contributions": 1
+  },
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 376064,
+    "login": "GPHemsley",
+    "user_name": "Gordon P. Hemsley",
+    "contributions": 1
+  },
+  {
+    "org": "openelections",
+    "repo_name": "dashboard",
+    "full_name": "openelections/dashboard",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

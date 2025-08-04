@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pressreader",
+    "full_name": "guardian/pressreader",
+    "id": 37048459,
+    "login": "bryophyta",
+    "user_name": "Pete F",
+    "contributions": 266
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pressreader",
+    "full_name": "guardian/pressreader",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 99
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pressreader",
+    "full_name": "guardian/pressreader",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 51
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pressreader",
+    "full_name": "guardian/pressreader",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 49
+  }
+]

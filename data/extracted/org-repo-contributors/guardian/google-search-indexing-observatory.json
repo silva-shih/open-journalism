@@ -1,0 +1,110 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 84
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 42
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 42
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 23424805,
+    "login": "deedeeh",
+    "user_name": "Dina Hafez",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 9575458,
+    "login": "OllysCoding",
+    "user_name": "Olly",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 91546670,
+    "login": "jonflynng",
+    "user_name": "Jonathan Flynn",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 4633246,
+    "login": "SHession",
+    "user_name": "Sam Hession",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 26366706,
+    "login": "sophie-macmillan",
+    "user_name": "Sophie",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 19683595,
+    "login": "ioannakok",
+    "user_name": "Ioanna Kokkini",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "google-search-indexing-observatory",
+    "full_name": "guardian/google-search-indexing-observatory",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

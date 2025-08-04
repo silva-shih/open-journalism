@@ -1,0 +1,65 @@
+[
+  {
+    "org": "newsdev",
+    "repo_name": "kubernetes-dns-reverse-proxy",
+    "full_name": "newsdev/kubernetes-dns-reverse-proxy",
+    "id": 382862,
+    "login": "albertsun",
+    "user_name": "Albert Sun",
+    "contributions": 39
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "kubernetes-dns-reverse-proxy",
+    "full_name": "newsdev/kubernetes-dns-reverse-proxy",
+    "id": 1918465,
+    "login": "buth",
+    "user_name": "Eric Buth",
+    "contributions": 16
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "kubernetes-dns-reverse-proxy",
+    "full_name": "newsdev/kubernetes-dns-reverse-proxy",
+    "id": 1087646,
+    "login": "ericandrewlewis",
+    "user_name": "Eric Lewis",
+    "contributions": 8
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "kubernetes-dns-reverse-proxy",
+    "full_name": "newsdev/kubernetes-dns-reverse-proxy",
+    "id": 410825,
+    "login": "samjacoby",
+    "user_name": "Sam Jacoby",
+    "contributions": 4
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "kubernetes-dns-reverse-proxy",
+    "full_name": "newsdev/kubernetes-dns-reverse-proxy",
+    "id": 394805,
+    "login": "jayminkapish",
+    "user_name": "Jaymin Patel",
+    "contributions": 3
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "kubernetes-dns-reverse-proxy",
+    "full_name": "newsdev/kubernetes-dns-reverse-proxy",
+    "id": 35356,
+    "login": "bkoski",
+    "user_name": "Ben Koski",
+    "contributions": 2
+  },
+  {
+    "org": "newsdev",
+    "repo_name": "kubernetes-dns-reverse-proxy",
+    "full_name": "newsdev/kubernetes-dns-reverse-proxy",
+    "id": 677570,
+    "login": "abstrctn",
+    "user_name": "Michael Strickland",
+    "contributions": 2
+  }
+]

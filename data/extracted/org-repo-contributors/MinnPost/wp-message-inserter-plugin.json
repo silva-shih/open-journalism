@@ -1,0 +1,20 @@
+[
+  {
+    "org": "MinnPost",
+    "repo_name": "wp-message-inserter-plugin",
+    "full_name": "MinnPost/wp-message-inserter-plugin",
+    "id": 435342,
+    "login": "jonathanstegall",
+    "user_name": "Jonathan Stegall",
+    "contributions": 298
+  },
+  {
+    "org": "MinnPost",
+    "repo_name": "wp-message-inserter-plugin",
+    "full_name": "MinnPost/wp-message-inserter-plugin",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

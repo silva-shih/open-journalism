@@ -1,0 +1,389 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 52932,
+    "login": "staylor",
+    "user_name": "Scott Taylor",
+    "contributions": 308
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 522900,
+    "login": "delambo",
+    "user_name": "Matthew DeLambo",
+    "contributions": 192
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 4968097,
+    "login": "ccpricenytimes",
+    "user_name": "Carrie Price",
+    "contributions": 158
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 244704,
+    "login": "tizmagik",
+    "user_name": "Jeremy Gayed",
+    "contributions": 50
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 38
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 1631487,
+    "login": "woodb",
+    "user_name": "Brandon Wood",
+    "contributions": 16
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 3476784,
+    "login": "jaredmcdonald",
+    "user_name": "jared mcdonald",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 2272019,
+    "login": "coolov",
+    "user_name": "Olov Sundstr\u00f6m",
+    "contributions": 7
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 33044,
+    "login": "caiogondim",
+    "user_name": "Caio Gondim",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 1441466,
+    "login": "scottastrophic",
+    "user_name": "Scott Koenig",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 206648,
+    "login": "Skorney",
+    "user_name": "Oleksandr Korniienko",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 1682582,
+    "login": "julianvmodesto",
+    "user_name": "Julian V. Modesto",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 173073824,
+    "login": "kohlmannj-nyt",
+    "user_name": "Joseph Kohlmann (NYT)",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 75838,
+    "login": "felipesilva",
+    "user_name": "Felipe Silva",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 639255,
+    "login": "montmanu",
+    "user_name": "Chris Montoro",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 1548189,
+    "login": "zdoc01",
+    "user_name": "Zach Lumpkins",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 394393,
+    "login": "dting",
+    "user_name": "DTing",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 882219,
+    "login": "janhoogeveen",
+    "user_name": "Jan Hoogeveen",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 1087646,
+    "login": "ericandrewlewis",
+    "user_name": "Eric Lewis",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 32717,
+    "login": "kant",
+    "user_name": "Dar\u00edo Here\u00f1\u00fa",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 3477162,
+    "login": "dkaoster",
+    "user_name": "Daniel Kao",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 1128302,
+    "login": "leshow",
+    "user_name": "Evan Cameron",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 45706670,
+    "login": "dlemburg",
+    "user_name": "daniel lemburg",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 14185282,
+    "login": "steve-chen-nyc",
+    "user_name": "Steve Chen ",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 115239487,
+    "login": "pedrocsilva",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 12261845,
+    "login": "potatogopher",
+    "user_name": "Nick Rucci",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 2034968,
+    "login": "HighPharoah",
+    "user_name": "Moustafa Makboul",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 156215,
+    "login": "awayken",
+    "user_name": "Miles Rausch",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 11618524,
+    "login": "Juan-M",
+    "user_name": "Juan M. Garc\u00eda Gonz\u00e1lez",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 6675396,
+    "login": "jonahsmith",
+    "user_name": "Jonah Smith",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 707098,
+    "login": "saranrapjs",
+    "user_name": "Jeff Sisson",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 19535560,
+    "login": "ilyaGurevich",
+    "user_name": "Ilya Gurevich",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 54462,
+    "login": "HaveF",
+    "user_name": "HaveF",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 244265,
+    "login": "flavioribeiro",
+    "user_name": "Flavio Ribeiro",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 2856169,
+    "login": "fesebuv",
+    "user_name": "Felipe Buena\u00f1o",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 588977,
+    "login": "douglasback",
+    "user_name": "Douglas Back",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 4729979,
+    "login": "cwonrails",
+    "user_name": "Chris Watson",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 66037960,
+    "login": "blentz100",
+    "user_name": "Brendan Lentz",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 2052794,
+    "login": "athos-ribeiro",
+    "user_name": "Athos Ribeiro",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 292959,
+    "login": "strogonoff",
+    "user_name": "Anton Strogonoff",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 12698411,
+    "login": "aterranova-bv",
+    "user_name": "Andrew Terranova",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "kyt",
+    "full_name": "nytimes/kyt",
+    "id": 7696305,
+    "login": "alexbenic",
+    "user_name": "Aleksandar Benic",
+    "contributions": 1
+  }
+]

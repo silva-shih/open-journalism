@@ -1,0 +1,38 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "redux-taxi",
+    "full_name": "nytimes/redux-taxi",
+    "id": 244704,
+    "login": "tizmagik",
+    "user_name": "Jeremy Gayed",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "redux-taxi",
+    "full_name": "nytimes/redux-taxi",
+    "id": 1922965,
+    "login": "frytyler",
+    "user_name": "Tyler Fry",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "redux-taxi",
+    "full_name": "nytimes/redux-taxi",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "redux-taxi",
+    "full_name": "nytimes/redux-taxi",
+    "id": 59447,
+    "login": "dayvson",
+    "user_name": "Maxwell Dayvson da Silva",
+    "contributions": 2
+  }
+]

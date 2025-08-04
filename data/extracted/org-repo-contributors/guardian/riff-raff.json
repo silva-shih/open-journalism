@@ -1,0 +1,569 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1236466,
+    "login": "sihil",
+    "user_name": "Simon Hildrew",
+    "contributions": 1244
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 421
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 404
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 202
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 123
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 34966,
+    "login": "bruntonspall",
+    "user_name": "Michael Brunton-Spall",
+    "contributions": 83
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 72
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 63
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 52
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 33
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 31
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 27
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 26
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 21217225,
+    "login": "AshCorr",
+    "user_name": "AshCorr",
+    "contributions": 26
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1764158,
+    "login": "gidsg",
+    "user_name": "Gideon Goldberg",
+    "contributions": 22
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 76709,
+    "login": "gklopper",
+    "user_name": "Grant Klopper",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 2670496,
+    "login": "AWare",
+    "user_name": "Alex Ware",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 62836,
+    "login": "daithiocrualaoich",
+    "user_name": "Daithi O Crualaoich",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 233326,
+    "login": "TBonnin",
+    "user_name": "Thomas Bonnin",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 51444,
+    "login": "tackley",
+    "user_name": "Graham Tackley",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 14
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 106760,
+    "login": "cb372",
+    "user_name": "Chris Birchall",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 21567,
+    "login": "bmjames",
+    "user_name": "Ben James",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 8607683,
+    "login": "katebee",
+    "user_name": "Kate Whalen",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 395805,
+    "login": "mbarton",
+    "user_name": "Michael Barton",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 29761,
+    "login": "adamnfish",
+    "user_name": "Adam Fisher",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 379839,
+    "login": "tjmw",
+    "user_name": "Tom Wey",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1289259,
+    "login": "dominickendrick",
+    "user_name": "Dominic Kendrick",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 34686302,
+    "login": "rhystmills",
+    "user_name": "Rhys Mills",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 3300789,
+    "login": "jlieb10",
+    "user_name": "Joshua",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 660513,
+    "login": "bfil",
+    "user_name": "Bruno Filippone",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 2153620,
+    "login": "DiegoVazquezNanini",
+    "user_name": "Diego Vazquez Nanini",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 57295823,
+    "login": "marsavar",
+    "user_name": "Mario Savarese",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 3066534,
+    "login": "Reettaphant",
+    "user_name": "Reetta Vaahtoranta",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 705427,
+    "login": "georgeblahblah",
+    "user_name": "George B",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 80390930,
+    "login": "JuliaBrigitte",
+    "user_name": "Julia Branke",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 7239344,
+    "login": "michaelwmcnamara",
+    "user_name": "Michael McNamara",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 2298529,
+    "login": "jamespamplin",
+    "user_name": "James Pamplin",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1064734,
+    "login": "desbo",
+    "user_name": "Sam Desborough",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 986155,
+    "login": "NathanielBennett",
+    "user_name": "Nathaniel Bennett",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 394376,
+    "login": "mattandrews",
+    "user_name": "Matt Andrews",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 43961396,
+    "login": "cemms1",
+    "user_name": "Charlotte Emms",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 2470816,
+    "login": "jharewinton",
+    "user_name": "Jon Hare-Winton",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 110032454,
+    "login": "DanielCliftonGuardian",
+    "user_name": "Daniel Clifton",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 80583,
+    "login": "chrisjowen",
+    "user_name": "Chris Owen",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 445472,
+    "login": "janua",
+    "user_name": "Francis",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 1771189,
+    "login": "ob6160",
+    "user_name": "Oliver Barnwell",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 921609,
+    "login": "OliverJAsh",
+    "user_name": "Oliver Joseph Ash",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 7312,
+    "login": "rrees",
+    "user_name": "Robert Rees",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "riff-raff",
+    "full_name": "guardian/riff-raff",
+    "id": 327217,
+    "login": "james-rodgers",
+    "user_name": "James Rodgers",
+    "contributions": 1
+  }
+]

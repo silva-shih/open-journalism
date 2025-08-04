@@ -1,0 +1,56 @@
+[
+  {
+    "org": "PRX",
+    "repo_name": "proxy.prx.org",
+    "full_name": "PRX/proxy.prx.org",
+    "id": 1410587,
+    "login": "cavis",
+    "user_name": "cavis",
+    "contributions": 84
+  },
+  {
+    "org": "PRX",
+    "repo_name": "proxy.prx.org",
+    "full_name": "PRX/proxy.prx.org",
+    "id": 3483,
+    "login": "farski",
+    "user_name": "Chris Kalafarski",
+    "contributions": 39
+  },
+  {
+    "org": "PRX",
+    "repo_name": "proxy.prx.org",
+    "full_name": "PRX/proxy.prx.org",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 31
+  },
+  {
+    "org": "PRX",
+    "repo_name": "proxy.prx.org",
+    "full_name": "PRX/proxy.prx.org",
+    "id": 2250413,
+    "login": "sandikbarr",
+    "user_name": "Sandi Barr",
+    "contributions": 3
+  },
+  {
+    "org": "PRX",
+    "repo_name": "proxy.prx.org",
+    "full_name": "PRX/proxy.prx.org",
+    "id": 4698417,
+    "login": "rpeterman-gp",
+    "user_name": "Rick Peterman",
+    "contributions": 2
+  },
+  {
+    "org": "PRX",
+    "repo_name": "proxy.prx.org",
+    "full_name": "PRX/proxy.prx.org",
+    "id": 46439,
+    "login": "kookster",
+    "user_name": "Andrew Kuklewicz",
+    "contributions": 2
+  }
+]

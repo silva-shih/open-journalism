@@ -1,0 +1,65 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "prosemirror-tooltip",
+    "full_name": "nytimes/prosemirror-tooltip",
+    "id": 1087646,
+    "login": "ericandrewlewis",
+    "user_name": "Eric Lewis",
+    "contributions": 19
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "prosemirror-tooltip",
+    "full_name": "nytimes/prosemirror-tooltip",
+    "id": 144427,
+    "login": "marijnh",
+    "user_name": "Marijn Haverbeke",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "prosemirror-tooltip",
+    "full_name": "nytimes/prosemirror-tooltip",
+    "id": 152067,
+    "login": "thaylin79",
+    "user_name": "Thaylin Burns",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "prosemirror-tooltip",
+    "full_name": "nytimes/prosemirror-tooltip",
+    "id": 2263524,
+    "login": "willdunning",
+    "user_name": "Will Dunning",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "prosemirror-tooltip",
+    "full_name": "nytimes/prosemirror-tooltip",
+    "id": 139208,
+    "login": "adrianheine",
+    "user_name": "Adrian Heine n\u00e9 Lang",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "prosemirror-tooltip",
+    "full_name": "nytimes/prosemirror-tooltip",
+    "id": 707098,
+    "login": "saranrapjs",
+    "user_name": "Jeff Sisson",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "prosemirror-tooltip",
+    "full_name": "nytimes/prosemirror-tooltip",
+    "id": 152507,
+    "login": "kiejo",
+    "user_name": "Jonathan Kienzle",
+    "contributions": 1
+  }
+]

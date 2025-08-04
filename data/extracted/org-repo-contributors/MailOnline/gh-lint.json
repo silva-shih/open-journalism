@@ -1,0 +1,29 @@
+[
+  {
+    "org": "MailOnline",
+    "repo_name": "gh-lint",
+    "full_name": "MailOnline/gh-lint",
+    "id": 2769109,
+    "login": "epoberezkin",
+    "user_name": "Evgeny",
+    "contributions": 119
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "gh-lint",
+    "full_name": "MailOnline/gh-lint",
+    "id": 23040076,
+    "login": "greenkeeper[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "gh-lint",
+    "full_name": "MailOnline/gh-lint",
+    "id": 19806213,
+    "login": "mol-audit-bot",
+    "user_name": "MOL GitHub bot",
+    "contributions": 1
+  }
+]

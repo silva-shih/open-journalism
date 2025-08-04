@@ -1,0 +1,29 @@
+[
+  {
+    "org": "PRX",
+    "repo_name": "Dovetail-Wordpress-Plugin",
+    "full_name": "PRX/Dovetail-Wordpress-Plugin",
+    "id": 4698417,
+    "login": "rpeterman-gp",
+    "user_name": "Rick Peterman",
+    "contributions": 174
+  },
+  {
+    "org": "PRX",
+    "repo_name": "Dovetail-Wordpress-Plugin",
+    "full_name": "PRX/Dovetail-Wordpress-Plugin",
+    "id": 65916846,
+    "login": "actions-user",
+    "user_name": null,
+    "contributions": 36
+  },
+  {
+    "org": "PRX",
+    "repo_name": "Dovetail-Wordpress-Plugin",
+    "full_name": "PRX/Dovetail-Wordpress-Plugin",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 8
+  }
+]

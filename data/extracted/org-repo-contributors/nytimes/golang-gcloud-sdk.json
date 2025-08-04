@@ -1,0 +1,47 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "golang-gcloud-sdk",
+    "full_name": "nytimes/golang-gcloud-sdk",
+    "id": 155215,
+    "login": "brianfoshee",
+    "user_name": "Brian Foshee",
+    "contributions": 33
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "golang-gcloud-sdk",
+    "full_name": "nytimes/golang-gcloud-sdk",
+    "id": 1386065,
+    "login": "jprobinson",
+    "user_name": "JP Robinson",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "golang-gcloud-sdk",
+    "full_name": "nytimes/golang-gcloud-sdk",
+    "id": 52503329,
+    "login": "alexchao26",
+    "user_name": "Alex Chao",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "golang-gcloud-sdk",
+    "full_name": "nytimes/golang-gcloud-sdk",
+    "id": 639255,
+    "login": "montmanu",
+    "user_name": "Chris Montoro",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "golang-gcloud-sdk",
+    "full_name": "nytimes/golang-gcloud-sdk",
+    "id": 11065569,
+    "login": "nyt-hughmandeville",
+    "user_name": "Hubert Mandeville",
+    "contributions": 1
+  }
+]

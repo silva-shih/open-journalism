@@ -1,0 +1,29 @@
+[
+  {
+    "org": "liberation",
+    "repo_name": "django-countries",
+    "full_name": "liberation/django-countries",
+    "id": 109951,
+    "login": "SmileyChris",
+    "user_name": "Chris Beaven",
+    "contributions": 15
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-countries",
+    "full_name": "liberation/django-countries",
+    "id": 146023,
+    "login": "yohanboniface",
+    "user_name": "Yohan Boniface",
+    "contributions": 3
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-countries",
+    "full_name": "liberation/django-countries",
+    "id": 76110,
+    "login": "flashingpumpkin",
+    "user_name": "Alen Mujezinovic",
+    "contributions": 1
+  }
+]

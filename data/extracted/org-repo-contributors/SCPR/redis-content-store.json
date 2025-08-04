@@ -1,0 +1,20 @@
+[
+  {
+    "org": "SCPR",
+    "repo_name": "redis-content-store",
+    "full_name": "SCPR/redis-content-store",
+    "id": 978899,
+    "login": "bricker",
+    "user_name": "Bryan Ricker",
+    "contributions": 4
+  },
+  {
+    "org": "SCPR",
+    "repo_name": "redis-content-store",
+    "full_name": "SCPR/redis-content-store",
+    "id": 204350,
+    "login": "ewr",
+    "user_name": "Eric Richardson",
+    "contributions": 3
+  }
+]

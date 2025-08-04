@@ -1,0 +1,47 @@
+[
+  {
+    "org": "propublica",
+    "repo_name": "django-collaborative",
+    "full_name": "propublica/django-collaborative",
+    "id": 2670795,
+    "login": "brandonrobertz",
+    "user_name": "Brandon Roberts",
+    "contributions": 335
+  },
+  {
+    "org": "propublica",
+    "repo_name": "django-collaborative",
+    "full_name": "propublica/django-collaborative",
+    "id": 20067,
+    "login": "schwanksta",
+    "user_name": "Ken Schwencke",
+    "contributions": 54
+  },
+  {
+    "org": "propublica",
+    "repo_name": "django-collaborative",
+    "full_name": "propublica/django-collaborative",
+    "id": 42387717,
+    "login": "rachelgli",
+    "user_name": "Rachel Glickhouse",
+    "contributions": 8
+  },
+  {
+    "org": "propublica",
+    "repo_name": "django-collaborative",
+    "full_name": "propublica/django-collaborative",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "propublica",
+    "repo_name": "django-collaborative",
+    "full_name": "propublica/django-collaborative",
+    "id": 53129,
+    "login": "mtigas",
+    "user_name": "Mike Tigas",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 79363218,
+    "login": "ab-gnm",
+    "user_name": "Aditya Bhaskar",
+    "contributions": 743
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 113
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 53755195,
+    "login": "aoifemcl15",
+    "user_name": "Aoife McLaughlin",
+    "contributions": 96
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 178160602,
+    "login": "shamoon-guardian",
+    "user_name": null,
+    "contributions": 30
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 102960825,
+    "login": "tkgnm",
+    "user_name": "Thomas King",
+    "contributions": 25
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 11960295,
+    "login": "GuardianAndroid",
+    "user_name": "GuardianAndroid",
+    "contributions": 24
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 104841688,
+    "login": "guardian-ben",
+    "user_name": "Benjamin Briggs",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 19835654,
+    "login": "frankie297",
+    "user_name": "Francesca Hammond",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 57187096,
+    "login": "maheengill",
+    "user_name": null,
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 107039878,
+    "login": "iUsmanN-Guardian",
+    "user_name": "Muhammad Usman Nazir",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 1691895,
+    "login": "robksmith",
+    "user_name": "Rob Smith",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 220218862,
+    "login": "gu-gradle-library-release[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 30306829,
+    "login": "Falah-Zaidan",
+    "user_name": "Falah Zaidan",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 3285072,
+    "login": "michaelclapham",
+    "user_name": "Michael Clapham",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 43242774,
+    "login": "owenmp",
+    "user_name": "Owen Malcolmson-Priest",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 150142274,
+    "login": "EnochHankombo92",
+    "user_name": "Enoch Hankombo",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-apps",
+    "full_name": "guardian/source-apps",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

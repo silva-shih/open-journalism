@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "proposer-suggested-content",
+    "full_name": "guardian/proposer-suggested-content",
+    "id": 1202622,
+    "login": "lindseydew",
+    "user_name": "Lindsey Dew",
+    "contributions": 70
+  },
+  {
+    "org": "guardian",
+    "repo_name": "proposer-suggested-content",
+    "full_name": "guardian/proposer-suggested-content",
+    "id": 1236466,
+    "login": "sihil",
+    "user_name": "Simon Hildrew",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "proposer-suggested-content",
+    "full_name": "guardian/proposer-suggested-content",
+    "id": 29761,
+    "login": "adamnfish",
+    "user_name": "Adam Fisher",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "sbt-requirejs",
+    "full_name": "guardian/sbt-requirejs",
+    "id": 76709,
+    "login": "gklopper",
+    "user_name": "Grant Klopper",
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-requirejs",
+    "full_name": "guardian/sbt-requirejs",
+    "id": 36964,
+    "login": "theefer",
+    "user_name": "S\u00e9bastien Cevey",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-requirejs",
+    "full_name": "guardian/sbt-requirejs",
+    "id": 84996,
+    "login": "commuterjoy",
+    "user_name": "Matt Chadburn",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-requirejs",
+    "full_name": "guardian/sbt-requirejs",
+    "id": 80089,
+    "login": "phamann",
+    "user_name": "Patrick Hamann",
+    "contributions": 1
+  }
+]

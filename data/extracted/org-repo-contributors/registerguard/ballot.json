@@ -1,0 +1,29 @@
+[
+  {
+    "org": "registerguard",
+    "repo_name": "ballot",
+    "full_name": "registerguard/ballot",
+    "id": 96007,
+    "login": "jheasly",
+    "user_name": "John Heasly",
+    "contributions": 131
+  },
+  {
+    "org": "registerguard",
+    "repo_name": "ballot",
+    "full_name": "registerguard/ballot",
+    "id": 4853944,
+    "login": "robertdenton",
+    "user_name": "Rob Denton",
+    "contributions": 3
+  },
+  {
+    "org": "registerguard",
+    "repo_name": "ballot",
+    "full_name": "registerguard/ballot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

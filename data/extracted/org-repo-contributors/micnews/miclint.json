@@ -1,0 +1,74 @@
+[
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 12228305,
+    "login": "danmakenoise",
+    "user_name": "Dan Phillips",
+    "contributions": 20
+  },
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 74128,
+    "login": "kesla",
+    "user_name": "David Bj\u00f6rklund",
+    "contributions": 20
+  },
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 12902630,
+    "login": "ryanscottaudio",
+    "user_name": "Ryan Campbell",
+    "contributions": 8
+  },
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 6605848,
+    "login": "Roilan",
+    "user_name": "Roilan",
+    "contributions": 4
+  },
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 6034700,
+    "login": "iefserge",
+    "user_name": "Serge",
+    "contributions": 4
+  },
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 1212640,
+    "login": "ellell",
+    "user_name": "Lisa \u00d6vermyr",
+    "contributions": 4
+  },
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 81760365,
+    "login": "skudrow-figure",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "micnews",
+    "repo_name": "miclint",
+    "full_name": "micnews/miclint",
+    "id": 14790466,
+    "login": "greenkeeperio-bot",
+    "user_name": "Greenkeeper",
+    "contributions": 1
+  }
+]

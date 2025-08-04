@@ -1,0 +1,38 @@
+[
+  {
+    "org": "sfchronicle",
+    "repo_name": "lucas",
+    "full_name": "sfchronicle/lucas",
+    "id": 4227347,
+    "login": "luciovilla",
+    "user_name": "Lucio Villa",
+    "contributions": 19
+  },
+  {
+    "org": "sfchronicle",
+    "repo_name": "lucas",
+    "full_name": "sfchronicle/lucas",
+    "id": 19809662,
+    "login": "kimberlychua",
+    "user_name": "Kimberly Chua",
+    "contributions": 5
+  },
+  {
+    "org": "sfchronicle",
+    "repo_name": "lucas",
+    "full_name": "sfchronicle/lucas",
+    "id": 2887343,
+    "login": "emro",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "sfchronicle",
+    "repo_name": "lucas",
+    "full_name": "sfchronicle/lucas",
+    "id": 21348156,
+    "login": "npmcdn-to-unpkg-bot",
+    "user_name": "npm-to-cdn-bot (by Forbes Lindesay)",
+    "contributions": 1
+  }
+]

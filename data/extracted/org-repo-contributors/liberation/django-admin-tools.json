@@ -1,0 +1,245 @@
+[
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 40856,
+    "login": "izimobil",
+    "user_name": "David Jean Louis",
+    "contributions": 161
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 107893,
+    "login": "kmike",
+    "user_name": "Mikhail Korobov",
+    "contributions": 57
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 83249,
+    "login": "alexrobbins",
+    "user_name": "Alex Robbins",
+    "contributions": 18
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 2479,
+    "login": "jgelens",
+    "user_name": "Jeffrey Gelens",
+    "contributions": 11
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 457950,
+    "login": "souen",
+    "user_name": "Souen Boniface",
+    "contributions": 6
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 193474,
+    "login": "twidi",
+    "user_name": "St\u00e9phane \"Twidi\" Angel",
+    "contributions": 4
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 344584,
+    "login": "suvit",
+    "user_name": "Victor Safronovich",
+    "contributions": 4
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 136279,
+    "login": "znotdead",
+    "user_name": "Mila",
+    "contributions": 4
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 1608810,
+    "login": "xmstan",
+    "user_name": "Michal Stanislawek",
+    "contributions": 3
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 373287,
+    "login": "saboter",
+    "user_name": "Martin Sabo",
+    "contributions": 3
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 26181710,
+    "login": "EtienneFilliat",
+    "user_name": "Etienne Filliat",
+    "contributions": 2
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 1814214,
+    "login": "ledzep2",
+    "user_name": "Russell Wu",
+    "contributions": 2
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 714711,
+    "login": "yakky",
+    "user_name": "Iacopo Spalletti",
+    "contributions": 2
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 165090,
+    "login": "volpino",
+    "user_name": "Federico Scrinzi",
+    "contributions": 2
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 441739,
+    "login": "xaralis",
+    "user_name": "xaralis",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 198112,
+    "login": "nicoechaniz",
+    "user_name": "nicoechaniz",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 466069,
+    "login": "bitnot",
+    "user_name": "Pavel",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 386708,
+    "login": "ilhan",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 13875,
+    "login": "hvdklauw",
+    "user_name": "Harro van der Klauw",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 911956,
+    "login": "bsavelev",
+    "user_name": "Boris Savelev",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 97568,
+    "login": "ypcs",
+    "user_name": "Ville Korhonen",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 172822,
+    "login": "terryh",
+    "user_name": "Terry Huang",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 218105,
+    "login": "brente",
+    "user_name": "Stefano Brentegani",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 481008,
+    "login": "hedberg",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 105761,
+    "login": "fetzig",
+    "user_name": "Klemens Mantzos",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 89607,
+    "login": "fcurella",
+    "user_name": "Flavio Curella",
+    "contributions": 1
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admin-tools",
+    "full_name": "liberation/django-admin-tools",
+    "id": 145979,
+    "login": "dstufft",
+    "user_name": "Donald Stufft",
+    "contributions": 1
+  }
+]

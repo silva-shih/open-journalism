@@ -1,0 +1,65 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "id": 1386065,
+    "login": "jprobinson",
+    "user_name": "JP Robinson",
+    "contributions": 35
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 19
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "id": 3250776,
+    "login": "tonglil",
+    "user_name": "Tony Li",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "id": 15614525,
+    "login": "bajalnyt",
+    "user_name": "Bajal",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "id": 73313780,
+    "login": "jsonmorris",
+    "user_name": "Jason Morris",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "id": 17786500,
+    "login": "mlclmj",
+    "user_name": "Malcolm Jones",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "id": 917717,
+    "login": "smartfin",
+    "user_name": "Serhiy Martynenko",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "org": "sueddeutsche",
+    "repo_name": "gha-npm-safe-install-from-private-repo",
+    "full_name": "sueddeutsche/gha-npm-safe-install-from-private-repo",
+    "id": 94974600,
+    "login": "sz-andreas-neumann",
+    "user_name": "Andreas Neumann",
+    "contributions": 8
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "gha-npm-safe-install-from-private-repo",
+    "full_name": "sueddeutsche/gha-npm-safe-install-from-private-repo",
+    "id": 105212763,
+    "login": "jannikRau",
+    "user_name": "Jannik Rau",
+    "contributions": 5
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "gha-npm-safe-install-from-private-repo",
+    "full_name": "sueddeutsche/gha-npm-safe-install-from-private-repo",
+    "id": 95020778,
+    "login": "blibla5",
+    "user_name": "Elisabeth Tusak",
+    "contributions": 2
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "gha-npm-safe-install-from-private-repo",
+    "full_name": "sueddeutsche/gha-npm-safe-install-from-private-repo",
+    "id": 119663527,
+    "login": "fm-sz",
+    "user_name": "Florian Mayer",
+    "contributions": 1
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "gha-npm-safe-install-from-private-repo",
+    "full_name": "sueddeutsche/gha-npm-safe-install-from-private-repo",
+    "id": 95012569,
+    "login": "tangerme-jambit",
+    "user_name": "Thomas Angermeier",
+    "contributions": 1
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "gha-npm-safe-install-from-private-repo",
+    "full_name": "sueddeutsche/gha-npm-safe-install-from-private-repo",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

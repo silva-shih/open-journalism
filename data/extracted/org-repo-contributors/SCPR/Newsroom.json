@@ -1,0 +1,38 @@
+[
+  {
+    "org": "SCPR",
+    "repo_name": "Newsroom",
+    "full_name": "SCPR/Newsroom",
+    "id": 978899,
+    "login": "bricker",
+    "user_name": "Bryan Ricker",
+    "contributions": 30
+  },
+  {
+    "org": "SCPR",
+    "repo_name": "Newsroom",
+    "full_name": "SCPR/Newsroom",
+    "id": 204350,
+    "login": "ewr",
+    "user_name": "Eric Richardson",
+    "contributions": 2
+  },
+  {
+    "org": "SCPR",
+    "repo_name": "Newsroom",
+    "full_name": "SCPR/Newsroom",
+    "id": 360040,
+    "login": "nakedsushi",
+    "user_name": "Louise",
+    "contributions": 1
+  },
+  {
+    "org": "SCPR",
+    "repo_name": "Newsroom",
+    "full_name": "SCPR/Newsroom",
+    "id": 495892,
+    "login": "mortonfox",
+    "user_name": "Morton Fox",
+    "contributions": 1
+  }
+]

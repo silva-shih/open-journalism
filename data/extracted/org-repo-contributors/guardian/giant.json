@@ -1,0 +1,155 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 328
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 5122968,
+    "login": "joelochlann",
+    "user_name": "Joseph Smith",
+    "contributions": 209
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 15894063,
+    "login": "marjisound",
+    "user_name": "Marjan Kalanaki",
+    "contributions": 194
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 395805,
+    "login": "mbarton",
+    "user_name": "Michael Barton",
+    "contributions": 61
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 5560113,
+    "login": "itsibitzi",
+    "user_name": "Sam Cutler",
+    "contributions": 50
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 17057932,
+    "login": "zekehuntergreen",
+    "user_name": "Zeke Hunter-Green",
+    "contributions": 48
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 10672792,
+    "login": "srbd",
+    "user_name": "S Dimmock",
+    "contributions": 31
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 7883129,
+    "login": "samanthagottlieb",
+    "user_name": "Samantha Gottlieb",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 11
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 57295823,
+    "login": "marsavar",
+    "user_name": "Mario Savarese",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 773940,
+    "login": "hoyla",
+    "user_name": "Luke Hoyland",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 638051,
+    "login": "gtrufitt",
+    "user_name": "Gareth Trufitt",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "giant",
+    "full_name": "guardian/giant",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

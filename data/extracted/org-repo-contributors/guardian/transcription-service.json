@@ -1,0 +1,56 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "transcription-service",
+    "full_name": "guardian/transcription-service",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 466
+  },
+  {
+    "org": "guardian",
+    "repo_name": "transcription-service",
+    "full_name": "guardian/transcription-service",
+    "id": 15894063,
+    "login": "marjisound",
+    "user_name": "Marjan Kalanaki",
+    "contributions": 126
+  },
+  {
+    "org": "guardian",
+    "repo_name": "transcription-service",
+    "full_name": "guardian/transcription-service",
+    "id": 17057932,
+    "login": "zekehuntergreen",
+    "user_name": "Zeke Hunter-Green",
+    "contributions": 54
+  },
+  {
+    "org": "guardian",
+    "repo_name": "transcription-service",
+    "full_name": "guardian/transcription-service",
+    "id": 10672792,
+    "login": "srbd",
+    "user_name": "S Dimmock",
+    "contributions": 24
+  },
+  {
+    "org": "guardian",
+    "repo_name": "transcription-service",
+    "full_name": "guardian/transcription-service",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "transcription-service",
+    "full_name": "guardian/transcription-service",
+    "id": 773940,
+    "login": "hoyla",
+    "user_name": "Luke Hoyland",
+    "contributions": 7
+  }
+]

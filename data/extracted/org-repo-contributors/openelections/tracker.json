@@ -1,0 +1,29 @@
+[
+  {
+    "org": "openelections",
+    "repo_name": "tracker",
+    "full_name": "openelections/tracker",
+    "id": 39200,
+    "login": "zstumgoren",
+    "user_name": "Serdar Tumgoren",
+    "contributions": 53
+  },
+  {
+    "org": "openelections",
+    "repo_name": "tracker",
+    "full_name": "openelections/tracker",
+    "id": 2214,
+    "login": "dwillis",
+    "user_name": "Derek Willis",
+    "contributions": 15
+  },
+  {
+    "org": "openelections",
+    "repo_name": "tracker",
+    "full_name": "openelections/tracker",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

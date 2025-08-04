@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "projectlocker",
+    "full_name": "guardian/projectlocker",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 594
+  },
+  {
+    "org": "guardian",
+    "repo_name": "projectlocker",
+    "full_name": "guardian/projectlocker",
+    "id": 10620802,
+    "login": "Dala0",
+    "user_name": "Dave Allison",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "projectlocker",
+    "full_name": "guardian/projectlocker",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "projectlocker",
+    "full_name": "guardian/projectlocker",
+    "id": 20578453,
+    "login": "yusufparkar",
+    "user_name": "Yusuf Parkar",
+    "contributions": 1
+  }
+]

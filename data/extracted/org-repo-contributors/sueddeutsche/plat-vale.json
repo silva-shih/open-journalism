@@ -1,0 +1,47 @@
+[
+  {
+    "org": "sueddeutsche",
+    "repo_name": "plat-vale",
+    "full_name": "sueddeutsche/plat-vale",
+    "id": 550533,
+    "login": "neovatar",
+    "user_name": "Thomas Seliger",
+    "contributions": 18
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "plat-vale",
+    "full_name": "sueddeutsche/plat-vale",
+    "id": 129749512,
+    "login": "mcz-sz",
+    "user_name": "Marcel Czaplinski",
+    "contributions": 9
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "plat-vale",
+    "full_name": "sueddeutsche/plat-vale",
+    "id": 141153387,
+    "login": "ccostasala",
+    "user_name": "Clara Costa",
+    "contributions": 5
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "plat-vale",
+    "full_name": "sueddeutsche/plat-vale",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "sueddeutsche",
+    "repo_name": "plat-vale",
+    "full_name": "sueddeutsche/plat-vale",
+    "id": 120454833,
+    "login": "tfisnl",
+    "user_name": "Tim Fischer",
+    "contributions": 1
+  }
+]

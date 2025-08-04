@@ -1,0 +1,83 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 150
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 95
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 80
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 17780995,
+    "login": "Divs-B",
+    "user_name": "Divya Bhatt",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 1229808,
+    "login": "alinaboghiu",
+    "user_name": "Alina Boghiu",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "etag-caching",
+    "full_name": "guardian/etag-caching",
+    "id": 19683595,
+    "login": "ioannakok",
+    "user_name": "Ioanna Kokkini",
+    "contributions": 1
+  }
+]

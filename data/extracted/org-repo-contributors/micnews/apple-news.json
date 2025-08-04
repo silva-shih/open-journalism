@@ -1,0 +1,56 @@
+[
+  {
+    "org": "micnews",
+    "repo_name": "apple-news",
+    "full_name": "micnews/apple-news",
+    "id": 12228305,
+    "login": "danmakenoise",
+    "user_name": "Dan Phillips",
+    "contributions": 23
+  },
+  {
+    "org": "micnews",
+    "repo_name": "apple-news",
+    "full_name": "micnews/apple-news",
+    "id": 12902630,
+    "login": "ryanscottaudio",
+    "user_name": "Ryan Campbell",
+    "contributions": 13
+  },
+  {
+    "org": "micnews",
+    "repo_name": "apple-news",
+    "full_name": "micnews/apple-news",
+    "id": 6034700,
+    "login": "iefserge",
+    "user_name": "Serge",
+    "contributions": 12
+  },
+  {
+    "org": "micnews",
+    "repo_name": "apple-news",
+    "full_name": "micnews/apple-news",
+    "id": 74128,
+    "login": "kesla",
+    "user_name": "David Bj\u00f6rklund",
+    "contributions": 8
+  },
+  {
+    "org": "micnews",
+    "repo_name": "apple-news",
+    "full_name": "micnews/apple-news",
+    "id": 4131117,
+    "login": "chris-olszewski",
+    "user_name": "Chris Olszewski",
+    "contributions": 1
+  },
+  {
+    "org": "micnews",
+    "repo_name": "apple-news",
+    "full_name": "micnews/apple-news",
+    "id": 14790466,
+    "login": "greenkeeperio-bot",
+    "user_name": "Greenkeeper",
+    "contributions": 1
+  }
+]

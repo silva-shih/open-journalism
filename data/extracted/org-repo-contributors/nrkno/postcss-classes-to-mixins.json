@@ -1,0 +1,65 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "postcss-classes-to-mixins",
+    "full_name": "nrkno/postcss-classes-to-mixins",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 14
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "postcss-classes-to-mixins",
+    "full_name": "nrkno/postcss-classes-to-mixins",
+    "id": 691801,
+    "login": "eirikbacker",
+    "user_name": "Eirik Backer",
+    "contributions": 12
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "postcss-classes-to-mixins",
+    "full_name": "nrkno/postcss-classes-to-mixins",
+    "id": 2345608,
+    "login": "skjalgepalg",
+    "user_name": "Skjalg",
+    "contributions": 6
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "postcss-classes-to-mixins",
+    "full_name": "nrkno/postcss-classes-to-mixins",
+    "id": 1709263,
+    "login": "htor",
+    "user_name": "Herman Torjussen",
+    "contributions": 4
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "postcss-classes-to-mixins",
+    "full_name": "nrkno/postcss-classes-to-mixins",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "postcss-classes-to-mixins",
+    "full_name": "nrkno/postcss-classes-to-mixins",
+    "id": 827205,
+    "login": "DanielRuf",
+    "user_name": "Daniel Ruf",
+    "contributions": 2
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "postcss-classes-to-mixins",
+    "full_name": "nrkno/postcss-classes-to-mixins",
+    "id": 30041018,
+    "login": "asmbatha",
+    "user_name": "Ayanda Mbatha",
+    "contributions": 1
+  }
+]

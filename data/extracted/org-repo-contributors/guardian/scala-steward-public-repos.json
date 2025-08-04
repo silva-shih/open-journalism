@@ -1,0 +1,137 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 75
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 19683595,
+    "login": "ioannakok",
+    "user_name": "Ioanna Kokkini",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 17780995,
+    "login": "Divs-B",
+    "user_name": "Divya Bhatt",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 45561419,
+    "login": "DavidLawes",
+    "user_name": "David Lawes",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 89925410,
+    "login": "waisingyiu",
+    "user_name": "Wai Sing Yiu",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-steward-public-repos",
+    "full_name": "guardian/scala-steward-public-repos",
+    "id": 47482049,
+    "login": "ParisaTork",
+    "user_name": "Parisa Tork",
+    "contributions": 1
+  }
+]

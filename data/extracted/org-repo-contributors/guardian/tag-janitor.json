@@ -1,0 +1,74 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 148
+  },
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 43
+  },
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 7239344,
+    "login": "michaelwmcnamara",
+    "user_name": "Michael McNamara",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "tag-janitor",
+    "full_name": "guardian/tag-janitor",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "recommendations-engine",
+    "full_name": "guardian/recommendations-engine",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 134
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recommendations-engine",
+    "full_name": "guardian/recommendations-engine",
+    "id": 951849,
+    "login": "maxspencer",
+    "user_name": "Max Spencer",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recommendations-engine",
+    "full_name": "guardian/recommendations-engine",
+    "id": 8526142,
+    "login": "agulowaty",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recommendations-engine",
+    "full_name": "guardian/recommendations-engine",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "recommendations-engine",
+    "full_name": "guardian/recommendations-engine",
+    "id": 15324270,
+    "login": "pvighi",
+    "user_name": "Patricio Vighi",
+    "contributions": 1
+  }
+]

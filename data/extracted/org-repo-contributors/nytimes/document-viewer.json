@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "document-viewer",
+    "full_name": "nytimes/document-viewer",
+    "id": 4732,
+    "login": "jashkenas",
+    "user_name": "Jeremy Ashkenas",
+    "contributions": 53
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "document-viewer",
+    "full_name": "nytimes/document-viewer",
+    "id": 130898,
+    "login": "amclean",
+    "user_name": "Alan McLean",
+    "contributions": 42
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "document-viewer",
+    "full_name": "nytimes/document-viewer",
+    "id": 35356,
+    "login": "bkoski",
+    "user_name": "Ben Koski",
+    "contributions": 2
+  }
+]

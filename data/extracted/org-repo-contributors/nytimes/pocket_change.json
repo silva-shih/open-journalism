@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "pocket_change",
+    "full_name": "nytimes/pocket_change",
+    "id": 1846937,
+    "login": "silasray",
+    "user_name": "Silas Ray",
+    "contributions": 35
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "pocket_change",
+    "full_name": "nytimes/pocket_change",
+    "id": 1459436,
+    "login": "mrandre",
+    "user_name": "Andre Behrens",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "pocket_change",
+    "full_name": "nytimes/pocket_change",
+    "id": 2228380,
+    "login": "jfiore",
+    "user_name": "Joe Fiore",
+    "contributions": 2
+  }
+]

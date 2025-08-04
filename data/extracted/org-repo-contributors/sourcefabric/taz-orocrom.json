@@ -1,0 +1,578 @@
+[
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3358411,
+    "login": "rgrebenchuk",
+    "user_name": "Roman Grebenchuk",
+    "contributions": 2300
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 4763952,
+    "login": "vsoroka",
+    "user_name": "Vova Soroka",
+    "contributions": 178
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 335396,
+    "login": "ignat-s",
+    "user_name": "Ignat Shcheglovskyi",
+    "contributions": 158
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3470882,
+    "login": "yshyshkin",
+    "user_name": "Yevhen Shyshkin",
+    "contributions": 153
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1615700,
+    "login": "yurio",
+    "user_name": "Yurii Muratov",
+    "contributions": 98
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 11687825,
+    "login": "oro-buildbot",
+    "user_name": null,
+    "contributions": 89
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3510470,
+    "login": "alex-n-2k7",
+    "user_name": "Alexander Nezdoiminoga",
+    "contributions": 70
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 131182,
+    "login": "Grygir",
+    "user_name": " Hryhorii Hrebiniuk",
+    "contributions": 68
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 81551523,
+    "login": "dkhrysev",
+    "user_name": "Dmytro Khrysiev",
+    "contributions": 64
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 196506,
+    "login": "x86demon",
+    "user_name": "Dmitry Khrysev",
+    "contributions": 62
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 193552,
+    "login": "ishakuta",
+    "user_name": "Ivan Shakuta",
+    "contributions": 61
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1804871,
+    "login": "dxops",
+    "user_name": "Serhii Zhuravel",
+    "contributions": 49
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 101315,
+    "login": "DimaSoroka",
+    "user_name": "Dima Soroka",
+    "contributions": 48
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 372534,
+    "login": "kotfalya",
+    "user_name": "Konstantin Falko",
+    "contributions": 46
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 298610,
+    "login": "ahilles107",
+    "user_name": "Pawe\u0142 Miko\u0142ajczuk",
+    "contributions": 37
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 6515146,
+    "login": "AlexandrDmitriev",
+    "user_name": "Aleksandr Dmytriiev",
+    "contributions": 33
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 562536,
+    "login": "takeit",
+    "user_name": "Rafa\u0142 Muszy\u0144ski",
+    "contributions": 29
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 165562,
+    "login": "mccar",
+    "user_name": "Makar",
+    "contributions": 24
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 6198444,
+    "login": "alexandr-parkhomenko",
+    "user_name": "Oleksandr Parkhomenko",
+    "contributions": 22
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 5183991,
+    "login": "anyt",
+    "user_name": "Andrii Yatsenko",
+    "contributions": 21
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 143206,
+    "login": "makasim",
+    "user_name": "Max Kotliar",
+    "contributions": 15
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3464988,
+    "login": "iklymenko",
+    "user_name": "Ivan Klymenko",
+    "contributions": 14
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 92912310,
+    "login": "SergeyZ",
+    "user_name": null,
+    "contributions": 13
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 12104945,
+    "login": "orocommerce-ci",
+    "user_name": null,
+    "contributions": 11
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 897885,
+    "login": "torchello",
+    "user_name": "Alex Torchenko",
+    "contributions": 9
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 4609435,
+    "login": "orocrmdeployer",
+    "user_name": "Oro Dev",
+    "contributions": 6
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1668719,
+    "login": "vitaliyberdylo",
+    "user_name": "Vitaliy Berdylo",
+    "contributions": 5
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1199347,
+    "login": "tumbochka",
+    "user_name": "Eugene Sodin",
+    "contributions": 4
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 183686,
+    "login": "eu-ge-ne",
+    "user_name": "Eugene Pobochny",
+    "contributions": 4
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1021703,
+    "login": "aivus",
+    "user_name": "Illia Antypenko",
+    "contributions": 3
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 2892840,
+    "login": "hurricane-voronin",
+    "user_name": "Denys Voronin",
+    "contributions": 3
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 524796,
+    "login": "yoavkutner",
+    "user_name": "Yoav Kutner",
+    "contributions": 3
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 17126482,
+    "login": "ikrynychanskyi",
+    "user_name": "Igor Krynychanskyi",
+    "contributions": 3
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 260329,
+    "login": "dincho",
+    "user_name": "Dincho Todorov",
+    "contributions": 3
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 22588947,
+    "login": "kisakova",
+    "user_name": "Kateryna Isakova",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3224886,
+    "login": "vladimirseniuk",
+    "user_name": "Vladimir Seniuk",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 6975005,
+    "login": "KonstantinPopov",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 537797,
+    "login": "ephrin",
+    "user_name": "Volodymyr Myrza",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 794449,
+    "login": "sadortun",
+    "user_name": "Samuel Denis-D'Ortun",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 876146,
+    "login": "zo0o0ot",
+    "user_name": "Ross Larson",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 17767002,
+    "login": "pusachev",
+    "user_name": "Pavlo Usachov",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 100460,
+    "login": "ASKozienko",
+    "user_name": "Alexander Kozienko",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 632282,
+    "login": "venimus",
+    "user_name": "Ivaylo Badinov",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3332593,
+    "login": "mkudelya",
+    "user_name": "Mike Kudelya",
+    "contributions": 2
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 7349477,
+    "login": "zebimax",
+    "user_name": "Maksym Perepelytsya",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 2362210,
+    "login": "encoder32",
+    "user_name": "Yauheni Kasenka",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 2741267,
+    "login": "vbyndych",
+    "user_name": "Vlad Byndych",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 2461466,
+    "login": "VladimirE",
+    "user_name": "Vladimir",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 25311,
+    "login": "vitaliyzolotoy",
+    "user_name": "Vitalii Zolotoi",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 365720,
+    "login": "vatson",
+    "user_name": "Vadim Tiukov",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1632382,
+    "login": "vadikdev",
+    "user_name": "Vadym Tokarchuk",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1337461,
+    "login": "sylvainraye",
+    "user_name": "Sylvain Ray\u00e9",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3541652,
+    "login": "sbani",
+    "user_name": "S Bani",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1117733,
+    "login": "serhiip",
+    "user_name": "Serhii Pererva",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 22641675,
+    "login": "SergiuParlea",
+    "user_name": "Sergiu Parlea",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 610598,
+    "login": "rafaelstz",
+    "user_name": "Rafael Corr\u00eaa Gomes",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 5339387,
+    "login": "MehdiRadhouani",
+    "user_name": "Mehdi Radhouani",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 9380556,
+    "login": "Krushelnitskiy",
+    "user_name": "Dmitriy Krushelnitskiy",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 517753,
+    "login": "webda2l",
+    "user_name": "David ALLIX",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 9135074,
+    "login": "DImaDsky",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 6931002,
+    "login": "CalinBolea",
+    "user_name": "Calin Bolea",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 3342980,
+    "login": "arsen-aliev",
+    "user_name": "Arsen Aliev",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 1453122,
+    "login": "amuzalevskiy",
+    "user_name": "Andrii Muzalevskyi",
+    "contributions": 1
+  },
+  {
+    "org": "sourcefabric",
+    "repo_name": "taz-orocrom",
+    "full_name": "sourcefabric/taz-orocrom",
+    "id": 5927797,
+    "login": "br0ther",
+    "user_name": "Andrew Fetisov",
+    "contributions": 1
+  }
+]

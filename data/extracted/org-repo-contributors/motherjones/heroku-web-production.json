@@ -1,0 +1,29 @@
+[
+  {
+    "org": "motherjones",
+    "repo_name": "heroku-web-production",
+    "full_name": "motherjones/heroku-web-production",
+    "id": 21133007,
+    "login": "ykmojo",
+    "user_name": "Young Kim",
+    "contributions": 2
+  },
+  {
+    "org": "motherjones",
+    "repo_name": "heroku-web-production",
+    "full_name": "motherjones/heroku-web-production",
+    "id": 309214,
+    "login": "benbreedlove",
+    "user_name": "Ben Breedlove",
+    "contributions": 2
+  },
+  {
+    "org": "motherjones",
+    "repo_name": "heroku-web-production",
+    "full_name": "motherjones/heroku-web-production",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

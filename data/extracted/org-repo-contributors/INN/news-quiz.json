@@ -1,0 +1,29 @@
+[
+  {
+    "org": "INN",
+    "repo_name": "news-quiz",
+    "full_name": "INN/news-quiz",
+    "id": 1754187,
+    "login": "benlk",
+    "user_name": "Ben Keith",
+    "contributions": 13
+  },
+  {
+    "org": "INN",
+    "repo_name": "news-quiz",
+    "full_name": "INN/news-quiz",
+    "id": 3745345,
+    "login": "wjhdev",
+    "user_name": "Will Haynes",
+    "contributions": 13
+  },
+  {
+    "org": "INN",
+    "repo_name": "news-quiz",
+    "full_name": "INN/news-quiz",
+    "id": 490703,
+    "login": "aschweigert",
+    "user_name": "Adam Schweigert",
+    "contributions": 3
+  }
+]

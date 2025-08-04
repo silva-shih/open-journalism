@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "gunsales",
+    "full_name": "nytimes/gunsales",
+    "id": 673121,
+    "login": "eddelbuettel",
+    "user_name": "Dirk Eddelbuettel",
+    "contributions": 78
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gunsales",
+    "full_name": "nytimes/gunsales",
+    "id": 617518,
+    "login": "gka",
+    "user_name": "Gregor Aisch",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "gunsales",
+    "full_name": "nytimes/gunsales",
+    "id": 1291137,
+    "login": "joshkeller",
+    "user_name": "Josh Keller",
+    "contributions": 2
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "scala-school",
+    "full_name": "guardian/scala-school",
+    "id": 3072877,
+    "login": "lmath",
+    "user_name": "Leigh-Anne Mathieson",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-school",
+    "full_name": "guardian/scala-school",
+    "id": 2242307,
+    "login": "paulmr",
+    "user_name": "Paul Roberts",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-school",
+    "full_name": "guardian/scala-school",
+    "id": 1289259,
+    "login": "dominickendrick",
+    "user_name": "Dominic Kendrick",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-school",
+    "full_name": "guardian/scala-school",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-school",
+    "full_name": "guardian/scala-school",
+    "id": 1168033,
+    "login": "alfavata",
+    "user_name": "Antonio Favata",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-school",
+    "full_name": "guardian/scala-school",
+    "id": 1001642,
+    "login": "robertberry-zz",
+    "user_name": "Rob Berry",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "scala-school",
+    "full_name": "guardian/scala-school",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 2
+  }
+]

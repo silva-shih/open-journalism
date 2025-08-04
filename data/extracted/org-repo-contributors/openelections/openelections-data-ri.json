@@ -1,0 +1,47 @@
+[
+  {
+    "org": "openelections",
+    "repo_name": "openelections-data-ri",
+    "full_name": "openelections/openelections-data-ri",
+    "id": 2214,
+    "login": "dwillis",
+    "user_name": "Derek Willis",
+    "contributions": 41
+  },
+  {
+    "org": "openelections",
+    "repo_name": "openelections-data-ri",
+    "full_name": "openelections/openelections-data-ri",
+    "id": 17345532,
+    "login": "warwickmm",
+    "user_name": null,
+    "contributions": 23
+  },
+  {
+    "org": "openelections",
+    "repo_name": "openelections-data-ri",
+    "full_name": "openelections/openelections-data-ri",
+    "id": 48337699,
+    "login": "Pnoddy1",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "openelections",
+    "repo_name": "openelections-data-ri",
+    "full_name": "openelections/openelections-data-ri",
+    "id": 249463,
+    "login": "tbarmann",
+    "user_name": "Timothy Barmann",
+    "contributions": 4
+  },
+  {
+    "org": "openelections",
+    "repo_name": "openelections-data-ri",
+    "full_name": "openelections/openelections-data-ri",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 2
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2305016,
+    "login": "feedmypixel",
+    "user_name": "Ben Chidgey",
+    "contributions": 1774
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 123386,
+    "login": "davidrapson",
+    "user_name": "David Rapson",
+    "contributions": 1420
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 777
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 394376,
+    "login": "mattandrews",
+    "user_name": "Matt Andrews",
+    "contributions": 556
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1170410,
+    "login": "chrisfinch",
+    "user_name": "Chris Finch",
+    "contributions": 418
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1517761,
+    "login": "jamesoram",
+    "user_name": "James Oram",
+    "contributions": 326
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2670496,
+    "login": "AWare",
+    "user_name": "Alex Ware",
+    "contributions": 313
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 181371,
+    "login": "rupertbates",
+    "user_name": "Rupert Bates",
+    "contributions": 294
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1681458,
+    "login": "pcostan",
+    "user_name": "Paul Costan",
+    "contributions": 285
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 5122968,
+    "login": "joelochlann",
+    "user_name": "Joseph Smith",
+    "contributions": 246
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 239
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1515970,
+    "login": "paulbrown1982",
+    "user_name": "Paul Brown",
+    "contributions": 222
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 180
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 690395,
+    "login": "JustinPinner",
+    "user_name": "Justin Pinner",
+    "contributions": 166
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1590704,
+    "login": "GHaberis",
+    "user_name": "George Haberis",
+    "contributions": 153
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 5131341,
+    "login": "Ap0c",
+    "user_name": "JamieB",
+    "contributions": 144
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 116
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 92
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 73653255,
+    "login": "LAKSHMIRPILLAI",
+    "user_name": "Lakshmi R Pillai",
+    "contributions": 80
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 825398,
+    "login": "svillafe",
+    "user_name": "Santi",
+    "contributions": 77
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1492162,
+    "login": "tudorraul",
+    "user_name": "Raul Tudor",
+    "contributions": 65
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 61
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 58
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2844554,
+    "login": "jranks123",
+    "user_name": "Jonathan Rankin",
+    "contributions": 50
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1781471,
+    "login": "ostapneko",
+    "user_name": "Thomas Franquelin",
+    "contributions": 44
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1388226,
+    "login": "tomverran",
+    "user_name": "Tom",
+    "contributions": 43
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 29146931,
+    "login": "i-hardy",
+    "user_name": "Imogen Hardy",
+    "contributions": 37
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1289259,
+    "login": "dominickendrick",
+    "user_name": "Dominic Kendrick",
+    "contributions": 36
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 406099,
+    "login": "markjamesbutler",
+    "user_name": "Mark Butler",
+    "contributions": 35
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 481903,
+    "login": "marchibbins",
+    "user_name": "Marc Hibbins",
+    "contributions": 30
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 3072877,
+    "login": "lmath",
+    "user_name": "Leigh-Anne Mathieson",
+    "contributions": 25
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 44685872,
+    "login": "marialani",
+    "user_name": "Maria ",
+    "contributions": 24
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 80583,
+    "login": "chrisjowen",
+    "user_name": "Chris Owen",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 15324270,
+    "login": "pvighi",
+    "user_name": "Patricio Vighi",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1064734,
+    "login": "desbo",
+    "user_name": "Sam Desborough",
+    "contributions": 17
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 7239344,
+    "login": "michaelwmcnamara",
+    "user_name": "Michael McNamara",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1222298,
+    "login": "ikenna",
+    "user_name": "Ikenna Nwaiwu",
+    "contributions": 14
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 14
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 5180882,
+    "login": "stephaniefoster",
+    "user_name": "Stephanie Foster",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2104095,
+    "login": "shaundillon",
+    "user_name": "Dillbotnik",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 8192673,
+    "login": "LindaMooney",
+    "user_name": "Linda Mooney",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 16781258,
+    "login": "lucymonie",
+    "user_name": "Lucy Monie Hall",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 106528085,
+    "login": "akinsola-guardian",
+    "user_name": "Akinsola Lawanson",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 63361,
+    "login": "afiore",
+    "user_name": "Andrea Fiore",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 4085817,
+    "login": "Mullefa",
+    "user_name": "Guy Dawson",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2153620,
+    "login": "DiegoVazquezNanini",
+    "user_name": "Diego Vazquez Nanini",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2734323,
+    "login": "TesterSpike",
+    "user_name": "Sean Pike",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 5294853,
+    "login": "arausuy",
+    "user_name": "Yusuf Faraji",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 9122944,
+    "login": "buck06191",
+    "user_name": "Josh Buckland",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 45875444,
+    "login": "damien-shaw-guardian",
+    "user_name": "Damien Shaw",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 13120455,
+    "login": "blackyjnz",
+    "user_name": "Jeff Bannister",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 55701358,
+    "login": "worldofpablo",
+    "user_name": "Paul Heron",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 164991,
+    "login": "niklasvincent",
+    "user_name": "Niklas Vincent",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 18397,
+    "login": "gf3",
+    "user_name": "Gianni Chiappetta",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 8526142,
+    "login": "agulowaty",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 16137241,
+    "login": "AnnaChesters",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 33927854,
+    "login": "rebecca-thompson",
+    "user_name": "Rebecca Thompson",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 130582307,
+    "login": "vlkerag",
+    "user_name": "Anna Voelker",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 45856485,
+    "login": "SarahLaughton",
+    "user_name": "Sarah Laughton",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 48949546,
+    "login": "ripecosta",
+    "user_name": "Ricardo Costa",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 29203769,
+    "login": "QuarpT",
+    "user_name": "Peter C",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 76729591,
+    "login": "paul-daniel-dempsey",
+    "user_name": "Paul Dempsey",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 7659183,
+    "login": "davidmcdowell",
+    "user_name": "David McDowell",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2067172,
+    "login": "mr-mr",
+    "user_name": "Chris J Clarke",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 1645142,
+    "login": "alexflav23",
+    "user_name": "Flavian Alexandru",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 25020231,
+    "login": "michaelbjacobson",
+    "user_name": "Michael Jacobson",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 118187364,
+    "login": "pawel-krupinski-guardian",
+    "user_name": "Pawe\u0142 Krupi\u0144ski",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 7312,
+    "login": "rrees",
+    "user_name": "Robert Rees",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 9384003,
+    "login": "sookburt",
+    "user_name": "Sue Burt",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "membership-frontend",
+    "full_name": "guardian/membership-frontend",
+    "id": 2103452,
+    "login": "vivekkr",
+    "user_name": "Vivek K",
+    "contributions": 1
+  }
+]

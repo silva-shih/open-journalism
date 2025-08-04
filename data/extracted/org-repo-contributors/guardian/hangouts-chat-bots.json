@@ -1,0 +1,65 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "hangouts-chat-bots",
+    "full_name": "guardian/hangouts-chat-bots",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hangouts-chat-bots",
+    "full_name": "guardian/hangouts-chat-bots",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hangouts-chat-bots",
+    "full_name": "guardian/hangouts-chat-bots",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hangouts-chat-bots",
+    "full_name": "guardian/hangouts-chat-bots",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hangouts-chat-bots",
+    "full_name": "guardian/hangouts-chat-bots",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hangouts-chat-bots",
+    "full_name": "guardian/hangouts-chat-bots",
+    "id": 1064734,
+    "login": "desbo",
+    "user_name": "Sam Desborough",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "hangouts-chat-bots",
+    "full_name": "guardian/hangouts-chat-bots",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 2
+  }
+]

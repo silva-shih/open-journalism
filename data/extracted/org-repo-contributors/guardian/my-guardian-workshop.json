@@ -1,0 +1,65 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "my-guardian-workshop",
+    "full_name": "guardian/my-guardian-workshop",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 34
+  },
+  {
+    "org": "guardian",
+    "repo_name": "my-guardian-workshop",
+    "full_name": "guardian/my-guardian-workshop",
+    "id": 5122968,
+    "login": "joelochlann",
+    "user_name": "Joseph Smith",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "my-guardian-workshop",
+    "full_name": "guardian/my-guardian-workshop",
+    "id": 8484757,
+    "login": "tsop14",
+    "user_name": "EM",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "my-guardian-workshop",
+    "full_name": "guardian/my-guardian-workshop",
+    "id": 5154737,
+    "login": "jukecraft",
+    "user_name": "Juke",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "my-guardian-workshop",
+    "full_name": "guardian/my-guardian-workshop",
+    "id": 6666113,
+    "login": "susiecoleman",
+    "user_name": "Susie Coleman",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "my-guardian-workshop",
+    "full_name": "guardian/my-guardian-workshop",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "my-guardian-workshop",
+    "full_name": "guardian/my-guardian-workshop",
+    "id": 395805,
+    "login": "mbarton",
+    "user_name": "Michael Barton",
+    "contributions": 1
+  }
+]

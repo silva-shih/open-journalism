@@ -1,0 +1,74 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 38
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 27
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 26
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 2670496,
+    "login": "AWare",
+    "user_name": "Alex Ware",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 10913420,
+    "login": "mkuzdowicz",
+    "user_name": "Marcin Kuzdowicz",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid-cli",
+    "full_name": "guardian/grid-cli",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "public_api_specs",
+    "full_name": "nytimes/public_api_specs",
+    "id": 11065569,
+    "login": "nyt-hughmandeville",
+    "user_name": "Hubert Mandeville",
+    "contributions": 107
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "public_api_specs",
+    "full_name": "nytimes/public_api_specs",
+    "id": 594123,
+    "login": "scottefein",
+    "user_name": "Scott Feinberg",
+    "contributions": 9
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "public_api_specs",
+    "full_name": "nytimes/public_api_specs",
+    "id": 1562767,
+    "login": "dperjar",
+    "user_name": "Dan Perjar",
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "public_api_specs",
+    "full_name": "nytimes/public_api_specs",
+    "id": 8336157,
+    "login": "IvanGoncharov",
+    "user_name": "Ivan Goncharov",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "public_api_specs",
+    "full_name": "nytimes/public_api_specs",
+    "id": 99822,
+    "login": "hossain-khan",
+    "user_name": "Hossain Khan",
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "public_api_specs",
+    "full_name": "nytimes/public_api_specs",
+    "id": 94378,
+    "login": "jhigginbotham",
+    "user_name": "James Higginbotham",
+    "contributions": 1
+  }
+]

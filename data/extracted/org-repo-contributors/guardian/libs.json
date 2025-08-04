@@ -1,0 +1,173 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 132
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 41
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 1336821,
+    "login": "oliverlloyd",
+    "user_name": "Oliver Lloyd",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 77005274,
+    "login": "joecowton1",
+    "user_name": "Joe Cowton",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 7014230,
+    "login": "arelra",
+    "user_name": "Ravi",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 15894063,
+    "login": "marjisound",
+    "user_name": "Marjan Kalanaki",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 13315440,
+    "login": "coldlink",
+    "user_name": "Mahesh Makani",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 1229808,
+    "login": "alinaboghiu",
+    "user_name": "Alina Boghiu",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 20658471,
+    "login": "HarryFischer",
+    "user_name": "Harry Fischer",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 51630004,
+    "login": "ioanna0",
+    "user_name": "Ioanna Kyprianou",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 3300789,
+    "login": "jlieb10",
+    "user_name": "Joshua",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 379839,
+    "login": "tjmw",
+    "user_name": "Tom Wey",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "libs",
+    "full_name": "guardian/libs",
+    "id": 32174276,
+    "login": "semantic-release-bot",
+    "user_name": "Semantic Release Bot",
+    "contributions": 1
+  }
+]

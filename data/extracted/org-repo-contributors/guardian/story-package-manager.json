@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "story-package-manager",
+    "full_name": "guardian/story-package-manager",
+    "id": 1170410,
+    "login": "chrisfinch",
+    "user_name": "Chris Finch",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "story-package-manager",
+    "full_name": "guardian/story-package-manager",
+    "id": 5154737,
+    "login": "jukecraft",
+    "user_name": "Juke",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "story-package-manager",
+    "full_name": "guardian/story-package-manager",
+    "id": 638051,
+    "login": "gtrufitt",
+    "user_name": "Gareth Trufitt",
+    "contributions": 1
+  }
+]

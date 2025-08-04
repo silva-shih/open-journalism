@@ -1,0 +1,47 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "integration-tools",
+    "full_name": "guardian/integration-tools",
+    "id": 1236466,
+    "login": "sihil",
+    "user_name": "Simon Hildrew",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "integration-tools",
+    "full_name": "guardian/integration-tools",
+    "id": 76709,
+    "login": "gklopper",
+    "user_name": "Grant Klopper",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "integration-tools",
+    "full_name": "guardian/integration-tools",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "integration-tools",
+    "full_name": "guardian/integration-tools",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "integration-tools",
+    "full_name": "guardian/integration-tools",
+    "id": 55859,
+    "login": "robb1e",
+    "user_name": "Robbie Clutton",
+    "contributions": 1
+  }
+]

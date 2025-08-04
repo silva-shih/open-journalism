@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "sbt-dist-plugin",
+    "full_name": "guardian/sbt-dist-plugin",
+    "id": 145254,
+    "login": "steppenwells",
+    "user_name": "Stephen Wells",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-dist-plugin",
+    "full_name": "guardian/sbt-dist-plugin",
+    "id": 51444,
+    "login": "tackley",
+    "user_name": "Graham Tackley",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-dist-plugin",
+    "full_name": "guardian/sbt-dist-plugin",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sbt-dist-plugin",
+    "full_name": "guardian/sbt-dist-plugin",
+    "id": 76709,
+    "login": "gklopper",
+    "user_name": "Grant Klopper",
+    "contributions": 1
+  }
+]

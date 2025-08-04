@@ -1,0 +1,29 @@
+[
+  {
+    "org": "openstates",
+    "repo_name": "bobsled",
+    "full_name": "openstates/bobsled",
+    "id": 8034,
+    "login": "jamesturk",
+    "user_name": "jpt",
+    "contributions": 479
+  },
+  {
+    "org": "openstates",
+    "repo_name": "bobsled",
+    "full_name": "openstates/bobsled",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 14
+  },
+  {
+    "org": "openstates",
+    "repo_name": "bobsled",
+    "full_name": "openstates/bobsled",
+    "id": 11054074,
+    "login": "jessemortenson",
+    "user_name": "Jesse Mortenson",
+    "contributions": 6
+  }
+]

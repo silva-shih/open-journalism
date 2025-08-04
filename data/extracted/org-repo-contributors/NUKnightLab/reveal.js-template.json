@@ -1,0 +1,740 @@
+[
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 629429,
+    "login": "hakimel",
+    "user_name": "Hakim El Hattab",
+    "contributions": 730
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 441011,
+    "login": "mischah",
+    "user_name": "Michael K\u00fchnel",
+    "contributions": 28
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 631832,
+    "login": "davidbanham",
+    "user_name": "David Banham",
+    "contributions": 14
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1836017,
+    "login": "owenversteeg",
+    "user_name": "Owen Versteeg",
+    "contributions": 13
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 58987,
+    "login": "rmurphey",
+    "user_name": "Rebecca Murphey",
+    "contributions": 12
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 33569,
+    "login": "dandv",
+    "user_name": "Dan Dascalescu",
+    "contributions": 11
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 450168,
+    "login": "asmod3us",
+    "user_name": "Achim Staebler",
+    "contributions": 6
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1077075,
+    "login": "TylerFisher",
+    "user_name": "Tyler Fisher",
+    "contributions": 5
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 308601,
+    "login": "gturri",
+    "user_name": "Guillaume Turri",
+    "contributions": 4
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 159,
+    "login": "technicalpickles",
+    "user_name": "Josh Nichols",
+    "contributions": 4
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1297909,
+    "login": "nschonni",
+    "user_name": "Nick Schonning",
+    "contributions": 4
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1536390,
+    "login": "tkaczmarzyk",
+    "user_name": "Tomasz Kaczmarzyk",
+    "contributions": 4
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 55860,
+    "login": "mahemoff",
+    "user_name": "Michael Mahemoff",
+    "contributions": 3
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 563460,
+    "login": "commadelimited",
+    "user_name": "Andy Matthews",
+    "contributions": 3
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 217588,
+    "login": "danielmitd",
+    "user_name": "Daniel Hartmann",
+    "contributions": 3
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1530504,
+    "login": "akiersky",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 456426,
+    "login": "webpro",
+    "user_name": "Lars Kappert",
+    "contributions": 3
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 497600,
+    "login": "ericweikl",
+    "user_name": "Eric Weikl",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 811962,
+    "login": "ob1",
+    "user_name": "Ofer Belinsky",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 166835,
+    "login": "russellbeattie",
+    "user_name": "Russell Beattie",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 878794,
+    "login": "ricklupton",
+    "user_name": "Rick Lupton",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 393660,
+    "login": "cfjedimaster",
+    "user_name": "Raymond Camden",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 722388,
+    "login": "olivierphi",
+    "user_name": "Olivier Philippon",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 4316101,
+    "login": "nstanger",
+    "user_name": "Nigel Stanger",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 39759,
+    "login": "max-mapper",
+    "user_name": "Max",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 2955084,
+    "login": "razor-1",
+    "user_name": "Jon",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 171276,
+    "login": "jaberg",
+    "user_name": "James Bergstra",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 104391,
+    "login": "jjallaire",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 118016,
+    "login": "ericduran",
+    "user_name": "Eric J. Duran",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1702247,
+    "login": "iMilnb",
+    "user_name": "iMil",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 265649,
+    "login": "bleathem",
+    "user_name": "Brian Leathem",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 654041,
+    "login": "amitkot",
+    "user_name": "Amit Kotlovski",
+    "contributions": 2
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 14654,
+    "login": "tansengming",
+    "user_name": "SengMing Tan",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1232730,
+    "login": "roryhardy",
+    "user_name": "Rory Hardy",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 327887,
+    "login": "snowyu",
+    "user_name": "Riceball LEE",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 708296,
+    "login": "remybach",
+    "user_name": "R\u00e9my Bach",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1336823,
+    "login": "rhudea",
+    "user_name": "Raul Hudea",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 918891,
+    "login": "philipbjorge",
+    "user_name": "Philip Bjorge",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 509375,
+    "login": "naugtur",
+    "user_name": "Zbyszek Tenerowicz",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 460811,
+    "login": "sithmel",
+    "user_name": "Maurizio Lupo",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 454758,
+    "login": "matthewlein",
+    "user_name": "Matthew Lein",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1035068,
+    "login": "MatthewEppelsheimer",
+    "user_name": "Matthew Eppelsheimer",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 4209063,
+    "login": "kurtsson",
+    "user_name": "Martin Kurtsson",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 461491,
+    "login": "mrshu",
+    "user_name": "Marek \u0160uppa",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 315224,
+    "login": "marcvangend",
+    "user_name": "Marc van Gend",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1529452,
+    "login": "Sinetheta",
+    "user_name": "Kevin Attfield",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 459632,
+    "login": "ziggystar",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 10280,
+    "login": "tlevine",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 143527,
+    "login": "basecode",
+    "user_name": "Tobi Reiss",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 563651,
+    "login": "thcipriani",
+    "user_name": "Tyler Cipriani",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 415498,
+    "login": "functino",
+    "user_name": "Andreas",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 463317,
+    "login": "altryne",
+    "user_name": "Alex Volkov",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 492025,
+    "login": "callmephilip",
+    "user_name": "Philip Nuzhnyi",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 885935,
+    "login": "danse",
+    "user_name": "frances",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 101693,
+    "login": "harriha",
+    "user_name": "Harri H\u00e4likk\u00e4",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1308419,
+    "login": "tomByrer",
+    "user_name": "Tom Byrer",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 128594,
+    "login": "ynonp",
+    "user_name": "Ynon Perek",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 462255,
+    "login": "eightysteele",
+    "user_name": "Aaron Steele",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 161387,
+    "login": "ainformatico",
+    "user_name": "Alejandro Dev.",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 351045,
+    "login": "archive",
+    "user_name": "Anders",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 281689,
+    "login": "hashar",
+    "user_name": "Antoine Musso",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 2535908,
+    "login": "asmaps",
+    "user_name": "Arne Schauf",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 25185,
+    "login": "brunobord",
+    "user_name": "Bruno Bord",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1040758,
+    "login": "catalinbuzoiu",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 21318,
+    "login": "yourcelf",
+    "user_name": "Charlie DeTar",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 2024917,
+    "login": "lordsutch",
+    "user_name": "Chris Lawrence",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 81654,
+    "login": "gdamjan",
+    "user_name": "\u0414\u0430\u043c\u0458\u0430\u043d \u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 510465,
+    "login": "ffissore",
+    "user_name": "Federico Fissore",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 7001,
+    "login": "Fil",
+    "user_name": "Philippe Rivi\u00e8re",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1590554,
+    "login": "gjmurakami-10gen",
+    "user_name": "Gary J. Murakami, Ph.D.",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 39390,
+    "login": "gouravtiwari",
+    "user_name": "Gourav Tiwari",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 274303,
+    "login": "Hlynsson",
+    "user_name": "Hansi",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 18144,
+    "login": "toy",
+    "user_name": "Ivan Kuchin",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 557751,
+    "login": "vertti",
+    "user_name": "Janne Sinivirta",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1213510,
+    "login": "jmdobry",
+    "user_name": "Jason Dobry",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 13164,
+    "login": "frockenstein",
+    "user_name": "Jason Finneyfrock",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 244663,
+    "login": "jmikola",
+    "user_name": "Jeremy Mikola",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 908679,
+    "login": "joelrbrandt",
+    "user_name": "Joel Brandt",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 1817,
+    "login": "jish",
+    "user_name": "Josh Lubaway",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 591833,
+    "login": "theoreticaLee",
+    "user_name": "Lee Leathers",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 248061,
+    "login": "lawilliams",
+    "user_name": "Luke Williams",
+    "contributions": 1
+  },
+  {
+    "org": "NUKnightLab",
+    "repo_name": "reveal.js-template",
+    "full_name": "NUKnightLab/reveal.js-template",
+    "id": 239546,
+    "login": "manuelbieh",
+    "user_name": "Manuel Bieh",
+    "contributions": 1
+  }
+]

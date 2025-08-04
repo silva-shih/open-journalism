@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "fapi-client",
+    "full_name": "guardian/fapi-client",
+    "id": 29761,
+    "login": "adamnfish",
+    "user_name": "Adam Fisher",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fapi-client",
+    "full_name": "guardian/fapi-client",
+    "id": 445472,
+    "login": "janua",
+    "user_name": "Francis",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fapi-client",
+    "full_name": "guardian/fapi-client",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 1
+  }
+]

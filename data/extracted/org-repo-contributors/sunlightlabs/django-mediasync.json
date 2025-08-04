@@ -1,0 +1,92 @@
+[
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 39159,
+    "login": "jcarbaugh",
+    "user_name": "Jeremy Carbaugh",
+    "contributions": 175
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 1106,
+    "login": "robhudson",
+    "user_name": "Rob Hudson",
+    "contributions": 16
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 34866,
+    "login": "richleland",
+    "user_name": "Richard Leland",
+    "contributions": 8
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 379476,
+    "login": "k-anon",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 8034,
+    "login": "jamesturk",
+    "user_name": "jpt",
+    "contributions": 2
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 3103651,
+    "login": "bashz",
+    "user_name": "Bash",
+    "contributions": 1
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 619776,
+    "login": "radicalbiscuit",
+    "user_name": "Bradley Gentry",
+    "contributions": 1
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 75556,
+    "login": "gtaylor",
+    "user_name": "Greg Taylor",
+    "contributions": 1
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 199166,
+    "login": "petersanchez",
+    "user_name": "Peter Sanchez",
+    "contributions": 1
+  },
+  {
+    "org": "sunlightlabs",
+    "repo_name": "django-mediasync",
+    "full_name": "sunlightlabs/django-mediasync",
+    "id": 4413,
+    "login": "vkurup",
+    "user_name": "Vinod Kurup",
+    "contributions": 1
+  }
+]

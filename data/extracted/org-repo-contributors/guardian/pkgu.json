@@ -1,0 +1,38 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pkgu",
+    "full_name": "guardian/pkgu",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 49
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pkgu",
+    "full_name": "guardian/pkgu",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pkgu",
+    "full_name": "guardian/pkgu",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pkgu",
+    "full_name": "guardian/pkgu",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 2
+  }
+]

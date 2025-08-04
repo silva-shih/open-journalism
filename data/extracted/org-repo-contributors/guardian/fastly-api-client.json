@@ -1,0 +1,209 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 27
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 19683595,
+    "login": "ioannakok",
+    "user_name": "Ioanna Kokkini",
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 110032454,
+    "login": "DanielCliftonGuardian",
+    "user_name": "Daniel Clifton",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 57295823,
+    "login": "marsavar",
+    "user_name": "Mario Savarese",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 1166188,
+    "login": "jamesmockett",
+    "user_name": "James Mockett",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 705427,
+    "login": "georgeblahblah",
+    "user_name": "George B",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 15894063,
+    "login": "marjisound",
+    "user_name": "Marjan Kalanaki",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 2623668,
+    "login": "gschorkopf",
+    "user_name": "Geoffrey Schorkopf",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 547496,
+    "login": "mbseid",
+    "user_name": "Michael Seid",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 311680,
+    "login": "thommahoney",
+    "user_name": "Thom Mahoney",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "fastly-api-client",
+    "full_name": "guardian/fastly-api-client",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "org": "liberation",
+    "repo_name": "django-admincommand",
+    "full_name": "liberation/django-admincommand",
+    "id": 7444897,
+    "login": "amirouche",
+    "user_name": null,
+    "contributions": 22
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admincommand",
+    "full_name": "liberation/django-admincommand",
+    "id": 187006,
+    "login": "diox",
+    "user_name": "Mathieu Pillard",
+    "contributions": 3
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admincommand",
+    "full_name": "liberation/django-admincommand",
+    "id": 913361,
+    "login": "sbussetti",
+    "user_name": "Steve Bussetti",
+    "contributions": 2
+  },
+  {
+    "org": "liberation",
+    "repo_name": "django-admincommand",
+    "full_name": "liberation/django-admincommand",
+    "id": 688668,
+    "login": "lauxley",
+    "user_name": "robin Tissot",
+    "contributions": 1
+  }
+]

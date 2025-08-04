@@ -1,0 +1,29 @@
+[
+  {
+    "org": "radiofrance",
+    "repo_name": "s3-exporter",
+    "full_name": "radiofrance/s3-exporter",
+    "id": 42968436,
+    "login": "antoinegelloz",
+    "user_name": "Antoine Gelloz",
+    "contributions": 15
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "s3-exporter",
+    "full_name": "radiofrance/s3-exporter",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 12
+  },
+  {
+    "org": "radiofrance",
+    "repo_name": "s3-exporter",
+    "full_name": "radiofrance/s3-exporter",
+    "id": 547609,
+    "login": "uZer",
+    "user_name": "Youenn Piolet",
+    "contributions": 1
+  }
+]

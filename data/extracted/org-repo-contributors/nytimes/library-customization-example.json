@@ -1,0 +1,29 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "library-customization-example",
+    "full_name": "nytimes/library-customization-example",
+    "id": 2843237,
+    "login": "isaacwhite",
+    "user_name": "Isaac White",
+    "contributions": 11
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "library-customization-example",
+    "full_name": "nytimes/library-customization-example",
+    "id": 5422397,
+    "login": "afischer",
+    "user_name": "Andrew Fischer",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "library-customization-example",
+    "full_name": "nytimes/library-customization-example",
+    "id": 23054741,
+    "login": "maxine",
+    "user_name": "Maxine Whitely",
+    "contributions": 1
+  }
+]

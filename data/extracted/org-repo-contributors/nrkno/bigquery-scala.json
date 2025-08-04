@@ -1,0 +1,92 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 75431,
+    "login": "hamnis",
+    "user_name": "Erlend Hamnaberg",
+    "contributions": 479
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 2236693,
+    "login": "ingarabr",
+    "user_name": "Ingar Abrahamsen",
+    "contributions": 90
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 108923791,
+    "login": "datahub-steward[bot]",
+    "user_name": null,
+    "contributions": 58
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 2824245,
+    "login": "HenningKoller",
+    "user_name": "Henning Grimeland Koller",
+    "contributions": 48
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 115988480,
+    "login": "TSommerdal",
+    "user_name": "Tor Fredrik Sommerdal",
+    "contributions": 27
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 8640276,
+    "login": "mariuene",
+    "user_name": "marius enerly",
+    "contributions": 5
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 17601601,
+    "login": "eirikhalvard",
+    "user_name": "Eirik Halvard S\u00e6ther",
+    "contributions": 3
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 16589313,
+    "login": "hallvardlid",
+    "user_name": "Hallvard Lid",
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 4037769,
+    "login": "NegatioN",
+    "user_name": "Joakim Rishaug",
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "bigquery-scala",
+    "full_name": "nrkno/bigquery-scala",
+    "id": 490098,
+    "login": "turb",
+    "user_name": "S. Veyri\u00e9",
+    "contributions": 1
+  }
+]

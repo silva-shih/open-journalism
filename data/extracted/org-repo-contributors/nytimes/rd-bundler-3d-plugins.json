@@ -1,0 +1,38 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "rd-bundler-3d-plugins",
+    "full_name": "nytimes/rd-bundler-3d-plugins",
+    "id": 1848368,
+    "login": "donmccurdy",
+    "user_name": "Don McCurdy",
+    "contributions": 8
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "rd-bundler-3d-plugins",
+    "full_name": "nytimes/rd-bundler-3d-plugins",
+    "id": 15909884,
+    "login": "juniorxsound",
+    "user_name": "Or Fleisher",
+    "contributions": 6
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "rd-bundler-3d-plugins",
+    "full_name": "nytimes/rd-bundler-3d-plugins",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "rd-bundler-3d-plugins",
+    "full_name": "nytimes/rd-bundler-3d-plugins",
+    "id": 20320695,
+    "login": "ixxie",
+    "user_name": "Matan Bendix Shenhav",
+    "contributions": 1
+  }
+]

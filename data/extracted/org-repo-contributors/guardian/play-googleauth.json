@@ -1,0 +1,344 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 227
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 159
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 110
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 1236466,
+    "login": "sihil",
+    "user_name": "Simon Hildrew",
+    "contributions": 69
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 29761,
+    "login": "adamnfish",
+    "user_name": "Adam Fisher",
+    "contributions": 27
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 43047562,
+    "login": "scala-steward",
+    "user_name": "Scala Steward",
+    "contributions": 25
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 24
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 17780995,
+    "login": "Divs-B",
+    "user_name": "Divya Bhatt",
+    "contributions": 13
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 19683595,
+    "login": "ioannakok",
+    "user_name": "Ioanna Kokkini",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 6162929,
+    "login": "Jpsi",
+    "user_name": "Philip Fol",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 5122968,
+    "login": "joelochlann",
+    "user_name": "Joseph Smith",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 406099,
+    "login": "markjamesbutler",
+    "user_name": "Mark Butler",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 1202622,
+    "login": "lindseydew",
+    "user_name": "Lindsey Dew",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 68329,
+    "login": "philwills",
+    "user_name": "Phil Wills",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 445472,
+    "login": "janua",
+    "user_name": "Francis",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 9820960,
+    "login": "amyhughes",
+    "user_name": "Amy Hughes",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 23078809,
+    "login": "simone-smith",
+    "user_name": "Simone Smith",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 2670496,
+    "login": "AWare",
+    "user_name": "Alex Ware",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 106760,
+    "login": "cb372",
+    "user_name": "Chris Birchall",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 1684649,
+    "login": "danmassie",
+    "user_name": "Dan Massie",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 15324270,
+    "login": "pvighi",
+    "user_name": "Patricio Vighi",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 4633246,
+    "login": "SHession",
+    "user_name": "Sam Hession",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 615057,
+    "login": "satterly",
+    "user_name": "Nick Satterly",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 32717,
+    "login": "kant",
+    "user_name": "Dar\u00edo Here\u00f1\u00fa",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 2373681,
+    "login": "emma-p",
+    "user_name": "Emmanuelle Franquelin",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 6035518,
+    "login": "shtukas",
+    "user_name": "Pascal Honor\u00e9",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 145254,
+    "login": "steppenwells",
+    "user_name": "Stephen Wells",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 150238,
+    "login": "tonytw1",
+    "user_name": "Tony McCrae",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "play-googleauth",
+    "full_name": "guardian/play-googleauth",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

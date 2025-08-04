@@ -1,0 +1,20 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "mongo-connector-postgresql-jsonb",
+    "full_name": "guardian/mongo-connector-postgresql-jsonb",
+    "id": 858402,
+    "login": "nicl",
+    "user_name": "nic.long",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "mongo-connector-postgresql-jsonb",
+    "full_name": "guardian/mongo-connector-postgresql-jsonb",
+    "id": 3636251,
+    "login": "rahilb",
+    "user_name": "Rahil Bohra",
+    "contributions": 2
+  }
+]

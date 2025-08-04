@@ -1,0 +1,83 @@
+[
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 46439,
+    "login": "kookster",
+    "user_name": "Andrew Kuklewicz",
+    "contributions": 31
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 3483,
+    "login": "farski",
+    "user_name": "Chris Kalafarski",
+    "contributions": 22
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 1410587,
+    "login": "cavis",
+    "user_name": "cavis",
+    "contributions": 20
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 22250,
+    "login": "driki",
+    "user_name": "Matt MacDonald",
+    "contributions": 14
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 1205061,
+    "login": "pkarman",
+    "user_name": "Peter Karman",
+    "contributions": 9
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 23706802,
+    "login": "IcusFMagni",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 329012,
+    "login": "svevang",
+    "user_name": "Sam Vevang",
+    "contributions": 5
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 61664,
+    "login": "cqr",
+    "user_name": "Chris Quamme Rhoden",
+    "contributions": 1
+  },
+  {
+    "org": "PRX",
+    "repo_name": "docs.prx.org",
+    "full_name": "PRX/docs.prx.org",
+    "id": 2250413,
+    "login": "sandikbarr",
+    "user_name": "Sandi Barr",
+    "contributions": 1
+  }
+]

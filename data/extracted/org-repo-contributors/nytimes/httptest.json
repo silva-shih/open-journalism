@@ -1,0 +1,92 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 1742004,
+    "login": "yunzhu-li",
+    "user_name": "Yunzhu Li",
+    "contributions": 15
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 1020160,
+    "login": "togdon",
+    "user_name": "Travis Ogdon",
+    "contributions": 7
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 196363465,
+    "login": "nyt-harness-poc[bot]",
+    "user_name": null,
+    "contributions": 5
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 6207592,
+    "login": "shawn620",
+    "user_name": "Shawn Gao",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 3250776,
+    "login": "tonglil",
+    "user_name": "Tony Li",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 56001968,
+    "login": "rhennessy-nyt",
+    "user_name": "Ryan Hennessy",
+    "contributions": 3
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 12115173,
+    "login": "unladenSwallow",
+    "user_name": "Leslie Pedro",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 20910618,
+    "login": "Emmawaterman",
+    "user_name": "Ling Zhang",
+    "contributions": 1
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "httptest",
+    "full_name": "nytimes/httptest",
+    "id": 182649658,
+    "login": "nicholas-smith-nyt",
+    "user_name": "Nicholas Smith",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 37048459,
+    "login": "bryophyta",
+    "user_name": "Pete F",
+    "contributions": 455
+  },
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 224
+  },
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 22468184,
+    "login": "sb-dev",
+    "user_name": "Samir Benzenine",
+    "contributions": 217
+  },
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 54
+  },
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 30
+  },
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 1202622,
+    "login": "lindseydew",
+    "user_name": "Lindsey Dew",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "newswires",
+    "full_name": "guardian/newswires",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

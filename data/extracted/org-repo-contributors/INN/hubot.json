@@ -1,0 +1,29 @@
+[
+  {
+    "org": "INN",
+    "repo_name": "hubot",
+    "full_name": "INN/hubot",
+    "id": 490703,
+    "login": "aschweigert",
+    "user_name": "Adam Schweigert",
+    "contributions": 17
+  },
+  {
+    "org": "INN",
+    "repo_name": "hubot",
+    "full_name": "INN/hubot",
+    "id": 72608,
+    "login": "rnagle",
+    "user_name": "Ryan Nagle",
+    "contributions": 11
+  },
+  {
+    "org": "INN",
+    "repo_name": "hubot",
+    "full_name": "INN/hubot",
+    "id": 884444,
+    "login": "kaeti",
+    "user_name": "Kaeti",
+    "contributions": 1
+  }
+]

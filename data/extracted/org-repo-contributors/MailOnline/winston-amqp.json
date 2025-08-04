@@ -1,0 +1,38 @@
+[
+  {
+    "org": "MailOnline",
+    "repo_name": "winston-amqp",
+    "full_name": "MailOnline/winston-amqp",
+    "id": 9590115,
+    "login": "matAtWork",
+    "user_name": "Matt W",
+    "contributions": 11
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "winston-amqp",
+    "full_name": "MailOnline/winston-amqp",
+    "id": 970983,
+    "login": "Kurtas",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "winston-amqp",
+    "full_name": "MailOnline/winston-amqp",
+    "id": 2972708,
+    "login": "nfinlayson",
+    "user_name": "Neil Finlayson",
+    "contributions": 1
+  },
+  {
+    "org": "MailOnline",
+    "repo_name": "winston-amqp",
+    "full_name": "MailOnline/winston-amqp",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 1
+  }
+]

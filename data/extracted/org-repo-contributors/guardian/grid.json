@@ -1,0 +1,695 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 31692,
+    "login": "jamesgorrie",
+    "user_name": "James Gorrie",
+    "contributions": 2436
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 36964,
+    "login": "theefer",
+    "user_name": "S\u00e9bastien Cevey",
+    "contributions": 1851
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 1774
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 10963046,
+    "login": "andrew-nowak",
+    "user_name": "Andrew Nowak",
+    "contributions": 703
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 6032869,
+    "login": "paperboyo",
+    "user_name": "Mateusz",
+    "contributions": 559
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 21567,
+    "login": "bmjames",
+    "user_name": "Ben James",
+    "contributions": 558
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 505
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 19289579,
+    "login": "twrichards",
+    "user_name": "Tom Richards",
+    "contributions": 469
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 2670496,
+    "login": "AWare",
+    "user_name": "Alex Ware",
+    "contributions": 443
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 8484757,
+    "login": "tsop14",
+    "user_name": "EM",
+    "contributions": 336
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 5476326,
+    "login": "aug24",
+    "user_name": "Justin Rowles",
+    "contributions": 320
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 1236466,
+    "login": "sihil",
+    "user_name": "Simon Hildrew",
+    "contributions": 224
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 128470622,
+    "login": "AndyKilmory",
+    "user_name": "Andy D",
+    "contributions": 211
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 2104095,
+    "login": "shaundillon",
+    "user_name": "Dillbotnik",
+    "contributions": 180
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 7767575,
+    "login": "jonathonherbert",
+    "user_name": "Jonathon Herbert",
+    "contributions": 163
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 30567854,
+    "login": "dblatcher",
+    "user_name": "David Blatcher",
+    "contributions": 159
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 34686302,
+    "login": "rhystmills",
+    "user_name": "Rhys Mills",
+    "contributions": 96
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 150238,
+    "login": "tonytw1",
+    "user_name": "Tony McCrae",
+    "contributions": 90
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 81
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 15648334,
+    "login": "tjsilver",
+    "user_name": "TJ Silver",
+    "contributions": 73
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 395805,
+    "login": "mbarton",
+    "user_name": "Michael Barton",
+    "contributions": 69
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 3066534,
+    "login": "Reettaphant",
+    "user_name": "Reetta Vaahtoranta",
+    "contributions": 55
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 20479781,
+    "login": "adrielulanovsky",
+    "user_name": null,
+    "contributions": 53
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 1441582,
+    "login": "NickPapacostas",
+    "user_name": "Nicholas Papacostas",
+    "contributions": 50
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 129299738,
+    "login": "Conalb97",
+    "user_name": "Conal Brosnan",
+    "contributions": 49
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 12212239,
+    "login": "ochiengolanga",
+    "user_name": "Ochieng' Olanga",
+    "contributions": 48
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 8750261,
+    "login": "jamie-pitts",
+    "user_name": "Jamie Pitts",
+    "contributions": 37
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 33189781,
+    "login": "abdelrahmansd",
+    "user_name": "ebu",
+    "contributions": 30
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 128418,
+    "login": "gribeiro",
+    "user_name": "Georges Kovacs Ribeiro",
+    "contributions": 28
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 79340179,
+    "login": "ornel-lloyd-edano",
+    "user_name": null,
+    "contributions": 28
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 3277259,
+    "login": "phillipbarron",
+    "user_name": "Phill Barron",
+    "contributions": 25
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 19733683,
+    "login": "snyk-bot",
+    "user_name": "Snyk bot",
+    "contributions": 23
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 5560113,
+    "login": "itsibitzi",
+    "user_name": "Sam Cutler",
+    "contributions": 23
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 10913420,
+    "login": "mkuzdowicz",
+    "user_name": "Marcin Kuzdowicz",
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 12482441,
+    "login": "fredex42",
+    "user_name": "Andy Gallagher",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 47318984,
+    "login": "aracho1",
+    "user_name": "Ara Cho",
+    "contributions": 18
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 1652187,
+    "login": "RichieAHB",
+    "user_name": "Richard Beddington",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 13
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 3606555,
+    "login": "philmcmahon",
+    "user_name": "Philip McMahon",
+    "contributions": 12
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 4633246,
+    "login": "SHession",
+    "user_name": "Sam Hession",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 76776,
+    "login": "mxdvl",
+    "user_name": "Max Duval",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 12645938,
+    "login": "jennygrahamjones",
+    "user_name": "Jenny Graham-Jones",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 102960844,
+    "login": "Georges-GNM",
+    "user_name": "Georges Lebreton",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 479167,
+    "login": "blishen",
+    "user_name": "David Blishen",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 37048459,
+    "login": "bryophyta",
+    "user_name": "Pete F",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 6666113,
+    "login": "susiecoleman",
+    "user_name": "Susie Coleman",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 7423751,
+    "login": "simonbyford",
+    "user_name": "Simon Byford",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 33927854,
+    "login": "rebecca-thompson",
+    "user_name": "Rebecca Thompson",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 47482049,
+    "login": "ParisaTork",
+    "user_name": "Parisa Tork",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 638051,
+    "login": "gtrufitt",
+    "user_name": "Gareth Trufitt",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 2242307,
+    "login": "paulmr",
+    "user_name": "Paul Roberts",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 6728165,
+    "login": "Asmau1234",
+    "user_name": "Asma'u Shaheedah",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 1513454,
+    "login": "tomrf1",
+    "user_name": "Tom Forbes",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 40991816,
+    "login": "Fweddi",
+    "user_name": "Freddie Preece",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 145254,
+    "login": "steppenwells",
+    "user_name": "Stephen Wells",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 32312712,
+    "login": "vlbee",
+    "user_name": "vanessa",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 12876467,
+    "login": "7091lapS",
+    "user_name": "Antonio Voce",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 5154737,
+    "login": "jukecraft",
+    "user_name": "Juke",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 20285755,
+    "login": "felixcs1",
+    "user_name": "Felix Stephenson",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 5122968,
+    "login": "joelochlann",
+    "user_name": "Joseph Smith",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 481458,
+    "login": "noandrea",
+    "user_name": "andrea",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 45033520,
+    "login": "pradasa",
+    "user_name": "Ana Pradas",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 1229808,
+    "login": "alinaboghiu",
+    "user_name": "Alina Boghiu",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 10324129,
+    "login": "ajwl",
+    "user_name": "Anna",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 32717,
+    "login": "kant",
+    "user_name": "Dar\u00edo Here\u00f1\u00fa",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 128724064,
+    "login": "KarenFrankel9",
+    "user_name": "Karen Frankel",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 615057,
+    "login": "satterly",
+    "user_name": "Nick Satterly",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 5357530,
+    "login": "KaliedaRik",
+    "user_name": "Rik Roots",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 45403038,
+    "login": "sammorrisdesign",
+    "user_name": "Sam Morris",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 1685221,
+    "login": "wainaina",
+    "user_name": "Samuel Wainaina",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 8518239,
+    "login": "gitter-badger",
+    "user_name": "The Gitter Badger",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "grid",
+    "full_name": "guardian/grid",
+    "id": 2470816,
+    "login": "jharewinton",
+    "user_name": "Jon Hare-Winton",
+    "contributions": 1
+  }
+]

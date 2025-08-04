@@ -1,0 +1,20 @@
+[
+  {
+    "org": "occrp",
+    "repo_name": "opa-nginx",
+    "full_name": "occrp/opa-nginx",
+    "id": 138824595,
+    "login": "ps-occrp",
+    "user_name": null,
+    "contributions": 23
+  },
+  {
+    "org": "occrp",
+    "repo_name": "opa-nginx",
+    "full_name": "occrp/opa-nginx",
+    "id": 29139614,
+    "login": "renovate[bot]",
+    "user_name": null,
+    "contributions": 19
+  }
+]

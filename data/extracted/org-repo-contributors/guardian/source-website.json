@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "source-website",
+    "full_name": "guardian/source-website",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-website",
+    "full_name": "guardian/source-website",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-website",
+    "full_name": "guardian/source-website",
+    "id": 953792,
+    "login": "kenoir",
+    "user_name": "Robert Kenny",
+    "contributions": 1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "org": "nytimes",
+    "repo_name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 52
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "id": 818962,
+    "login": "esonderegger",
+    "user_name": "Evan Sonderegger",
+    "contributions": 32
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "id": 108725,
+    "login": "fsouza",
+    "user_name": null,
+    "contributions": 28
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "id": 22755531,
+    "login": "scentless-apprentice",
+    "user_name": "Veronica",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "id": 244265,
+    "login": "flavioribeiro",
+    "user_name": "Flavio Ribeiro",
+    "contributions": 4
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "id": 8524971,
+    "login": "jfwhitehead",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "nytimes",
+    "repo_name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

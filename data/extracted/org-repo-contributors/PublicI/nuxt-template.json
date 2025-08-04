@@ -1,0 +1,38 @@
+[
+  {
+    "org": "PublicI",
+    "repo_name": "nuxt-template",
+    "full_name": "PublicI/nuxt-template",
+    "id": 1103467,
+    "login": "chriszs",
+    "user_name": "Chris Zubak-Skees",
+    "contributions": 250
+  },
+  {
+    "org": "PublicI",
+    "repo_name": "nuxt-template",
+    "full_name": "PublicI/nuxt-template",
+    "id": 27856297,
+    "login": "dependabot-preview[bot]",
+    "user_name": null,
+    "contributions": 30
+  },
+  {
+    "org": "PublicI",
+    "repo_name": "nuxt-template",
+    "full_name": "PublicI/nuxt-template",
+    "id": 1174162,
+    "login": "pratheekrebala",
+    "user_name": "Pratheek Rebala",
+    "contributions": 3
+  },
+  {
+    "org": "PublicI",
+    "repo_name": "nuxt-template",
+    "full_name": "PublicI/nuxt-template",
+    "id": 23040076,
+    "login": "greenkeeper[bot]",
+    "user_name": null,
+    "contributions": 3
+  }
+]

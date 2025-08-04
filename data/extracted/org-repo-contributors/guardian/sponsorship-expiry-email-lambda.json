@@ -1,0 +1,101 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 108270776,
+    "login": "emma-imber",
+    "user_name": "Emma Imber",
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 10
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 145254,
+    "login": "steppenwells",
+    "user_name": "Stephen Wells",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 1731150,
+    "login": "Jakeii",
+    "user_name": "Jake",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 8754692,
+    "login": "jfsoul",
+    "user_name": "Jon Soul",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 47482049,
+    "login": "ParisaTork",
+    "user_name": "Parisa Tork",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "sponsorship-expiry-email-lambda",
+    "full_name": "guardian/sponsorship-expiry-email-lambda",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "pgp-manager",
+    "full_name": "guardian/pgp-manager",
+    "id": 5290026,
+    "login": "dbgdngit",
+    "user_name": "Dave Boxall",
+    "contributions": 15
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pgp-manager",
+    "full_name": "guardian/pgp-manager",
+    "id": 8607683,
+    "login": "katebee",
+    "user_name": "Kate Whalen",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "pgp-manager",
+    "full_name": "guardian/pgp-manager",
+    "id": 29761,
+    "login": "adamnfish",
+    "user_name": "Adam Fisher",
+    "contributions": 1
+  }
+]

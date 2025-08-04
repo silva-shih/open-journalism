@@ -1,0 +1,74 @@
+[
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 183
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 952936,
+    "login": "stigok",
+    "user_name": "Stig Otnes Kolstad",
+    "contributions": 145
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 15076744,
+    "login": "umglurf",
+    "user_name": "H\u00e5vard Moen",
+    "contributions": 11
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 41898282,
+    "login": "github-actions[bot]",
+    "user_name": null,
+    "contributions": 8
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 2546167,
+    "login": "sjurtf",
+    "user_name": "Sjur Fredriksen",
+    "contributions": 5
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 1431044,
+    "login": "joberget",
+    "user_name": "Johan Berg",
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 26965575,
+    "login": "martinsolberg",
+    "user_name": "Martin Bruset Solberg",
+    "contributions": 1
+  },
+  {
+    "org": "nrkno",
+    "repo_name": "terraform-registry",
+    "full_name": "nrkno/terraform-registry",
+    "id": 87993268,
+    "login": "pguinard-public-com",
+    "user_name": null,
+    "contributions": 1
+  }
+]

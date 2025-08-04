@@ -1,0 +1,200 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 62836,
+    "login": "daithiocrualaoich",
+    "user_name": "Daithi O Crualaoich",
+    "contributions": 127
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 21
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 157699227,
+    "login": "gu-scala-library-release[bot]",
+    "user_name": null,
+    "contributions": 20
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 52038,
+    "login": "rtyley",
+    "user_name": "Roberto Tyley",
+    "contributions": 19
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 15324270,
+    "login": "pvighi",
+    "user_name": "Patricio Vighi",
+    "contributions": 9
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 15648334,
+    "login": "tjsilver",
+    "user_name": "TJ Silver",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 7304387,
+    "login": "johnduffell",
+    "user_name": "John Duffell",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 21567,
+    "login": "bmjames",
+    "user_name": "Ben James",
+    "contributions": 7
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 615085,
+    "login": "mchv",
+    "user_name": "Mariot Chauvin",
+    "contributions": 6
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 445472,
+    "login": "janua",
+    "user_name": "Francis",
+    "contributions": 5
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 145254,
+    "login": "steppenwells",
+    "user_name": "Stephen Wells",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 55859,
+    "login": "robb1e",
+    "user_name": "Robbie Clutton",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 34966,
+    "login": "bruntonspall",
+    "user_name": "Michael Brunton-Spall",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 2619836,
+    "login": "davidfurey",
+    "user_name": "David Furey",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 53781962,
+    "login": "JamieB-gu",
+    "user_name": "Jamie B",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 23191049,
+    "login": "emdash-ie",
+    "user_name": "Emily Bourke",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 51444,
+    "login": "tackley",
+    "user_name": "Graham Tackley",
+    "contributions": 1
+  },
+  {
+    "org": "guardian",
+    "repo_name": "guardian-configuration",
+    "full_name": "guardian/guardian-configuration",
+    "id": 76709,
+    "login": "gklopper",
+    "user_name": "Grant Klopper",
+    "contributions": 1
+  }
+]

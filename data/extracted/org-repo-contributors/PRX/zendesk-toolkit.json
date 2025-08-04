@@ -1,0 +1,20 @@
+[
+  {
+    "org": "PRX",
+    "repo_name": "zendesk-toolkit",
+    "full_name": "PRX/zendesk-toolkit",
+    "id": 3483,
+    "login": "farski",
+    "user_name": "Chris Kalafarski",
+    "contributions": 19
+  },
+  {
+    "org": "PRX",
+    "repo_name": "zendesk-toolkit",
+    "full_name": "PRX/zendesk-toolkit",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 13
+  }
+]

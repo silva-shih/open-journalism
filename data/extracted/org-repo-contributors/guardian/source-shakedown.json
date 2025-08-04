@@ -1,0 +1,29 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "source-shakedown",
+    "full_name": "guardian/source-shakedown",
+    "id": 5931528,
+    "login": "SiAdcock",
+    "user_name": "Simon Adcock",
+    "contributions": 120
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-shakedown",
+    "full_name": "guardian/source-shakedown",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 13
+  },
+  {
+    "org": "guardian",
+    "repo_name": "source-shakedown",
+    "full_name": "guardian/source-shakedown",
+    "id": 867233,
+    "login": "sndrs",
+    "user_name": "Alex Sanders",
+    "contributions": 6
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 108136057,
+    "login": "gu-scala-steward-public-repos[bot]",
+    "user_name": null,
+    "contributions": 134
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 836140,
+    "login": "akash1810",
+    "user_name": "Akash Askoolum",
+    "contributions": 124
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "user_name": null,
+    "contributions": 76
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 19384074,
+    "login": "jacobwinch",
+    "user_name": "Jacob Winch",
+    "contributions": 73
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 14816091,
+    "login": "Mark-McCracken",
+    "user_name": "Mark McCracken",
+    "contributions": 16
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 1672034,
+    "login": "jorgeazevedo",
+    "user_name": "Jorge Azevedo",
+    "contributions": 8
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 3389563,
+    "login": "alexduf",
+    "user_name": "Alex Dufournet",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 21217225,
+    "login": "AshCorr",
+    "user_name": "AshCorr",
+    "contributions": 4
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 67543397,
+    "login": "NovemberTang",
+    "user_name": "Natasha",
+    "contributions": 3
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 1722550,
+    "login": "kelvin-chappell",
+    "user_name": null,
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 7239344,
+    "login": "michaelwmcnamara",
+    "user_name": "Michael McNamara",
+    "contributions": 2
+  },
+  {
+    "org": "guardian",
+    "repo_name": "elastic-search-monitor",
+    "full_name": "guardian/elastic-search-monitor",
+    "id": 156913822,
+    "login": "gu-dependency-graph-integrator[bot]",
+    "user_name": null,
+    "contributions": 1
+  }
+]
