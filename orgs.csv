@@ -48,8 +48,8 @@ California Civic Data Coalition,News Industry,https://github.com/california-civi
 Calmatters,Newsroom,https://github.com/CalMatters
 Canal Plus (France),Newsroom,https://github.com/canalplus
 Carolina Data Desk,News Industry,https://github.com/carolinadatadesk
-CBC / Radio-Canada,Newsroom,https://github.com/cbcrc
 CBC News,Newsroom,https://github.com/CBCNews
+CBC Radio-Canada,Newsroom,https://github.com/cbcrc
 CBS News,Newsroom,https://github.com/cbsnews
 CBS News Data,Newsroom,https://github.com/cbs-news-data
 Census Reporter,News Industry,https://github.com/censusreporter
@@ -161,8 +161,8 @@ Kaiser Health News,Newsroom,https://github.com/khnews
 KFF Data,News Industry,https://github.com/KFFData
 Kiln,News Industry,https://github.com/kiln
 KPBS,Newsroom,https://github.com/KPBS
-Southern California Public Radio,Newsroom,https://github.com/SCPR
 KQED San Francisco,Newsroom,https://github.com/kqed
+LAist (Southern California Public Radio),Newsroom,https://github.com/SCPR
 La Nación (Buenos Aires),Newsroom,https://github.com/lanacioncom
 La Opinión,Newsroom,https://github.com/laopinion
 Lawrence Journal-World,Newsroom,https://github.com/worldcompany
@@ -174,7 +174,6 @@ Lens (NOLA),Newsroom,https://github.com/thelens
 Libération,Newsroom,https://github.com/liberation
 Los Angeles Times Data Desk,Newsroom,https://github.com/datadesk
 Louisville Courier-Journal,Newsroom,https://github.com/courierjournal
-Marshall Project,Newsroom,https://github.com/themarshallproject
 Mashable,Newsroom,https://github.com/mashable
 McClatchy Company,Newsroom,https://github.com/mcclatchy
 McClatchy Southeast Data Desk,Newsroom,https://github.com/mcclatchy-southeast
@@ -218,6 +217,8 @@ NewsLynx,News Industry,https://github.com/newslynx
 Newsweek,Newsroom,https://github.com/newsweek
 Nieman Lab,News Industry,https://github.com/niemanlab
 Northwestern U. Knight Lab,News Industry,https://github.com/NUKnightLab
+Northwestern U. Computational Journalism Lab,News Industry,https://github.com/comp-journalism
+NPR Labs,Newsroom,https://github.com/NPRLabs
 NPR Tech,Newsroom,https://github.com/npr
 NPR Viz,Newsroom,https://github.com/nprapps
 NRK (Norway),Newsroom,https://github.com/nrkno
@@ -278,6 +279,7 @@ San Francisco Chronicle,Newsroom,https://github.com/sfchronicle
 Seattle Times,Newsroom,https://github.com/seattletimes
 Slate,Newsroom,https://github.com/slategroup
 SourceFabric,News Industry,https://github.com/sourcefabric
+South China Morning Post,Newsroom,https://github.com/scmp
 South Florida Sun Sentinel,Newsroom,https://github.com/SunSentinel
 South Side Weekly,Newsroom,https://github.com/southsideweekly
 Spirited Media,News Industry,https://github.com/spiritedmedia
@@ -302,6 +304,7 @@ The Free Lance-Star,Newsrooom,https://github.com/FreeLanceStar
 The Hilton Head Island Packet,Newsroom,https://github.com/islandpacket
 The Lens,Newsroom,https://github.com/TheLens
 The Markup,Newsroom,https://github.com/the-markup
+The Marshall Project,Newsroom,https://github.com/themarshallproject
 The Trace,Newsroom,https://github.com/TeamTrace
 Time Magazine,Newsroom,https://github.com/TimeMagazine
 Time Magazine Labs,Newsroom,https://github.com/TimeMagazineLabs
@@ -312,6 +315,7 @@ TrendCT,Newsroom,https://github.com/trendct
 Tribune Publishing,Newsroom,https://github.com/tribune
 Trust Project,News Industry,https://github.com/TheTrustProject
 TV 2 (Norway),Newsroom,https://github.com/tv2norge
+U. of Maryland Computational Journalism Lab,News Industry,https://github.com/cjlab-umd
 USAFacts,News Industry,https://github.com/USAFacts
 USA Today,Newsroom,https://github.com/usatoday
 USA Today Sports,Newsroom,https://github.com/usatoday-smb
@@ -333,7 +337,8 @@ WBUR,Newsroom,https://github.com/wbur
 WBUR Learning Lab,Newsroom,https://github.com/LearningLab
 WGBH Boston,Newsroom,https://github.com/WGBH
 WireService,News Industry,https://github.com/wireservice
-WNYC,Newsroom,https://github.com/wnyc
+WNPR (Connecticut Public Radio),Newsroom,https://github.com/wnpr
+WNYC (New York Public Radio),Newsroom,https://github.com/wnyc
 WNYC DataNews,Newsroom,https://github.com/datanews
 WRAL Data Desk,Newsroom,https://github.com/wraldata
 Yahoo! Paranoids,News Industry,https://github.com/theparanoids
